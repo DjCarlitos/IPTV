@@ -1,20 +1,12 @@
 #EXTM3U
 #EXTINF:-1.BRAZZERS TV +18
-http://83.139.104.112/Content/HLS/Live/Channel
- 
-(BRAZZERS_TV)/Stream(03)/index.m3u8
+http://83.139.104.112/Content/HLS/Live/Channel(BRAZZERS_TV)/Stream(03)/index.m3u8
  
 #EXTINF:-1,PLAYBOY TV +18
-http://83.139.104.112/Content/HLS/Live/Channel
- 
-(PLAYBOY_TV)/Stream(03)/index.m3u8
+http://83.139.104.112/Content/HLS/Live/Channel(PLAYBOY_TV)/Stream(03)/index.m3u8
  
 #EXTINF:0, Frenchlover TV
-http://iptv.sat-
- 
-x.tv/iptv/91f5ebece378143c8392d8ad6ae539797bc86a67/569/index
- 
-.m3u8
+http://iptv.sat-x.tv/iptv/91f5ebece378143c8392d8ad6ae539797bc86a67/569/index.m3u8
  
 #EXTINF:0, SCT HQ
 http://iptv.sat-
