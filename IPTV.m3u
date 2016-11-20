@@ -37,7 +37,7 @@ http://www.djing.com/tv/i-05.m3u8
 #EXTINF:-1, Heart TV HD
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://s20.postimg.org/6e05ot2nh/Miami_TV.png", Miami TV HD
+#EXTINF:-1, Miami TV HD
 http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8?
 
 #EXTINF:-1, Visit-X TV HD
