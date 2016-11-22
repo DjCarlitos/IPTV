@@ -1,51 +1,3 @@
-#EXTINF:-1, UCV Gran Valparaíso (HD)
-rtmp://wow2.cl.digitalproserver.com/ucvtv2/ucvtv2vivo playpath=mp4:livestream1 swfUrl=http://media.digitalproserver.com/v2/jw/7/jwplayer.flash.swf live=1 pageUrl=http://media.digitalproserver.com/v2/live/ucvtv2/
-
-#EXTINF:-1, Virgin TV
-http://wow01.105.net/live/virgin1/.m3u8
-
-#EXTINF:0, Teletrece Movil
-http://cdn.ztreaming.com/t13vivo3/t13vivo3-632.m3u8
-
-#EXTINF:0, CDO HD
-http://wow2.cl.digitalproserver.com/cdo/cdovivo/cdo.smil/chunklist_w913906597_b1064000.m3u8
-
-#EXTINF:0, Euronews
-http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_es.m3u8
-
-#EXTINF:-1, Azteca 13 HD
-http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8
-
-#EXTINF:-1, Antena 3 HD
-http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8?sd=10&rebase=on
-
-#EXTINF:-1, La Sexta HD
-http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8?sd=10&rebase=on
-
-#EXTINF:-1, One HD
-http://rtmp.one.by:1300/
-
-#EXTINF:-1,Djing Animation HD
-http://www.djing.com/tv/a-05.m3u8
-
-#EXTINF:-1,Djing Ibiza HD
-http://www.djing.com/tv/d-05.m3u8
-
-#EXTINF:-1,Djing Underground HD
-http://www.djing.com/tv/u-05.m3u8
-
-#EXTINF:-1,Djing Classic HD
-http://www.djing.com/tv/i-05.m3u8
-
-#EXTINF:-1, Heart TV HD
-http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
-
-#EXTINF:-1, Miami TV HD
-http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8?
-
-#EXTINF:-1, Visit-X TV HD
-http://stream.visit-x.tv/vxtv/live/playlist.m3u8?
-
 #EXTINF:-1, UCV HD
 http://unlimited5-cl.digitalproserver.com/ucvtv/ucvtv.smil/playlist.m3u8
 
@@ -61,17 +13,35 @@ http://live.hls.http.chv.ztreaming.com/chvhddesktop/chv-desktop.m3u8
 #EXTINF:-1, Canal 13
 http://csm-e.yospace.13.cl/csm/extlive/canal13cl01,CH13M.m3u8?
 
-#EXTINF:-1, Olympic Channel HD
-http://ocs-live.hls.adaptive.level3.net/ocs/channel01/NBC_OCS1_VIDEO_7_6064000.m3u8
+#EXTINF:-1, One HD
+http://rtmp.one.by:1300/
 
-#EXTINF:-1, Claro Sports HD
-http://jjoo2016ch01-hlsfix.clarovideo.com/Content/hls_clear/Live/Channel(jjoo2016ch01)/index.m3u8
+#EXTINF:-1,Djing Classic HD
+http://www.djing.com/tv/i-05.m3u8
+
+#EXTINF:-1,Djing Underground HD
+http://www.djing.com/tv/u-05.m3u8
+
+#EXTINF:-1,Djing Ibiza HD
+http://www.djing.com/tv/d-05.m3u8
+
+#EXTINF:-1,Djing Animation HD
+http://www.djing.com/tv/a-05.m3u8
+
+#EXTINF:-1, Capital TV HD
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
+
+#EXTINF:-1, Heart TV HD
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
 
 #EXTINF:-1, Contivision Musica HD
 http://wow2.cl.digitalproserver.com/contivisionmusica/contivisionmusicavivomp4:livestream1/playlist.m3u8
 
-#EXTINF:-1, Canal 26 HD
-rtsp://live-edge01.telecentro.net.ar:80/live/26hd-720
+#EXTINF:-1, Virgin TV
+http://wow01.105.net/live/virgin1/.m3u8
+
+#EXTINF:-1, SI TV
+http://hd.worldkast.com:1935/8436/8436/playlist.m3u8
 
 #EXTINF:-1, RT Español HD
 http://rt-esp-live.hls.adaptive.level3.net/rt/esp/index.m3u8
@@ -88,8 +58,27 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 #EXTINF:-1, Aljazeera
 http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/800.m3u8
 
-#EXTINF:-1, Capital TV HD
-http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
+#EXTINF:0, CDO HD
+http://wow2.cl.digitalproserver.com/cdo/cdovivo/cdo.smil/chunklist_w913906597_b1064000.m3u8
 
-#EXTINF:-1, SI TV
-http://hd.worldkast.com:1935/8436/8436/playlist.m3u8
+#EXTINF:-1, Claro Sports HD
+http://jjoo2016ch01-hlsfix.clarovideo.com/Content/hls_clear/Live/Channel(jjoo2016ch01)/index.m3u8
+
+#EXTINF:-1, Olympic Channel HD
+http://ocs-live.hls.adaptive.level3.net/ocs/channel01/NBC_OCS1_VIDEO_7_6064000.m3u8
+
+#EXTINF:-1, Azteca 13 HD
+http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8
+
+#EXTINF:-1, Antena 3 HD
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1, La Sexta HD
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1, Miami TV HD
+http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8?
+
+#EXTINF:-1, Visit-X TV HD
+http://stream.visit-x.tv/vxtv/live/playlist.m3u8?
+
