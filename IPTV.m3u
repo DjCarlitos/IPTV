@@ -37,6 +37,9 @@ http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
 #EXTINF:-1, Contivision Musica HD
 http://wow2.cl.digitalproserver.com/contivisionmusica/contivisionmusicavivomp4:livestream1/playlist.m3u8
 
+#EXTINF:0, 4Music
+http://csm-e.cds1.yospace.com/csm/live/86550614.m3u8
+
 #EXTINF:-1, Virgin TV
 http://wow01.105.net/live/virgin1/.m3u8
 
@@ -79,7 +82,7 @@ http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8?sd=10&rebase=o
 #EXTINF:-1, La Sexta HD
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8?sd=10&rebase=on
 
-#EXTINF:-1, Weather Channel US
+#EXTINF:-1, Weather Channel HD
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
 
 #EXTINF:-1, Miami TV HD
