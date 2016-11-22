@@ -34,17 +34,29 @@ http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
 #EXTINF:-1, Heart TV HD
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
 
+#EXTINF:0, The Box
+http://csm-e.cds1.yospace.com/csm/live/86561631.m3u8
+
 #EXTINF:0, ESKA TV HD
 http://stream.smcloud.net/live/eskatv/aylist.m3u8
 
 #EXTINF:-1, Contivision Musica HD
 http://wow2.cl.digitalproserver.com/contivisionmusica/contivisionmusicavivomp4:livestream1/playlist.m3u8
 
+#EXTINF:0, Telemusica HD
+http://186.155.200.118:1935/live/telemusica/chunklist_w1353784156_69909.m3u8
+
+#EXTINF:0, La Mega Mundial HD
+http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8
+
 #EXTINF:0, 4Music
 http://csm-e.cds1.yospace.com/csm/live/86550614.m3u8
 
 #EXTINF:0, 538 TV
 http://538hls.lswcdn.triple-it.nl/content/538tv/538tv_0.m3u8
+
+#EXTINF:0, Monte Carlo TV
+http://fms.105.net:1935/live/rmc1/playlist.m3u8
 
 #EXTINF:-1, Virgin TV
 http://wow01.105.net/live/virgin1/.m3u8
