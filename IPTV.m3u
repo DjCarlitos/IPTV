@@ -1,3 +1,6 @@
+#EXTINF:-1, tvg-logo="Bd09LnA.png", UCV Gran Valparaíso (HD)
+rtmp://wow2.cl.digitalproserver.com/ucvtv2/ucvtv2vivo playpath=mp4:livestream1 swfUrl=http://media.digitalproserver.com/v2/jw/7/jwplayer.flash.swf live=1 pageUrl=http://media.digitalproserver.com/v2/live/ucvtv2/
+
 #EXTINF:-1, Virgin TV
 http://wow01.105.net/live/virgin1/.m3u8
 
