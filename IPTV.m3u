@@ -34,11 +34,17 @@ http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
 #EXTINF:-1, Heart TV HD
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
 
+#EXTINF:0, ESKA TV HD
+http://stream.smcloud.net/live/eskatv/aylist.m3u8
+
 #EXTINF:-1, Contivision Musica HD
 http://wow2.cl.digitalproserver.com/contivisionmusica/contivisionmusicavivomp4:livestream1/playlist.m3u8
 
 #EXTINF:0, 4Music
 http://csm-e.cds1.yospace.com/csm/live/86550614.m3u8
+
+#EXTINF:0, 538 TV
+http://538hls.lswcdn.triple-it.nl/content/538tv/538tv_0.m3u8
 
 #EXTINF:-1, Virgin TV
 http://wow01.105.net/live/virgin1/.m3u8
