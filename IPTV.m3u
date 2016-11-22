@@ -70,6 +70,9 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 #EXTINF:-1, EURONEWS
 http://fr-par-iphone-1.cdn.hexaglobe.net:80/streaming/euronews_ewns/24-live.m3u8
 
+#EXTINF:-1, SKY TG 24
+http://skyianywhere2-i.akamaihd.net:80/hls/live/200275/tg24/playlist.m3u8
+
 #EXTINF:-1, Aljazeera
 http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/800.m3u8
 
