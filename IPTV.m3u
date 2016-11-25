@@ -28,13 +28,10 @@ http://www.djing.com/tv/d-05.m3u8
 #EXTINF:-1,Djing Animation HD
 http://www.djing.com/tv/a-05.m3u8
 
-#EXTINF:0,DJing - Hot Hot Hot
-http://www.djing.com/tv/hothothot.m3u8
-
 #EXTINF:-1, One HD
 http://rtmp.one.by:1300/
 
-#EXTINF:-1, Capital TV HD
+#EXTINF:0, Capital TV HD
 http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
 
 #EXTINF:-1, Heart TV HD
