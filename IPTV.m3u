@@ -85,6 +85,9 @@ http://jjoo2016ch01-hlsfix.clarovideo.com/Content/hls_clear/Live/Channel(jjoo201
 #EXTINF:-1, Olympic Channel HD
 http://ocs-live.hls.adaptive.level3.net/ocs/channel01/NBC_OCS1_VIDEO_7_6064000.m3u8
 
+#EXTINF:-1, Red Bull TV HD
+https://elementaldelta2.redbull.tv/30_5.m3u8
+
 #EXTINF:-1, Azteca 13 HD
 http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8
 
