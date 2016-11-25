@@ -28,8 +28,8 @@ http://www.djing.com/tv/d-05.m3u8
 #EXTINF:-1,Djing Animation HD
 http://www.djing.com/tv/a-05.m3u8
 
-#EXTINF:0,Djing 5
-http://www.djing.com/tv/s-05.m3u8
+#EXTINF:0,DJing - Hot Hot Hot
+http://www.djing.com/tv/hothothot.m3u8
 
 #EXTINF:-1, One HD
 http://rtmp.one.by:1300/
