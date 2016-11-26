@@ -13,6 +13,9 @@ http://live.hls.http.chv.ztreaming.com/chvhddesktop/chv-desktop.m3u8
 #EXTINF:-1, Canal 13
 http://csm-e.yospace.13.cl/csm/extlive/canal13cl01,CH13M.m3u8?
 
+#EXTINF:-1, Contivision Musica HD
+http://wow2.cl.digitalproserver.com/contivisionmusica/contivisionmusicavivomp4:livestream1/playlist.m3u8
+
 #EXTINF:0,Djing HD
 http://www.djing.com/tv/05.m3u8
 
@@ -37,20 +40,11 @@ http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
 #EXTINF:-1, Heart TV HD
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
 
-#EXTINF:0, ESKA TV HD
-http://stream.smcloud.net/live/eskatv/aylist.m3u8
-
-#EXTINF:0, 538 TV HD
-http://538hls.lswcdn.triple-it.nl/content/538tv/538tv_0.m3u8
-
-#EXTINF:-1, Contivision Musica HD
-http://wow2.cl.digitalproserver.com/contivisionmusica/contivisionmusicavivomp4:livestream1/playlist.m3u8
-
-#EXTINF:0, 4Music
-http://csm-e.cds1.yospace.com/csm/live/86550614.m3u8
-
 #EXTINF:-1, Virgin TV
 http://wow01.105.net/live/virgin1/.m3u8
+
+#EXTINF:0, 538 TV
+http://538hls.lswcdn.triple-it.nl/content/538tv/538tv_0.m3u8
 
 #EXTINF:0, Monte Carlo TV
 http://fms.105.net:1935/live/rmc1/playlist.m3u8
@@ -58,23 +52,23 @@ http://fms.105.net:1935/live/rmc1/playlist.m3u8
 #EXTINF:-1, RT Español HD
 http://rt-esp-live.hls.adaptive.level3.net/rt/esp/index.m3u8
 
+#EXTINF:-1, EURONEWS Español
+http://fr-par-iphone-1.cdn.hexaglobe.net:80/streaming/euronews_ewns/24-live.m3u8
+
 #EXTINF:-1, RT News HD
 http://rt-eng-live.hls.adaptive.level3.net/rt/eng/index.m3u8
 
-#EXTINF:-1, RT Docu HD
-http://rt-doc-live.hls.adaptive.level3.net/rt/doc/index.m3u8
-
 #EXTINF:-1, TRT World HD
 http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
-
-#EXTINF:-1, EURONEWS
-http://fr-par-iphone-1.cdn.hexaglobe.net:80/streaming/euronews_ewns/24-live.m3u8
 
 #EXTINF:-1, Aljazeera
 http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/800.m3u8
 
 #EXTINF:-1, SKY TG 24
 http://skyianywhere2-i.akamaihd.net:80/hls/live/200275/tg24/playlist.m3u8
+
+#EXTINF:-1, RT Docu HD
+http://rt-doc-live.hls.adaptive.level3.net/rt/doc/index.m3u8
 
 #EXTINF:0, CDO HD
 http://wow2.cl.digitalproserver.com/cdo/cdovivo/cdo.smil/chunklist_w913906597_b1064000.m3u8
