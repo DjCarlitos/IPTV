@@ -13,9 +13,6 @@ http://live.hls.http.chv.ztreaming.com/chvhddesktop/chv-desktop.m3u8
 #EXTINF:-1, Canal 13
 http://csm-e.yospace.13.cl/csm/extlive/canal13cl01,CH13M.m3u8?
 
-#EXTINF:-1, Contivision Musica HD
-http://wow2.cl.digitalproserver.com/contivisionmusica/contivisionmusicavivomp4:livestream1/playlist.m3u8
-
 #EXTINF:0,Djing HD
 http://www.djing.com/tv/05.m3u8
 
@@ -30,6 +27,9 @@ http://www.djing.com/tv/d-05.m3u8
 
 #EXTINF:-1,Djing Animation HD
 http://www.djing.com/tv/a-05.m3u8
+
+#EXTINF:-1, Contivision Musica HD
+http://wow2.cl.digitalproserver.com/contivisionmusica/contivisionmusicavivomp4:livestream1/playlist.m3u8
 
 #EXTINF:-1, One HD
 http://rtmp.one.by:1300/
