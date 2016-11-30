@@ -136,299 +136,107 @@ http://159.203.63.115:8081/rstm/Estrellas/playlist.m3u8
 #EXTINF:0, Once TV 
 http://159.203.34.7:8081/rstm/OnceTV/playlist.m3u8
 
-#EXTM3U
-#EXTINF:-1,ES: Taquilla 1
-http://ipsatpro.com:8000/live/mik/mik/1071.ts
-#EXTINF:-1,ES: Taquilla 2
-http://ipsatpro.com:8000/live/mik/mik/1070.ts
-#EXTINF:-1,ES: Taquilla 3
-http://ipsatpro.com:8000/live/mik/mik/1069.ts
-#EXTINF:-1,ES: Taquilla 4
-http://ipsatpro.com:8000/live/mik/mik/1068.ts
-#EXTINF:-1,ES: Taquilla 5
-http://ipsatpro.com:8000/live/mik/mik/1067.ts
-#EXTINF:-1,ES: Taquilla 6
-http://ipsatpro.com:8000/live/mik/mik/1066.ts
-#EXTINF:-1,ES: Taquilla 7
-http://ipsatpro.com:8000/live/mik/mik/1065.ts
-#EXTINF:-1,ES: Taquilla 8
-http://ipsatpro.com:8000/live/mik/mik/1064.ts
-#EXTINF:-1,ES: Taquilla 9
-http://ipsatpro.com:8000/live/mik/mik/1063.ts
-#EXTINF:-1,ES: Taquilla 10
-http://ipsatpro.com:8000/live/mik/mik/1062.ts
-#EXTINF:-1,ES: Canal+ Liga
-http://ipsatpro.com:8000/live/mik/mik/1022.ts
-#EXTINF:-1,ES: Canal+ Deportes HD
-http://ipsatpro.com:8000/live/mik/mik/1012.ts
-#EXTINF:-1,ES: Canal+ Futpol
-http://ipsatpro.com:8000/live/mik/mik/1020.ts
-#EXTINF:-1,ES: Canal+ Golf
-http://ipsatpro.com:8000/live/mik/mik/1019.ts
-#EXTINF:-1,ES: Canal+ HD
-http://ipsatpro.com:8000/live/mik/mik/1016.ts
-#EXTINF:-1,ES: Canal+ Accion
-http://ipsatpro.com:8000/live/mik/mik/1030.ts
-#EXTINF:-1,ES: Canal+ Dcine
-http://ipsatpro.com:8000/live/mik/mik/1028.ts
-#EXTINF:-1,ES: Canal+ Comedia
-http://ipsatpro.com:8000/live/mik/mik/1031.ts
-#EXTINF:-1,ES: Canal+ Estrenos HD
-http://ipsatpro.com:8000/live/mik/mik/1059.ts
-#EXTINF:-1,ES: Canal+ de las Estrellas
-http://ipsatpro.com:8000/live/mik/mik/1048.ts
-#EXTINF:-1,ES: Canal+ Series
-http://ipsatpro.com:8000/live/mik/mik/1058.ts
-#EXTINF:-1,ES: Canal+ Serie Xtra
-http://ipsatpro.com:8000/live/mik/mik/1004.ts
-#EXTINF:-1,ES: Canal+ Cuatro
-http://ipsatpro.com:8000/live/mik/mik/1026.ts
-#EXTINF:-1,ES: Canal+ Dcine Espanol
-http://ipsatpro.com:8000/live/mik/mik/1033.ts
-#EXTINF:-1,ES: Canal+ Cocina
-http://ipsatpro.com:8000/live/mik/mik/1024.ts
-#EXTINF:-1,ES: Canal+ AXN HD
-http://ipsatpro.com:8000/live/mik/mik/1054.ts
-#EXTINF:-1,ES: Canal+ Toros
-http://ipsatpro.com:8000/live/mik/mik/1049.ts
-#EXTINF:-1,ES: Canal Los40
-http://ipsatpro.com:8000/live/mik/mik/1002.ts
-#EXTINF:-1,ES: Canal+ Nova
-http://ipsatpro.com:8000/live/mik/mik/1034.ts
-#EXTINF:-1,ES: Canal+ Fox HD
-http://ipsatpro.com:8000/live/mik/mik/1029.ts
-#EXTINF:-1,ES: Canal T HD
-http://ipsatpro.com:8000/live/mik/mik/1047.ts
-#EXTINF:-1,ES: Canal MicroVision HD
-http://ipsatpro.com:8000/live/mik/mik/1041.ts
-#EXTINF:-1,ES: Canal+ 40
-http://ipsatpro.com:8000/live/mik/mik/1039.ts
-#EXTINF:-1,ES: 24 Horas
-http://ipsatpro.com:8000/live/mik/mik/1046.ts
-#EXTINF:-1,ES: Bein Sport ES HD
-http://ipsatpro.com:8000/live/mik/mik/1003.ts
-#EXTINF:-1,ES: Barca TV
-http://ipsatpro.com:8000/live/mik/mik/1021.ts
-#EXTINF:-1,ES: Movis Star Moto Gp
-http://ipsatpro.com:8000/live/mik/mik/1011.ts
-#EXTINF:-1,ES: Movi Star F1
-http://ipsatpro.com:8000/live/mik/mik/1010.ts
-#EXTINF:-1,ES: Comedy Central
-http://ipsatpro.com:8000/live/mik/mik/1042.ts
-#EXTINF:-1,ES: Teledeportes
-http://ipsatpro.com:8000/live/mik/mik/1050.ts
-#EXTINF:-1,ES: Clan TVE
-http://ipsatpro.com:8000/live/mik/mik/1045.ts
-#EXTINF:-1,ES: Real Madrid
-http://ipsatpro.com:8000/live/mik/mik/1037.ts
-#EXTINF:-1,ES: La 1
-http://ipsatpro.com:8000/live/mik/mik/1014.ts
-#EXTINF:-1,ES: La 2
-http://ipsatpro.com:8000/live/mik/mik/1013.ts
-#EXTINF:-1,ES: Canal+ Cine
-http://ipsatpro.com:8000/live/mik/mik/1025.ts
-#EXTINF:-1,ES: La Sexta HD
-http://ipsatpro.com:8000/live/mik/mik/1017.ts
-#EXTINF:-1,ES: TV Galicia
-http://ipsatpro.com:8000/live/mik/mik/1015.ts
-#EXTINF:-1,ES: News DW
-http://ipsatpro.com:8000/live/mik/mik/1053.ts
-#EXTINF:-1,ES: Proyecto 40
-http://ipsatpro.com:8000/live/mik/mik/1056.ts
-#EXTINF:-1,ES: Azteca Noticias
-http://ipsatpro.com:8000/live/mik/mik/1061.ts
-#EXTINF:-1,ES: 324 Entertainment
-http://ipsatpro.com:8000/live/mik/mik/1005.ts
-#EXTINF:-1,ES: Fox Life
-http://ipsatpro.com:8000/live/mik/mik/1060.ts
-#EXTINF:-1,ES: Hollywood
-http://ipsatpro.com:8000/live/mik/mik/1036.ts
-#EXTINF:-1,ES: Axn White HD
-http://ipsatpro.com:8000/live/mik/mik/1023.ts
-#EXTINF:-1,ES: History
-http://ipsatpro.com:8000/live/mik/mik/1051.ts
-#EXTINF:-1,ES: Calle 13 Spain
-http://ipsatpro.com:8000/live/mik/mik/1009.ts
-#EXTINF:-1,ES: Azteca trece
-http://ipsatpro.com:8000/live/mik/mik/1018.ts
-#EXTINF:-1,ES: Anime
-http://ipsatpro.com:8000/live/mik/mik/999.ts
-#EXTINF:-1,ES: Azteca 7 Monterrey
-http://ipsatpro.com:8000/live/mik/mik/1035.ts
-#EXTINF:-1,ES: Antena 3 Internacional
-http://ipsatpro.com:8000/live/mik/mik/1000.ts
-#EXTINF:-1,ES: A&E
-http://ipsatpro.com:8000/live/mik/mik/1001.ts
-#EXTINF:-1,ES: FDF
-http://ipsatpro.com:8000/live/mik/mik/1007.ts
-#EXTINF:-1,ES: Caza Y Pesca
-http://ipsatpro.com:8000/live/mik/mik/1027.ts
-#EXTINF:-1,ES: Viajar
-http://ipsatpro.com:8000/live/mik/mik/1043.ts
-#EXTINF:-1,ES: Teleticino
-http://ipsatpro.com:8000/live/mik/mik/1008.ts
-#EXTINF:-1,ES: National Geographic
-http://ipsatpro.com:8000/live/mik/mik/1057.ts
-#EXTINF:-1,ES: National Geographic Wild
-http://ipsatpro.com:8000/live/mik/mik/1055.ts
-#EXTINF:-1,ES: Disney Chaneel
-http://ipsatpro.com:8000/live/mik/mik/1040.ts
-#EXTINF:-1,ES: Disney XD
-http://ipsatpro.com:8000/live/mik/mik/1038.ts
-#EXTINF:-1,ES: TNT
-http://ipsatpro.com:8000/live/mik/mik/1032.ts
-#EXTINF:-1,ES: TVN Chile HD
-http://ipsatpro.com:8000/live/mik/mik/1006.ts
-#EXTINF:-1,ES: CHILE La Red
-http://ipsatpro.com:8000/live/mik/mik/1052.ts
-#EXTINF:-1,ES: ITV HD Chile
-http://ipsatpro.com:8000/live/mik/mik/1044.ts
-
-IPTV SPAIN Playlist For Kodi
-#EXTM3U
-#EXTINF:-1,ES: Taquilla 1
-http://ipsatpro.com:8000/live/mik/mik/1071.m3u8
-#EXTINF:-1,ES: Taquilla 2
-http://ipsatpro.com:8000/live/mik/mik/1070.m3u8
-#EXTINF:-1,ES: Taquilla 3
-http://ipsatpro.com:8000/live/mik/mik/1069.m3u8
-#EXTINF:-1,ES: Taquilla 4
-http://ipsatpro.com:8000/live/mik/mik/1068.m3u8
-#EXTINF:-1,ES: Taquilla 5
-http://ipsatpro.com:8000/live/mik/mik/1067.m3u8
-#EXTINF:-1,ES: Taquilla 6
-http://ipsatpro.com:8000/live/mik/mik/1066.m3u8
-#EXTINF:-1,ES: Taquilla 7
-http://ipsatpro.com:8000/live/mik/mik/1065.m3u8
-#EXTINF:-1,ES: Taquilla 8
-http://ipsatpro.com:8000/live/mik/mik/1064.m3u8
-#EXTINF:-1,ES: Taquilla 9
-http://ipsatpro.com:8000/live/mik/mik/1063.m3u8
-#EXTINF:-1,ES: Taquilla 10
-http://ipsatpro.com:8000/live/mik/mik/1062.m3u8
-#EXTINF:-1,ES: Canal+ Liga
-http://ipsatpro.com:8000/live/mik/mik/1022.m3u8
-#EXTINF:-1,ES: Canal+ Deportes HD
-http://ipsatpro.com:8000/live/mik/mik/1012.m3u8
-#EXTINF:-1,ES: Canal+ Futpol
-http://ipsatpro.com:8000/live/mik/mik/1020.m3u8
-#EXTINF:-1,ES: Canal+ Golf
-http://ipsatpro.com:8000/live/mik/mik/1019.m3u8
-#EXTINF:-1,ES: Canal+ HD
-http://ipsatpro.com:8000/live/mik/mik/1016.m3u8
-#EXTINF:-1,ES: Canal+ Accion
-http://ipsatpro.com:8000/live/mik/mik/1030.m3u8
-#EXTINF:-1,ES: Canal+ Dcine
-http://ipsatpro.com:8000/live/mik/mik/1028.m3u8
-#EXTINF:-1,ES: Canal+ Comedia
-http://ipsatpro.com:8000/live/mik/mik/1031.m3u8
-#EXTINF:-1,ES: Canal+ Estrenos HD
-http://ipsatpro.com:8000/live/mik/mik/1059.m3u8
-#EXTINF:-1,ES: Canal+ de las Estrellas
-http://ipsatpro.com:8000/live/mik/mik/1048.m3u8
-#EXTINF:-1,ES: Canal+ Series
-http://ipsatpro.com:8000/live/mik/mik/1058.m3u8
-#EXTINF:-1,ES: Canal+ Serie Xtra
-http://ipsatpro.com:8000/live/mik/mik/1004.m3u8
-#EXTINF:-1,ES: Canal+ Cuatro
-http://ipsatpro.com:8000/live/mik/mik/1026.m3u8
-#EXTINF:-1,ES: Canal+ Dcine Espanol
-http://ipsatpro.com:8000/live/mik/mik/1033.m3u8
-#EXTINF:-1,ES: Canal+ Cocina
-http://ipsatpro.com:8000/live/mik/mik/1024.m3u8
-#EXTINF:-1,ES: Canal+ AXN HD
-http://ipsatpro.com:8000/live/mik/mik/1054.m3u8
-#EXTINF:-1,ES: Canal+ Toros
-http://ipsatpro.com:8000/live/mik/mik/1049.m3u8
-#EXTINF:-1,ES: Canal Los40
-http://ipsatpro.com:8000/live/mik/mik/1002.m3u8
-#EXTINF:-1,ES: Canal+ Nova
-http://ipsatpro.com:8000/live/mik/mik/1034.m3u8
-#EXTINF:-1,ES: Canal+ Fox HD
-http://ipsatpro.com:8000/live/mik/mik/1029.m3u8
-#EXTINF:-1,ES: Canal T HD
-http://ipsatpro.com:8000/live/mik/mik/1047.m3u8
-#EXTINF:-1,ES: Canal MicroVision HD
-http://ipsatpro.com:8000/live/mik/mik/1041.m3u8
-#EXTINF:-1,ES: Canal+ 40
-http://ipsatpro.com:8000/live/mik/mik/1039.m3u8
-#EXTINF:-1,ES: 24 Horas
-http://ipsatpro.com:8000/live/mik/mik/1046.m3u8
-#EXTINF:-1,ES: Bein Sport ES HD
-http://ipsatpro.com:8000/live/mik/mik/1003.m3u8
-#EXTINF:-1,ES: Barca TV
-http://ipsatpro.com:8000/live/mik/mik/1021.m3u8
-#EXTINF:-1,ES: Movis Star Moto Gp
-http://ipsatpro.com:8000/live/mik/mik/1011.m3u8
-#EXTINF:-1,ES: Movi Star F1
-http://ipsatpro.com:8000/live/mik/mik/1010.m3u8
-#EXTINF:-1,ES: Comedy Central
-http://ipsatpro.com:8000/live/mik/mik/1042.m3u8
-#EXTINF:-1,ES: Teledeportes
-http://ipsatpro.com:8000/live/mik/mik/1050.m3u8
-#EXTINF:-1,ES: Clan TVE
-http://ipsatpro.com:8000/live/mik/mik/1045.m3u8
-#EXTINF:-1,ES: Real Madrid
-http://ipsatpro.com:8000/live/mik/mik/1037.m3u8
-#EXTINF:-1,ES: La 1
-http://ipsatpro.com:8000/live/mik/mik/1014.m3u8
-#EXTINF:-1,ES: La 2
-http://ipsatpro.com:8000/live/mik/mik/1013.m3u8
-#EXTINF:-1,ES: Canal+ Cine
-http://ipsatpro.com:8000/live/mik/mik/1025.m3u8
-#EXTINF:-1,ES: La Sexta HD
-http://ipsatpro.com:8000/live/mik/mik/1017.m3u8
-#EXTINF:-1,ES: TV Galicia
-http://ipsatpro.com:8000/live/mik/mik/1015.m3u8
-#EXTINF:-1,ES: News DW
-http://ipsatpro.com:8000/live/mik/mik/1053.m3u8
-#EXTINF:-1,ES: Proyecto 40
-http://ipsatpro.com:8000/live/mik/mik/1056.m3u8
-#EXTINF:-1,ES: Azteca Noticias
-http://ipsatpro.com:8000/live/mik/mik/1061.m3u8
-#EXTINF:-1,ES: 324 Entertainment
-http://ipsatpro.com:8000/live/mik/mik/1005.m3u8
-#EXTINF:-1,ES: Fox Life
-http://ipsatpro.com:8000/live/mik/mik/1060.m3u8
-#EXTINF:-1,ES: Hollywood
-http://ipsatpro.com:8000/live/mik/mik/1036.m3u8
-#EXTINF:-1,ES: Axn White HD
-http://ipsatpro.com:8000/live/mik/mik/1023.m3u8
-#EXTINF:-1,ES: History
-http://ipsatpro.com:8000/live/mik/mik/1051.m3u8
-#EXTINF:-1,ES: Calle 13 Spain
-http://ipsatpro.com:8000/live/mik/mik/1009.m3u8
-#EXTINF:-1,ES: Azteca trece
-http://ipsatpro.com:8000/live/mik/mik/1018.m3u8
-#EXTINF:-1,ES: Anime
-http://ipsatpro.com:8000/live/mik/mik/999.m3u8
-#EXTINF:-1,ES: Azteca 7 Monterrey
-http://ipsatpro.com:8000/live/mik/mik/1035.m3u8
-#EXTINF:-1,ES: Antena 3 Internacional
-http://ipsatpro.com:8000/live/mik/mik/1000.m3u8
-#EXTINF:-1,ES: A&E
-http://ipsatpro.com:8000/live/mik/mik/1001.m3u8
-#EXTINF:-1,ES: FDF
-http://ipsatpro.com:8000/live/mik/mik/1007.m3u8
-#EXTINF:-1,ES: Caza Y Pesca
-http://ipsatpro.com:8000/live/mik/mik/1027.m3u8
-#EXTINF:-1,ES: Viajar
-http://ipsatpro.com:8000/live/mik/mik/1043.m3u8
-#EXTINF:-1,ES: Teleticino
-http://ipsatpro.com:8000/live/mik/mik/1008.m3u8
-#EXTINF:-1,ES: National Geographic
-http://ipsatpro.com:8000/live/mik/mik/1057.m3u8
-#EXTINF:-1,ES: National Geographic Wild
-http://ipsatpro.com:8000/live/mik/mik/1055.m3u8
-#EXTINF:-1,ES: Disney Chaneel
-http://ipsatpro.com:8000/live/mik/mik/1040.m3u8
-#EXTINF:-1,ES: Disney XD
-http://ipsatpro.com:8000/live/mik/mik/1038.m3u8
-#EXTINF:-1,ES: TNT
-http://ipsatpro.com:8000/live/mik/mik/1032.m3u8
-#EXTINF:-1,ES: TVN Chile HD
-http://ipsatpro.com:8000/live/mik/mik/1006.m3u8
-#EXTINF:-1,ES: CHILE La Red
-http://ipsatpro.com:8000/live/mik/mik/1052.m3u8
-#EXTINF:-1,ES: ITV HD Chile
-http://ipsatpro.com:8000/live/mik/mik/1044.m3u8
+#EXTINF:0,Fox 1
+http://q.gs:80/14608897/power-by-juan-canal-50?stream.m3u8
+#EXTINF:-1,FOX Movies 
+http://q.gs:80/14608897/power-by-juan-canal-302?stream.m3u8
+#EXTINF:-1,Canal de las EstrellAS
+http://q.gs:80/14608897/power-by-juan-canal-303?stream.m3u8
+#EXTINF:-1,GalaTV 
+http://q.gs:80/14608897/power-by-juan-canal-304?stream.m3u8
+#EXTINF:-1,Univision TDN 
+http://q.gs:80/14608897/power-by-juan-canal-305?stream.m3u8
+#EXTINF:-1,Disney XD 
+http://q.gs:80/14608897/power-by-juan-canal-306?stream.m3u8
+#EXTINF:-1,HBO Family 
+http://q.gs:80/14608897/power-by-juan-canal-307?stream.m3u8
+#EXTINF:0, EuroSport 1
+http://q.gs:80/14608897/power-by-juan-canal-406?stream.m3u8
+#EXTINF:0,Euronews Español
+http://q.gs:80/14608897/power-by-juan-canal-94?stream.m3u8
+#EXTINF:-1,Telehit 
+http://q.gs:80/14608897/power-by-juan-canal-308?stream.m3u8
+#EXTINF:-1,Ritmoson 
+http://q.gs:80/14608897/power-by-juan-canal-309?stream.m3u8
+#EXTINF:-1,Fox Cinema 
+http://q.gs:80/14608897/power-by-juan-canal-310?stream.m3u8
+#EXTINF:-1,FOX Family 
+http://q.gs:80/14608897/power-by-juan-canal-311?stream.m3u8
+#EXTINF:-1,TNT 
+http://q.gs:80/14608897/power-by-juan-canal-312?stream.m3u8
+#EXTINF:-1,VENUS 
+http://q.gs:80/14608897/power-by-juan-canal-313?stream.m3u8
+#EXTINF:-1,FOX SPORTS 2
+http://q.gs:80/14608897/power-by-juan-canal-314?stream.m3u8
+#EXTINF:-1,Espn 
+http://q.gs:80/14608897/power-by-juan-canal-315?stream.m3u8
+#EXTINF:-1,ONCE TV
+http://q.gs:80/14608897/power-by-juan-canal-316?stream.m3u8
+#EXTINF:-1,FOX SPORT 3
+http://q.gs:80/14608897/power-by-juan-canal-317?stream.m3u8
+#EXTINF:-1,Exa tv 
+http://q.gs:80/14608897/power-by-juan-canal-318?stream.m3u8
+#EXTINF:-1,MLB NETWORK 
+http://q.gs:80/14608897/power-by-juan-canal-319?stream.m3u8
+#EXTINF:-1,NBC UNIVERSO HD
+http://q.gs:80/14608897/power-by-juan-canal-321?stream.m3u8
+#EXTINF:0,Fox
+http://q.gs:80/14608897/power-by-juan-canal-47?stream.m3u8
+#EXTINF:-1,VPLUS TV
+http://q.gs:80/14608897/power-by-juan-canal-405?stream.m3u8
+#EXTINF:-1,Virgin Radio
+http://q.gs:80/14608897/power-by-juan-canal-404?stream.m3u8
+#EXTINF:-1,WIN SPORTS
+http://q.gs:80/14608897/power-by-juan-canal-403?stream.m3u8
+#EXTINF:-1,TELE MÚSICA
+http://q.gs:80/14608897/power-by-juan-canal-401?stream.m3u8
+#EXTINF:-1,TV AZTECA GUATE
+http://q.gs:80/14608897/power-by-juan-canal-402?stream.m3u8
+#EXTINF:0,CDF PREMIUN
+https://www.youtube.com/watch?v=068A0oG3IQw&app=desktop?.m3u8
+#EXTINF:0,ANIME TV 24/7
+http://q.gs:80/14608897/power-by-juan-canal-46?stream.m3u8
+#EXTINF:0,SERIES TV 24/7
+http://q.gs:80/14608897/power-by-juan-canal-45?stream.m3u8
+#EXTINF:0,CNN INTERNACIONAL
+http://q.gs:80/14608897/power-by-juan-canal-44?stream.m3u8
+#EXTINF:0,univicio
+http://q.gs:80/14608897/protegido-cp-1?USER=power-by-juan&PASS=stream.m3u8
+#EXTINF:0,Cinema TVPlay (SD)
+http://q.gs:80/14608897/power-by-juan-canal-49?stream.m3u8
+#EXTINF:0,LOS SIMPSON
+https://www.youtube.com/watch?v=wLdwp5HQmkI&app=desktop?.m3u8
+#EXTINF:0,RT ESPAÑOL 
+https://www.youtube.com/watch?v=OALyNX4IbBI&app=desktop?.m3u8
+#EXTINF:0,Sky News Live
+https://www.youtube.com/watch?v=y60wDzZt8yg&app=desktop?.m3u8
+#EXTINF:0,Family Guy EN INGLES
+https://www.youtube.com/watch?v=Qa2pTxGqJ1o&app=desktop?.m3u8
+#EXTINF:0,FOX Live Stream News 24/7 HD
+https://www.youtube.com/watch?v=yR5L4WWxz0E&app=desktop?.m3u8
+#EXTINF:0,H2 USA FULL HD (HISTORY 2) 
+http://q.gs:80/14608897/power-by-juan-canal-43?stream.m3u8
+#EXTINF:0,TELECANAL
+http://q.gs:80/14608897/nuevo-20?USER=power-by-juan&PASS=stream.m3u8
+#EXTINF:0,ITV HD (TV DIGITAL CHILE)
+http://q.gs:80/14608897/nuevo-21?USER=power-by-juan&PASS=stream.m3u8
+#EXTINF:0,ISS INTERNATIONAL STATION
+http://q.gs:80/14608897/nuevo-22?USER=power-by-juan&PASS=stream.m3u8
+#EXTINF:0,EUROSPORT 1
+http://q.gs:80/14608897/power-by-juan-canal-89?stream.m3u8
+#EXTINF:0,Euronews
+http://q.gs:80/14608897/power-by-juan-canal-90?stream.m3u8
+#EXTINF:0,Euronews PT
+http://q.gs:80/14608897/power-by-juan-canal-92?stream.m3u8
+#EXTINF:0,Euronews Germany
+http://q.gs:80/14608897/power-by-juan-canal-93?stream.m3u8
+#EXTINF:0,Euronews Español
+http://q.gs:80/14608897/power-by-juan-canal-94?stream.m3u8
+#EXTINF:0,Euronews France
+http://q.gs:80/14608897/power-by-juan-canal-95?stream.m3u8
+#EXTINF:0,Euronews Italia
+http://q.gs:80/14608897/power-by-juan-canal-96?stream.m3u8
+#EXTINF:0,EURONEWS PT
+http://q.gs:80/14608897/power-by-juan-canal-97?stream.m3u8
+#EXTINF:0,EURONEWS ES
+http://q.gs:80/14608897/power-by-juan-canal-98?stream.m3u8
