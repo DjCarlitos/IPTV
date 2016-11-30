@@ -13,19 +13,19 @@ http://live.hls.http.chv.ztreaming.com/chvhddesktop/chv-desktop.m3u8
 #EXTINF:-1, Canal 13
 http://csm-e.yospace.13.cl/csm/extlive/canal13cl01,CH13M.m3u8?
 
-#EXTINF:0,Djing HD
+#EXTINF:0, Djing HD
 http://www.djing.com/tv/05.m3u8
 
-#EXTINF:-1,Djing Classic HD
+#EXTINF:-1, Djing Classic HD
 http://www.djing.com/tv/i-05.m3u8
 
-#EXTINF:-1,Djing Underground HD
+#EXTINF:-1, Djing Underground HD
 http://www.djing.com/tv/u-05.m3u8
 
-#EXTINF:-1,Djing Ibiza HD
+#EXTINF:-1, Djing Ibiza HD
 http://www.djing.com/tv/d-05.m3u8
 
-#EXTINF:-1,Djing Animation HD
+#EXTINF:-1, Djing Animation HD
 http://www.djing.com/tv/a-05.m3u8
 
 #EXTINF:-1, Contivision Musica HD
@@ -118,20 +118,20 @@ http://159.203.34.7:8081/rstm/FoxSports3/playlist.m3u8
 #EXTINF:0, Univision TDN 
 http://159.203.63.115:8081/rstm/Univision-TDN/playlist.m3u8 
 
+#EXTINF:0, FOX Movies 
+http://159.203.63.115:8081/rstm/FOX-Movies/playlist.m3u8 
+
 #EXTINF:0, FOX Cinema
 http://159.203.63.115:8081/rstm/FOX-Cinema/playlist.m3u8 
 
 #EXTINF:0, FOX Family 
 http://159.203.63.115:8081/rstm/FOX-Family/playlist.m3u8 
 
-#EXTINF:0, FOX Movies 
-http://159.203.63.115:8081/rstm/FOX-Movies/playlist.m3u8 
-
 #EXTINF:0, HBO Family 
 http://159.203.63.115:8081/rstm/HBO-Family/playlist.m3u8 
 
-#EXTINF:0, Once TV 
-http://159.203.34.7:8081/rstm/OnceTV/playlist.m3u8 
-
 #EXTINF:0, Canal de Las Estrellas
 http://159.203.63.115:8081/rstm/Estrellas/playlist.m3u8 
+
+#EXTINF:0, Once TV 
+http://159.203.34.7:8081/rstm/OnceTV/playlist.m3u8 
