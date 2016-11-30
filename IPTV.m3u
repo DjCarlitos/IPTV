@@ -100,56 +100,35 @@ http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8?
 #EXTINF:-1, Visit-X TV HD
 http://stream.visit-x.tv/vxtv/live/playlist.m3u8?
 
-#EXTINF:0,MLB-NETWORK
-http://139.59.185.252:8081/rstm/MLB_USA_HD/playlist.m3u8
-
-#EXTINF:0,Exa-tv
-http://159.203.34.7:8081/rstm/EXA/playlist.m3u8
-
-#EXTINF:0,Mexico-opc-4
-http://159.203.34.7:8081/rstm/FoxSports3/playlist.m3u8 
-
-#EXTINF:0,Mexico 
-http://159.203.34.7:8081/rstm/OnceTV/playlist.m3u8 
-
-#EXTINF:0,Disney-XD
-http://159.203.63.115:8081/rstm/DisneyXD/playlist.m3u8 
-
-#EXTINF:0,Canal-de-las-Es 
-http://159.203.63.115:8081/rstm/Estrellas/playlist.m3u8 
-
-#EXTINF:0,
-Fox-Cinema http://159.203.63.115:8081/rstm/FOX-Cinema/playlist.m3u8 
-
-#EXTINF:0,FOX-Family 
-http://159.203.63.115:8081/rstm/FOX-Family/playlist.m3u8 
-
-#EXTINF:0,FOX-Movies 
-http://159.203.63.115:8081/rstm/FOX-Movies/playlist.m3u8 
-
-#EXTINF:0,GalaTV 
-http://159.203.63.115:8081/rstm/GalaTV/playlist.m3u8 
-
-#EXTINF:0,HBO-Family 
-http://159.203.63.115:8081/rstm/HBO-Family/playlist.m3u8 
-
-#EXTINF:0,Ritmoson 
-http://159.203.63.115:8081/rstm/Ritmoson/playlist.m3u8 
-
-#EXTINF:0,TNT 
-http://159.203.63.115:8081/rstm/TNT/playlist.m3u8 
+#EXTINF:0,Venus
+http://159.203.63.133:8081/rstm/Venus/playlist.m3u8
 
 #EXTINF:0,Telehit 
 http://159.203.63.115:8081/rstm/Telehit/playlist.m3u8 
 
-#EXTINF:0,Univision-TDN 
-http://159.203.63.115:8081/rstm/Univision-TDN/playlist.m3u8 
-
-#EXTINF:0,Espn 
-http://159.203.63.133:8081/rstm/Espn/playlist.m3u8 
-
-#EXTINF:0,Mexico-opc-3 
+#EXTINF:0, FOX Sports 2 
 http://159.203.63.133:8081/rstm/FoxSports2/playlist.m3u8 
 
-#EXTINF:0,VENUS 
-http://159.203.63.133:8081/rstm/Venus/playlist.m3u8
+#EXTINF:0, FOX Sports 3
+http://159.203.34.7:8081/rstm/FoxSports3/playlist.m3u8 
+
+#EXTINF:0, Univision TDN 
+http://159.203.63.115:8081/rstm/Univision-TDN/playlist.m3u8 
+
+#EXTINF:0, FOX Cinema
+http://159.203.63.115:8081/rstm/FOX-Cinema/playlist.m3u8 
+
+#EXTINF:0, FOX Family 
+http://159.203.63.115:8081/rstm/FOX-Family/playlist.m3u8 
+
+#EXTINF:0, FOX Movies 
+http://159.203.63.115:8081/rstm/FOX-Movies/playlist.m3u8 
+
+#EXTINF:0, HBO Family 
+http://159.203.63.115:8081/rstm/HBO-Family/playlist.m3u8 
+
+#EXTINF:0, Once TV 
+http://159.203.34.7:8081/rstm/OnceTV/playlist.m3u8 
+
+#EXTINF:0, Canal de Las Estrellas
+http://159.203.63.115:8081/rstm/Estrellas/playlist.m3u8 
