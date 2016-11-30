@@ -100,11 +100,14 @@ http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8?
 #EXTINF:-1, Visit-X TV HD
 http://stream.visit-x.tv/vxtv/live/playlist.m3u8?
 
-#EXTINF:0,Venus
+#EXTINF:0, Venus
 http://159.203.63.133:8081/rstm/Venus/playlist.m3u8
 
-#EXTINF:0,Telehit 
-http://159.203.63.115:8081/rstm/Telehit/playlist.m3u8 
+#EXTINF:0, Telehit 
+http://159.203.63.115:8081/rstm/Telehit/playlist.m3u8
+
+#EXTINF:0, Ritmoson 
+http://159.203.63.115:8081/rstm/Ritmoson/playlist.m3u8
 
 #EXTINF:0, FOX Sports 2 
 http://159.203.63.133:8081/rstm/FoxSports2/playlist.m3u8 
