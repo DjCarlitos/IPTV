@@ -135,3 +135,54 @@ http://159.203.63.115:8081/rstm/Estrellas/playlist.m3u8
 
 #EXTINF:0, Once TV 
 http://159.203.34.7:8081/rstm/OnceTV/playlist.m3u8
+
+#EXTINF:0 group-title="Z etiquetas",[B][COLOR yellow]== EUA (USA) ==[/COLOR][/B]
+http://streaming203.radionomy.com:80/City-Dance-Radio
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="EUA (USA)",ABC 12 Anchorage - AK Alaska
+http://cdn.bimvidlive.com/kyur/ngrp:kyur1_all/playlist.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/1087.png" group-title="EUA (USA)",ABC News
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="https://app.uktvnow.net/images/channel_imgs/160116113647amc.png" group-title="EUA (USA)",AMC East**
+http://hyper.exabytetv.info/HLS/5629/5629-UUVIV-1011000010100100111000001010010-ExabyteTV.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="EUA (USA)",América Teve Miami
+http://premium.exabytetv.info/gc/UUVIV-1011000010100100111000001010010-ExabyteTV/944/exabytetv.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="EUA (USA)",CBS 4.1 Dothan - AL Alabama
+http://premium.exabytetv.info/gc/UUVIV-1011000010100100111000001010010-ExabyteTV/1082/exabytetv.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="EUA (USA)",CBS 6.1 Tallahassee - FL Florida
+http://premium.exabytetv.info/gc/UUVIV-1011000010100100111000001010010-ExabyteTV/1083/exabytetv.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="EUA (USA)",CBS 7.1 Seattle - WA Washington
+http://cmghlslive-i.akamaihd.net/hls/live/224708/KIRO/2564k/master.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="EUA (USA)",CBS 12.1 Augusta - GA Georgia
+http://premium.exabytetv.info/gc/UUVIV-1011000010100100111000001010010-ExabyteTV/1084/exabytetv.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="EUA (USA)",CBS 31.1 Peoria - IL Illinois
+http://wmbd-apple-live.hls.adaptive.level3.net/stream0/master.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/92.png" group-title="EUA (USA)",CBS New York**
+http://hyper.exabytetv.info/HLS/4865/4865-UUVIV-1011000010100100111000001010010-ExabyteTV.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/10.png" group-title="EUA (USA)",CNN US**
+http://hyper.exabytetv.info/HLS/3133/3133-UUVIV-1011000010100100111000001010010-ExabyteTV.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/b/b9/Estrella_tv.png/revision/latest?cb=20120327232346" group-title="EUA (USA)",Estrella TV**
+http://hyper.exabytetv.info/HLS/12133/12133-UUVIV-1011000010100100111000001010010-ExabyteTV.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="https://app.uktvnow.net/images/channel_imgs/190116045107fox.gif" group-title="EUA (USA)",Fox US**
+http://hyper.exabytetv.info/HLS/413/413-UUVIV-1011000010100100111000001010010-ExabyteTV.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/1775.png" group-title="EUA (USA)",HBO East**
+http://hyper.exabytetv.info/HLS/4765/4765-UUVIV-1011000010100100111000001010010-ExabyteTV.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="EUA (USA)",KTBS 3.3 24-HourNews - 28 DT - Shreveport - LA Louisiana
+http://ktbs-lh.akamaihd.net/i/KTBS_1069@111925/master.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/233.png" group-title="EUA (USA)",NBC Miami**
+http://hyper.exabytetv.info/HLS/411/411-UUVIV-1011000010100100111000001010010-ExabyteTV.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/965.png" group-title="EUA (USA)",NBC New York**
+http://hyper.exabytetv.info/HLS/8491/8491-UUVIV-1011000010100100111000001010010-ExabyteTV.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="EUA (USA)",NOTV 41 New Orleans - LA Louisiana
+http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/569.png" group-title="EUA (USA)",Starz West**
+http://hyper.exabytetv.info/HLS/981/981-UUVIV-1011000010100100111000001010010-ExabyteTV.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="EUA (USA)",Telemundo39
+http://stream.ssh101.com:1935/live/anahix2/chunklist.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="EUA (USA)",Telemundo47
+http://premium.exabytetv.info/gc/UUVIV-1011000010100100111000001010010-ExabyteTV/1655/exabytetv.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/20.png" group-title="EUA (USA)",USA Network East**
+http://hyper.exabytetv.info/HLS/2579/2579-UUVIV-1011000010100100111000001010010-ExabyteTV.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="EUA (USA)",USA Travel Channel HD
+http://premium.exabytetv.info/xtc/UUVIV-1011000010100100111000001010010-ExabyteTV/1446/exabytetv.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="EUA (USA)",WDSU 6 News - 43 DT - New Orleans - LA Louisiana
+http://content.uplynk.com/channel/0fc51bf36df74dfab253054ba75dec47.m3u8
