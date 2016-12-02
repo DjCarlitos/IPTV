@@ -43,12 +43,6 @@ http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="MÚSICA - MUSIC",OneTV HD
 http://server5.stweb.tv/radioone/live/playlist.m3u8
 
-#EXTINF:0, Telehit 
-http://159.203.63.115:8081/rstm/Telehit/playlist.m3u8
-
-#EXTINF:0, Ritmoson 
-http://159.203.63.115:8081/rstm/Ritmoson/playlist.m3u8
-
 #EXTINF:-1, Virgin TV
 http://wow01.105.net/live/virgin1/.m3u8
 
@@ -75,6 +69,12 @@ http://212.224.108.80/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
 
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="MÚSICA - MUSIC",Rock TV
 http://212.96.163.139:8020/1-tv-pc/924.m3u8
+
+#EXTINF:0, Telehit 
+http://159.203.63.115:8081/rstm/Telehit/playlist.m3u8
+
+#EXTINF:0, Ritmoson 
+http://159.203.63.115:8081/rstm/Ritmoson/playlist.m3u8
 
 #EXTINF:-1, RT Español HD
 http://rt-esp-live.hls.adaptive.level3.net/rt/esp/index.m3u8
@@ -118,12 +118,6 @@ http://ocs-live.hls.adaptive.level3.net/ocs/channel01/NBC_OCS1_VIDEO_7_6064000.m
 #EXTINF:-1, Red Bull TV HD
 https://elementaldelta2.redbull.tv/30_5.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://kimberlydaloisio.com/wp-content/uploads/2011/05/VersusLogo6.jpeg" group-title="DEPORTES - SPORTS",Versus Channel (USA)
-http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
-
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://static.filmon.com/assets/channels/713/big_logo.png" group-title="DEPORTES - SPORTS",UFC Next (UK)
-http://premium.exabytetv.info/tokener/UUVIV-1011000010100100111000001010010-ExabyteTV/544/exabytetv.m3u8
-
 #EXTINF:0, FOX Sports 2 
 http://159.203.63.133:8081/rstm/FoxSports2/playlist.m3u8 
 
@@ -132,6 +126,12 @@ http://159.203.34.7:8081/rstm/FoxSports3/playlist.m3u8
 
 #EXTINF:0, Univision TDN 
 http://159.203.63.115:8081/rstm/Univision-TDN/playlist.m3u8 
+
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://kimberlydaloisio.com/wp-content/uploads/2011/05/VersusLogo6.jpeg" group-title="DEPORTES - SPORTS",Versus Channel
+http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
+
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://static.filmon.com/assets/channels/713/big_logo.png" group-title="DEPORTES - SPORTS",UFC Next
+http://premium.exabytetv.info/tokener/UUVIV-1011000010100100111000001010010-ExabyteTV/544/exabytetv.m3u8
 
 #EXTINF:-1, Azteca 13 HD
 http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8
@@ -160,8 +160,63 @@ http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8?
 #EXTINF:-1, Visit-X TV HD
 http://stream.visit-x.tv/vxtv/live/playlist.m3u8?
 
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="XXX",BS24 Live
+http://de-origin-live.3qsdn.com:1935/2346/Ct6zG7Nrj3v2JxD/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://hd-report.com/wp-content/uploads/2011/01/penthouse-logo.jpg" group-title="XXX",Penthouse Asia
+rtmp://edge1.everyon.tv/etv1sb/phd10927
+
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://cdn.ipernity.com/111/65/75/4726575.ed7e8d2b.640.jpg" group-title="XXX",Playboy Asia
+http://main1sb.everyon.tv:1935/etv1sb/pld10497/exabytetv.m3u8
+
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://www.streamytv.net/wp-content/uploads/2014/10/Playy-19-TV-HD-300x187.jpg" group-title="XXX",Playy 19+
+http://edge2.everyon.tv/etv2sb/phd10769/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="XXX",Ask
+http://edge2.everyon.tv/etv2sb/phd10771/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="XXX",ButGO
+http://main2sb.everyon.tv:1935/etv2sb/pld10772/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="XXX",Okadai TV
+http://main2sb.everyon.tv:1935/etv2sb/pld10499/HasBahCa.m3u8
+
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="XXX",LiveTing
+http://main2sb.everyon.tv:1935/etv2sb/pld10062/HasBahCa.m3u8
+
 #EXTINF:0, Venus
 http://159.203.63.133:8081/rstm/Venus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="XXX",Sextreme**
+http://hyper.exabytetv.info/HLS/287/287-UUVIV-1011000010100100111000001010010-ExabyteTV.m3u8
+
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="XXX",Playboy TV**
+http://hyper.exabytetv.info/HLS/289/289-UUVIV-1011000010100100111000001010010-ExabyteTV.m3u8
+
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="XXX",AmateurXXX
+http://premium.exabytetv.info/xxx_xvideos_amateur.php?token=UUVIV-1011000010100100111000001010010-ExabyteTV&f=.m3u8
+
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://static.filmon.com/assets/channels/2819/big_logo.png" group-title="XXX",Bikini Down Under
+http://premium.exabytetv.info/tokener/UUVIV-1011000010100100111000001010010-ExabyteTV/1063/exabytetv.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://static.filmon.com/assets/channels/3133/big_logo.png" group-title="XXX",Bikini Girls Show and Tell
+http://premium.exabytetv.info/tokener/UUVIV-1011000010100100111000001010010-ExabyteTV/1066/exabytetv.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://static.filmon.com/assets/channels/2984/big_logo.png" group-title="XXX",Bikini Girls Showing Off
+http://premium.exabytetv.info/tokener/UUVIV-1011000010100100111000001010010-ExabyteTV/1065/exabytetv.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://static.filmon.com/assets/channels/2000/big_logo.png" group-title="XXX",Bikini Kitchen
+http://premium.exabytetv.info/tokener/UUVIV-1011000010100100111000001010010-ExabyteTV/1060/exabytetv.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://static.filmon.com/assets/channels/1858/big_logo.png" group-title="XXX",College Hotties
+http://premium.exabytetv.info/tokener/UUVIV-1011000010100100111000001010010-ExabyteTV/1062/exabytetv.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://static.filmon.com/assets/channels/3431/big_logo.png" group-title="XXX",Hottie Shoot Live
+http://premium.exabytetv.info/tokener/UUVIV-1011000010100100111000001010010-ExabyteTV/1061/exabytetv.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://static.filmon.com/assets/channels/3152/big_logo.png" group-title="XXX",Models In Motion
+http://premium.exabytetv.info/tokener/UUVIV-1011000010100100111000001010010-ExabyteTV/1067/exabytetv.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://static.filmon.com/assets/channels/2975/big_logo.png" group-title="XXX",Party Girls TV
+http://premium.exabytetv.info/tokener/UUVIV-1011000010100100111000001010010-ExabyteTV/1064/exabytetv.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://static.filmon.com/assets/channels/3155/big_logo.png" group-title="XXX",Studio Girls
+http://premium.exabytetv.info/tokener/UUVIV-1011000010100100111000001010010-ExabyteTV/1069/exabytetv.m3u8
+
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="XXX",Best Of Playboy
+http://premium.exabytetv.info/xxx_xvideos_playboy.php?token=UUVIV-1011000010100100111000001010010-ExabyteTV&f=.m3u8
 
 #EXTINF:0, FOX Movies 
 http://159.203.63.115:8081/rstm/FOX-Movies/playlist.m3u8 
@@ -220,52 +275,4 @@ http://premium.exabytetv.info/tokener/UUVIV-1011000010100100111000001010010-Exab
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://static.filmon.com/assets/channels/1826/big_logo.png" group-title="REINO UNIDO (UK)",ITV4+1
 http://premium.exabytetv.info/tokener/UUVIV-1011000010100100111000001010010-ExabyteTV/574/exabytetv.m3u8
 
-#EXTINF:0 group-title="Z etiquetas",[B][COLOR yellow]== XXX ==[/COLOR][/B]
-http://streaming203.radionomy.com:80/City-Dance-Radio
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="XXX",AmateurXXX
-http://premium.exabytetv.info/xxx_xvideos_amateur.php?token=UUVIV-1011000010100100111000001010010-ExabyteTV&f=.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="XXX",Ask
-http://edge2.everyon.tv/etv2sb/phd10771/playlist.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="XXX",Best Of Playboy
-http://premium.exabytetv.info/xxx_xvideos_playboy.php?token=UUVIV-1011000010100100111000001010010-ExabyteTV&f=.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://static.filmon.com/assets/channels/2819/big_logo.png" group-title="XXX",Bikini Down Under
-http://premium.exabytetv.info/tokener/UUVIV-1011000010100100111000001010010-ExabyteTV/1063/exabytetv.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://static.filmon.com/assets/channels/3133/big_logo.png" group-title="XXX",Bikini Girls Show and Tell
-http://premium.exabytetv.info/tokener/UUVIV-1011000010100100111000001010010-ExabyteTV/1066/exabytetv.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://static.filmon.com/assets/channels/2984/big_logo.png" group-title="XXX",Bikini Girls Showing Off
-http://premium.exabytetv.info/tokener/UUVIV-1011000010100100111000001010010-ExabyteTV/1065/exabytetv.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://static.filmon.com/assets/channels/2000/big_logo.png" group-title="XXX",Bikini Kitchen
-http://premium.exabytetv.info/tokener/UUVIV-1011000010100100111000001010010-ExabyteTV/1060/exabytetv.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Brazzers-logo.png" group-title="XXX",Brazzers
-http://93.87.85.71/PLTV/88888888/224/3221226769/04.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="XXX",BS24 Live
-http://de-origin-live.3qsdn.com:1935/2346/Ct6zG7Nrj3v2JxD/playlist.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="XXX",ButGO
-http://main2sb.everyon.tv:1935/etv2sb/pld10772/playlist.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://static.filmon.com/assets/channels/1858/big_logo.png" group-title="XXX",College Hotties
-http://premium.exabytetv.info/tokener/UUVIV-1011000010100100111000001010010-ExabyteTV/1062/exabytetv.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://static.filmon.com/assets/channels/3431/big_logo.png" group-title="XXX",Hottie Shoot Live
-http://premium.exabytetv.info/tokener/UUVIV-1011000010100100111000001010010-ExabyteTV/1061/exabytetv.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="XXX",LiveTing
-http://main2sb.everyon.tv:1935/etv2sb/pld10062/HasBahCa.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://static.filmon.com/assets/channels/3152/big_logo.png" group-title="XXX",Models In Motion
-http://premium.exabytetv.info/tokener/UUVIV-1011000010100100111000001010010-ExabyteTV/1067/exabytetv.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="XXX",Okadai TV
-http://main2sb.everyon.tv:1935/etv2sb/pld10499/HasBahCa.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://static.filmon.com/assets/channels/2975/big_logo.png" group-title="XXX",Party Girls TV
-http://premium.exabytetv.info/tokener/UUVIV-1011000010100100111000001010010-ExabyteTV/1064/exabytetv.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="XXX",Penthouse
-rtmp://edge1.everyon.tv/etv1sb/phd10927
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://hd-report.com/wp-content/uploads/2011/01/penthouse-logo.jpg" group-title="XXX",Penthouse Asia
-http://main1sb.everyon.tv:1935/etv1sb/pld10927/exabytetv.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://cdn.ipernity.com/111/65/75/4726575.ed7e8d2b.640.jpg" group-title="XXX",Playboy Asia
-http://main1sb.everyon.tv:1935/etv1sb/pld10497/exabytetv.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="XXX",Playboy TV**
-http://hyper.exabytetv.info/HLS/289/289-UUVIV-1011000010100100111000001010010-ExabyteTV.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://www.streamytv.net/wp-content/uploads/2014/10/Playy-19-TV-HD-300x187.jpg" group-title="XXX",Playy 19+
-http://edge2.everyon.tv/etv2sb/phd10769/playlist.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="XXX",Sextreme**
-http://hyper.exabytetv.info/HLS/287/287-UUVIV-1011000010100100111000001010010-ExabyteTV.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://static.filmon.com/assets/channels/3155/big_logo.png" group-title="XXX",Studio Girls
-http://premium.exabytetv.info/tokener/UUVIV-1011000010100100111000001010010-ExabyteTV/1069/exabytetv.m3u8
 
