@@ -43,6 +43,12 @@ http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="MÚSICA - MUSIC",OneTV HD
 http://server5.stweb.tv/radioone/live/playlist.m3u8
 
+#EXTINF:0, Telehit 
+http://159.203.63.115:8081/rstm/Telehit/playlist.m3u8
+
+#EXTINF:0, Ritmoson 
+http://159.203.63.115:8081/rstm/Ritmoson/playlist.m3u8
+
 #EXTINF:-1, Virgin TV
 http://wow01.105.net/live/virgin1/.m3u8
 
@@ -112,6 +118,15 @@ http://ocs-live.hls.adaptive.level3.net/ocs/channel01/NBC_OCS1_VIDEO_7_6064000.m
 #EXTINF:-1, Red Bull TV HD
 https://elementaldelta2.redbull.tv/30_5.m3u8
 
+#EXTINF:0, FOX Sports 2 
+http://159.203.63.133:8081/rstm/FoxSports2/playlist.m3u8 
+
+#EXTINF:0, FOX Sports 3
+http://159.203.34.7:8081/rstm/FoxSports3/playlist.m3u8 
+
+#EXTINF:0, Univision TDN 
+http://159.203.63.115:8081/rstm/Univision-TDN/playlist.m3u8 
+
 #EXTINF:-1, Azteca 13 HD
 http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8
 
@@ -123,6 +138,12 @@ http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8?sd=10&rebase=o
 
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/1357.png" group-title="ESPAÑA",13tv
 http://streaming.enetres.net:80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8
+
+#EXTINF:0, Canal de Las Estrellas
+http://159.203.63.115:8081/rstm/Estrellas/playlist.m3u8 
+
+#EXTINF:0, Once TV 
+http://159.203.34.7:8081/rstm/OnceTV/playlist.m3u8
 
 #EXTINF:-1, Weather Channel HD
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
@@ -136,21 +157,6 @@ http://stream.visit-x.tv/vxtv/live/playlist.m3u8?
 #EXTINF:0, Venus
 http://159.203.63.133:8081/rstm/Venus/playlist.m3u8
 
-#EXTINF:0, Telehit 
-http://159.203.63.115:8081/rstm/Telehit/playlist.m3u8
-
-#EXTINF:0, Ritmoson 
-http://159.203.63.115:8081/rstm/Ritmoson/playlist.m3u8
-
-#EXTINF:0, FOX Sports 2 
-http://159.203.63.133:8081/rstm/FoxSports2/playlist.m3u8 
-
-#EXTINF:0, FOX Sports 3
-http://159.203.34.7:8081/rstm/FoxSports3/playlist.m3u8 
-
-#EXTINF:0, Univision TDN 
-http://159.203.63.115:8081/rstm/Univision-TDN/playlist.m3u8 
-
 #EXTINF:0, FOX Movies 
 http://159.203.63.115:8081/rstm/FOX-Movies/playlist.m3u8 
 
@@ -162,9 +168,3 @@ http://159.203.63.115:8081/rstm/FOX-Family/playlist.m3u8
 
 #EXTINF:0, HBO Family 
 http://159.203.63.115:8081/rstm/HBO-Family/playlist.m3u8 
-
-#EXTINF:0, Canal de Las Estrellas
-http://159.203.63.115:8081/rstm/Estrellas/playlist.m3u8 
-
-#EXTINF:0, Once TV 
-http://159.203.34.7:8081/rstm/OnceTV/playlist.m3u8
