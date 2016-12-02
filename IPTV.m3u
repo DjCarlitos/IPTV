@@ -163,11 +163,11 @@ http://stream.visit-x.tv/vxtv/live/playlist.m3u8?
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="XXX",BS24 Live
 http://de-origin-live.3qsdn.com:1935/2346/Ct6zG7Nrj3v2JxD/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://hd-report.com/wp-content/uploads/2011/01/penthouse-logo.jpg" group-title="XXX",Penthouse Asia
-rtmp://edge1.everyon.tv/etv1sb/phd10927
-
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://cdn.ipernity.com/111/65/75/4726575.ed7e8d2b.640.jpg" group-title="XXX",Playboy Asia
 http://main1sb.everyon.tv:1935/etv1sb/pld10497/exabytetv.m3u8
+
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://hd-report.com/wp-content/uploads/2011/01/penthouse-logo.jpg" group-title="XXX",Penthouse Asia
+rtmp://edge1.everyon.tv/etv1sb/phd10927
 
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://www.streamytv.net/wp-content/uploads/2014/10/Playy-19-TV-HD-300x187.jpg" group-title="XXX",Playy 19+
 http://edge2.everyon.tv/etv2sb/phd10769/playlist.m3u8
