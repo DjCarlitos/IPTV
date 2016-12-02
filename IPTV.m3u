@@ -176,3 +176,69 @@ http://premium.exabytetv.info/tokener/UUVIV-1011000010100100111000001010010-Exab
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="MÚSICA - MUSIC",Vibee
 http://46.101.21.42:8081/live/live2/playlist.m3u8
 
+#EXTINF:0 group-title="Z etiquetas",[B][COLOR yellow]== NOTICIAS - NEWS ==[/COLOR][/B]
+http://streaming203.radionomy.com:80/City-Dance-Radio
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/60.png" group-title="NOTICIAS - NEWS",Al Jazeera UK
+http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/appleman.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV Az Noticias" tvg-name="Az Noticias" tvg-logo="http://y.cdn.entutele.com/media/channels/big/az-noticias.gif" group-title="NOTICIAS - NEWS",Az Noticias (Op1) *  Sólo México o con VPN
+http://tvbytetvtest1.jl.serv.net.mx/totalplei.php/canal_2/calidad_3/token_UUVIV-1011000010100100111000001010010-ExabyteTV/exabytetv.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV Az Noticias" tvg-name="Az Noticias" tvg-logo="http://y.cdn.entutele.com/media/channels/big/az-noticias.gif" group-title="NOTICIAS - NEWS",Az Noticias (Op2)
+http://tvbytetvtest1.jl.serv.net.mx/totalweb.php/canal_2/calidad_3/token_UUVIV-1011000010100100111000001010010-ExabyteTV/exabytetv.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/1595.png" group-title="NOTICIAS - NEWS",CB24 Noticias Centroamérica
+http://ipointcablertmp.tulix.tv:1935/cb24stream/myStream.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV CNN en español" tvg-name="CNN en español" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/213.png" group-title="NOTICIAS - NEWS",CNN en Espanol**
+http://hyper.exabytetv.info/HLS/1855/1855-UUVIV-1011000010100100111000001010010-ExabyteTV.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://www.liveonlinetv247.info/images/cnn.png" group-title="NOTICIAS - NEWS",CNN Internacional
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD177L240P/playlist.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/10.png" group-title="NOTICIAS - NEWS",CNN USA
+http://premium.exabytetv.info/gc/UUVIV-1011000010100100111000001010010-ExabyteTV/1731/exabytetv.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/10.png" group-title="NOTICIAS - NEWS",CNN USA op2**
+http://hyper.exabytetv.info/HLS/3133/3133-UUVIV-1011000010100100111000001010010-ExabyteTV.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="NOTICIAS - NEWS",EfektoTV
+http://grupomac-lh.akamaihd.net:80/i/004rss0k8_1@301782/master.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV El Financiero Bloomberg" tvg-name="El Financiero Bloomberg" tvg-logo="http://y.cdn.entutele.com/media/channels/big/el-financiero-bloomberg.gif" group-title="NOTICIAS - NEWS",El Financiero Bloomberg (Op1) *  Sólo México o con VPN
+http://tvbytetvtest2.jl.serv.net.mx/totalplei.php/canal_610/calidad_3/token_UUVIV-1011000010100100111000001010010-ExabyteTV/exabytetv.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV El Financiero Bloomberg" tvg-name="El Financiero Bloomberg" tvg-logo="http://y.cdn.entutele.com/media/channels/big/el-financiero-bloomberg.gif" group-title="NOTICIAS - NEWS",El Financiero Bloomberg (Op2)
+http://tvbytetvtest1.jl.serv.net.mx/totalweb.php/canal_610/calidad_3/token_UUVIV-1011000010100100111000001010010-ExabyteTV/exabytetv.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/1459.png" group-title="NOTICIAS - NEWS",Euronews en Español
+http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_es.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV Excelsior TV" tvg-name="Excelsior TV" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/3694.png" group-title="NOTICIAS - NEWS",Excelsior TV**
+http://hyper.exabytetv.info/HLS/13427/13427-UUVIV-1011000010100100111000001010010-ExabyteTV.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV Foro TV" tvg-name="Foro TV" tvg-logo="http://y.cdn.entutele.com/media/channels/big/foro-tv.gif" group-title="NOTICIAS - NEWS",Foro TV (Op1) *  Sólo México o con VPN
+http://tvbytetvtest3.jl.serv.net.mx/totalplei.php/canal_104/calidad_3/token_UUVIV-1011000010100100111000001010010-ExabyteTV/exabytetv.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV Foro TV" tvg-name="Foro TV" tvg-logo="http://y.cdn.entutele.com/media/channels/big/foro-tv.gif" group-title="NOTICIAS - NEWS",Foro TV (Op2)
+http://tvbytetvtest1.jl.serv.net.mx/totalweb.php/canal_104/calidad_3/token_UUVIV-1011000010100100111000001010010-ExabyteTV/exabytetv.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://i2.esmas.com/2015/06/22/778598/foro-tv--280x370.jpg" group-title="NOTICIAS - NEWS",Foro TV Opción 2
+http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/master.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/419.png" group-title="NOTICIAS - NEWS",France 24
+http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV Milenio TV" tvg-name="Milenio TV" tvg-logo="http://y.cdn.entutele.com/media/channels/big/milenio-tv.gif" group-title="NOTICIAS - NEWS",Milenio
+http://brightcove03-f.akamaihd.net/milenio_centro_512k@101956
+#EXTINF:-1 tvg-id="Exabyte TV Milenio TV" tvg-name="Milenio TV" tvg-logo="http://y.cdn.entutele.com/media/channels/big/milenio-tv.gif" group-title="NOTICIAS - NEWS",Milenio (op2) (Op1) *  Sólo México o con VPN
+http://tvbytetvtest4.jl.serv.net.mx/totalplei.php/canal_603/calidad_3/token_UUVIV-1011000010100100111000001010010-ExabyteTV/exabytetv.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV Milenio TV" tvg-name="Milenio TV" tvg-logo="http://y.cdn.entutele.com/media/channels/big/milenio-tv.gif" group-title="NOTICIAS - NEWS",Milenio (op2) (Op2)
+http://tvbytetvtest1.jl.serv.net.mx/totalweb.php/canal_603/calidad_3/token_UUVIV-1011000010100100111000001010010-ExabyteTV/exabytetv.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://www.noticiasmvs.com/img/noticiasMvs1024.png" group-title="NOTICIAS - NEWS",MVS Noticias
+http://wos1.smartcast.com.mx:1935/mvs/mvs_radio/mvs_radio.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://www.raddios.com/public/radios/original/4374.jpg" group-title="NOTICIAS - NEWS",NTN24
+http://premium.exabytetv.info/livestream.php?acc=13988764&eve=4133355&token=UUVIV-1011000010100100111000001010010-ExabyteTV&f=.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="NOTICIAS - NEWS",RT en español
+http://rt-esp-live.hls.adaptive.level3.net/rt/esp/index2500.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="NOTICIAS - NEWS",RT Russia Today
+http://rt.ashttp14.visionip.tv/live/rt-global-live-HD/playlist.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="NOTICIAS - NEWS",Russia Today
+http://rt.ashttp14.visionip.tv/live/rt-global-live-HD/playlist.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="NOTICIAS - NEWS",Russia Today En Español
+http://rt-lh.akamaihd.net/i/ch_02@325606/master.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://www.liveonlinetv247.info/images/skynews.png" group-title="NOTICIAS - NEWS",Sky News
+http://premium.exabytetv.info/gc/UUVIV-1011000010100100111000001010010-ExabyteTV/1622/exabytetv.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="NOTICIAS - NEWS",Sky News International
+http://premium.exabytetv.info/gc/UUVIV-1011000010100100111000001010010-ExabyteTV/1623/exabytetv.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV TeleFórmula" tvg-name="TeleFórmula" tvg-logo="http://y.cdn.entutele.com/media/channels/big/telefórmula.gif" group-title="NOTICIAS - NEWS",TeleFórmula (Op1) *  Sólo México o con VPN
+http://tvbytetvtest5.jl.serv.net.mx/totalplei.php/canal_161/calidad_3/token_UUVIV-1011000010100100111000001010010-ExabyteTV/exabytetv.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV TeleFórmula" tvg-name="TeleFórmula" tvg-logo="http://y.cdn.entutele.com/media/channels/big/telefórmula.gif" group-title="NOTICIAS - NEWS",TeleFórmula (Op2)
+http://tvbytetvtest1.jl.serv.net.mx/totalweb.php/canal_161/calidad_3/token_UUVIV-1011000010100100111000001010010-ExabyteTV/exabytetv.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/3610.png" group-title="NOTICIAS - NEWS",TRT World
+http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
+
+
