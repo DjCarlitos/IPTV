@@ -169,8 +169,6 @@ http://159.203.63.115:8081/rstm/FOX-Family/playlist.m3u8
 #EXTINF:0, HBO Family 
 http://159.203.63.115:8081/rstm/HBO-Family/playlist.m3u8 
 
-#EXTINF:0 group-title="Z etiquetas",[B][COLOR yellow]== REINO UNIDO (UK) ==[/COLOR][/B]
-http://streaming203.radionomy.com:80/City-Dance-Radio
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://static.filmon.com/assets/channels/4/big_logo.png" group-title="REINO UNIDO (UK)",Al Jazeera
 http://premium.exabytetv.info/tokener/UUVIV-1011000010100100111000001010010-ExabyteTV/425/exabytetv.m3u8
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://static.filmon.com/assets/channels/14/big_logo.png" group-title="REINO UNIDO (UK)",BBC 1
@@ -215,21 +213,3 @@ http://premium.exabytetv.info/tokener/UUVIV-1011000010100100111000001010010-Exab
 http://premium.exabytetv.info/tokener/UUVIV-1011000010100100111000001010010-ExabyteTV/538/exabytetv.m3u8
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://static.filmon.com/assets/channels/1826/big_logo.png" group-title="REINO UNIDO (UK)",ITV4+1
 http://premium.exabytetv.info/tokener/UUVIV-1011000010100100111000001010010-ExabyteTV/574/exabytetv.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://static.filmon.com/assets/channels/93/big_logo.png" group-title="REINO UNIDO (UK)",Russia Today
-http://premium.exabytetv.info/tokener/UUVIV-1011000010100100111000001010010-ExabyteTV/537/exabytetv.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://www.liveonlinetv247.info/images/skymoviesaction.png" group-title="REINO UNIDO (UK)",Sky Movies Action
-http://premium.exabytetv.info/gc/UUVIV-1011000010100100111000001010010-ExabyteTV/1612/exabytetv.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://www.liveonlinetv247.info/images/skymoviescomedy.png" group-title="REINO UNIDO (UK)",Sky Movies Comedy
-http://premium.exabytetv.info/gc/UUVIV-1011000010100100111000001010010-ExabyteTV/1613/exabytetv.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://www.liveonlinetv247.info/images/skymoviescrime.png" group-title="REINO UNIDO (UK)",Sky Movies Crime
-http://premium.exabytetv.info/gc/UUVIV-1011000010100100111000001010010-ExabyteTV/1614/exabytetv.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://www.liveonlinetv247.info/images/skymoviesdisney.png" group-title="REINO UNIDO (UK)",Sky Movies Disney
-http://premium.exabytetv.info/gc/UUVIV-1011000010100100111000001010010-ExabyteTV/1615/exabytetv.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://www.liveonlinetv247.info/images/skymoviesfamily.png" group-title="REINO UNIDO (UK)",Sky Movies Family
-http://premium.exabytetv.info/gc/UUVIV-1011000010100100111000001010010-ExabyteTV/1616/exabytetv.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://www.liveonlinetv247.info/images/skymoviespremiere.png" group-title="REINO UNIDO (UK)",Sky Movies Premiere
-http://premium.exabytetv.info/gc/UUVIV-1011000010100100111000001010010-ExabyteTV/1617/exabytetv.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://www.liveonlinetv247.info/images/skymoviesselect.png" group-title="REINO UNIDO (UK)",Sky Movies Select
-http://premium.exabytetv.info/gc/UUVIV-1011000010100100111000001010010-ExabyteTV/1618/exabytetv.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://www.liveonlinetv247.info/images/skymoviesshowcase.png" group-title="REINO UNIDO (UK)",Sky Movies Showcase
-http://premium.exabytetv.info/gc/UUVIV-1011000010100100111000001010010-ExabyteTV/1619/exabytetv.m3u8
