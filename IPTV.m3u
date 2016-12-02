@@ -213,3 +213,248 @@ http://premium.exabytetv.info/tokener/UUVIV-1011000010100100111000001010010-Exab
 http://premium.exabytetv.info/tokener/UUVIV-1011000010100100111000001010010-ExabyteTV/538/exabytetv.m3u8
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://static.filmon.com/assets/channels/1826/big_logo.png" group-title="REINO UNIDO (UK)",ITV4+1
 http://premium.exabytetv.info/tokener/UUVIV-1011000010100100111000001010010-ExabyteTV/574/exabytetv.m3u8
+
+#EXTINF:0 group-title="Z etiquetas",[B][COLOR yellow]== DEPORTES - SPORTS ==[/COLOR][/B]
+http://streaming203.radionomy.com:80/City-Dance-Radio
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",Arena Sports 1 (UK)
+http://premium.exabytetv.info/gc/UUVIV-1011000010100100111000001010010-ExabyteTV/1559/exabytetv.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",Arena Sports 2 (UK)
+http://premium.exabytetv.info/gc/UUVIV-1011000010100100111000001010010-ExabyteTV/1560/exabytetv.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",Arena Sports 3 (UK)
+http://premium.exabytetv.info/gc/UUVIV-1011000010100100111000001010010-ExabyteTV/1561/exabytetv.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",Arena Sports 4 (UK)
+http://premium.exabytetv.info/gc/UUVIV-1011000010100100111000001010010-ExabyteTV/1562/exabytetv.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",Arena Sports 5 (UK)
+http://premium.exabytetv.info/gc/UUVIV-1011000010100100111000001010010-ExabyteTV/1563/exabytetv.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV AyM Sports" tvg-name="AyM Sports" tvg-logo="http://y.cdn.entutele.com/media/channels/big/aym-sports.gif" group-title="DEPORTES - SPORTS",AyM Sports (México) (Op1) *  Sólo México o con VPN
+http://tvbytetvtest1.jl.serv.net.mx/totalplei.php/canal_576/calidad_3/token_UUVIV-1011000010100100111000001010010-ExabyteTV/exabytetv.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV AyM Sports" tvg-name="AyM Sports" tvg-logo="http://y.cdn.entutele.com/media/channels/big/aym-sports.gif" group-title="DEPORTES - SPORTS",AyM Sports (México) (Op2)
+http://tvbytetvtest1.jl.serv.net.mx/totalweb.php/canal_576/calidad_3/token_UUVIV-1011000010100100111000001010010-ExabyteTV/exabytetv.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",Bein Sport España
+http://latino-webtv.ml:8880/beinhd/playlist.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",Bein Sports Fr 1
+http://premium.exabytetv.info/gc/UUVIV-1011000010100100111000001010010-ExabyteTV/1564/exabytetv.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",Bein Sports Fr 2
+http://premium.exabytetv.info/gc/UUVIV-1011000010100100111000001010010-ExabyteTV/1565/exabytetv.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",Bein Sports Fr 3
+http://premium.exabytetv.info/gc/UUVIV-1011000010100100111000001010010-ExabyteTV/1566/exabytetv.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",Bein Sports Max 4 (Francia)
+http://premium.exabytetv.info/gc/UUVIV-1011000010100100111000001010010-ExabyteTV/1567/exabytetv.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",Bein Sports Max 5 (Francia)
+http://premium.exabytetv.info/gc/UUVIV-1011000010100100111000001010010-ExabyteTV/1568/exabytetv.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV beIN Sport en Español" tvg-name="beIN Sport en Español" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/1239.png" group-title="DEPORTES - SPORTS",Bein Sports N**
+http://hyper.exabytetv.info/HLS/13113/13113-UUVIV-1011000010100100111000001010010-ExabyteTV.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",Beis TV 1 (sólo eventos)
+http://premium.exabytetv.info/beistv.php?id=1
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",Beis TV 2 (sólo eventos)
+http://premium.exabytetv.info/beistv.php?id=2
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",Beis TV 3 (sólo eventos)
+http://premium.exabytetv.info/beistv.php?id=3
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",Beis TV 4 (sólo eventos)
+http://premium.exabytetv.info/beistv.php?id=4
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",Beis TV 5 (sólo eventos)
+http://premium.exabytetv.info/beistv.php?id=5
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",Beis TV 6 (sólo eventos)
+http://premium.exabytetv.info/beistv.php?id=6
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",Box Nation
+http://premium.exabytetv.info/gc/UUVIV-1011000010100100111000001010010-ExabyteTV/1572/exabytetv.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",BT Espn (UK)
+http://premium.exabytetv.info/gc/UUVIV-1011000010100100111000001010010-ExabyteTV/1573/exabytetv.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://www.liveonlinetv247.info/images/btsport1.png" group-title="DEPORTES - SPORTS",BT Sport 1 UK
+http://premium.exabytetv.info/gc/UUVIV-1011000010100100111000001010010-ExabyteTV/1610/exabytetv.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://www.liveonlinetv247.info/images/btsport2.png" group-title="DEPORTES - SPORTS",BT Sport 2 UK
+http://premium.exabytetv.info/gc/UUVIV-1011000010100100111000001010010-ExabyteTV/1611/exabytetv.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",BT Sports Europe
+http://premium.exabytetv.info/gc/UUVIV-1011000010100100111000001010010-ExabyteTV/1574/exabytetv.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",BT Sports Extra
+http://premium.exabytetv.info/gc/UUVIV-1011000010100100111000001010010-ExabyteTV/1575/exabytetv.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",Canal del Futbol (Sólo eventos Ecuador)
+http://premium.exabytetv.info/gc/UUVIV-1011000010100100111000001010010-ExabyteTV/1321/exabytetv.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://grfx.cstv.com/schools/hou/graphics/auto/tv_CBSSN.jpg" group-title="DEPORTES - SPORTS",CBS Sports Network**
+http://hyper.exabytetv.info/HLS/2359/2359-UUVIV-1011000010100100111000001010010-ExabyteTV.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://2.bp.blogspot.com/-EsjmKdYjDyY/VQASgOY4ZPI/AAAAAAAADkY/tpBOrjaFqT4/s1600/cdn-sportsmax-655.png" group-title="DEPORTES - SPORTS",CDN Sports Max
+http://premium.exabytetv.info/livestream.php?acc=15754920&eve=5198653&token=UUVIV-1011000010100100111000001010010-ExabyteTV&f=.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://www.lyngsat-logo.com/logo/tv/cc/cdo_cl_premium.png" group-title="DEPORTES - SPORTS",CDO Premium (Chile)
+http://wow2.cl.digitalproserver.com/cdo/cdovivo/cdo.smil/chunklist_w913906597_b1064000.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://cmll.com/wp-content/uploads/2015/08/claro_sport.jpg" group-title="DEPORTES - SPORTS",Claro Sport 1
+http://jjoo2016ch01-hlsfix.clarovideo.com/Content/hls_clear/Live/Channel(jjoo2016ch01)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://www.lyngsat-logo.com/logo/tv/cc/cable_magico_deportes.png" group-title="DEPORTES - SPORTS",CMD HD (Perú)
+http://premium.exabytetv.info/gc/UUVIV-1011000010100100111000001010010-ExabyteTV/706/exabytetv.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/2854.png" group-title="DEPORTES - SPORTS",DeporTV (DXTV) Argentina
+http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://www.canalvivo.com.ar/wp-content/uploads/2013/06/directv.jpg" group-title="DEPORTES - SPORTS",Direct TV Sports+
+http://premium.exabytetv.info/gc/UUVIV-1011000010100100111000001010010-ExabyteTV/954/exabytetv.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",DirecTV Sports 2
+http://co.exabytetv.info/jua/UUVIV-1011000010100100111000001010010-ExabyteTV/aHR0cDovL3R2cG9yLWludGVybmV0LmNvbS9jYW5hbC1mMS1sYXRpbm9hbWVyaWNhLWVuLXZpdm8uaHRtbA==/exabytetv.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://static.filmon.com/assets/channels/79/big_logo.png" group-title="DEPORTES - SPORTS",Dubai Sports (Arabe)
+http://premium.exabytetv.info/tokener/UUVIV-1011000010100100111000001010010-ExabyteTV/583/exabytetv.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV ESPN +" tvg-name="ESPN +" tvg-logo="http://y.cdn.entutele.com/media/channels/big/espn-+.gif" group-title="DEPORTES - SPORTS",ESPN + (México) (Op1) *  Sólo México o con VPN
+http://tvbytetvtest2.jl.serv.net.mx/totalplei.php/canal_516/calidad_3/token_UUVIV-1011000010100100111000001010010-ExabyteTV/exabytetv.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV ESPN +" tvg-name="ESPN +" tvg-logo="http://y.cdn.entutele.com/media/channels/big/espn-+.gif" group-title="DEPORTES - SPORTS",ESPN + (México) (Op2)
+http://tvbytetvtest1.jl.serv.net.mx/totalweb.php/canal_516/calidad_3/token_UUVIV-1011000010100100111000001010010-ExabyteTV/exabytetv.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",ESPN 1 (Argentina)
+http://co.exabytetv.info/jua/UUVIV-1011000010100100111000001010010-ExabyteTV/aHR0cDovL3R2cG9yLWludGVybmV0LmNvbS9lc3BuLTMtZW4tdml2by5odG1s/exabytetv.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV ESPN" tvg-name="ESPN" tvg-logo="http://y.cdn.entutele.com/media/channels/big/espn.gif" group-title="DEPORTES - SPORTS",ESPN 1 (México) (Op1) *  Sólo México o con VPN
+http://tvbytetvtest3.jl.serv.net.mx/totalplei.php/canal_558/calidad_3/token_UUVIV-1011000010100100111000001010010-ExabyteTV/exabytetv.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV ESPN" tvg-name="ESPN" tvg-logo="http://y.cdn.entutele.com/media/channels/big/espn.gif" group-title="DEPORTES - SPORTS",ESPN 1 (México) (Op2)
+http://tvbytetvtest1.jl.serv.net.mx/totalweb.php/canal_558/calidad_3/token_UUVIV-1011000010100100111000001010010-ExabyteTV/exabytetv.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",ESPN 2 (Argentina)
+http://co.exabytetv.info/jua/UUVIV-1011000010100100111000001010010-ExabyteTV/aHR0cDovL3d3dy5jaHVzbWFsYW5kaWEuY29tLzIwMTYvMDYvZXNwbi0yLWVuLXZpdm8uaHRtbA==/exabytetv.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV ESPN 2" tvg-name="ESPN 2" tvg-logo="http://y.cdn.entutele.com/media/channels/big/espn-2.gif" group-title="DEPORTES - SPORTS",ESPN 2 (México) (Op1) *  Sólo México o con VPN
+http://tvbytetvtest4.jl.serv.net.mx/totalplei.php/canal_561/calidad_3/token_UUVIV-1011000010100100111000001010010-ExabyteTV/exabytetv.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV ESPN 2" tvg-name="ESPN 2" tvg-logo="http://y.cdn.entutele.com/media/channels/big/espn-2.gif" group-title="DEPORTES - SPORTS",ESPN 2 (México) (Op2)
+http://tvbytetvtest1.jl.serv.net.mx/totalweb.php/canal_561/calidad_3/token_UUVIV-1011000010100100111000001010010-ExabyteTV/exabytetv.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV ESPN 3" tvg-name="ESPN 3" tvg-logo="http://y.cdn.entutele.com/media/channels/big/espn-3.gif" group-title="DEPORTES - SPORTS",ESPN 3 (México) (Op1) *  Sólo México o con VPN
+http://tvbytetvtest5.jl.serv.net.mx/totalplei.php/canal_520/calidad_3/token_UUVIV-1011000010100100111000001010010-ExabyteTV/exabytetv.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV ESPN 3" tvg-name="ESPN 3" tvg-logo="http://y.cdn.entutele.com/media/channels/big/espn-3.gif" group-title="DEPORTES - SPORTS",ESPN 3 (México) (Op2)
+http://tvbytetvtest1.jl.serv.net.mx/totalweb.php/canal_520/calidad_3/token_UUVIV-1011000010100100111000001010010-ExabyteTV/exabytetv.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV ESPN HD" tvg-name="ESPN HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/espn-hd.gif" group-title="DEPORTES - SPORTS",ESPN HD (México) (Op1) *  Sólo México o con VPN
+http://tvbytetvtest1.jl.serv.net.mx/totalplei.php/canal_558/calidad_3/token_UUVIV-1011000010100100111000001010010-ExabyteTV/exabytetv.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV ESPN HD" tvg-name="ESPN HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/espn-hd.gif" group-title="DEPORTES - SPORTS",ESPN HD (México) (Op2)
+http://tvbytetvtest1.jl.serv.net.mx/totalweb.php/canal_558/calidad_3/token_UUVIV-1011000010100100111000001010010-ExabyteTV/exabytetv.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",Euro Sports 1 (UK)
+http://premium.exabytetv.info/gc/UUVIV-1011000010100100111000001010010-ExabyteTV/1576/exabytetv.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",Euro Sports 2 (UK)
+http://premium.exabytetv.info/gc/UUVIV-1011000010100100111000001010010-ExabyteTV/1577/exabytetv.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://www.multichannel.com/sites/default/files/public/styles/blog_content/public/fight%20sports%20logo%20400x300.jpg" group-title="DEPORTES - SPORTS",Fight Sports (Arabe)
+http://118.97.183.222:1935/discover/fight/chunklist.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://static.filmon.com/assets/channels/3440/big_logo.png" group-title="DEPORTES - SPORTS",FighTV Plus (UK)
+http://premium.exabytetv.info/tokener/UUVIV-1011000010100100111000001010010-ExabyteTV/702/exabytetv.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV Fox Sports" tvg-name="Fox Sports" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-sports.gif" group-title="DEPORTES - SPORTS",Fox Sports 1 (México) (Op1) *  Sólo México o con VPN
+http://tvbytetvtest2.jl.serv.net.mx/totalplei.php/canal_522/calidad_3/token_UUVIV-1011000010100100111000001010010-ExabyteTV/exabytetv.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV Fox Sports" tvg-name="Fox Sports" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-sports.gif" group-title="DEPORTES - SPORTS",Fox Sports 1 (México) (Op2)
+http://tvbytetvtest1.jl.serv.net.mx/totalweb.php/canal_522/calidad_3/token_UUVIV-1011000010100100111000001010010-ExabyteTV/exabytetv.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-sports.gif" group-title="DEPORTES - SPORTS",Fox Sports 2 (Argentina)
+http://premium.exabytetv.info/gc/UUVIV-1011000010100100111000001010010-ExabyteTV/1735/exabytetv.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-sports.gif" group-title="DEPORTES - SPORTS",Fox Sports 2 (Argentina) op2
+http://premium.exabytetv.info/streamfy.php?id=aHR0cDovL3R2cG9yLWludGVybmV0LmNvbS9mb3gtc3BvcnRzLTItZW4tdml2by5odG1s&token=UUVIV-1011000010100100111000001010010-ExabyteTV&f=.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV Fox Sports 2" tvg-name="Fox Sports 2" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-sports-2.gif" group-title="DEPORTES - SPORTS",Fox Sports 2 (México) (Op1) *  Sólo México o con VPN
+http://tvbytetvtest3.jl.serv.net.mx/totalplei.php/canal_527/calidad_3/token_UUVIV-1011000010100100111000001010010-ExabyteTV/exabytetv.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV Fox Sports 2" tvg-name="Fox Sports 2" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-sports-2.gif" group-title="DEPORTES - SPORTS",Fox Sports 2 (México) (Op2)
+http://tvbytetvtest1.jl.serv.net.mx/totalweb.php/canal_527/calidad_3/token_UUVIV-1011000010100100111000001010010-ExabyteTV/exabytetv.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/127.png" group-title="DEPORTES - SPORTS",Fox Sports 3 (México)**
+http://hyper.exabytetv.info/HLS/445/445-UUVIV-1011000010100100111000001010010-ExabyteTV.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV Formula 1" tvg-name="Formula 1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/formula-1.gif" group-title="DEPORTES - SPORTS",Fórmula 1 (Op1) *  Sólo México o con VPN
+http://tvbytetvtest4.jl.serv.net.mx/totalplei.php/canal_511/calidad_3/token_UUVIV-1011000010100100111000001010010-ExabyteTV/exabytetv.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV Formula 1" tvg-name="Formula 1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/formula-1.gif" group-title="DEPORTES - SPORTS",Fórmula 1 (Op2)
+http://tvbytetvtest1.jl.serv.net.mx/totalweb.php/canal_511/calidad_3/token_UUVIV-1011000010100100111000001010010-ExabyteTV/exabytetv.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="https://1.bp.blogspot.com/-8pauLAhFzzY/V0DXKyLR3SI/AAAAAAAAAbs/AqdqgL8ictEuW3zbI09GZIfe7nMVtFagwCLcB/s1600/gol%2Bperu.jpg" group-title="DEPORTES - SPORTS",Gol Perú
+http://streams.innova-systems.net/GOLPERUHD/index.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://www.lyngsat-logo.com/logo/tv/gg/gol_tv.png" group-title="DEPORTES - SPORTS",Gol TV
+http://goltv.exabytetv.info:80/hls2/amlst:30001_ios/master.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="https://lh4.googleusercontent.com/-1FzAf8JhNSA/UgP_OcRbbrI/AAAAAAAABJw/7ctPs6LwEaA/gol-television+live.jpg" group-title="DEPORTES - SPORTS",Gol TV Sur
+http://premium.exabytetv.info/gc/UUVIV-1011000010100100111000001010010-ExabyteTV/1691/exabytetv.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",La Liga TV
+http://latino-webtv.ml:8880/ligaplus/playlist.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://canalapuesta.com/images/upload/OTi78V3u.jpg" group-title="DEPORTES - SPORTS",La Liga TV (España)
+http://premium.exabytetv.info/xtc/UUVIV-1011000010100100111000001010010-ExabyteTV/1021/exabytetv.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/3525.png" group-title="DEPORTES - SPORTS",MLB Extra Innings**
+http://hyper.exabytetv.info/HLS/12714/12714-UUVIV-1011000010100100111000001010010-ExabyteTV.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://static.filmon.com/assets/channels/262/big_logo.png" group-title="DEPORTES - SPORTS",Motorz (UK)
+http://premium.exabytetv.info/tokener/UUVIV-1011000010100100111000001010010-ExabyteTV/584/exabytetv.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Logo-futbol.png" group-title="DEPORTES - SPORTS",Movistar Futbol Opción 2 (España)
+http://premium.exabytetv.info/gc/UUVIV-1011000010100100111000001010010-ExabyteTV/1332/exabytetv.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://static.filmon.com/assets/channels/295/big_logo.png" group-title="DEPORTES - SPORTS",My Combat Channel (UK)
+http://premium.exabytetv.info/tokener/UUVIV-1011000010100100111000001010010-ExabyteTV/586/exabytetv.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",NBA TV (USA)**
+http://hyper.exabytetv.info/HLS/2347/2347-UUVIV-1011000010100100111000001010010-ExabyteTV.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Golf_Channel_Logo.png/220px-Golf_Channel_Logo.png" group-title="DEPORTES - SPORTS",NBC Golf (USA)
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/2502.png" group-title="DEPORTES - SPORTS",NBC Sport Network (USA)**
+http://hyper.exabytetv.info/HLS/6302/6302-UUVIV-1011000010100100111000001010010-ExabyteTV.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/591.png" group-title="DEPORTES - SPORTS",NFL Network**
+http://hyper.exabytetv.info/HLS/1003/1003-UUVIV-1011000010100100111000001010010-ExabyteTV.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/696739618562027520/oYgqd7MO.jpg" group-title="DEPORTES - SPORTS",NFL Now (USA)
+http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9_g.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/" group-title="DEPORTES - SPORTS", NFL Sunday Ticket 1**
+http://hyper.exabytetv.info/HLS/13341/13341-UUVIV-1011000010100100111000001010010-ExabyteTV.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/" group-title="DEPORTES - SPORTS", NFL Sunday Ticket 2**
+http://hyper.exabytetv.info/HLS/13342/13342-UUVIV-1011000010100100111000001010010-ExabyteTV.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/" group-title="DEPORTES - SPORTS", NFL Sunday Ticket 3**
+http://hyper.exabytetv.info/HLS/13343/13343-UUVIV-1011000010100100111000001010010-ExabyteTV.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/" group-title="DEPORTES - SPORTS", NFL Sunday Ticket 4**
+http://hyper.exabytetv.info/HLS/13344/13344-UUVIV-1011000010100100111000001010010-ExabyteTV.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/" group-title="DEPORTES - SPORTS", NFL Sunday Ticket 5**
+http://hyper.exabytetv.info/HLS/13345/13345-UUVIV-1011000010100100111000001010010-ExabyteTV.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/" group-title="DEPORTES - SPORTS", NFL Sunday Ticket 6**
+http://hyper.exabytetv.info/HLS/13346/13346-UUVIV-1011000010100100111000001010010-ExabyteTV.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/287.png" group-title="DEPORTES - SPORTS", Pac-12 Arizona
+http://pac12hd2-lh.akamaihd.net/i/p12ariz_delivery@132836/master.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/435.png" group-title="DEPORTES - SPORTS", Pac-12 Bay Area
+http://pac12hd2-lh.akamaihd.net/i/p12baya_delivery@132837/master.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/439.png" group-title="DEPORTES - SPORTS", Pac-12 Los Angeles
+http://pac12hd2-lh.akamaihd.net/i/p12losa_delivery@132838/master.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/343.png" group-title="DEPORTES - SPORTS", Pac-12 Mountain
+http://pac12hd2-lh.akamaihd.net/i/p12moun_delivery@132839/index_2328_av-p.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/437.png" group-title="DEPORTES - SPORTS", Pac-12 Networks
+http://pac12hd2-lh.akamaihd.net/i/p12netw_delivery@132840/master.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/345.png" group-title="DEPORTES - SPORTS", Pac-12 Oregon
+http://pac12hd2-lh.akamaihd.net/i/p12oreg_delivery@132835/master.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/441.png" group-title="DEPORTES - SPORTS", Pac-12 Washington
+http://pac12hd2-lh.akamaihd.net/i/p12wash_delivery@132841/master.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://media.cardplayer.com/assets/twitch_channels/000/000/001/pokercentral-profile_image-576154661611b620-300x300.png" group-title="DEPORTES - SPORTS",Poker Central (USA)
+http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/master.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/3625.png" group-title="DEPORTES - SPORTS",Real Madrid TV (España)
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://www.liveonlinetv247.info/images/skysports1.png" group-title="DEPORTES - SPORTS",Sky Sports 1 (UK)
+http://premium.exabytetv.info/gc/UUVIV-1011000010100100111000001010010-ExabyteTV/1603/exabytetv.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://www.liveonlinetv247.info/images/skysports2.png" group-title="DEPORTES - SPORTS",Sky Sports 2 (UK)
+http://premium.exabytetv.info/gc/UUVIV-1011000010100100111000001010010-ExabyteTV/1604/exabytetv.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://www.liveonlinetv247.info/images/skysports3.png" group-title="DEPORTES - SPORTS",Sky Sports 3 (UK)
+http://premium.exabytetv.info/gc/UUVIV-1011000010100100111000001010010-ExabyteTV/1605/exabytetv.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://www.liveonlinetv247.info/images/skysports4.png" group-title="DEPORTES - SPORTS",Sky Sports 4 (UK)
+http://premium.exabytetv.info/gc/UUVIV-1011000010100100111000001010010-ExabyteTV/1606/exabytetv.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://www.liveonlinetv247.info/images/skysports5.png" group-title="DEPORTES - SPORTS",Sky Sports 5 (UK)
+http://premium.exabytetv.info/gc/UUVIV-1011000010100100111000001010010-ExabyteTV/1607/exabytetv.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://www.liveonlinetv247.info/images/skysportsboxoffice.png" group-title="DEPORTES - SPORTS",Sky Sports Box Office
+http://premium.exabytetv.info/gc/UUVIV-1011000010100100111000001010010-ExabyteTV/1602/exabytetv.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://www.liveonlinetv247.info/images/skysportscricket.png" group-title="DEPORTES - SPORTS",Sky Sports Cricket
+http://premium.exabytetv.info/gc/UUVIV-1011000010100100111000001010010-ExabyteTV/1601/exabytetv.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://www.liveonlinetv247.info/images/skysportsf1.png" group-title="DEPORTES - SPORTS",Sky Sports F1 (UK)
+http://premium.exabytetv.info/gc/UUVIV-1011000010100100111000001010010-ExabyteTV/1609/exabytetv.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/863.png" group-title="DEPORTES - SPORTS",Sky Sports Latino**
+http://hyper.exabytetv.info/HLS/1477/1477-UUVIV-1011000010100100111000001010010-ExabyteTV.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://www.liveonlinetv247.info/images/skysportsnews.png" group-title="DEPORTES - SPORTS",Sky Sports News
+http://premium.exabytetv.info/gc/UUVIV-1011000010100100111000001010010-ExabyteTV/1608/exabytetv.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://i31.photobucket.com/albums/c365/GoldenLeaf74/Boardcast%20Logos/sportsnet_one_short.png" group-title="DEPORTES - SPORTS",SportsNet One
+http://premium.exabytetv.info/gc/UUVIV-1011000010100100111000001010010-ExabyteTV/1598/exabytetv.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://www.bellaliant.ca/binaries/small/content/gallery/common_en/tv/channel-logos/sportsnet_ont.png" group-title="DEPORTES - SPORTS",SportsNet Ontario
+http://premium.exabytetv.info/gc/UUVIV-1011000010100100111000001010010-ExabyteTV/1597/exabytetv.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://i59.tinypic.com/biseb6.jpg" group-title="DEPORTES - SPORTS",SportsNet World
+http://premium.exabytetv.info/gc/UUVIV-1011000010100100111000001010010-ExabyteTV/1599/exabytetv.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV TDN" tvg-name="TDN" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/635.png" group-title="DEPORTES - SPORTS",TDN**
+http://hyper.exabytetv.info/HLS/1059/1059-UUVIV-1011000010100100111000001010010-ExabyteTV.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://static.filmon.com/assets/channels/265/big_logo.png" group-title="DEPORTES - SPORTS",The Ski Channel (UK)
+http://premium.exabytetv.info/tokener/UUVIV-1011000010100100111000001010010-ExabyteTV/585/exabytetv.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",TSN Sports 1 (USA)
+http://premium.exabytetv.info/gc/UUVIV-1011000010100100111000001010010-ExabyteTV/1578/exabytetv.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",TSN Sports 2 (USA)
+http://premium.exabytetv.info/gc/UUVIV-1011000010100100111000001010010-ExabyteTV/1579/exabytetv.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",TSN Sports 3 (USA)
+http://premium.exabytetv.info/gc/UUVIV-1011000010100100111000001010010-ExabyteTV/1580/exabytetv.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",TSN Sports 4 (USA)
+http://premium.exabytetv.info/gc/UUVIV-1011000010100100111000001010010-ExabyteTV/1581/exabytetv.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",TSN Sports 5 (USA)
+http://premium.exabytetv.info/gc/UUVIV-1011000010100100111000001010010-ExabyteTV/1582/exabytetv.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",Tyc Sports (Argentina)
+http://premium.exabytetv.info/gc/UUVIV-1011000010100100111000001010010-ExabyteTV/1519/exabytetv.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/625.png" group-title="DEPORTES - SPORTS",UFC Network Op2**
+http://hyper.exabytetv.info/HLS/13074/13074-UUVIV-1011000010100100111000001010010-ExabyteTV.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://static.filmon.com/assets/channels/713/big_logo.png" group-title="DEPORTES - SPORTS",UFC Next (UK)
+http://premium.exabytetv.info/tokener/UUVIV-1011000010100100111000001010010-ExabyteTV/544/exabytetv.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/3207.png" group-title="DEPORTES - SPORTS",Univision Deportes Network**
+http://hyper.exabytetv.info/HLS/11293/11293-UUVIV-1011000010100100111000001010010-ExabyteTV.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV Univisión TDN" tvg-name="Univisión TDN" tvg-logo="http://www.lyngsat-logo.com/logo/tv/uu/univision_tdn.png" group-title="DEPORTES - SPORTS",Univisión TDN**
+http://hyper.exabytetv.info/HLS/1483/1483-UUVIV-1011000010100100111000001010010-ExabyteTV.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://kimberlydaloisio.com/wp-content/uploads/2011/05/VersusLogo6.jpeg" group-title="DEPORTES - SPORTS",Versus Channel (USA)
+http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/VTVURU.png/190px-VTVURU.png" group-title="DEPORTES - SPORTS",VTV (Uruguay)
+http://co.exabytetv.info/uruguaytv/UUVIV-1011000010100100111000001010010-ExabyteTV/6031/exabytetv.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",VTV (Uruguay) op2
+http://premium.exabytetv.info/gc/UUVIV-1011000010100100111000001010010-ExabyteTV/1727/exabytetv.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://www.lyngsat-logo.com/logo/tv/ww/win_sports_co.png" group-title="DEPORTES - SPORTS",Win Sports (Colombia)
+http://lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1/yt1_1.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",WWE Network**
+http://hyper.exabytetv.info/HLS/13266/13266-UUVIV-1011000010100100111000001010010-ExabyteTV.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",WWE Network HD (Op2)
+http://premium.exabytetv.info/gc/UUVIV-1011000010100100111000001010010-ExabyteTV/1600/exabytetv.m3u8
