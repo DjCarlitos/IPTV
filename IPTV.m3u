@@ -149,104 +149,30 @@ http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://www.atresmediapublicidad.com/clipping/2015/04/28/00282/31.jpg" group-title="ESPAÑA",Nova
 http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8
 
-#EXTINF:0 group-title="Z etiquetas",[B][COLOR yellow]== MÚSICA - MUSIC ==[/COLOR][/B]
-http://streaming203.radionomy.com:80/City-Dance-Radio
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="MÚSICA - MUSIC",Atomic
 rtmp://5.154.185.153/live/live.flv
-#EXTINF:-1 tvg-id="Exabyte TV Bandamax" tvg-name="Bandamax" tvg-logo="http://y.cdn.entutele.com/media/channels/big/bandamax.gif" group-title="MÚSICA - MUSIC",Bandamax (Op1) *  Sólo México o con VPN
-http://tvbytetvtest1.jl.serv.net.mx/totalplei.php/canal_732/calidad_3/token_UUVIV-1011000010100100111000001010010-ExabyteTV/exabytetv.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV Bandamax" tvg-name="Bandamax" tvg-logo="http://y.cdn.entutele.com/media/channels/big/bandamax.gif" group-title="MÚSICA - MUSIC",Bandamax (Op2)
-http://tvbytetvtest1.jl.serv.net.mx/totalweb.php/canal_732/calidad_3/token_UUVIV-1011000010100100111000001010010-ExabyteTV/exabytetv.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="MÚSICA - MUSIC",Capital TV (UK)
-http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/City_tv_bulgaria.gif/200px-City_tv_bulgaria.gif" group-title="MÚSICA - MUSIC",City Radio TV
 http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/live.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="MÚSICA - MUSIC",Cool HD
-http://ar.solumedia.com.ar:1935/cool/hd/playlist.m3u8
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="MÚSICA - MUSIC",Dream TV
 http://212.224.108.80/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://sd-xbmc.org/svn/sd-xbmc/trunk/xbmc-addons/src/xbmc-addons/tv/old/eskaparty.png" group-title="MÚSICA - MUSIC",Eska Go
-http://stream.smcloud.net/live/eskatv/playlist.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="https://soombo.com/assets/images/200_1449360473.png" group-title="MÚSICA - MUSIC",Eska Party TV
-http://stream.smcloud.net/live/eska_party/playlist.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://online-red.com/images/tv/eska-rock.png" group-title="MÚSICA - MUSIC",Eska Rock TV
-http://stream.smcloud.net/tv/eska_rock/eska_rock_480p/playlist.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://t-eska.cdn.smcloud.net/common/L/v/s/Lv2051015XSLQ.jpg/ru-0-ra-230,230-n-Lv2051015XSLQ.jpg" group-title="MÚSICA - MUSIC",Eska Vox TV Old Cool
-http://stream.smcloud.net/live/vox/playlist.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/3697.png" group-title="MÚSICA - MUSIC",Exa TV**
-http://hyper.exabytetv.info/HLS/13443/13443-UUVIV-1011000010100100111000001010010-ExabyteTV.m3u8
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="MÚSICA - MUSIC",Hard Life
 http://stream.hardlife.tv:8134/hls-live/livepkgr/_definst_/liveevent/hl.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="MÚSICA - MUSIC",Heart TV (UK)
-http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="MÚSICA - MUSIC",Hit TV
 http://tst.es.flash.glb.ipercast.net/tst.es-live/live/index.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV HTV" tvg-name="HTV" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/163.png" group-title="MÚSICA - MUSIC",HTV**
-http://hyper.exabytetv.info/HLS/341/341-UUVIV-1011000010100100111000001010010-ExabyteTV.m3u8
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="MÚSICA - MUSIC",m2o tv
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="MÚSICA - MUSIC",M6 Music
 http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="MÚSICA - MUSIC",Melody Channel
-http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="MÚSICA - MUSIC",Movistar Music
-http://B36642.cdn.telefonica.com/36642/ch09/3.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/MTV_Base_2013.png" group-title="MÚSICA - MUSIC",MTV Base
-http://premium.exabytetv.info/xtc/UUVIV-1011000010100100111000001010010-ExabyteTV/1596/exabytetv.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV MTV Hits" tvg-name="MTV Hits" tvg-logo="http://y.cdn.entutele.com/media/channels/big/mtv-hits.gif" group-title="MÚSICA - MUSIC",MTV Hits (Op1) *  Sólo México o con VPN
-http://tvbytetvtest2.jl.serv.net.mx/totalplei.php/canal_727/calidad_3/token_UUVIV-1011000010100100111000001010010-ExabyteTV/exabytetv.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV MTV Hits" tvg-name="MTV Hits" tvg-logo="http://y.cdn.entutele.com/media/channels/big/mtv-hits.gif" group-title="MÚSICA - MUSIC",MTV Hits (Op2)
-http://tvbytetvtest1.jl.serv.net.mx/totalweb.php/canal_727/calidad_3/token_UUVIV-1011000010100100111000001010010-ExabyteTV/exabytetv.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV MTV" tvg-name="MTV" tvg-logo="http://y.cdn.entutele.com/media/channels/big/mtv.gif" group-title="MÚSICA - MUSIC",MTV Latino (Op1) *  Sólo México o con VPN
-http://tvbytetvtest3.jl.serv.net.mx/totalplei.php/canal_726/calidad_3/token_UUVIV-1011000010100100111000001010010-ExabyteTV/exabytetv.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV MTV" tvg-name="MTV" tvg-logo="http://y.cdn.entutele.com/media/channels/big/mtv.gif" group-title="MÚSICA - MUSIC",MTV Latino (Op2)
-http://tvbytetvtest1.jl.serv.net.mx/totalweb.php/canal_726/calidad_3/token_UUVIV-1011000010100100111000001010010-ExabyteTV/exabytetv.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV MTV Live" tvg-name="MTV Live" tvg-logo="http://y.cdn.entutele.com/media/channels/big/mtv-live.gif" group-title="MÚSICA - MUSIC",MTV Live (Op1) *  Sólo México o con VPN
-http://tvbytetvtest4.jl.serv.net.mx/totalplei.php/canal_701/calidad_3/token_UUVIV-1011000010100100111000001010010-ExabyteTV/exabytetv.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV MTV Live" tvg-name="MTV Live" tvg-logo="http://y.cdn.entutele.com/media/channels/big/mtv-live.gif" group-title="MÚSICA - MUSIC",MTV Live (Op2)
-http://tvbytetvtest1.jl.serv.net.mx/totalweb.php/canal_701/calidad_3/token_UUVIV-1011000010100100111000001010010-ExabyteTV/exabytetv.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/Mtv_Rocks_2013.png" group-title="MÚSICA - MUSIC",MTV Rocks
-http://94.74.65.100:19123/ott/68:1122
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="MÚSICA - MUSIC",OneTV Arg
 http://server5.stweb.tv/radioone/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="MÚSICA - MUSIC",Retro TV
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV Ritmoson Latino" tvg-name="Ritmoson Latino" tvg-logo="http://y.cdn.entutele.com/media/channels/big/ritmoson-latino.gif" group-title="MÚSICA - MUSIC",Ritmoson Latino (Op1) *  Sólo México o con VPN
-http://tvbytetvtest5.jl.serv.net.mx/totalplei.php/canal_731/calidad_3/token_UUVIV-1011000010100100111000001010010-ExabyteTV/exabytetv.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV Ritmoson Latino" tvg-name="Ritmoson Latino" tvg-logo="http://y.cdn.entutele.com/media/channels/big/ritmoson-latino.gif" group-title="MÚSICA - MUSIC",Ritmoson Latino (Op2)
-http://tvbytetvtest1.jl.serv.net.mx/totalweb.php/canal_731/calidad_3/token_UUVIV-1011000010100100111000001010010-ExabyteTV/exabytetv.m3u8
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="MÚSICA - MUSIC",Rock TV
 http://212.96.163.139:8020/1-tv-pc/924.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV Telehit HD" tvg-name="Telehit HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/telehit-hd.gif" group-title="MÚSICA - MUSIC",Telehit HD (Op1) *  Sólo México o con VPN
-http://tvbytetvtest1.jl.serv.net.mx/totalplei.php/canal_702/calidad_3/token_UUVIV-1011000010100100111000001010010-ExabyteTV/exabytetv.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV Telehit HD" tvg-name="Telehit HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/telehit-hd.gif" group-title="MÚSICA - MUSIC",Telehit HD (Op2)
-http://tvbytetvtest1.jl.serv.net.mx/totalweb.php/canal_702/calidad_3/token_UUVIV-1011000010100100111000001010010-ExabyteTV/exabytetv.m3u8
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="MÚSICA - MUSIC",The Soundtrack Channel
 http://premium.exabytetv.info/tokener/UUVIV-1011000010100100111000001010010-ExabyteTV/1351/exabytetv.m3u8
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="MÚSICA - MUSIC",Urban Music Network
 http://premium.exabytetv.info/tokener/UUVIV-1011000010100100111000001010010-ExabyteTV/1352/exabytetv.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="MÚSICA - MUSIC",Vevo 1
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="MÚSICA - MUSIC",Vevo 2
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="MÚSICA - MUSIC",Vevo 3
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV VH1 Classic" tvg-name="VH1 Classic" tvg-logo="http://y.cdn.entutele.com/media/channels/big/vh1-classic.gif" group-title="MÚSICA - MUSIC",VH1 Classic (Op1) *  Sólo México o con VPN
-http://tvbytetvtest2.jl.serv.net.mx/totalplei.php/canal_728/calidad_3/token_UUVIV-1011000010100100111000001010010-ExabyteTV/exabytetv.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV VH1 Classic" tvg-name="VH1 Classic" tvg-logo="http://y.cdn.entutele.com/media/channels/big/vh1-classic.gif" group-title="MÚSICA - MUSIC",VH1 Classic (Op2)
-http://tvbytetvtest1.jl.serv.net.mx/totalweb.php/canal_728/calidad_3/token_UUVIV-1011000010100100111000001010010-ExabyteTV/exabytetv.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV VH1 HD" tvg-name="VH1 HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/vh1-hd.gif" group-title="MÚSICA - MUSIC",VH1 HD (Op1) *  Sólo México o con VPN
-http://tvbytetvtest3.jl.serv.net.mx/totalplei.php/canal_703/calidad_3/token_UUVIV-1011000010100100111000001010010-ExabyteTV/exabytetv.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV VH1 HD" tvg-name="VH1 HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/vh1-hd.gif" group-title="MÚSICA - MUSIC",VH1 HD (Op2)
-http://tvbytetvtest1.jl.serv.net.mx/totalweb.php/canal_703/calidad_3/token_UUVIV-1011000010100100111000001010010-ExabyteTV/exabytetv.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV VH1" tvg-name="VH1" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/227.png" group-title="MÚSICA - MUSIC",VH1 Latino**
-http://hyper.exabytetv.info/HLS/483/483-UUVIV-1011000010100100111000001010010-ExabyteTV.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://www.graphicdesign.com/wp-content/uploads/2013/02/thumb-vh1.png" group-title="MÚSICA - MUSIC",VH1 USA
-http://premium.exabytetv.info/gc/UUVIV-1011000010100100111000001010010-ExabyteTV/1706/exabytetv.m3u8
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="MÚSICA - MUSIC",Vibee
 http://46.101.21.42:8081/live/live2/playlist.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/3698.png" group-title="MÚSICA - MUSIC",Videorola**
-http://hyper.exabytetv.info/HLS/13444/13444-UUVIV-1011000010100100111000001010010-ExabyteTV.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="MÚSICA - MUSIC",Virgin TV
-http://wow01.105.net/live/virgin1/chunklist_w25732073.m3u8
 
