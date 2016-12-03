@@ -44,7 +44,7 @@ http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
 
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://t-eska.cdn.smcloud.net/common/L/v/s/Lv2051015XSLQ.jpg" group-title="MÚSICA - MUSIC", Eska Vox TV Old Cool
-rtmp://stream.smcloud.net/live2/vox/vox_720p
+http://stream.smcloud.net/tv/vox/vox_480p/playlist.m3u8
 
 #EXTINF:-1, Virgin TV
 http://wow01.105.net/live/virgin1/.m3u8
