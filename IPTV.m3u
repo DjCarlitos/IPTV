@@ -49,6 +49,9 @@ http://stream.smcloud.net/live/vox/playlist.m3u8
 #EXTINF:-1, Virgin TV
 http://wow01.105.net/live/virgin1/.m3u8
 
+#EXTINF:-1, Deluxe Music
+http://server55.livestreamingcdn.com:1935/tulixdemo/tulixdemo/chunklist.m3u8
+
 #EXTINF:0, 538 TV
 http://538hls.lswcdn.triple-it.nl/content/538tv/538tv_0.m3u8
 
