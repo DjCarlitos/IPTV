@@ -31,7 +31,7 @@ http://www.djing.com/tv/a-05.m3u8
 #EXTINF:-1 tvg-logo="http://www.tda.gob.ar/servicios/images/productoras/_caba-amba-27.02.png", OneTV HD
 http://server5.stweb.tv/radioone/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.one.by/images/logo.png", One HD
+#EXTINF:-1 tvg-logo="http://online-red.com/images/tv/one-hd.png", One HD
 http://rtmp.one.by:1300/
 
 #EXTINF:0, Capital TV HD
@@ -46,16 +46,16 @@ http://wow2.cl.digitalproserver.com/contivisionmusica/contivisionmusicavivomp4:l
 #EXTINF:-1 tvg-logo="http://www.sat-address.com/f/pics/logotipi/Vox-Olds-Cool-TV_o.jpg", Eska Vox TV Old Cool
 http://stream.smcloud.net/tv/vox/vox_480p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://oklivetv.com/wp-content/uploads/2015/02/virgin_tv_0_11.png, Virgin TV
+#EXTINF:-1 tvg-logo="http://oklivetv.com/wp-content/uploads/2015/02/virgin_tv_0_11.png", Virgin TV
 http://wow01.105.net/live/virgin1/.m3u8
 
 #EXTINF:-1, Deluxe Music
 http://server55.livestreamingcdn.com:1935/tulixdemo/tulixdemo/chunklist.m3u8
 
-#EXTINF:0, 538 TV
+#EXTINF:-1 tvg-logo="http://d2zr9w65gdacs9.cloudfront.net/14869/538logo-kader-rgb1467807286full-width.png", 538 TV
 http://538hls.lswcdn.triple-it.nl/content/538tv/538tv_0.m3u8
 
-#EXTINF:0, Monte Carlo TV
+#EXTINF:-1 tvg-logo="http://www.unitedmusic.it/images/rmc_logo.png", Monte Carlo TV
 http://fms.105.net:1935/live/rmc1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="MÚSICA - MUSIC",Vibee
