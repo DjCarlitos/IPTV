@@ -31,9 +31,6 @@ http://www.djing.com/tv/a-05.m3u8
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="MÚSICA - MUSIC",OneTV HD
 http://server5.stweb.tv/radioone/live/playlist.m3u8
 
-#EXTINF:-1, Contivision Musica HD
-http://wow2.cl.digitalproserver.com/contivisionmusica/contivisionmusicavivomp4:livestream1/playlist.m3u8
-
 #EXTINF:-1, One HD
 http://rtmp.one.by:1300/
 
@@ -42,6 +39,9 @@ http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
 
 #EXTINF:-1, Heart TV HD
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
+
+#EXTINF:-1, Contivision Musica HD
+http://wow2.cl.digitalproserver.com/contivisionmusica/contivisionmusicavivomp4:livestream1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://t-eska.cdn.smcloud.net/common/L/v/s/Lv2051015XSLQ.jpg" group-title="MÚSICA - MUSIC", Eska Vox TV Old Cool
 http://stream.smcloud.net/tv/vox/vox_480p/playlist.m3u8
@@ -69,9 +69,6 @@ http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes
 
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/City_tv_bulgaria.gif/200px-City_tv_bulgaria.gif" group-title="MÚSICA - MUSIC",City Radio TV
 http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/live.m3u8
-
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="MÚSICA - MUSIC",Dream TV
-http://212.224.108.80/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
 
 #EXTINF:-1, RT Español HD
 http://rt-esp-live.hls.adaptive.level3.net/rt/esp/index.m3u8
