@@ -19,14 +19,14 @@ http://www.djing.com/tv/05.m3u8
 #EXTINF:-1 tvg-logo="http://entworld.net/wp-content/uploads/2016/03/Djing-Classic.jpg", Djing Classic HD
 http://www.djing.com/tv/i-05.m3u8
 
-#EXTINF:-1 tvg-logo="http://wikitv.eu/wp-content/uploads/2015/09/DJing-Underground.jpg", Djing Underground HD
-http://www.djing.com/tv/u-05.m3u8
-
 #EXTINF:-1 tvg-logo="http://www.primetvweb.com/wp-content/uploads/2016/01/Djing-Ibiza-TV.png", Djing Ibiza HD
 http://www.djing.com/tv/d-05.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.streamytv.net/wp-content/uploads/2015/11/Djing-Animation.png", Djing Animation HD
 http://www.djing.com/tv/a-05.m3u8
+
+#EXTINF:-1 tvg-logo="http://wikitv.eu/wp-content/uploads/2015/09/DJing-Underground.jpg", Djing Underground HD
+http://www.djing.com/tv/u-05.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.tda.gob.ar/servicios/images/productoras/_caba-amba-27.02.png", OneTV HD
 http://server5.stweb.tv/radioone/live/playlist.m3u8
@@ -43,7 +43,7 @@ http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2730813661/c5c9113226a32210f58259626b68aa9d_400x400.png", Contivision Musica HD
 http://wow2.cl.digitalproserver.com/contivisionmusica/contivisionmusicavivomp4:livestream1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.sat-address.com/f/pics/logotipi/Vox-Olds-Cool-TV_o.jpg", Eska Vox TV Old Cool
+#EXTINF:-1 tvg-logo="http://www.mediafm.net/media/images/thumbnail/md5/e/5/e52aa4453577d54df408cb795c0705d4/vox_music_tv_1.png", Eska Vox TV Old Cool
 http://stream.smcloud.net/tv/vox/vox_480p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://oklivetv.com/wp-content/uploads/2015/02/virgin_tv_0_11.png", Virgin TV
@@ -97,13 +97,13 @@ http://skyianywhere2-i.akamaihd.net:80/hls/live/200275/tg24/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://vegasat.ru/imgs/1443652102.png", RT Docu HD
 http://rt-doc-live.hls.adaptive.level3.net/rt/doc/index.m3u8
 
-#EXTINF:0, CDO HD
+#EXTINF:0 tvg-logo="http://www.cdo.tv/senal-premium/img/logo.png", CDO HD
 http://wow2.cl.digitalproserver.com/cdo/cdovivo/cdo.smil/chunklist_w913906597_b1064000.m3u8
 
-#EXTINF:-1, Claro Sports HD
+#EXTINF:-1 tvg-logo="http://www.claro.com.co/portal/co/recursos_contenido/2757a11d-1590-4f41-905a-e097b8185c1e-Internacional-Claro-Sports.png", Claro Sports HD
 http://jjoo2016ch01-hlsfix.clarovideo.com/Content/hls_clear/Live/Channel(jjoo2016ch01)/index.m3u8
 
-#EXTINF:-1, Olympic Channel HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/The_Olympic_Channel_Logo_2016.svg/2000px-The_Olympic_Channel_Logo_2016.svg.png", Olympic Channel HD
 http://ocs-live.hls.adaptive.level3.net/ocs/channel01/NBC_OCS1_VIDEO_7_6064000.m3u8
 
 #EXTINF:-1, Red Bull TV HD
