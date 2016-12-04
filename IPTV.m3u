@@ -1,31 +1,31 @@
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/UCV_HD_2014.png/200px-UCV_HD_2014.png", UCV HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/UCV_HD_2014.png/200px-UCV_HD_2014.png", UCV HD
 http://unlimited5-cl.digitalproserver.com/ucvtv/ucvtv.smil/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/TVN_HD_Chile.png/250px-TVN_HD_Chile.png", TVN HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/TVN_HD_Chile.png/250px-TVN_HD_Chile.png", TVN HD
 http://mdstrm.com/live-stream-playlist/57a498c4d7b86d600e5461cb.m3u8?
  
-#EXTINF:-1, tvg-logo="http://vignette3.wikia.nocookie.net/tvcable/images/4/42/MegaHD.png/revision/latest?cb=20140710200950&path-prefix=es", MEGA HD
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/tvcable/images/4/42/MegaHD.png/revision/latest?cb=20140710200950&path-prefix=es", MEGA HD
 http://mdstrm.com/live-stream-playlist/53d2c1a32640614e62a0e000.m3u8?|User-Agent=Mozilla/5.0&amp;Referer=http://platform.s-mdstrm.com/player/-/assets/screen/screen.swf
 
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Logo_CHV_2015.png", CHV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Logo_CHV_2015.png", CHV
 http://live.hls.http.chv.ztreaming.com/chvhddesktop/chv-desktop.m3u8
 
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/13hd.png/250px-13hd.png", Canal 13 HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/13hd.png/250px-13hd.png", Canal 13 HD
 http://csm-e.yospace.13.cl/csm/extlive/canal13cl01,CH13M.m3u8?
 
-#EXTINF:0, tvg-logo="http://www.streamytv.net/wp-content/uploads/2015/11/Djing-TV.jpg", Djing HD
+#EXTINF:-1 tvg-logo="http://www.streamytv.net/wp-content/uploads/2015/11/Djing-TV.jpg", Djing HD
 http://www.djing.com/tv/05.m3u8
 
-#EXTINF:-1, tvg-logo="http://entworld.net/wp-content/uploads/2016/03/Djing-Classic.jpg", Djing Classic HD
+#EXTINF:-1 tvg-logo="http://entworld.net/wp-content/uploads/2016/03/Djing-Classic.jpg", Djing Classic HD
 http://www.djing.com/tv/i-05.m3u8
 
-#EXTINF:-1, tvg-logo="http://wikitv.eu/wp-content/uploads/2015/09/DJing-Underground.jpg", Djing Underground HD
+#EXTINF:-1 tvg-logo="http://wikitv.eu/wp-content/uploads/2015/09/DJing-Underground.jpg", Djing Underground HD
 http://www.djing.com/tv/u-05.m3u8
 
-#EXTINF:-1, tvg-logo="http://www.tvtuga.com/wp-content/uploads/2015/12/djing-ibiza-tv.jpg", Djing Ibiza HD
+#EXTINF:-1 tvg-logo="http://www.tvtuga.com/wp-content/uploads/2015/12/djing-ibiza-tv.jpg", Djing Ibiza HD
 http://www.djing.com/tv/d-05.m3u8
 
-#EXTINF:-1, tvg-logo="http://www.streamytv.net/wp-content/uploads/2015/11/Djing-Animation.png", Djing Animation HD
+#EXTINF:-1 tvg-logo="http://www.streamytv.net/wp-content/uploads/2015/11/Djing-Animation.png", Djing Animation HD
 http://www.djing.com/tv/a-05.m3u8
 
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="MÚSICA - MUSIC",OneTV HD
