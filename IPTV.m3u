@@ -142,8 +142,11 @@ http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8?
 #EXTINF:-1 tvg-logo="https://0.s3.envato.com/files/109789205/newVISITX.jpg", Visit-X TV HD
 http://stream.visit-x.tv/vxtv/live/playlist.m3u8?
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="XXX",BS24 Live
+#EXTINF:-1 tvg-logo="http://ero-tv.org/wp-content/uploads/2014/08/babestation24.gif", BS24 Live
 http://de-origin-live.3qsdn.com:1935/2346/Ct6zG7Nrj3v2JxD/playlist.m3u8
+
+#EXTINF:0, Venus
+http://159.203.63.133:8081/rstm/Venus/playlist.m3u8
 
 #EXTINF:-1, Playboy Asia
 http://main1sb.everyon.tv:1935/etv1sb/pld10497/exabytetv.m3u8
@@ -157,25 +160,13 @@ http://edge2.everyon.tv/etv2sb/phd10769/playlist.m3u8
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="XXX",Ask
 http://edge2.everyon.tv/etv2sb/phd10771/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="XXX",ButGO
-http://main2sb.everyon.tv:1935/etv2sb/pld10772/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="XXX",Okadai TV
-http://main2sb.everyon.tv:1935/etv2sb/pld10499/HasBahCa.m3u8
-
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="XXX",LiveTing
-http://main2sb.everyon.tv:1935/etv2sb/pld10062/HasBahCa.m3u8
-
-#EXTINF:0, Venus
-http://159.203.63.133:8081/rstm/Venus/playlist.m3u8
-
 #EXTINF:0, FOX Movies 
 http://159.203.63.115:8081/rstm/FOX-Movies/playlist.m3u8 
 
-#EXTINF:0, FOX Cinema
+#EXTINF:0 tvg-logo="http://foromedios.com/uploads/gallery/category_2/gallery_1163_2_64.png", FOX Cinema
 http://159.203.63.115:8081/rstm/FOX-Cinema/playlist.m3u8 
 
-#EXTINF:0, FOX Family 
+#EXTINF:0 tvg-logo="http://altmeapps.com/qualytv/gt/wp-content/uploads/sites/2/2014/12/fxfamily.png", FOX Family 
 http://159.203.63.115:8081/rstm/FOX-Family/playlist.m3u8 
 
 #EXTINF:0, HBO Family 
