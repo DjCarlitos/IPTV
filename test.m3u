@@ -1,5 +1,11 @@
 #EXTINF:0,Spice Tv 18+ (Adult) (US) (English)
 rtmp://main2sb.everyon.tv:1935/etv2sb/_definst_/phd10499
 
-#EXTINF:0,Viki Enjoy Premium HD,
+#EXTINF:0,Viki Enjoy Premium HD
 rtmp://edge1.everyon.tv/etv1sb/phd10765
+
+#EXTINF:0,The O HD
+rtmp://edge2.everyon.tv/etv2sb/phd10771
+
+#EXTINF:0,Pink TV HD
+rtmp://edge2.everyon.tv/etv2sb/phd10062
