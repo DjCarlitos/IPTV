@@ -10,6 +10,9 @@ http://mdstrm.com/live-stream-playlist/53d2c1a32640614e62a0e000.m3u8?|User-Agent
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Logo_CHV_2015.png", CHV
 http://live.hls.http.chv.ztreaming.com/chvhddesktop/chv-desktop.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.tda.gob.ar/servicios/images/productoras/_caba-amba-27.02.png", OneTV HD
+http://server5.stweb.tv/radioone/live/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/13hd.png/250px-13hd.png", Canal 13 HD
 http://csm-e.yospace.13.cl/csm/extlive/canal13cl01,CH13M.m3u8?
 
@@ -28,8 +31,8 @@ http://www.djing.com/tv/a-05.m3u8
 #EXTINF:-1 tvg-logo="http://wikitv.eu/wp-content/uploads/2015/09/DJing-Underground.jpg", Djing Underground HD
 http://www.djing.com/tv/u-05.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tda.gob.ar/servicios/images/productoras/_caba-amba-27.02.png", OneTV HD
-http://server5.stweb.tv/radioone/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://online-red.com/images/tv/one-hd.png", One HD
+http://rtmp.one.by:1300/
 
 #EXTINF:0, Capital TV HD
 http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
@@ -37,16 +40,13 @@ http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
 #EXTINF:-1, Heart TV HD
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://online-red.com/images/tv/one-hd.png", One HD
-http://rtmp.one.by:1300/
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2730813661/c5c9113226a32210f58259626b68aa9d_400x400.png", Contivision Musica HD
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2730813661/c5c9113226a32210f58259626b68aa9d_400x400.png", Contivision Música HD
 http://wow2.cl.digitalproserver.com/contivisionmusica/contivisionmusicavivomp4:livestream1/playlist.m3u8
 
-#EXTINF:0, Radio capital TV
+#EXTINF:0, Radio Capital TV
 http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.mediafm.net/media/images/thumbnail/md5/e/5/e52aa4453577d54df408cb795c0705d4/vox_music_tv_1.png", Eska Vox TV Old Cool
+#EXTINF:-1 tvg-logo="http://www.mediafm.net/media/images/thumbnail/md5/e/5/e52aa4453577d54df408cb795c0705d4/vox_music_tv_1.png", Vox TV Old Cool
 http://stream.smcloud.net/tv/vox/vox_480p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://oklivetv.com/wp-content/uploads/2015/02/virgin_tv_0_11.png", Virgin TV
@@ -66,9 +66,6 @@ http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=o
 
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="MÚSICA - MUSIC",M6 Music
 http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8
-
-#EXTINF:-1 tvg-logo="http://parallel-bg.com/images/city.png", City Radio TV
-http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/live.m3u8
 
 #EXTINF:-1, RT Español HD
 http://rt-esp-live.hls.adaptive.level3.net/rt/esp/index.m3u8
@@ -133,16 +130,13 @@ http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8?sd=10&rebase=o
 #EXTINF:-1, La Sexta HD
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/1357.png" group-title="ESPAÑA",13tv
-http://streaming.enetres.net:80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8
-
 #EXTINF:-1, Weather Channel HD
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
 
 #EXTINF:-1, Miami TV HD
 http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8?
 
-#EXTINF:0, JASMIN
+#EXTINF:0 tvg-logo="https://photos.prnewswire.com/prnvar/20150526/219576LOGO", JASMIN.TV
 rtmp://109.71.162.112:1935/live/sd.jasminchannel.stream
 
 #EXTINF:-1 tvg-logo="https://0.s3.envato.com/files/109789205/newVISITX.jpg", Visit-X TV HD
