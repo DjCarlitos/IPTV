@@ -148,17 +148,35 @@ http://de-origin-live.3qsdn.com:1935/2346/Ct6zG7Nrj3v2JxD/playlist.m3u8
 #EXTINF:0, Venus
 http://159.203.63.133:8081/rstm/Venus/playlist.m3u8
 
-#EXTINF:-1, Playboy Asia
-http://main1sb.everyon.tv:1935/etv1sb/pld10497/exabytetv.m3u8
+#EXTINF:-1, Playboy TV Asia
+rtmp://edge1.everyon.tv/etv1sb/phd10497
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://hd-report.com/wp-content/uploads/2011/01/penthouse-logo.jpg" group-title="XXX",Penthouse Asia
+#EXTINF:0, Spice TV Asia
+rtmp://main2sb.everyon.tv:1935/etv2sb/_definst_/phd10499
+
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://hd-report.com/wp-content/uploads/2011/01/penthouse-logo.jpg" group-title="XXX", Penthouse Asia
 rtmp://edge1.everyon.tv/etv1sb/phd10927
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://www.streamytv.net/wp-content/uploads/2014/10/Playy-19-TV-HD-300x187.jpg" group-title="XXX",Playy 19+
-http://edge2.everyon.tv/etv2sb/phd10769/playlist.m3u8
+#EXTINF:0, Viki Enjoy Premium
+rtmp://edge1.everyon.tv/etv1sb/phd10765
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="XXX",Ask
+#EXTINF:0, Midnight
+rtmp://edge1.everyon.tv/etv1sb/phd10766
+
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://www.streamytv.net/wp-content/uploads/2014/10/Playy-19-TV-HD-300x187.jpg" group-title="XXX", Playy 19+
+rtmp://edge2.everyon.tv/etv2sb/phd10769
+
+#EXTINF:0, Girls TV
+rtmp://edge2.everyon.tv/etv2sb/phd10501
+
+#EXTINF:0, But Go
+rtmp://edge2.everyon.tv/etv2sb/phd10772
+
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="XXX", The O HD
 http://edge2.everyon.tv/etv2sb/phd10771/playlist.m3u8
+
+#EXTINF:0, Sakura TV HD
+rtmp://edge2.everyon.tv/etv2sb/phd10061
 
 #EXTINF:0, FOX Movies 
 http://159.203.63.115:8081/rstm/FOX-Movies/playlist.m3u8 
