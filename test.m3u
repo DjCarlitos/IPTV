@@ -1,92 +1,229 @@
-#EXTINF:0,Spice Tv 18+ (Adult) (US) (English)
-rtmp://main2sb.everyon.tv:1935/etv2sb/_definst_/phd10499
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://static.elobservador.com.uy/adjuntos/181/imagenes/009/494/0009494138.jpg",Game Of Thrones 24/7 HD
+http://latino-webtv.ml/series/gameofthrones.mp4
 
-#EXTINF:0,Viki Enjoy Premium HD
-rtmp://edge1.everyon.tv/etv1sb/phd10765
+#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/f/f9/Fox_(5).png",FOX Movies
+http://159.203.63.115:8081/rstm/FOX-Movies/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://foromedios.com/uploads/gallery/category_2/gallery_1163_2_2998.png",FOX Family
+http://159.203.63.115:8081/rstm/FOX-Family/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.cnt.gob.ec/tv/wp-content/uploads/sites/5/2014/10/FOX-Cinema-Logo-01.png",Fox Cinema
+http://159.203.63.115:8081/rstm/FOX-Cinema/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/18/TNT_NV_logo.svg/1280px-TNT_NV_logo.svg.png",TNT
+http://159.203.63.115:8081/rstm/TNT/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png",HBO Family
+http://159.203.63.115:8081/rstm/HBO-Family/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://fontmeme.com/images/disney-xd-logo.png",Disney XD
+http://159.203.63.115:8081/rstm/DisneyXD/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Univision_-_Televisa_Deportes_Network_logo_-_2012.png",Univision TDN
+http://159.203.63.115:8081/rstm/Univision-TDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7e/Fox_Sports_2_logo.png",Fox Sport 2
+http://159.203.63.133:8081/rstm/FoxSports2/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.logosurfer.com/sites/default/files/espn-logo_0.jpg",Espn
+http://159.203.63.133:8081/rstm/Espn/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://blogvecindad.com/imagenes/2013/11/Canal-Once-Mexico-Logo-nuevo.png",Canal ONCE
+http://159.203.34.7:8081/rstm/OnceTV/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.elpoderdelasideas.com/wp-content/uploads/nuevo_antes_despues_logo_las_estrellas_televisa_detalles.png",Las Estrellas
+http://159.203.63.115:8081/rstm/Estrellas/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i2.esmas.com/img/gala-tv/logoGalavisionFooter.png",GalaTV
+http://159.203.63.115:8081/rstm/GalaTV/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/1/1e/Telehit-logo.gif/revision/latest?cb=20120102193439",Telehit
+http://159.203.63.115:8081/rstm/Telehit/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.ritmoson.tv/content/dam/televisa/networks/ritmoson/logos/2016/06/03/ritmoson-logo280x151.png",Ritmoson
+http://159.203.63.115:8081/rstm/Ritmoson/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/4/48/Logo_venus_out_color.jpg",VENUS
+http://159.203.63.133:8081/rstm/Venus/playlist.m3u8
 
-#EXTINF:0,The O HD
-rtmp://edge2.everyon.tv/etv2sb/phd10771
 
-#EXTINF:0,Pink TV HD
-rtmp://edge2.everyon.tv/etv2sb/phd10062
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Logo_Azteca_13_HD_2007-2011.svg/150px-Logo_Azteca_13_HD_2007-2011.svg.png",Azteca 13
+http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/master.m3u8
+#EXTINF:-1 tvg-logo="http://www.elpoderdelasideas.com/wp-content/uploads/nuevo_antes_despues_logo_las_estrellas_televisa_detalles.png",Canal De Las Estrellas
+http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-p.m3u8
+#EXTINF:-1 tvg-logo="http://www.underconsideration.com/brandnew/archives/vevo_logo_detail.gif",Vevo HD 1
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
+#EXTINF:-1 tvg-logo="http://www.underconsideration.com/brandnew/archives/vevo_logo_detail.gif",Vevo HD 2
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
+#EXTINF:-1 tvg-logo="http://www.underconsideration.com/brandnew/archives/vevo_logo_detail.gif",Vevo HD 3
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
+#EXTINF:-1 tvg-logo="https://www.apkgplay.com/img/2016/02/24/22491/com.noticias.azteca.jpg",Azteca Noticias
+http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_2_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png",Nasa Tv
+http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_1000_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/3a67ac9349717.56323aac30ee4.jpg",Melody channel
+http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/41Bb2x1cL9L.png",Heart TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="http://www.hypptv.info/wordpress/wp-content/uploads/CapitalTV-Logo-TV-in-box.gif",Capital TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="http://i.cdn.cnn.com/cnn/.e1mo/img/4.0/logos/logo_cnn_badge_2up.png",CNN Internacional
+http://edge1.everyon.tv/etv1sb/pld16/chunklist_w535411323.m3u8
 
-#EXTINF:0,Asia Red On HD
-rtmp://edge2.everyon.tv/etv2sb/phd10060
 
-#EXTINF:0,ASK (Adult Sex Korea) 18++ HD
-rtmp://edge2.everyon.tv/etv2/phd1005
 
-#EXTINF:0,Best public 일반인베스트 18++ HD
-rtmp://edge2.everyon.tv/etv2sb/phd10991
+#EXTINF:-1 tvg-id="Antena 3" tvg-name="Antena 3" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/113.png" group-title="ENTRETENIMIENTO",Antena 3 Internacional
+http://a3live-lh.akamaihd.net:80/i/antena3_1@35248/master.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/568891279811944448/JiOTtBc-.jpeg",Sun Channel HD
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/SUN/tu1_manifest.m3u8?
+#EXTINF:0 tvg-logo="https://spiderdigitalmarketing.com/fbapps/cosmovision_etapa2/img/logoCosmovision.png",Cosmovision
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_1.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/TC_LOGO.png/245px-TC_LOGO.png",Trendy Channel
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8
+#EXTINF:0 tvg-logo="http://www.canalmimusica.com/wp-content/uploads/2012/11/logo-mimusica.png",Mi musica
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8
+#EXTINF:0 tvg-logo="http://www.laurakalop.com/wordpress/wp-content/uploads/2015/08/TigoMusic_LogoOK.png",Tigo Music
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8
+#EXTINF:0 tvg-logo="http://amaga-antioquia.gov.co/apc-aa-files/64363032323964613566383762666466/TELEANTIOQUIA.jpg",Teleantiquia
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8
+#EXTINF:0 tvg-logo="http://televida.org.do/live/logo.png",Televida
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVID/tu1_1.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/CTV_LOGO.png/245px-CTV_LOGO.png",Cantinazo Tv
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8
+#EXTINF:0 tvg-name="TELEAMIGA" tvg-logo="http://i.imgur.com/KYQBZ.png",Teleamiga
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0002/tu1_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ESPAñA",Antena 3 Esp
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ESPAñA",Atreseries
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/3624.png" group-title="ESPAñA",La Sexta
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ESPAñA",Mega
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/509064688550694912/WY6A_PqH.jpeg" group-title="ESPAñA",Neox
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://1.bp.blogspot.com/-5vN9J6YpS4s/VtrHGSsAKCI/AAAAAAABBBw/gKGpeyYYefw/s1600/360TV.jpg" group-title="ARGENTINA",360 TV
+http://lsd360tvhls-lh.akamaihd.net/i/360TVHLS_1@197877/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ARGENTINA",Canal 10 Mar de Plata
+http://ionlive1-lh.akamaihd.net/i/canal10_1@125367/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/1514.png" group-title="ARGENTINA",Orbe 21
+http://urtmpkal-f.akamaihd.net/i/1b6mj17sk_1@308700/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://qmnoticias.com/uploads/cliente/marca/20150406121942_logo_qm_alpha.png" group-title="ARGENTINA",Qm TV
+http://qmnoticiashls-lh.akamaihd.net/i/qmnoticias_hls@324831/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tectv.gob.ar/resources/img/logo.png" group-title="ARGENTINA",Tec TV
+http://tectvhls-lh.akamaihd.net/i/tectvHLS_1@334993/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ARGENTINA",Viajar
+http://eventshd-lh.akamaihd.net/i/viajar_1@168433/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/1161.png" group-title="PERU",Latina
+http://ooyalahd2-f.akamaihd.net/i/latinlima01_delivery@42383/master.m3u8
+#EXTINF:-1 tvg-logo="http://frenchculture.org/sites/default/files/styles/fancybox/public/field/image/tv5_monde_0.jpg",TV Monde
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TV5/tu1_1.m3u8
+#EXTINF:-1 tvg-logo="http://estudielabiblia.com/wp-content/uploads/2013/10/tv500x2501-500x250.jpg",Nueva Vida
+http://stream.novotempo.com:1935/tv/tvnuevotiempo.stream/live.m3u8
+#EXTINF:-1 tvg-logo="http://core2.staticworld.net/images/article/2015/09/nasa-tv-uhd-logo-100614289-large.jpg",Nasa TV
+http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8?
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/2013-09-04_JJDDNN_en_directo_a_traves_de_CDO.jpg",CDO HD
+http://wow2.cl.digitalproserver.com/cdo/cdovivo/cdo.smil/chunklist_w913906597_b1064000.m3u8
+#EXTINF:-1 group-title="Colombia" tvg-logo="http://telemedellin.tv/wp-content/themes/telemedellin/img/telemedellin-logo.png", Telemedellin 
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8?
+#EXTINF:-1 group-title="Colombia" tvg-logo="https://www.yiptv.com/wp-content/uploads/2015/05/400x400-logo.png",Canal Antiestres
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8 
+#EXTINF:-1 group-title="Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Telecafe11.png/170px-Telecafe11.png",Telecafe
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TCAF/tu1_1.m3u8?
+#EXTINF:-1 group-title="Colombia" tvg-logo="http://foromedios.com/uploads/gallery/category_7/gallery_7942_7_898.png",Teleantioquia HD
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8?
+#EXTINF:-1 group-title="Colombia" tvg-logo="https://lh6.googleusercontent.com/-0vj3JwCG7gY/UY0f-xlZxeI/AAAAAAAACK4/2e7V7B3y_bU/s400/logo%2520de%2520vmastv.png",Vms TV
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8?
+#EXTINF:-1 group-title="Colombia" tvg-logo="https://www.cosmovision.tv/wp-content/themes/cosmovision/images/logo-cosmovision.png",CosmoVision 
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_1.m3u8?
+#EXTINF:-1 group-title="Colombia" tvg-logo="http://www.tigomusic.co/sites/music.co/files/logo_music.png",Tigo Music
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8
+#EXTINF:-1 group-title="Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/TC_LOGO.png/245px-TC_LOGO.png",Trendy 
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8
+#EXTINF:-1 group-title="Colombia" tvg-logo="http://www.olympusat.com/sites/default/files/styles/network-super-expanded/public/tvargo_logos.png?itok=v-Ii-H97",TV Agro
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVAG/tu1_1.m3u8
+#EXTINF:-1 group-title="Colombia" tvg-logo="http://i.imgur.com/6J9ntl6.png",Une TV Manizales
+http://lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEZ/tu1_1.m3u8
+#EXTINF:0 group-title="Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Canal13Chile_Vectorial.svg/2000px-Canal13Chile_Vectorial.svg.png",Canal 13
+http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8
+#EXTINF:0 group-title="Chile" tvg-logo="http://www.chilecreadores.cl/wp-content/uploads/2015/11/arica-tv.png",  Arica TV
+http://wow2.cl.digitalproserver.com/aricatv/aricatvvivo/aricatv.smil/chunklist_w725671068_b848000.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/2015_Caracol_TV_logo.svg/2000px-2015_Caracol_TV_logo.svg.png" group-title="Local" tvg-logo="   ",Caracol
+http://latino-webtv.ml:8880/caracolhd/playlist.m3u8
+#EXTINF:0 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/9/93/Rcn-hd2.jpg/revision/latest?cb=20160224201338" group-title="Local" tvg-logo="   ",RCN 
+http://latino-webtv.ml:8880/rcnhd2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local" tvg-logo="   ",Canal 66 Mexicali
+http://canal44-lh.akamaihd.net/i/ch_mexicali@325633/master.m3u8
 
-#EXTINF:0,But Go HD
-rtmp://edge2.everyon.tv/etv2sb/phd10772
+#EXTINF:-1 tvg-logo="http://portal1.iptvprivateserver.tv/stalker_portal/misc/logos/320/501.png",Music Videos 1 
+http://djing.com/tv/underground.m3u8
+#EXTINF:-1 tvg-logo="http://portal1.iptvprivateserver.tv/stalker_portal/misc/logos/320/503.png",Music Videos 2 
+http://djing.com/tv/dancefloor.m3u8
+#EXTINF:-1 tvg-logo="http://portal1.iptvprivateserver.tv/stalker_portal/misc/logos/320/499.png",Music Videos 3 
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="http://portal1.iptvprivateserver.tv/stalker_portal/misc/logos/320/507.png",Music Videos 4 
+http://cdn.rbm.tv/rightbrainmedia-live-109/_definst_/smil:spirit_all.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal1.iptvprivateserver.tv/stalker_portal/misc/logos/320/505.png",Music Videos 5
+rtmp://fms.105.net:1935/live/rmc1
+#EXTINF:-1 tvg-logo="http://portal1.iptvprivateserver.tv/stalker_portal/misc/logos/320/277.png",Music Videos 6 
+http://wow01.105.net/live/virgin1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal1.iptvprivateserver.tv/stalker_portal/misc/logos/320/509.png",Music Videos 7 
+http://redir.atmcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8?sessionId=ABA74CBC0702307FF0B559F938FC9B21.node1&stream=2
+#EXTINF:-1 tvg-logo="http://portal1.iptvprivateserver.tv/stalker_portal/misc/logos/320/513.png",Music Videos 8 
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_1500_av-b.m3u8
+#EXTINF:-1 tvg-logo="http://portal1.iptvprivateserver.tv/stalker_portal/misc/logos/320/515.png",Music Videos 9 
+http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
+#EXTINF:-1 tvg-logo="http://portal1.iptvprivateserver.tv/stalker_portal/misc/logos/320/529.png",Music Videos 10 
+http://rtl-radio-stream.4mecloud.it/live-video/radiovisione/ngrp:radiovisione/playlist.m3u8
 
-#EXTINF:0,Cinero aka J Hot Girl TV HD
-rtmp://edge2.everyon.tv/etv2sb/phd10059
 
-#EXTINF:0,Delight Empire HD Movies
-rtmp://edge2.everyon.tv/etv2sb/phd10063
+#EXTINF:-1 tvg-logo="http://portal1.iptvprivateserver.tv/stalker_portal/misc/logos/320/3618.png",Poker Central 
+http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8?
+#EXTINF:-1 tvg-logo="http://portal1.iptvprivateserver.tv/stalker_portal/misc/logos/320/3643.png",REV'N 
+http://pub2.mpl.miisolutions.net/pub2-live-54/_definst_/smil:REVN_all.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal1.iptvprivateserver.tv/stalker_portal/misc/logos/320/3529.png",GolTV 
+http://50.97.142.130/hls2/amlst:30001_ios/chunklist_b1396000.m3u8
+#EXTINF:-1 tvg-logo="http://portal1.iptvprivateserver.tv/stalker_portal/misc/logos/320/2854.png",DXTV 
+http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u8
 
-#EXTINF:0,Fetish Woman 18++
-rtmp://edge2.everyon.tv/etv2sb/phd10992
+#EXTINF:-1 tvg-logo="http://i58.tinypic.com/dfhrpc.jpg",Telecaribe (Opcion 4)
+http://cdns840stu1010.multistream.net/telecaribelive/amlst:live/master.m3u8
+#EXTINF:-1 tvg-logo="http://portal1.iptvprivateserver.tv/stalker_portal/misc/logos/320/3637.png",RT US 
+http://rt-usa-live.hls.adaptive.level3.net/rt/usa/index2500.m3u8
+#EXTINF:-1 tvg-logo="http://portal1.iptvprivateserver.tv/stalker_portal/misc/logos/320/1087.png",ABC News 
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
+#EXTINF:-1 tvg-logo="http://portal1.iptvprivateserver.tv/stalker_portal/misc/logos/320/3597.png",WGN News 
+http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_700_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="http://portal1.iptvprivateserver.tv/stalker_portal/misc/logos/320/3620.png",C-Span 
+http://cspan1-lh.akamaihd.net/i/cspan1_1@304727/index_1000_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="http://portal1.iptvprivateserver.tv/stalker_portal/misc/logos/320/3622.png",C-Span  Book TV 
+http://cspan2-lh.akamaihd.net/i/cspan2_1@304728/index_1000_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="http://portal1.iptvprivateserver.tv/stalker_portal/misc/logos/320/3621.png",C-Span American History TV 
+http://cspan3-lh.akamaihd.net/i/cspan3_1@304729/index_1000_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="http://portal1.iptvprivateserver.tv/stalker_portal/misc/logos/320/1894.png",WeatherNation 
+http://kalseglive-a.akamaihd.net/dc-1/m/ny-live-publish101/kLive/smil:1_oorxcge2_all.smil/32/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://portal1.iptvprivateserver.tv/stalker_portal/misc/logos/320/3288.png",The Weather Network 
+http://brightcove03-f.akamaihd.net/nationalhd_1_2500@106499?
+#EXTINF:-1 tvg-logo="http://portal1.iptvprivateserver.tv/stalker_portal/misc/logos/320/3265.png",Bloomberg TV Asia 
+http://btvasia-i.akamaihd.net/hls/live/203322/btvasia_ios/P1/M18K.m3u8
+#EXTINF:-1 tvg-logo="http://portal1.iptvprivateserver.tv/stalker_portal/misc/logos/320/62.png",RT International 
+http://rt-eng-live.hls.adaptive.level3.net/rt/eng/index2500.m3u8
+#EXTINF:-1 tvg-logo="http://portal1.iptvprivateserver.tv/stalker_portal/misc/logos/320/419.png",France 24 
+http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+#EXTINF:-1 tvg-logo="http://portal1.iptvprivateserver.tv/stalker_portal/misc/logos/320/1089.png",Bloomberg TV UK 
+http://btvuk-i.akamaihd.net/hls/live/203321/btvuk_ios/P1/M18K.m3u8
+#EXTINF:-1 tvg-logo="http://portal1.iptvprivateserver.tv/stalker_portal/misc/logos/320/3638.png",RT UK 
+http://rt-uk-live.hls.adaptive.level3.net/rt/uk/index2500.m3u8
+#EXTINF:-1 tvg-logo="http://portal1.iptvprivateserver.tv/stalker_portal/misc/logos/320/3265.png",Bloomberg TV Asia 
+http://btvasia-i.akamaihd.net/hls/live/203322/btvasia_ios/P1/M18K.m3u8
+#EXTINF:-1 tvg-logo="http://portal1.iptvprivateserver.tv/stalker_portal/misc/logos/320/1760.png",BBC World News 
+http://iptvlatinototal.ml/s2.m3u8?user=DXais1oM7cr94&cm=13193&token=U2FsdGVkX1%2FabnjoCwhxIqmwGmjPzV2bZzu%2BkhqcoXtleih0022TFl94SLq1XO1B
+#EXTINF:-1 tvg-logo="http://portal1.iptvprivateserver.tv/stalker_portal/misc/logos/320/3610.png",TRT World 
+http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
+#EXTINF:-1 tvg-logo="http://portal1.iptvprivateserver.tv/stalker_portal/misc/logos/320/62.png",RT International 
+http://rt-eng-live.hls.adaptive.level3.net/rt/eng/index2500.m3u8
+#EXTINF:-1 tvg-logo="http://portal1.iptvprivateserver.tv/stalker_portal/misc/logos/320/419.png",France 24 
+http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+#EXTINF:-1 tvg-logo="http://portal1.iptvprivateserver.tv/stalker_portal/misc/logos/320/1959.png",Press TV 
+http://178.32.255.199:1935/live/ptven/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal1.iptvprivateserver.tv/stalker_portal/misc/logos/320/1127.png",Euronews 
+http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/iphone_en.m3u8
+#EXTINF:-1 tvg-logo="http://portal1.iptvprivateserver.tv/stalker_portal/misc/logos/320/60.png",Al Jazeera 
+http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/appleman.m3u8
 
-#EXTINF:0,Fetish Woman Free Version 18++
-rtmp://edge2.everyon.tv/etv2sb/phd10968
 
-#EXTINF:0,Girls 4 U HD
-rtmp://edge2.everyon.tv/etv2sb/phd10501
-
-#EXTINF:0,Honey 18++ HD
-rtmp://edge1.everyon.tv/etv1sb/pld10928
-
-#EXTINF:0,HOT 18++
-rtmp://twtv.touhao1995.com:1935/tv/ttv11
-
-#EXTINF:0,Hot Movies HD
-rtmp://edge2.everyon.tv/etv2sb/pld00511
-
-#EXTINF:0,JAV TV HD 18++
-rtmp://edge2.everyon.tv/etv2/phd1003
-
-#EXTINF:0,Live Ting HD
-rtmp://edge2.everyon.tv/etv2sb/phd10064
-
-#EXTINF:0,Live Ting TV HD 18++
-rtmp://edge2.everyon.tv/etv2/phd1006
-
-#EXTINF:0,Midnight HD
-rtmp://edge1.everyon.tv/etv1sb/phd10766
-
-#EXTINF:0,Ohdeok 942 오덕구사이 942 HD 18++
-rtmp://edge2.everyon.tv/etv2sb/phd10993
-
-#EXTINF:0,Paradise HD 18++
-rtmp://edge2.everyon.tv/etv2/phd1008
-
-#EXTINF:0,Passie XXX 18++
-http://178.33.126.213:1935/leved/passielivestream/.m3u8
-
-#EXTINF:0,Penthouse Asia 18++ HD
-rtmp://edge1.everyon.tv/etv1sb/phd10927
-
-#EXTINF:0,Pink TV HD
-rtmp://edge2.everyon.tv/etv2sb/phd10062
-
-#EXTINF:0,Playboy TV HD 18++
-rtmp://edge1.everyon.tv/etv1sb/phd10497
-
-#EXTINF:0,Playy>19+ HD
-rtmp://edge2.everyon.tv/etv2sb/phd10769
-
-#EXTINF:0,Sakura TV HD
-rtmp://edge2.everyon.tv/etv2sb/phd10061
-
-#EXTINF:0,Spice TV HD
-rtmp://edge2.everyon.tv/etv2sb/phd10499
-
-#EXTINF:0,The O HD
-rtmp://edge2.everyon.tv/etv2sb/phd10771
-
-#EXTINF:0,Viki Enjoy Premium HD
-rtmp://edge1.everyon.tv/etv1sb/phd10765
+#EXTINF:-1 tvg-logo="http://portal1.iptvprivateserver.tv/stalker_portal/misc/logos/320/2722.png",Fox Sports Southwest 
+http://lb.iptvserver.tv:8080/redirect/LiveEdge/FSNTXUS/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal1.iptvprivateserver.tv/stalker_portal/misc/logos/320/3413.png",SportsNet New York 
+http://lb.iptvserver.tv:8080/redirect/LiveEdge/SportsNetNewYorkUS/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal1.iptvprivateserver.tv/stalker_portal/misc/logos/320/1197.png",Ultimate Events & Sports 
+http://lb.iptvserver.tv:8080/redirect/LiveEdge/skysp1.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal1.iptvprivateserver.tv/stalker_portal/misc/logos/320/1451.png",Ultimate Events & Sports 2 
+http://lb.iptvserver.tv:8080/redirect/LiveEdge/EstrellaTVLA/playlist.m3u8
