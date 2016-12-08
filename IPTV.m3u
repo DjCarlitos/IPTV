@@ -64,7 +64,7 @@ http://538hls.lswcdn.triple-it.nl/content/538tv/538tv_0.m3u8
 #EXTINF:-1 tvg-logo="http://www.unitedmusic.it/images/rmc_logo.png", Monte Carlo TV
 http://fms.105.net:1935/live/rmc1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://portal1.iptvprivateserver.tv/stalker_portal/misc/logos/320/529.png", RTL 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/3/34/Logo-RTL.png", RTL 
 http://rtl-radio-stream.4mecloud.it/live-video/radiovisione/ngrp:radiovisione/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.radiospeaker.it/images/blog/m2o-nuovo-logo-2_landscape_300x1000.jpg",m2o tv
