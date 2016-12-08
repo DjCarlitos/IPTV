@@ -145,7 +145,7 @@ http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8?sd=10&rebase=o
 #EXTINF:-1, Weather Channel HD
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
 
-#EXTINF:-1 tvg-logo="http://portal1.iptvprivateserver.tv/stalker_portal/misc/logos/320/3288.png",The Weather Network 
+#EXTINF:-1 tvg-logo="http://www.stuffintheair.com/images/theweathernetworkcom-21303164.jpg",The Weather Network 
 http://brightcove03-f.akamaihd.net/nationalhd_1_2500@106499?
 
 #EXTINF:-1, Miami TV HD
