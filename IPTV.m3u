@@ -94,7 +94,7 @@ http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 #EXTINF:-1, Bloomberg HD
 http://cdn3.videos.bloomberg.com/btv/us/master.m3u8?b?b*t$
 
-#EXTINF:-1 tvg-logo="http://portal1.iptvprivateserver.tv/stalker_portal/misc/logos/320/1087.png", ABC News 
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-QfyLWn8MK1w/Uo9_ndFKKNI/AAAAAAAAACo/wubibRw5JD4/s1600/OurBusinesses_GroupView_MediaNetworks_ABCNews_logo.png", ABC News 
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
 
 #EXTINF:-1, Aljazeera
