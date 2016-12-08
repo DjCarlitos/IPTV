@@ -43,6 +43,9 @@ http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
 #EXTINF:-1, Heart TV HD
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.rokuchannels.tv/wp-content/uploads/2014/01/spirit.jpg", Spirit 
+http://cdn.rbm.tv/rightbrainmedia-live-109/_definst_/smil:spirit_all.smil/playlist.m3u8
+
 #EXTINF:0, Radio Capital TV
 http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8
 
@@ -60,6 +63,9 @@ http://538hls.lswcdn.triple-it.nl/content/538tv/538tv_0.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.unitedmusic.it/images/rmc_logo.png", Monte Carlo TV
 http://fms.105.net:1935/live/rmc1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://portal1.iptvprivateserver.tv/stalker_portal/misc/logos/320/529.png", RTL 
+http://rtl-radio-stream.4mecloud.it/live-video/radiovisione/ngrp:radiovisione/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.radiospeaker.it/images/blog/m2o-nuovo-logo-2_landscape_300x1000.jpg",m2o tv
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
@@ -88,6 +94,9 @@ http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 #EXTINF:-1, Bloomberg HD
 http://cdn3.videos.bloomberg.com/btv/us/master.m3u8?b?b*t$
 
+#EXTINF:-1 tvg-logo="http://portal1.iptvprivateserver.tv/stalker_portal/misc/logos/320/1087.png", ABC News 
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
+
 #EXTINF:-1, Aljazeera
 http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/800.m3u8
 
@@ -96,6 +105,9 @@ http://skyianywhere2-i.akamaihd.net:80/hls/live/200275/tg24/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://vegasat.ru/imgs/1443652102.png", RT Docu HD
 http://rt-doc-live.hls.adaptive.level3.net/rt/doc/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png", NASA Tv
+http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_1000_av-p.m3u8
 
 #EXTINF:0 tvg-logo="http://www.cdo.tv/senal-premium/img/logo.png", CDO HD
 http://wow2.cl.digitalproserver.com/cdo/cdovivo/cdo.smil/chunklist_w913906597_b1064000.m3u8
@@ -132,6 +144,9 @@ http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8?sd=10&rebase=o
 
 #EXTINF:-1, Weather Channel HD
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
+
+#EXTINF:-1 tvg-logo="http://portal1.iptvprivateserver.tv/stalker_portal/misc/logos/320/3288.png",The Weather Network 
+http://brightcove03-f.akamaihd.net/nationalhd_1_2500@106499?
 
 #EXTINF:-1, Miami TV HD
 http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8?
@@ -189,3 +204,5 @@ http://159.203.63.115:8081/rstm/FOX-Family/playlist.m3u8
 
 #EXTINF:0, HBO Family 
 http://159.203.63.115:8081/rstm/HBO-Family/playlist.m3u8
+
+
