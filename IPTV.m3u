@@ -73,15 +73,6 @@ http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=o
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="MÚSICA - MUSIC",M6 Music
 http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.vertele.com/files/2015/11/atreserieslogo.jpg", ATRESSERIES
-http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ESPAñA",Mega
-http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/509064688550694912/WY6A_PqH.jpeg" group-title="ESPAñA",Neox
-http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
-
 #EXTINF:-1, Azteca 13 HD
 http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8
 
@@ -90,6 +81,15 @@ http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8?sd=10&rebase=o
 
 #EXTINF:-1, La Sexta HD
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="http://www.vertele.com/files/2015/11/atreserieslogo.jpg", ATRESERIES
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ESPAñA",Mega
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/509064688550694912/WY6A_PqH.jpeg" group-title="ESPAñA",Neox
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
 
 #EXTINF:-1, RT Español HD
 http://rt-esp-live.hls.adaptive.level3.net/rt/esp/index.m3u8
@@ -166,13 +166,13 @@ http://159.203.63.133:8081/rstm/Venus/playlist.m3u8
 #EXTINF:-1, Playboy TV Asia
 rtmp://edge1.everyon.tv/etv1sb/phd10497
 
-#EXTINF:0, Spice TV Asia
+#EXTINF:0, tvg-logo="http://live-tv.im/wp-content/uploads/2014/04/Spice-TV.gif", Spice TV Asia
 rtmp://main2sb.everyon.tv:1935/etv2sb/_definst_/phd10499
 
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://hd-report.com/wp-content/uploads/2011/01/penthouse-logo.jpg" group-title="XXX", Penthouse Asia
 rtmp://edge1.everyon.tv/etv1sb/phd10927
 
-#EXTINF:0, Viki Enjoy Premium
+#EXTINF:0, tvg-logo="http://www.tvonlineapp.com/test/scripts/thumbnail.php?src=http://tvonlineapp.com/wp-content/uploads/2013/06/Viki-Enjoy-Premium.png&w=180&h=100&zc=0", Viki Enjoy Premium
 rtmp://edge1.everyon.tv/etv1sb/phd10765
 
 #EXTINF:0, Midnight
