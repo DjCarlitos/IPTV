@@ -175,7 +175,7 @@ rtmp://main2sb.everyon.tv:1935/etv2sb/_definst_/phd10499
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://hd-report.com/wp-content/uploads/2011/01/penthouse-logo.jpg" group-title="XXX", Penthouse Asia
 rtmp://edge1.everyon.tv/etv1sb/phd10927
 
-#EXTINF:0, tvg-logo="http://www.tvonlineapp.com/test/scripts/thumbnail.php?src=http://tvonlineapp.com/wp-content/uploads/2013/06/Viki-Enjoy-Premium.png&w=180&h=100&zc=0", Viki Enjoy Premium
+#EXTINF:0 tvg-logo="http://www.tvonlineapp.com/test/scripts/thumbnail.php?src=http://tvonlineapp.com/wp-content/uploads/2013/06/Viki-Enjoy-Premium.png&w=180&h=100&zc=0", Viki Enjoy Premium
 rtmp://edge1.everyon.tv/etv1sb/phd10765
 
 #EXTINF:0, Midnight
