@@ -43,7 +43,7 @@ http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
 #EXTINF:-1, Heart TV HD
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.rokuchannels.tv/wp-content/uploads/2014/01/spirit.jpg", Spirit 
+#EXTINF:-1 tvg-logo="https://www.rokuchannels.tv/wp-content/uploads/2014/01/spirit.jpg", Spirit HD
 http://cdn.rbm.tv/rightbrainmedia-live-109/_definst_/smil:spirit_all.smil/playlist.m3u8
 
 #EXTINF:0, Radio Capital TV
@@ -55,32 +55,26 @@ http://stream.smcloud.net/tv/vox/vox_480p/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://oklivetv.com/wp-content/uploads/2015/02/virgin_tv_0_11.png", Virgin TV
 http://wow01.105.net/live/virgin1/.m3u8
 
-#EXTINF:-1, Deluxe Music
-http://server55.livestreamingcdn.com:1935/tulixdemo/tulixdemo/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://www.unitedmusic.it/images/rmc_logo.png", Monte Carlo TV
+http://fms.105.net:1935/live/rmc1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://d2zr9w65gdacs9.cloudfront.net/14869/538logo-kader-rgb1467807286full-width.png", 538 TV
 http://538hls.lswcdn.triple-it.nl/content/538tv/538tv_0.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.unitedmusic.it/images/rmc_logo.png", Monte Carlo TV
-http://fms.105.net:1935/live/rmc1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/3/34/Logo-RTL.png", RTL 
-http://rtl-radio-stream.4mecloud.it/live-video/radiovisione/ngrp:radiovisione/playlist.m3u8
+#EXTINF:-1, Deluxe Music
+http://server55.livestreamingcdn.com:1935/tulixdemo/tulixdemo/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.radiospeaker.it/images/blog/m2o-nuovo-logo-2_landscape_300x1000.jpg",m2o tv
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
-
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="MÚSICA - MUSIC",M6 Music
-http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8
-
-#EXTINF:-1, Azteca 13 HD
-http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8
 
 #EXTINF:-1, Antena 3 HD
 http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8?sd=10&rebase=on
 
 #EXTINF:-1, La Sexta HD
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1, Azteca 13
+http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.vertele.com/files/2015/11/atreserieslogo.jpg", ATRESERIES
 http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
@@ -124,9 +118,6 @@ http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/800.
 #EXTINF:-1, SKY TG 24
 http://skyianywhere2-i.akamaihd.net:80/hls/live/200275/tg24/playlist.m3u8
 
-#EXTINF:0 tvg-logo="http://www.cdo.tv/senal-premium/img/logo.png", CDO HD
-http://wow2.cl.digitalproserver.com/cdo/cdovivo/cdo.smil/chunklist_w913906597_b1064000.m3u8
-
 #EXTINF:-1 tvg-logo="http://mvs-marketing.com/downloads/claro/Clarosports.jpg", Claro Sports HD
 http://jjoo2016ch01-hlsfix.clarovideo.com/Content/hls_clear/Live/Channel(jjoo2016ch01)/Stream(06)/index.m3u8
 
@@ -142,7 +133,7 @@ http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
 #EXTINF:-1 tvg-logo="http://vegasat.ru/imgs/1443652102.png", RT Docu HD
 http://rt-doc-live.hls.adaptive.level3.net/rt/doc/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png", NASA Tv
+#EXTINF:-1 tvg-logo="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png", NASA TV
 http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_1000_av-p.m3u8
 
 #EXTINF:-1, Weather Channel HD
