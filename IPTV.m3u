@@ -85,7 +85,7 @@ http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/509064688550694912/WY6A_PqH.jpeg" group-title="ESPAñA",Neox
 http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
 
-#EXTINF:-1, tvg-logo="https://commons.wikimedia.org/wiki/File:RAI_Premium_2010_neu_Logo.svg", Rai Premium
+#EXTINF:-1 tvg-logo="http://www.tv-in-diretta.it/uploads/channels/9057_6666.png", Rai Premium
 http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1200_av-p.m3u8
 
 #EXTINF:-1, RT Español HD
@@ -123,9 +123,6 @@ http://ocs-live.hls.adaptive.level3.net/ocs/channel01/NBC_OCS1_VIDEO_7_6064000.m
 
 #EXTINF:-1 tvg-logo="http://www.redbull.com/cs/RedBull2/images/branding/redbull-tv-logo-2x.png", Red Bull TV HD
 https://elementaldelta2.redbull.tv/30_5.m3u8
-
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://kimberlydaloisio.com/wp-content/uploads/2011/05/VersusLogo6.jpeg" group-title="DEPORTES - SPORTS",Versus Channel
-http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
 
 #EXTINF:-1 tvg-logo="http://vegasat.ru/imgs/1443652102.png", RT Docu HD
 http://rt-doc-live.hls.adaptive.level3.net/rt/doc/index.m3u8
