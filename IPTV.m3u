@@ -154,9 +154,6 @@ http://159.203.63.133:8081/rstm/Venus/playlist.m3u8
 #EXTINF:-1, Playboy TV Asia
 rtmp://edge1.everyon.tv/etv1sb/phd10497
 
-#EXTINF:0 tvg-logo="http://live-tv.im/wp-content/uploads/2014/04/Spice-TV.gif", Spice TV Asia
-rtmp://main2sb.everyon.tv:1935/etv2sb/_definst_/phd10499
-
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://hd-report.com/wp-content/uploads/2011/01/penthouse-logo.jpg" group-title="XXX", Penthouse Asia
 rtmp://edge1.everyon.tv/etv1sb/phd10927
 
@@ -180,3 +177,6 @@ http://edge2.everyon.tv/etv2sb/phd10771/playlist.m3u8
 
 #EXTINF:0 tvg-logo="http://www.sakuratv.com/sites/www.sakuratv.com/files/Sakura-TV_logo.png", Sakura TV
 rtmp://edge2.everyon.tv/etv2sb/phd10061
+
+#EXTINF:0 tvg-logo="http://live-tv.im/wp-content/uploads/2014/04/Spice-TV.gif", Spice TV Asia
+rtmp://main2sb.everyon.tv:1935/etv1sb/_definst_/phd10499
