@@ -1,46 +1,958 @@
-#EXTINF:-1,24h
-http://190.57.234.164/V0/4/2.m3u8
-#EXTINF:-1,DeporTV
-http://190.57.234.164/V0/4/1.m3u8
-#EXTINF:-1,24h
-http://190.57.234.164/V3/4/2.m3u8
-#EXTINF:-1,ElTrece
-http://190.57.234.164/V3/1/1.m3u8
-#EXTINF:-1,nick2
-http://190.57.234.164/V0/3/1.m3u8
-#EXTINF:-1,ElTrece
-http://190.57.234.164/V0/1/1.m3u8
-#EXTINF:-1,9VIVO
-http://190.57.234.164/V0/2/1.m3u8
-#EXTINF:-1,DXTV
-http://190.57.234.164/V3/4/1.m3u8
-#EXTINF:-1,AYM SPORTS
-http://190.57.234.164/V0/5/1.m3u8
-#EXTINF:-1,AM Sports
-http://190.57.234.164/V3/5/1.m3u8
-#EXTINF:-1,UFC NETWORK OPC 1
-http://190.57.234.164/V0/6/1.m3u8
-#EXTINF:-1,UFC NETWORK OPC 2
-http://190.57.234.164/V0/6/2.m3u8
-#EXTINF:-1,UFC Network OPC 3
-http://190.57.234.164/V3/6/1.m3u8
-#EXTINF:-1,UFC Network OPC 4
-http://190.57.234.164/V3/6/2.m3u8
-
-#EXTINF:-1,CARTOON NETWORK
-http://31.204.128.117:8081/live/cartoon/playlist.m3u8
-#EXTINF:-1,DISNEY CHANNEL
-http://31.204.128.117:8081:8081/live/disney/playlist.m3u8
-#EXTINF:-1,DISCOVERY KIDS
-http://31.204.128.117:8081:8081/live/discoverykids/playlist.m3u8
-
-#EXTINF:-1,REDE SUPER
-http://api.new.livestream.com/accounts/10205943/events/3429501/live.m3u8
-#EXTINF:-1,REDE MEIO NORTE
-http://api.new.livestream.com/accounts/3332377/events/2958396/live.m3u8
-#EXTINF:-1,TV GAZETA HD
-http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8
-#EXTINF:-1,TV MIRAMAR – RECORD ANGOLA
-http://api.new.livestream.com/accounts/21076186/events/6180705/live.m3u8
-#EXTINF:-1,MIX TV BRASIL
-http://api.new.livestream.com/accounts/19845366/events/5550262/live.m3u8
+#EXTINF:-1 group-title="SERVER 1", ABC News HD (hls)(server 1)
+http://s1.ukhdtv.com:7860/live/z0B8IUq2p5/yBKzKIi7hj/3019.m3u8
+#EXTINF:-1 group-title="SERVER 1", ABC News HD (ts)(server 1)
+http://s1.ukhdtv.com:7860/live/z0B8IUq2p5/yBKzKIi7hj/3019.m3u8
+#EXTINF:-1 group-title="SERVER 1", AMC HD (hls)(server 1)
+http://s1.ukhdtv.com:7860/live/z0B8IUq2p5/yBKzKIi7hj/1539.m3u8
+#EXTINF:-1 group-title="SERVER 1", AMC HD (ts)(server 1)
+http://s1.ukhdtv.com:7860/live/z0B8IUq2p5/yBKzKIi7hj/1539.m3u8
+#EXTINF:-1 group-title="SERVER 1", bloomberg (hls)(server 1)
+http://s1.ukhdtv.com:7860/live/z0B8IUq2p5/yBKzKIi7hj/1478.m3u8
+#EXTINF:-1 group-title="SERVER 1", bloomberg (ts)(server 1)
+http://s1.ukhdtv.com:7860/live/z0B8IUq2p5/yBKzKIi7hj/1478.m3u8
+#EXTINF:-1 group-title="SERVER 1", CBS HD (hls)(server 1)
+http://s1.ukhdtv.com:7860/live/z0B8IUq2p5/yBKzKIi7hj/3018.m3u8
+#EXTINF:-1 group-title="SERVER 1", CBS HD (ts)(server 1)
+http://s1.ukhdtv.com:7860/live/z0B8IUq2p5/yBKzKIi7hj/3018.m3u8
+#EXTINF:-1 group-title="SERVER 1", CNN international (hls)(server 1)
+http://s1.ukhdtv.com:7860/live/z0B8IUq2p5/yBKzKIi7hj/1148.m3u8
+#EXTINF:-1 group-title="SERVER 1", CNN international (ts)(server 1)
+http://s1.ukhdtv.com:7860/live/z0B8IUq2p5/yBKzKIi7hj/1148.m3u8
+#EXTINF:-1 group-title="SERVER 1", Fox News HD (hls)(server 1)
+http://s1.ukhdtv.com:7860/live/z0B8IUq2p5/yBKzKIi7hj/1476.m3u8
+#EXTINF:-1 group-title="SERVER 1", Fox News HD (ts)(server 1)
+http://s1.ukhdtv.com:7860/live/z0B8IUq2p5/yBKzKIi7hj/1476.m3u8
+#EXTINF:-1 group-title="SERVER 1", Fox Sport 1 (hls)(server 1)
+http://s1.ukhdtv.com:7860/live/z0B8IUq2p5/yBKzKIi7hj/1532.m3u8
+#EXTINF:-1 group-title="SERVER 1", Fox Sport 1 (ts)(server 1)
+http://s1.ukhdtv.com:7860/live/z0B8IUq2p5/yBKzKIi7hj/1532.m3u8
+#EXTINF:-1 group-title="SERVER 1", ITV HD (hls)(server 1)
+http://s1.ukhdtv.com:7860/live/z0B8IUq2p5/yBKzKIi7hj/1534.m3u8
+#EXTINF:-1 group-title="SERVER 1", ITV HD (ts)(server 1)
+http://s1.ukhdtv.com:7860/live/z0B8IUq2p5/yBKzKIi7hj/1534.m3u8
+#EXTINF:-1 group-title="SERVER 1", NBA (hls)(server 1)
+http://s1.ukhdtv.com:7860/live/z0B8IUq2p5/yBKzKIi7hj/1157.m3u8
+#EXTINF:-1 group-title="SERVER 1", NBA (ts)(server 1)
+http://s1.ukhdtv.com:7860/live/z0B8IUq2p5/yBKzKIi7hj/1157.m3u8
+#EXTINF:-1 group-title="SERVER 1", NBC HD (hls)(server 1)
+http://s1.ukhdtv.com:7860/live/z0B8IUq2p5/yBKzKIi7hj/3017.m3u8
+#EXTINF:-1 group-title="SERVER 1", NBC HD (ts)(server 1)
+http://s1.ukhdtv.com:7860/live/z0B8IUq2p5/yBKzKIi7hj/3017.m3u8
+#EXTINF:-1 group-title="SERVER 1", Telpin Canal 2 HD (hls)(server 1)
+http://s1.ukhdtv.com:7860/live/z0B8IUq2p5/yBKzKIi7hj/1533.m3u8
+#EXTINF:-1 group-title="SERVER 1", Telpin Canal 2 HD (ts)(server 1)
+http://s1.ukhdtv.com:7860/live/z0B8IUq2p5/yBKzKIi7hj/1533.m3u8
+#EXTINF:-1 group-title="SERVER 1", tsn 1 (hls)(server 1)
+http://s1.ukhdtv.com:7860/live/z0B8IUq2p5/yBKzKIi7hj/1536.m3u8
+#EXTINF:-1 group-title="SERVER 1", tsn 1 (ts)(server 1)
+http://s1.ukhdtv.com:7860/live/z0B8IUq2p5/yBKzKIi7hj/1536.m3u8
+#EXTINF:-1 group-title="SERVER 1", VEVO HD (hls)(server 1)
+http://s1.ukhdtv.com:7860/live/z0B8IUq2p5/yBKzKIi7hj/1538.m3u8
+#EXTINF:-1 group-title="SERVER 1", VEVO HD (ts)(server 1)
+http://s1.ukhdtv.com:7860/live/z0B8IUq2p5/yBKzKIi7hj/1538.m3u8
+#EXTINF:-1 group-title="SERVER 1", VEVO HD2 (hls)(server 1)
+http://s1.ukhdtv.com:7860/live/z0B8IUq2p5/yBKzKIi7hj/1537.m3u8
+#EXTINF:-1 group-title="SERVER 1", VEVO HD2 (ts)(server 1)
+http://s1.ukhdtv.com:7860/live/z0B8IUq2p5/yBKzKIi7hj/1537.m3u8
+#EXTINF:-1 group-title="SERVER 1", VEVO HD3 (hls)(server 1)
+http://s1.ukhdtv.com:7860/live/z0B8IUq2p5/yBKzKIi7hj/1535.m3u8
+#EXTINF:-1 group-title="SERVER 1", VEVO HD3 (ts)(server 1)
+http://s1.ukhdtv.com:7860/live/z0B8IUq2p5/yBKzKIi7hj/1535.m3u8
+#EXTINF:-1 group-title="SERVER 1", vevo tv (hls)(server 1)
+http://s1.ukhdtv.com:7860/live/z0B8IUq2p5/yBKzKIi7hj/1477.m3u8
+#EXTINF:-1 group-title="SERVER 1", vevo tv (ts)(server 1)
+http://s1.ukhdtv.com:7860/live/z0B8IUq2p5/yBKzKIi7hj/1477.m3u8
+#EXTINF:-1 group-title="SERVER 1", WWE (hls)(server 1)
+http://s1.ukhdtv.com:7860/live/z0B8IUq2p5/yBKzKIi7hj/1479.m3u8
+#EXTINF:-1 group-title="SERVER 1", WWE (ts)(server 1)
+http://s1.ukhdtv.com:7860/live/z0B8IUq2p5/yBKzKIi7hj/1479.m3u8
+#EXTINF:0 group-title="SERVER 2",== SERVER 2 ==
+http://streaming203.radionomy.com:80/City-Dance-Radio
+#EXTINF:-1 group-title="SERVER 2", ABC News (hls)(server 2)
+http://solofast.ddns.net:44222/live/hassan/hassan/1563.m3u8
+#EXTINF:-1 group-title="SERVER 2", ABC News (ts)(server 2)
+http://solofast.ddns.net:44222/live/hassan/hassan/1563.m3u8
+#EXTINF:-1 group-title="SERVER 2", ESPN (hls)(server 2)
+http://solofast.ddns.net:44222/live/hassan/hassan/1571.m3u8
+#EXTINF:-1 group-title="SERVER 2", ESPN (ts)(server 2)
+http://solofast.ddns.net:44222/live/hassan/hassan/1571.m3u8
+#EXTINF:-1 group-title="SERVER 2", Tsn-Sport 1 HD (hls)(server 2)
+http://solofast.ddns.net:44222/live/hassan/hassan/1578.m3u8
+#EXTINF:-1 group-title="SERVER 2", Tsn-Sport 1 HD (ts)(server 2)
+http://solofast.ddns.net:44222/live/hassan/hassan/1578.m3u8
+#EXTINF:-1 group-title="SERVER 2", Tsn-Sport 2 HD (hls)(server 2)
+http://solofast.ddns.net:44222/live/hassan/hassan/2151.m3u8
+#EXTINF:-1 group-title="SERVER 2", Tsn-Sport 2 HD (ts)(server 2)
+http://solofast.ddns.net:44222/live/hassan/hassan/2151.m3u8
+#EXTINF:-1 group-title="SERVER 2", Tsn-Sport 3 HD (hls)(server 2)
+http://solofast.ddns.net:44222/live/hassan/hassan/2152.m3u8
+#EXTINF:-1 group-title="SERVER 2", Tsn-Sport 3 HD (ts)(server 2)
+http://solofast.ddns.net:44222/live/hassan/hassan/2152.m3u8
+#EXTINF:-1 group-title="SERVER 2", Tsn-Sport 4 HD (hls)(server 2)
+http://solofast.ddns.net:44222/live/hassan/hassan/2153.m3u8
+#EXTINF:-1 group-title="SERVER 2", Tsn-Sport 4 HD (ts)(server 2)
+http://solofast.ddns.net:44222/live/hassan/hassan/2153.m3u8
+#EXTINF:-1 group-title="SERVER 2", Tsn-Sport 5 HD (hls)(server 2)
+http://solofast.ddns.net:44222/live/hassan/hassan/2154.m3u8
+#EXTINF:-1 group-title="SERVER 2", Tsn-Sport 5 HD (ts)(server 2)
+http://solofast.ddns.net:44222/live/hassan/hassan/2154.m3u8
+#EXTINF:-1 group-title="SERVER 2", WWE HD Channel (hls)(server 2)
+http://solofast.ddns.net:44222/live/hassan/hassan/1562.m3u8
+#EXTINF:-1 group-title="SERVER 2", WWE HD Channel (ts)(server 2)
+http://solofast.ddns.net:44222/live/hassan/hassan/1562.m3u8
+#EXTINF:0 group-title="SERVER 3",== SERVER 3 ==
+http://streaming203.radionomy.com:80/City-Dance-Radio
+#EXTINF:-1 group-title="SERVER 3",ABC News (hls)(server 3)
+http://xtream.hopto.me:9000/live/tiger/tiger/4255.m3u8
+#EXTINF:-1 group-title="SERVER 3",ABC News (ts)(server 3)
+http://xtream.hopto.me:9000/live/tiger/tiger/4255.m3u8
+#EXTINF:-1 group-title="SERVER 3",usa:AFN FAMILY local (hls)(server 3)
+http://xtream.hopto.me:9000/live/tiger/tiger/4253.m3u8
+#EXTINF:-1 group-title="SERVER 3",usa:AFN FAMILY local (ts)(server 3)
+http://xtream.hopto.me:9000/live/tiger/tiger/4253.m3u8
+#EXTINF:-1 group-title="SERVER 3",AFN Prime Atlantic local (hls)(server 3)
+http://xtream.hopto.me:9000/live/tiger/tiger/4251.m3u8
+#EXTINF:-1 group-title="SERVER 3",AFN Prime Atlantic local (ts)(server 3)
+http://xtream.hopto.me:9000/live/tiger/tiger/4251.m3u8
+#EXTINF:-1 group-title="SERVER 3",AFN Prime Pacific local (hls)(server 3)
+http://xtream.hopto.me:9000/live/tiger/tiger/4252.m3u8
+#EXTINF:-1 group-title="SERVER 3",AFN Prime Pacific local (ts)(server 3)
+http://xtream.hopto.me:9000/live/tiger/tiger/4252.m3u8
+#EXTINF:-1 group-title="SERVER 3",Hallmark (hls)(server 3)
+http://xtream.hopto.me:9000/live/tiger/tiger/4249.m3u8
+#EXTINF:-1 group-title="SERVER 3",Hallmark (ts)(server 3)
+http://xtream.hopto.me:9000/live/tiger/tiger/4249.m3u8
+#EXTINF:-1 group-title="SERVER 3",Starz Comedy (hls)(server 3)
+http://xtream.hopto.me:9000/live/tiger/tiger/4250.m3u8
+#EXTINF:-1 group-title="SERVER 3",Starz Comedy (ts)(server 3)
+http://xtream.hopto.me:9000/live/tiger/tiger/4250.m3u8
+#EXTINF:-1 group-title="SERVER 3",TSN 1 (hls)(server 3)
+http://xtream.hopto.me:9000/live/tiger/tiger/4256.m3u8
+#EXTINF:-1 group-title="SERVER 3",TSN 1 (ts)(server 3)
+http://xtream.hopto.me:9000/live/tiger/tiger/4256.m3u8
+#EXTINF:-1 group-title="SERVER 3",TSN 2 (hls)(server 3)
+http://xtream.hopto.me:9000/live/tiger/tiger/4257.m3u8
+#EXTINF:-1 group-title="SERVER 3",TSN 2 (ts)(server 3)
+http://xtream.hopto.me:9000/live/tiger/tiger/4257.m3u8
+#EXTINF:-1 group-title="SERVER 3",TSN 3 (hls)(server 3)
+http://xtream.hopto.me:9000/live/tiger/tiger/4258.m3u8
+#EXTINF:-1 group-title="SERVER 3",TSN 3 (ts)(server 3)
+http://xtream.hopto.me:9000/live/tiger/tiger/4258.m3u8
+#EXTINF:0 group-title="SERVER 4",== SERVER 4 ==
+http://streaming203.radionomy.com:80/City-Dance-Radio
+#EXTINF:-1 group-title="SERVER 4", ABC   (server 4)
+http://iptvch.selfip.info:80/live/sayed/sayed/2090.ts
+#EXTINF:-1 group-title="SERVER 4", ABC News   (server 4)
+http://iptvch.selfip.info:80/live/sayed/sayed/750.ts
+#EXTINF:-1 group-title="SERVER 4", AMC   (server 4)
+http://iptvch.selfip.info:80/live/sayed/sayed/2091.ts
+#EXTINF:-1 group-title="SERVER 4", CBS HD   (server 4)
+http://iptvch.selfip.info:80/live/sayed/sayed/3459.ts
+#EXTINF:-1 group-title="SERVER 4", CINEMAX 5 STAR   (server 4)
+http://iptvch.selfip.info:80/live/sayed/sayed/3457.ts
+#EXTINF:-1 group-title="SERVER 4", CINEMAX MOREMAX HD   (server 4)
+http://iptvch.selfip.info:80/live/sayed/sayed/3458.ts
+#EXTINF:-1 group-title="SERVER 4", DISCOVERY ID   (server 4)
+http://iptvch.selfip.info:80/live/sayed/sayed/2185.ts
+#EXTINF:-1 group-title="SERVER 4", ESPN   (server 4)
+http://iptvch.selfip.info:80/live/sayed/sayed/565.ts
+#EXTINF:-1 group-title="SERVER 4", fox sport 1   (server 4)
+http://iptvch.selfip.info:80/live/sayed/sayed/37.ts
+#EXTINF:-1 group-title="SERVER 4", HBO FAMALY   (server 4)
+http://iptvch.selfip.info:80/live/sayed/sayed/3454.ts
+#EXTINF:-1 group-title="SERVER 4", NBA   (server 4)
+http://iptvch.selfip.info:80/live/sayed/sayed/2170.ts
+#EXTINF:-1 group-title="SERVER 4", NBCSN   (server 4)
+http://iptvch.selfip.info:80/live/sayed/sayed/2955.ts
+#EXTINF:-1 group-title="SERVER 4", NBCSN 1 HD (LIVE DURING EPL)   (server 4)
+http://iptvch.selfip.info:80/live/sayed/sayed/2604.ts
+#EXTINF:-1 group-title="SERVER 4", NBCSN 2 HD (LIVE DURING EPL)   (server 4)
+http://iptvch.selfip.info:80/live/sayed/sayed/2605.ts
+#EXTINF:-1 group-title="SERVER 4", NBCSN 3 HD (LIVE DURING EPL)   (server 4)
+http://iptvch.selfip.info:80/live/sayed/sayed/2606.ts
+#EXTINF:-1 group-title="SERVER 4", NBCSN 4 HD (LIVE DURING EPL)   (server 4)
+http://iptvch.selfip.info:80/live/sayed/sayed/2607.ts
+#EXTINF:-1 group-title="SERVER 4", NBCSN 5 HD (LIVE DURING EPL)   (server 4)
+http://iptvch.selfip.info:80/live/sayed/sayed/2608.ts
+#EXTINF:-1 group-title="SERVER 4", NHL NETWORK   (server 4)
+http://iptvch.selfip.info:80/live/sayed/sayed/3456.ts
+#EXTINF:-1 group-title="SERVER 4", PBS AMERICA   (server 4)
+http://iptvch.selfip.info:80/live/sayed/sayed/1425.ts
+#EXTINF:-1 group-title="SERVER 4", SHOWTIME HD   (server 4)
+http://iptvch.selfip.info:80/live/sayed/sayed/2956.ts
+#EXTINF:-1 group-title="SERVER 4", SYFY   (server 4)
+http://iptvch.selfip.info:80/live/sayed/sayed/749.ts
+#EXTINF:-1 group-title="SERVER 4", TBS   (server 4)
+http://iptvch.selfip.info:80/live/sayed/sayed/2092.ts
+#EXTINF:-1 group-title="SERVER 4", TREEHOUSE TV   (server 4)
+http://iptvch.selfip.info:80/live/sayed/sayed/3460.ts
+#EXTINF:-1 group-title="SERVER 4", TSN 1   (server 4)
+http://iptvch.selfip.info:80/live/sayed/sayed/747.ts
+#EXTINF:-1 group-title="SERVER 4", TSN 2   (server 4)
+http://iptvch.selfip.info:80/live/sayed/sayed/748.ts
+#EXTINF:-1 group-title="SERVER 4", TSN  3   (server 4)
+http://iptvch.selfip.info:80/live/sayed/sayed/241.ts
+#EXTINF:-1 group-title="SERVER 4", Tsn 4   (server 4)
+http://iptvch.selfip.info:80/live/sayed/sayed/338.ts
+#EXTINF:-1 group-title="SERVER 4", Tsn 5   (server 4)
+http://iptvch.selfip.info:80/live/sayed/sayed/339.ts
+#EXTINF:-1 group-title="SERVER 4", WWE   (server 4)
+http://iptvch.selfip.info:80/live/sayed/sayed/1853.ts
+#EXTINF:-1 group-title="SERVER 4",R ABTO 24   (server 4)
+http://iptvch.selfip.info:80/live/sayed/sayed/1910.ts
+#EXTINF:-1 group-title="SERVER 4",R channel Five   (server 4)
+http://iptvch.selfip.info:80/live/sayed/sayed/1916.ts
+#EXTINF:-1 group-title="SERVER 4",R EXTREME   (server 4)
+http://iptvch.selfip.info:80/live/sayed/sayed/2168.ts
+#EXTINF:-1 group-title="SERVER 4",R EXTREME SPORTS   (server 4)
+http://iptvch.selfip.info:80/live/sayed/sayed/2169.ts
+#EXTINF:-1 group-title="SERVER 4",R Friday   (server 4)
+http://iptvch.selfip.info:80/live/sayed/sayed/1915.ts
+#EXTINF:-1 group-title="SERVER 4",R HOME   (server 4)
+http://iptvch.selfip.info:80/live/sayed/sayed/1909.ts
+#EXTINF:-1 group-title="SERVER 4",R Home Cinema   (server 4)
+http://iptvch.selfip.info:80/live/sayed/sayed/1911.ts
+#EXTINF:-1 group-title="SERVER 4",R illusion   (server 4)
+http://iptvch.selfip.info:80/live/sayed/sayed/1912.ts
+#EXTINF:-1 group-title="SERVER 4",R KHL TV   (server 4)
+http://iptvch.selfip.info:80/live/sayed/sayed/1913.ts
+#EXTINF:-1 group-title="SERVER 4",R Komedia TV   (server 4)
+http://iptvch.selfip.info:80/live/sayed/sayed/1803.ts
+#EXTINF:-1 group-title="SERVER 4",R Multimania   (server 4)
+http://iptvch.selfip.info:80/live/sayed/sayed/1914.ts
+#EXTINF:-1 group-title="SERVER 4",R NASHE NOVOE KINO   (server 4)
+http://iptvch.selfip.info:80/live/sayed/sayed/1802.ts
+#EXTINF:-1 group-title="SERVER 4",R NTV + Cinema Club   (server 4)
+http://iptvch.selfip.info:80/live/sayed/sayed/1927.ts
+#EXTINF:-1 group-title="SERVER 4",Rus: NTV Football 1   (server 4)
+http://iptvch.selfip.info:80/live/sayed/sayed/1390.ts
+#EXTINF:-1 group-title="SERVER 4",R NTV FOOTBALL 2   (server 4)
+http://iptvch.selfip.info:80/live/sayed/sayed/1732.ts
+#EXTINF:-1 group-title="SERVER 4",Rus: NTV football 3   (server 4)
+http://iptvch.selfip.info:80/live/sayed/sayed/1406.ts
+#EXTINF:-1 group-title="SERVER 4",R NTV Kinohit   (server 4)
+http://iptvch.selfip.info:80/live/sayed/sayed/1926.ts
+#EXTINF:-1 group-title="SERVER 4",R NTV Plus Sport   (server 4)
+http://iptvch.selfip.info:80/live/sayed/sayed/1924.ts
+#EXTINF:-1 group-title="SERVER 4",R NTV premiere   (server 4)
+http://iptvch.selfip.info:80/live/sayed/sayed/1925.ts
+#EXTINF:-1 group-title="SERVER 4",R NTV SPORTS   (server 4)
+http://iptvch.selfip.info:80/live/sayed/sayed/1799.ts
+#EXTINF:-1 group-title="SERVER 4",R PREMIERA   (server 4)
+http://iptvch.selfip.info:80/live/sayed/sayed/2165.ts
+#EXTINF:-1 group-title="SERVER 4",R Russia 24   (server 4)
+http://iptvch.selfip.info:80/live/sayed/sayed/1917.ts
+#EXTINF:-1 group-title="SERVER 4",R Russian bestseller   (server 4)
+http://iptvch.selfip.info:80/live/sayed/sayed/1918.ts
+#EXTINF:-1 group-title="SERVER 4",R Russian Detective   (server 4)
+http://iptvch.selfip.info:80/live/sayed/sayed/1919.ts
+#EXTINF:-1 group-title="SERVER 4",R Russian Illusion   (server 4)
+http://iptvch.selfip.info:80/live/sayed/sayed/1920.ts
+#EXTINF:-1 group-title="SERVER 4",R Russian romance   (server 4)
+http://iptvch.selfip.info:80/live/sayed/sayed/1921.ts
+#EXTINF:-1 group-title="SERVER 4",R Sport 1   (server 4)
+http://iptvch.selfip.info:80/live/sayed/sayed/1922.ts
+#EXTINF:-1 group-title="SERVER 4",R THT COMEDY   (server 4)
+http://iptvch.selfip.info:80/live/sayed/sayed/1923.ts
+#EXTINF:-1 group-title="SERVER 4",R TV1000   (server 4)
+http://iptvch.selfip.info:80/live/sayed/sayed/1800.ts
+#EXTINF:-1 group-title="SERVER 4",R TV 1000 ACTION   (server 4)
+http://iptvch.selfip.info:80/live/sayed/sayed/2167.ts
+#EXTINF:-1 group-title="SERVER 4",R TV 1000 ACTION.   (server 4)
+http://iptvch.selfip.info:80/live/sayed/sayed/1903.ts
+#EXTINF:-1 group-title="SERVER 4",RViasat Nature   (server 4)
+http://iptvch.selfip.info:80/live/sayed/sayed/1644.ts
+#EXTINF:-1 group-title="SERVER 4",R VIASAT SPORT   (server 4)
+http://iptvch.selfip.info:80/live/sayed/sayed/2166.ts
+#EXTINF:0 group-title="SERVER 5",== SERVER 5 ==
+http://streaming203.radionomy.com:80/City-Dance-Radio
+#EXTINF:-1 group-title="SERVER 5",ESPN (hls)(server 5)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2078.m3u8
+#EXTINF:-1 group-title="SERVER 5",ESPN (ts)(server 5)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2078.m3u8
+#EXTINF:-1 group-title="SERVER 5",FOOD network (hls)(server 5)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2087.m3u8
+#EXTINF:-1 group-title="SERVER 5",FOOD network (ts)(server 5)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2087.m3u8
+#EXTINF:-1 group-title="SERVER 5",London live (hls)(server 5)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2084.m3u8
+#EXTINF:-1 group-title="SERVER 5",London live (ts)(server 5)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2084.m3u8
+#EXTINF:-1 group-title="SERVER 5",-AFL (hls)(server 5)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/1240.m3u8
+#EXTINF:-1 group-title="SERVER 5",-AFL (ts)(server 5)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/1240.m3u8
+#EXTINF:-1 group-title="SERVER 5",-NBA-US (hls)(server 5)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/1261.m3u8
+#EXTINF:-1 group-title="SERVER 5",-NBA-US (ts)(server 5)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/1261.m3u8
+#EXTINF:-1 group-title="SERVER 5",Usa- A&E hd (hls)(server 5)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2637.m3u8
+#EXTINF:-1 group-title="SERVER 5",Usa- A&E hd (ts)(server 5)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2637.m3u8
+#EXTINF:-1 group-title="SERVER 5",ABC News (hls)(server 5)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/1063.m3u8
+#EXTINF:-1 group-title="SERVER 5",ABC News (ts)(server 5)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/1063.m3u8
+#EXTINF:-1 group-title="SERVER 5",AMC HD (hls)(server 5)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2113.m3u8
+#EXTINF:-1 group-title="SERVER 5",AMC HD (ts)(server 5)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2113.m3u8
+#EXTINF:-1 group-title="SERVER 5",BBC-News (hls)(server 5)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2071.m3u8
+#EXTINF:-1 group-title="SERVER 5",BBC-News (ts)(server 5)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2071.m3u8
+#EXTINF:-1 group-title="SERVER 5",Bloomberg (hls)(server 5)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/1304.m3u8
+#EXTINF:-1 group-title="SERVER 5",Bloomberg (ts)(server 5)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/1304.m3u8
+#EXTINF:-1 group-title="SERVER 5",California University (hls)(server 5)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2103.m3u8
+#EXTINF:-1 group-title="SERVER 5",California University (ts)(server 5)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2103.m3u8
+#EXTINF:-1 group-title="SERVER 5",CNN Live (hls)(server 5)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2806.m3u8
+#EXTINF:-1 group-title="SERVER 5",CNN Live (ts)(server 5)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2806.m3u8
+#EXTINF:-1 group-title="SERVER 5",Family E (hls)(server 5)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2094.m3u8
+#EXTINF:-1 group-title="SERVER 5",Family E (ts)(server 5)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2094.m3u8
+#EXTINF:-1 group-title="SERVER 5",Florida Channel (hls)(server 5)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2102.m3u8
+#EXTINF:-1 group-title="SERVER 5",Florida Channel (ts)(server 5)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2102.m3u8
+#EXTINF:-1 group-title="SERVER 5",HBO (hls)(server 5)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/827.m3u8
+#EXTINF:-1 group-title="SERVER 5",HBO (ts)(server 5)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/827.m3u8
+#EXTINF:-1 group-title="SERVER 5",HBO1 (hls)(server 5)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2115.m3u8
+#EXTINF:-1 group-title="SERVER 5",HBO1 (ts)(server 5)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2115.m3u8
+#EXTINF:-1 group-title="SERVER 5",London Live (hls)(server 5)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2096.m3u8
+#EXTINF:-1 group-title="SERVER 5",London Live (ts)(server 5)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2096.m3u8
+#EXTINF:-1 group-title="SERVER 5",NASA HD (hls)(server 5)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2097.m3u8
+#EXTINF:-1 group-title="SERVER 5",NASA HD (ts)(server 5)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2097.m3u8
+#EXTINF:-1 group-title="SERVER 5",NBCSN sport (hls)(server 5)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2116.m3u8
+#EXTINF:-1 group-title="SERVER 5",NBCSN sport (ts)(server 5)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2116.m3u8
+#EXTINF:-1 group-title="SERVER 5",PAC-12 WS (hls)(server 5)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2101.m3u8
+#EXTINF:-1 group-title="SERVER 5",PAC-12 WS (ts)(server 5)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2101.m3u8
+#EXTINF:-1 group-title="SERVER 5",QVC HD (hls)(server 5)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2114.m3u8
+#EXTINF:-1 group-title="SERVER 5",QVC HD (ts)(server 5)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2114.m3u8
+#EXTINF:-1 group-title="SERVER 5",RT News (hls)(server 5)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/1910.m3u8
+#EXTINF:-1 group-title="SERVER 5",RT News (ts)(server 5)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/1910.m3u8
+#EXTINF:-1 group-title="SERVER 5",Spike (hls)(server 5)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2099.m3u8
+#EXTINF:-1 group-title="SERVER 5",Spike (ts)(server 5)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2099.m3u8
+#EXTINF:-1 group-title="SERVER 5",AMG (hls)(server 5)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2733.m3u8
+#EXTINF:-1 group-title="SERVER 5",AMG (ts)(server 5)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2733.m3u8
+#EXTINF:-1 group-title="SERVER 5",Boston City TV (hls)(server 5)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2737.m3u8
+#EXTINF:-1 group-title="SERVER 5",Boston City TV (ts)(server 5)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2737.m3u8
+#EXTINF:-1 group-title="SERVER 5",Bravo HD (hls)(server 5)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2732.m3u8
+#EXTINF:-1 group-title="SERVER 5",Bravo HD (ts)(server 5)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2732.m3u8
+#EXTINF:-1 group-title="SERVER 5",CNN News-intl. (hls)(server 5)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/191.m3u8
+#EXTINF:-1 group-title="SERVER 5",CNN News-intl. (ts)(server 5)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/191.m3u8
+#EXTINF:-1 group-title="SERVER 5",Family FE (hls)(server 5)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/1627.m3u8
+#EXTINF:-1 group-title="SERVER 5",Family FE (ts)(server 5)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/1627.m3u8
+#EXTINF:-1 group-title="SERVER 5",Fox SPORT 1 (hls)(server 5)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2638.m3u8
+#EXTINF:-1 group-title="SERVER 5",Fox SPORT 1 (ts)(server 5)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2638.m3u8
+#EXTINF:-1 group-title="SERVER 5",Hallmark HD (hls)(server 5)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2393.m3u8
+#EXTINF:-1 group-title="SERVER 5",Hallmark HD (ts)(server 5)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2393.m3u8
+#EXTINF:-1 group-title="SERVER 5",HBO 2 (hls)(server 5)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2512.m3u8
+#EXTINF:-1 group-title="SERVER 5",HBO 2 (ts)(server 5)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2512.m3u8
+#EXTINF:-1 group-title="SERVER 5",HBO 3 (hls)(server 5)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2511.m3u8
+#EXTINF:-1 group-title="SERVER 5",HBO 3 (ts)(server 5)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2511.m3u8
+#EXTINF:-1 group-title="SERVER 5",MTV Hit (hls)(server 5)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2396.m3u8
+#EXTINF:-1 group-title="SERVER 5",MTV Hit (ts)(server 5)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2396.m3u8
+#EXTINF:-1 group-title="SERVER 5",Sports Net (hls)(server 5)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/1625.m3u8
+#EXTINF:-1 group-title="SERVER 5",Sports Net (ts)(server 5)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/1625.m3u8
+#EXTINF:-1 group-title="SERVER 5",TBS HD (hls)(server 5)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2729.m3u8
+#EXTINF:-1 group-title="SERVER 5",TBS HD (ts)(server 5)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2729.m3u8
+#EXTINF:-1 group-title="SERVER 5",TSN 2 (hls)(server 5)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2642.m3u8
+#EXTINF:-1 group-title="SERVER 5",TSN 2 (ts)(server 5)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2642.m3u8
+#EXTINF:-1 group-title="SERVER 5",TSN 3 (hls)(server 5)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2641.m3u8
+#EXTINF:-1 group-title="SERVER 5",TSN 3 (ts)(server 5)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2641.m3u8
+#EXTINF:-1 group-title="SERVER 5",TSN 4 (hls)(server 5)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2640.m3u8
+#EXTINF:-1 group-title="SERVER 5",TSN 4 (ts)(server 5)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2640.m3u8
+#EXTINF:-1 group-title="SERVER 5",TSN 5 (hls)(server 5)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2639.m3u8
+#EXTINF:-1 group-title="SERVER 5",TSN 5 (ts)(server 5)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2639.m3u8
+#EXTINF:-1 group-title="SERVER 5",TSN Sport 1 (hls)(server 5)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/1257.m3u8
+#EXTINF:-1 group-title="SERVER 5",TSN Sport 1 (ts)(server 5)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/1257.m3u8
+#EXTINF:-1 group-title="SERVER 5",USA Network (hls)(server 5)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2731.m3u8
+#EXTINF:-1 group-title="SERVER 5",USA Network (ts)(server 5)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2731.m3u8
+#EXTINF:-1 group-title="SERVER 5",Weather Network HD (hls)(server 5)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2398.m3u8
+#EXTINF:-1 group-title="SERVER 5",Weather Network HD (ts)(server 5)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2398.m3u8
+#EXTINF:-1 group-title="SERVER 5",WWE (hls)(server 5)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2730.m3u8
+#EXTINF:-1 group-title="SERVER 5",WWE (ts)(server 5)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2730.m3u8
+#EXTINF:0 group-title="SERVER 6",== SERVER 6 ==
+http://streaming203.radionomy.com:80/City-Dance-Radio
+#EXTINF:-1 group-title="SERVER 6", ABC News (hls)(server 6)
+http://live.softiptv.com:9900/live/525/525/17406.m3u8
+#EXTINF:-1 group-title="SERVER 6", ABC News (ts)(server 6)
+http://live.softiptv.com:9900/live/525/525/17406.m3u8
+#EXTINF:-1 group-title="SERVER 6", Al Jazeera (hls)(server 6)
+http://live.softiptv.com:9900/live/525/525/17405.m3u8
+#EXTINF:-1 group-title="SERVER 6", Al Jazeera (ts)(server 6)
+http://live.softiptv.com:9900/live/525/525/17405.m3u8
+#EXTINF:-1 group-title="SERVER 6", AMC (hls)(server 6)
+http://live.softiptv.com:9900/live/525/525/17404.m3u8
+#EXTINF:-1 group-title="SERVER 6", AMC (ts)(server 6)
+http://live.softiptv.com:9900/live/525/525/17404.m3u8
+#EXTINF:-1 group-title="SERVER 6", Bloomberg. (hls)(server 6)
+http://live.softiptv.com:9900/live/525/525/17402.m3u8
+#EXTINF:-1 group-title="SERVER 6", Bloomberg. (ts)(server 6)
+http://live.softiptv.com:9900/live/525/525/17402.m3u8
+#EXTINF:-1 group-title="SERVER 6", CNN (hls)(server 6)
+http://live.softiptv.com:9900/live/525/525/17399.m3u8
+#EXTINF:-1 group-title="SERVER 6", CNN (ts)(server 6)
+http://live.softiptv.com:9900/live/525/525/17399.m3u8
+#EXTINF:-1 group-title="SERVER 6", CRCOL HD (hls)(server 6)
+http://live.softiptv.com:9900/live/525/525/17396.m3u8
+#EXTINF:-1 group-title="SERVER 6", CRCOL HD (ts)(server 6)
+http://live.softiptv.com:9900/live/525/525/17396.m3u8
+#EXTINF:-1 group-title="SERVER 6", FMLY CHANNEL (hls)(server 6)
+http://live.softiptv.com:9900/live/525/525/17391.m3u8
+#EXTINF:-1 group-title="SERVER 6", FMLY CHANNEL (ts)(server 6)
+http://live.softiptv.com:9900/live/525/525/17391.m3u8
+#EXTINF:-1 group-title="SERVER 6", HSN (hls)(server 6)
+http://live.softiptv.com:9900/live/525/525/17386.m3u8
+#EXTINF:-1 group-title="SERVER 6", HSN (ts)(server 6)
+http://live.softiptv.com:9900/live/525/525/17386.m3u8
+#EXTINF:-1 group-title="SERVER 6", ID (hls)(server 6)
+http://live.softiptv.com:9900/live/525/525/17385.m3u8
+#EXTINF:-1 group-title="SERVER 6", ID (ts)(server 6)
+http://live.softiptv.com:9900/live/525/525/17385.m3u8
+#EXTINF:-1 group-title="SERVER 6", LMN (hls)(server 6)
+http://live.softiptv.com:9900/live/525/525/17384.m3u8
+#EXTINF:-1 group-title="SERVER 6", LMN (ts)(server 6)
+http://live.softiptv.com:9900/live/525/525/17384.m3u8
+#EXTINF:-1 group-title="SERVER 6", NBA (hls)(server 6)
+http://live.softiptv.com:9900/live/525/525/17381.m3u8
+#EXTINF:-1 group-title="SERVER 6", NBA (ts)(server 6)
+http://live.softiptv.com:9900/live/525/525/17381.m3u8
+#EXTINF:-1 group-title="SERVER 6", NBC GOLF HD (hls)(server 6)
+http://live.softiptv.com:9900/live/525/525/17361.m3u8
+#EXTINF:-1 group-title="SERVER 6", NBC GOLF HD (ts)(server 6)
+http://live.softiptv.com:9900/live/525/525/17361.m3u8
+#EXTINF:-1 group-title="SERVER 6", NBC TORONTO (hls)(server 6)
+http://live.softiptv.com:9900/live/525/525/17380.m3u8
+#EXTINF:-1 group-title="SERVER 6", NBC TORONTO (ts)(server 6)
+http://live.softiptv.com:9900/live/525/525/17380.m3u8
+#EXTINF:-1 group-title="SERVER 6", OMNI TORONTO (hls)(server 6)
+http://live.softiptv.com:9900/live/525/525/17377.m3u8
+#EXTINF:-1 group-title="SERVER 6", OMNI TORONTO (ts)(server 6)
+http://live.softiptv.com:9900/live/525/525/17377.m3u8
+#EXTINF:-1 group-title="SERVER 6", TBS HD (hls)(server 6)
+http://live.softiptv.com:9900/live/525/525/19390.m3u8
+#EXTINF:-1 group-title="SERVER 6", TBS HD (ts)(server 6)
+http://live.softiptv.com:9900/live/525/525/19390.m3u8
+#EXTINF:-1 group-title="SERVER 6", TMN ACTION (hls)(server 6)
+http://live.softiptv.com:9900/live/525/525/17370.m3u8
+#EXTINF:-1 group-title="SERVER 6", TMN ACTION (ts)(server 6)
+http://live.softiptv.com:9900/live/525/525/17370.m3u8
+#EXTINF:-1 group-title="SERVER 6", TVO KIDS (hls)(server 6)
+http://live.softiptv.com:9900/live/525/525/17369.m3u8
+#EXTINF:-1 group-title="SERVER 6", TVO KIDS (ts)(server 6)
+http://live.softiptv.com:9900/live/525/525/17369.m3u8
+#EXTINF:-1 group-title="SERVER 6", University of California TV (hls)(server 6)
+http://live.softiptv.com:9900/live/525/525/17368.m3u8
+#EXTINF:-1 group-title="SERVER 6", University of California TV (ts)(server 6)
+http://live.softiptv.com:9900/live/525/525/17368.m3u8
+#EXTINF:-1 group-title="SERVER 6", VirginTV Radio (hls)(server 6)
+http://live.softiptv.com:9900/live/525/525/17366.m3u8
+#EXTINF:-1 group-title="SERVER 6", VirginTV Radio (ts)(server 6)
+http://live.softiptv.com:9900/live/525/525/17366.m3u8
+#EXTINF:-1 group-title="SERVER 6",CNN HD (hls)(server 6)
+http://live.softiptv.com:9900/live/525/525/5821.m3u8
+#EXTINF:-1 group-title="SERVER 6",CNN HD (ts)(server 6)
+http://live.softiptv.com:9900/live/525/525/5821.m3u8
+#EXTINF:-1 group-title="SERVER 6",National-Geo (hls)(server 6)
+http://live.softiptv.com:9900/live/525/525/5811.m3u8
+#EXTINF:-1 group-title="SERVER 6",National-Geo (ts)(server 6)
+http://live.softiptv.com:9900/live/525/525/5811.m3u8
+#EXTINF:-1 group-title="SERVER 6", AFN NEWS (hls)(server 6)
+http://live.softiptv.com:9900/live/525/525/19442.m3u8
+#EXTINF:-1 group-title="SERVER 6", AFN NEWS (ts)(server 6)
+http://live.softiptv.com:9900/live/525/525/19442.m3u8
+#EXTINF:-1 group-title="SERVER 6", AFN PRIME ATLANTIC (hls)(server 6)
+http://live.softiptv.com:9900/live/525/525/19441.m3u8
+#EXTINF:-1 group-title="SERVER 6", AFN PRIME ATLANTIC (ts)(server 6)
+http://live.softiptv.com:9900/live/525/525/19441.m3u8
+#EXTINF:-1 group-title="SERVER 6", AFN PRIME PACIFIC (hls)(server 6)
+http://live.softiptv.com:9900/live/525/525/19440.m3u8
+#EXTINF:-1 group-title="SERVER 6", AFN PRIME PACIFIC (ts)(server 6)
+http://live.softiptv.com:9900/live/525/525/19440.m3u8
+#EXTINF:-1 group-title="SERVER 6", AFN PULSE (hls)(server 6)
+http://live.softiptv.com:9900/live/525/525/19439.m3u8
+#EXTINF:-1 group-title="SERVER 6", AFN PULSE (ts)(server 6)
+http://live.softiptv.com:9900/live/525/525/19439.m3u8
+#EXTINF:-1 group-title="SERVER 6", AFN SPECTRUM (hls)(server 6)
+http://live.softiptv.com:9900/live/525/525/19438.m3u8
+#EXTINF:-1 group-title="SERVER 6", AFN SPECTRUM (ts)(server 6)
+http://live.softiptv.com:9900/live/525/525/19438.m3u8
+#EXTINF:-1 group-title="SERVER 6", AFN SPORTS (hls)(server 6)
+http://live.softiptv.com:9900/live/525/525/19437.m3u8
+#EXTINF:-1 group-title="SERVER 6", AFN SPORTS (ts)(server 6)
+http://live.softiptv.com:9900/live/525/525/19437.m3u8
+#EXTINF:-1 group-title="SERVER 6", AFN SPORTS 2 (hls)(server 6)
+http://live.softiptv.com:9900/live/525/525/19436.m3u8
+#EXTINF:-1 group-title="SERVER 6", AFN SPORTS 2 (ts)(server 6)
+http://live.softiptv.com:9900/live/525/525/19436.m3u8
+#EXTINF:-1 group-title="SERVER 6", Bein Sports USA HD (hls)(server 6)
+http://live.softiptv.com:9900/live/525/525/19435.m3u8
+#EXTINF:-1 group-title="SERVER 6", Bein Sports USA HD (ts)(server 6)
+http://live.softiptv.com:9900/live/525/525/19435.m3u8
+#EXTINF:-1 group-title="SERVER 6", BTN Sport HD (hls)(server 6)
+http://live.softiptv.com:9900/live/525/525/19434.m3u8
+#EXTINF:-1 group-title="SERVER 6", BTN Sport HD (ts)(server 6)
+http://live.softiptv.com:9900/live/525/525/19434.m3u8
+#EXTINF:-1 group-title="SERVER 6", Discovery Science HD (hls)(server 6)
+http://live.softiptv.com:9900/live/525/525/19430.m3u8
+#EXTINF:-1 group-title="SERVER 6", Discovery Science HD (ts)(server 6)
+http://live.softiptv.com:9900/live/525/525/19430.m3u8
+#EXTINF:-1 group-title="SERVER 6", Food Network HD (hls)(server 6)
+http://live.softiptv.com:9900/live/525/525/19428.m3u8
+#EXTINF:-1 group-title="SERVER 6", Food Network HD (ts)(server 6)
+http://live.softiptv.com:9900/live/525/525/19428.m3u8
+#EXTINF:-1 group-title="SERVER 6", FOXX HD (hls)(server 6)
+http://live.softiptv.com:9900/live/525/525/19427.m3u8
+#EXTINF:-1 group-title="SERVER 6", FOXX HD (ts)(server 6)
+http://live.softiptv.com:9900/live/525/525/19427.m3u8
+#EXTINF:-1 group-title="SERVER 6", H2 (hls)(server 6)
+http://live.softiptv.com:9900/live/525/525/19424.m3u8
+#EXTINF:-1 group-title="SERVER 6", H2 (ts)(server 6)
+http://live.softiptv.com:9900/live/525/525/19424.m3u8
+#EXTINF:-1 group-title="SERVER 6", NBC Extra Time HD1 ( During Games Only ) (hls)(server 6)
+http://live.softiptv.com:9900/live/525/525/19422.m3u8
+#EXTINF:-1 group-title="SERVER 6", NBC Extra Time HD1 ( During Games Only ) (ts)(server 6)
+http://live.softiptv.com:9900/live/525/525/19422.m3u8
+#EXTINF:-1 group-title="SERVER 6", NICKELODEN HD (hls)(server 6)
+http://live.softiptv.com:9900/live/525/525/19421.m3u8
+#EXTINF:-1 group-title="SERVER 6", NICKELODEN HD (ts)(server 6)
+http://live.softiptv.com:9900/live/525/525/19421.m3u8
+#EXTINF:-1 group-title="SERVER 6", TSN 1 HD (hls)(server 6)
+http://live.softiptv.com:9900/live/525/525/19387.m3u8
+#EXTINF:-1 group-title="SERVER 6", TSN 1 HD (ts)(server 6)
+http://live.softiptv.com:9900/live/525/525/19387.m3u8
+#EXTINF:-1 group-title="SERVER 6", TSN 3HD (hls)(server 6)
+http://live.softiptv.com:9900/live/525/525/19385.m3u8
+#EXTINF:-1 group-title="SERVER 6", TSN 3HD (ts)(server 6)
+http://live.softiptv.com:9900/live/525/525/19385.m3u8
+#EXTINF:-1 group-title="SERVER 6", USA Network HD (hls)(server 6)
+http://live.softiptv.com:9900/live/525/525/19420.m3u8
+#EXTINF:-1 group-title="SERVER 6", USA Network HD (ts)(server 6)
+http://live.softiptv.com:9900/live/525/525/19420.m3u8
+#EXTINF:-1 group-title="SERVER 6", AMC HD (hls)(server 6)
+http://live.softiptv.com:9900/live/525/525/19419.m3u8
+#EXTINF:-1 group-title="SERVER 6", AMC HD (ts)(server 6)
+http://live.softiptv.com:9900/live/525/525/19419.m3u8
+#EXTINF:-1 group-title="SERVER 6", CBSN HD (hls)(server 6)
+http://live.softiptv.com:9900/live/525/525/19417.m3u8
+#EXTINF:-1 group-title="SERVER 6", CBSN HD (ts)(server 6)
+http://live.softiptv.com:9900/live/525/525/19417.m3u8
+#EXTINF:-1 group-title="SERVER 6", DISCCOVERY HD (hls)(server 6)
+http://live.softiptv.com:9900/live/525/525/19416.m3u8
+#EXTINF:-1 group-title="SERVER 6", DISCCOVERY HD (ts)(server 6)
+http://live.softiptv.com:9900/live/525/525/19416.m3u8
+#EXTINF:0 group-title="SERVER 7",== SERVER 7 ==
+http://streaming203.radionomy.com:80/City-Dance-Radio
+#EXTINF:-1 group-title="SERVER 7",ESPN (hls)(server 7)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2078.m3u8
+#EXTINF:-1 group-title="SERVER 7",ESPN (ts)(server 7)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2078.m3u8
+#EXTINF:-1 group-title="SERVER 7",FOOD network (hls)(server 7)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2087.m3u8
+#EXTINF:-1 group-title="SERVER 7",FOOD network (ts)(server 7)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2087.m3u8
+#EXTINF:-1 group-title="SERVER 7",London live (hls)(server 7)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2084.m3u8
+#EXTINF:-1 group-title="SERVER 7",London live (ts)(server 7)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2084.m3u8
+#EXTINF:-1 group-title="SERVER 7",-AFL (hls)(server 7)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/1240.m3u8
+#EXTINF:-1 group-title="SERVER 7",-AFL (ts)(server 7)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/1240.m3u8
+#EXTINF:-1 group-title="SERVER 7",-NBA-US (hls)(server 7)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/1261.m3u8
+#EXTINF:-1 group-title="SERVER 7",-NBA-US (ts)(server 7)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/1261.m3u8
+#EXTINF:-1 group-title="SERVER 7",Usa- A&E hd (hls)(server 7)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2637.m3u8
+#EXTINF:-1 group-title="SERVER 7",Usa- A&E hd (ts)(server 7)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2637.m3u8
+#EXTINF:-1 group-title="SERVER 7",ABC News (hls)(server 7)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/1063.m3u8
+#EXTINF:-1 group-title="SERVER 7",ABC News (ts)(server 7)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/1063.m3u8
+#EXTINF:-1 group-title="SERVER 7",AMC HD (hls)(server 7)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2113.m3u8
+#EXTINF:-1 group-title="SERVER 7",AMC HD (ts)(server 7)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2113.m3u8
+#EXTINF:-1 group-title="SERVER 7",BBC-News (hls)(server 7)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2071.m3u8
+#EXTINF:-1 group-title="SERVER 7",BBC-News (ts)(server 7)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2071.m3u8
+#EXTINF:-1 group-title="SERVER 7",Bloomberg (hls)(server 7)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/1304.m3u8
+#EXTINF:-1 group-title="SERVER 7",Bloomberg (ts)(server 7)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/1304.m3u8
+#EXTINF:-1 group-title="SERVER 7",California University (hls)(server 7)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2103.m3u8
+#EXTINF:-1 group-title="SERVER 7",California University (ts)(server 7)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2103.m3u8
+#EXTINF:-1 group-title="SERVER 7",CNN Live (hls)(server 7)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2806.m3u8
+#EXTINF:-1 group-title="SERVER 7",CNN Live (ts)(server 7)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2806.m3u8
+#EXTINF:-1 group-title="SERVER 7",Family E (hls)(server 7)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2094.m3u8
+#EXTINF:-1 group-title="SERVER 7",Family E (ts)(server 7)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2094.m3u8
+#EXTINF:-1 group-title="SERVER 7",Florida Channel (hls)(server 7)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2102.m3u8
+#EXTINF:-1 group-title="SERVER 7",Florida Channel (ts)(server 7)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2102.m3u8
+#EXTINF:-1 group-title="SERVER 7",HBO (hls)(server 7)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/827.m3u8
+#EXTINF:-1 group-title="SERVER 7",HBO (ts)(server 7)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/827.m3u8
+#EXTINF:-1 group-title="SERVER 7",HBO1 (hls)(server 7)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2115.m3u8
+#EXTINF:-1 group-title="SERVER 7",HBO1 (ts)(server 7)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2115.m3u8
+#EXTINF:-1 group-title="SERVER 7",London Live (hls)(server 7)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2096.m3u8
+#EXTINF:-1 group-title="SERVER 7",London Live (ts)(server 7)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2096.m3u8
+#EXTINF:-1 group-title="SERVER 7",NASA HD (hls)(server 7)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2097.m3u8
+#EXTINF:-1 group-title="SERVER 7",NASA HD (ts)(server 7)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2097.m3u8
+#EXTINF:-1 group-title="SERVER 7",NBCSN sport (hls)(server 7)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2116.m3u8
+#EXTINF:-1 group-title="SERVER 7",NBCSN sport (ts)(server 7)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2116.m3u8
+#EXTINF:-1 group-title="SERVER 7",PAC-12 WS (hls)(server 7)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2101.m3u8
+#EXTINF:-1 group-title="SERVER 7",PAC-12 WS (ts)(server 7)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2101.m3u8
+#EXTINF:-1 group-title="SERVER 7",QVC HD (hls)(server 7)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2114.m3u8
+#EXTINF:-1 group-title="SERVER 7",QVC HD (ts)(server 7)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2114.m3u8
+#EXTINF:-1 group-title="SERVER 7",RT News (hls)(server 7)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/1910.m3u8
+#EXTINF:-1 group-title="SERVER 7",RT News (ts)(server 7)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/1910.m3u8
+#EXTINF:-1 group-title="SERVER 7",Spike (hls)(server 7)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2099.m3u8
+#EXTINF:-1 group-title="SERVER 7",Spike (ts)(server 7)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2099.m3u8
+#EXTINF:-1 group-title="SERVER 7",AMG (hls)(server 7)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2733.m3u8
+#EXTINF:-1 group-title="SERVER 7",AMG (ts)(server 7)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2733.m3u8
+#EXTINF:-1 group-title="SERVER 7",Boston City TV (hls)(server 7)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2737.m3u8
+#EXTINF:-1 group-title="SERVER 7",Boston City TV (ts)(server 7)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2737.m3u8
+#EXTINF:-1 group-title="SERVER 7",Bravo HD (hls)(server 7)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2732.m3u8
+#EXTINF:-1 group-title="SERVER 7",Bravo HD (ts)(server 7)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2732.m3u8
+#EXTINF:-1 group-title="SERVER 7",CNN News-intl. (hls)(server 7)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/191.m3u8
+#EXTINF:-1 group-title="SERVER 7",CNN News-intl. (ts)(server 7)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/191.m3u8
+#EXTINF:-1 group-title="SERVER 7",Family FE (hls)(server 7)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/1627.m3u8
+#EXTINF:-1 group-title="SERVER 7",Family FE (ts)(server 7)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/1627.m3u8
+#EXTINF:-1 group-title="SERVER 7",Fox SPORT 1 (hls)(server 7)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2638.m3u8
+#EXTINF:-1 group-title="SERVER 7",Fox SPORT 1 (ts)(server 7)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2638.m3u8
+#EXTINF:-1 group-title="SERVER 7",Hallmark HD (hls)(server 7)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2393.m3u8
+#EXTINF:-1 group-title="SERVER 7",Hallmark HD (ts)(server 7)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2393.m3u8
+#EXTINF:-1 group-title="SERVER 7",HBO 2 (hls)(server 7)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2512.m3u8
+#EXTINF:-1 group-title="SERVER 7",HBO 2 (ts)(server 7)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2512.m3u8
+#EXTINF:-1 group-title="SERVER 7",HBO 3 (hls)(server 7)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2511.m3u8
+#EXTINF:-1 group-title="SERVER 7",HBO 3 (ts)(server 7)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2511.m3u8
+#EXTINF:-1 group-title="SERVER 7",MTV Hit (hls)(server 7)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2396.m3u8
+#EXTINF:-1 group-title="SERVER 7",MTV Hit (ts)(server 7)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2396.m3u8
+#EXTINF:-1 group-title="SERVER 7",Sports Net (hls)(server 7)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/1625.m3u8
+#EXTINF:-1 group-title="SERVER 7",Sports Net (ts)(server 7)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/1625.m3u8
+#EXTINF:-1 group-title="SERVER 7",TBS HD (hls)(server 7)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2729.m3u8
+#EXTINF:-1 group-title="SERVER 7",TBS HD (ts)(server 7)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2729.m3u8
+#EXTINF:-1 group-title="SERVER 7",TSN 2 (hls)(server 7)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2642.m3u8
+#EXTINF:-1 group-title="SERVER 7",TSN 2 (ts)(server 7)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2642.m3u8
+#EXTINF:-1 group-title="SERVER 7",TSN 3 (hls)(server 7)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2641.m3u8
+#EXTINF:-1 group-title="SERVER 7",TSN 3 (ts)(server 7)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2641.m3u8
+#EXTINF:-1 group-title="SERVER 7",TSN 4 (hls)(server 7)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2640.m3u8
+#EXTINF:-1 group-title="SERVER 7",TSN 4 (ts)(server 7)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2640.m3u8
+#EXTINF:-1 group-title="SERVER 7",TSN 5 (hls)(server 7)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2639.m3u8
+#EXTINF:-1 group-title="SERVER 7",TSN 5 (ts)(server 7)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2639.m3u8
+#EXTINF:-1 group-title="SERVER 7",TSN Sport 1 (hls)(server 7)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/1257.m3u8
+#EXTINF:-1 group-title="SERVER 7",TSN Sport 1 (ts)(server 7)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/1257.m3u8
+#EXTINF:-1 group-title="SERVER 7",USA Network (hls)(server 7)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2731.m3u8
+#EXTINF:-1 group-title="SERVER 7",USA Network (ts)(server 7)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2731.m3u8
+#EXTINF:-1 group-title="SERVER 7",Weather Network HD (hls)(server 7)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2398.m3u8
+#EXTINF:-1 group-title="SERVER 7",Weather Network HD (ts)(server 7)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2398.m3u8
+#EXTINF:-1 group-title="SERVER 7",WWE (hls)(server 7)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2730.m3u8
+#EXTINF:-1 group-title="SERVER 7",WWE (ts)(server 7)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2730.m3u8
+#EXTINF:0 group-title="SERVER 8",== SERVER 8 ==
+http://streaming203.radionomy.com:80/City-Dance-Radio
+#EXTINF:-1 group-title="SERVER 8",ESPN (hls)(server 8)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2078.m3u8
+#EXTINF:-1 group-title="SERVER 8",ESPN (ts)(server 8)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2078.m3u8
+#EXTINF:-1 group-title="SERVER 8",FOOD network (hls)(server 8)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2087.m3u8
+#EXTINF:-1 group-title="SERVER 8",FOOD network (ts)(server 8)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2087.m3u8
+#EXTINF:-1 group-title="SERVER 8",London live (hls)(server 8)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2084.m3u8
+#EXTINF:-1 group-title="SERVER 8",London live (ts)(server 8)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2084.m3u8
+#EXTINF:-1 group-title="SERVER 8",-AFL (hls)(server 8)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/1240.m3u8
+#EXTINF:-1 group-title="SERVER 8",-AFL (ts)(server 8)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/1240.m3u8
+#EXTINF:-1 group-title="SERVER 8",-NBA-US (hls)(server 8)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/1261.m3u8
+#EXTINF:-1 group-title="SERVER 8",-NBA-US (ts)(server 8)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/1261.m3u8
+#EXTINF:-1 group-title="SERVER 8",Usa- A&E hd (hls)(server 8)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2637.m3u8
+#EXTINF:-1 group-title="SERVER 8",Usa- A&E hd (ts)(server 8)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2637.m3u8
+#EXTINF:-1 group-title="SERVER 8",ABC News (hls)(server 8)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/1063.m3u8
+#EXTINF:-1 group-title="SERVER 8",ABC News (ts)(server 8)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/1063.m3u8
+#EXTINF:-1 group-title="SERVER 8",AMC HD (hls)(server 8)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2113.m3u8
+#EXTINF:-1 group-title="SERVER 8",AMC HD (ts)(server 8)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2113.m3u8
+#EXTINF:-1 group-title="SERVER 8",BBC-News (hls)(server 8)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2071.m3u8
+#EXTINF:-1 group-title="SERVER 8",BBC-News (ts)(server 8)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2071.m3u8
+#EXTINF:-1 group-title="SERVER 8",Bloomberg (hls)(server 8)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/1304.m3u8
+#EXTINF:-1 group-title="SERVER 8",Bloomberg (ts)(server 8)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/1304.m3u8
+#EXTINF:-1 group-title="SERVER 8",California University (hls)(server 8)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2103.m3u8
+#EXTINF:-1 group-title="SERVER 8",California University (ts)(server 8)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2103.m3u8
+#EXTINF:-1 group-title="SERVER 8",CNN Live (hls)(server 8)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2806.m3u8
+#EXTINF:-1 group-title="SERVER 8",CNN Live (ts)(server 8)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2806.m3u8
+#EXTINF:-1 group-title="SERVER 8",Family E (hls)(server 8)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2094.m3u8
+#EXTINF:-1 group-title="SERVER 8",Family E (ts)(server 8)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2094.m3u8
+#EXTINF:-1 group-title="SERVER 8",Florida Channel (hls)(server 8)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2102.m3u8
+#EXTINF:-1 group-title="SERVER 8",Florida Channel (ts)(server 8)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2102.m3u8
+#EXTINF:-1 group-title="SERVER 8",HBO (hls)(server 8)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/827.m3u8
+#EXTINF:-1 group-title="SERVER 8",HBO (ts)(server 8)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/827.m3u8
+#EXTINF:-1 group-title="SERVER 8",HBO1 (hls)(server 8)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2115.m3u8
+#EXTINF:-1 group-title="SERVER 8",HBO1 (ts)(server 8)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2115.m3u8
+#EXTINF:-1 group-title="SERVER 8",London Live (hls)(server 8)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2096.m3u8
+#EXTINF:-1 group-title="SERVER 8",London Live (ts)(server 8)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2096.m3u8
+#EXTINF:-1 group-title="SERVER 8",NASA HD (hls)(server 8)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2097.m3u8
+#EXTINF:-1 group-title="SERVER 8",NASA HD (ts)(server 8)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2097.m3u8
+#EXTINF:-1 group-title="SERVER 8",NBCSN sport (hls)(server 8)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2116.m3u8
+#EXTINF:-1 group-title="SERVER 8",NBCSN sport (ts)(server 8)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2116.m3u8
+#EXTINF:-1 group-title="SERVER 8",PAC-12 WS (hls)(server 8)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2101.m3u8
+#EXTINF:-1 group-title="SERVER 8",PAC-12 WS (ts)(server 8)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2101.m3u8
+#EXTINF:-1 group-title="SERVER 8",QVC HD (hls)(server 8)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2114.m3u8
+#EXTINF:-1 group-title="SERVER 8",QVC HD (ts)(server 8)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2114.m3u8
+#EXTINF:-1 group-title="SERVER 8",RT News (hls)(server 8)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/1910.m3u8
+#EXTINF:-1 group-title="SERVER 8",RT News (ts)(server 8)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/1910.m3u8
+#EXTINF:-1 group-title="SERVER 8",Spike (hls)(server 8)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2099.m3u8
+#EXTINF:-1 group-title="SERVER 8",Spike (ts)(server 8)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2099.m3u8
+#EXTINF:-1 group-title="SERVER 8",AMG (hls)(server 8)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2733.m3u8
+#EXTINF:-1 group-title="SERVER 8",AMG (ts)(server 8)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2733.m3u8
+#EXTINF:-1 group-title="SERVER 8",Boston City TV (hls)(server 8)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2737.m3u8
+#EXTINF:-1 group-title="SERVER 8",Boston City TV (ts)(server 8)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2737.m3u8
+#EXTINF:-1 group-title="SERVER 8",Bravo HD (hls)(server 8)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2732.m3u8
+#EXTINF:-1 group-title="SERVER 8",Bravo HD (ts)(server 8)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2732.m3u8
+#EXTINF:-1 group-title="SERVER 8",CNN News-intl. (hls)(server 8)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/191.m3u8
+#EXTINF:-1 group-title="SERVER 8",CNN News-intl. (ts)(server 8)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/191.m3u8
+#EXTINF:-1 group-title="SERVER 8",Family FE (hls)(server 8)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/1627.m3u8
+#EXTINF:-1 group-title="SERVER 8",Family FE (ts)(server 8)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/1627.m3u8
+#EXTINF:-1 group-title="SERVER 8",Fox SPORT 1 (hls)(server 8)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2638.m3u8
+#EXTINF:-1 group-title="SERVER 8",Fox SPORT 1 (ts)(server 8)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2638.m3u8
+#EXTINF:-1 group-title="SERVER 8",Hallmark HD (hls)(server 8)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2393.m3u8
+#EXTINF:-1 group-title="SERVER 8",Hallmark HD (ts)(server 8)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2393.m3u8
+#EXTINF:-1 group-title="SERVER 8",HBO 2 (hls)(server 8)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2512.m3u8
+#EXTINF:-1 group-title="SERVER 8",HBO 2 (ts)(server 8)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2512.m3u8
+#EXTINF:-1 group-title="SERVER 8",HBO 3 (hls)(server 8)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2511.m3u8
+#EXTINF:-1 group-title="SERVER 8",HBO 3 (ts)(server 8)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2511.m3u8
+#EXTINF:-1 group-title="SERVER 8",MTV Hit (hls)(server 8)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2396.m3u8
+#EXTINF:-1 group-title="SERVER 8",MTV Hit (ts)(server 8)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2396.m3u8
+#EXTINF:-1 group-title="SERVER 8",Sports Net (hls)(server 8)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/1625.m3u8
+#EXTINF:-1 group-title="SERVER 8",Sports Net (ts)(server 8)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/1625.m3u8
+#EXTINF:-1 group-title="SERVER 8",TBS HD (hls)(server 8)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2729.m3u8
+#EXTINF:-1 group-title="SERVER 8",TBS HD (ts)(server 8)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2729.m3u8
+#EXTINF:-1 group-title="SERVER 8",TSN 2 (hls)(server 8)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2642.m3u8
+#EXTINF:-1 group-title="SERVER 8",TSN 2 (ts)(server 8)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2642.m3u8
+#EXTINF:-1 group-title="SERVER 8",TSN 3 (hls)(server 8)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2641.m3u8
+#EXTINF:-1 group-title="SERVER 8",TSN 3 (ts)(server 8)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2641.m3u8
+#EXTINF:-1 group-title="SERVER 8",TSN 4 (hls)(server 8)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2640.m3u8
+#EXTINF:-1 group-title="SERVER 8",TSN 4 (ts)(server 8)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2640.m3u8
+#EXTINF:-1 group-title="SERVER 8",TSN 5 (hls)(server 8)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2639.m3u8
+#EXTINF:-1 group-title="SERVER 8",TSN 5 (ts)(server 8)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2639.m3u8
+#EXTINF:-1 group-title="SERVER 8",TSN Sport 1 (hls)(server 8)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/1257.m3u8
+#EXTINF:-1 group-title="SERVER 8",TSN Sport 1 (ts)(server 8)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/1257.m3u8
+#EXTINF:-1 group-title="SERVER 8",USA Network (hls)(server 8)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2731.m3u8
+#EXTINF:-1 group-title="SERVER 8",USA Network (ts)(server 8)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2731.m3u8
+#EXTINF:-1 group-title="SERVER 8",Weather Network HD (hls)(server 8)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2398.m3u8
+#EXTINF:-1 group-title="SERVER 8",Weather Network HD (ts)(server 8)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2398.m3u8
+#EXTINF:-1 group-title="SERVER 8",WWE (hls)(server 8)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2730.m3u8
+#EXTINF:-1 group-title="SERVER 8",WWE (ts)(server 8)
+http://ultime-iptv.net:8000/live/chaaben3498/riadh3498/2730.m3u8
