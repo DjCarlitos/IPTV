@@ -164,7 +164,7 @@ http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/f
 http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8?
 
 #EXTINF:0 tvg-logo="https://photos.prnewswire.com/prnvar/20150526/219576LOGO", JASMIN.TV
-rtmp://109.71.162.112:1935/live/sd.jasminchannel.stream
+rtmp://109.71.162.112:1935/live/hd.jasminchannel.stream
 
 #EXTINF:-1 tvg-logo="https://0.s3.envato.com/files/109789205/newVISITX.jpg", Visit-X TV HD
 http://stream.visit-x.tv/vxtv/live/playlist.m3u8?
