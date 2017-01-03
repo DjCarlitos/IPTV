@@ -1,16 +1,79 @@
-#EXTINF:0,PRIVATE COM 
-http://publish.thewebstream.co:1935/leved/_definst_/privateCom/playlist.m3u8 
+#EXTM3U
 
-#EXTINF:0,HUSTLER HD 
-http://skulliptv.spdns.org:8000/live/elco/elco/3235.ts 
 
-#EXTINF:0,DORCEL 
-http://213.136.90.30:8000/live/christop/christop/9220.ts 
+#EXTINF:0 , Fox Movies
+http://159.203.63.115:8081/rstm/FOX-Movies/playlist.m3u8
+#EXTINF:0 , Estrellas.
+http://159.203.63.115:8081/rstm/Estrellas/playlist.m3u8
+#EXTINF:0  GalaTv
+http://159.203.63.115:8081/rstm/GalaTV/playlist.m3u8
+#EXTINF:0, TDN
+http://159.203.63.115:8081/rstm/Univision-TDN/playlist.m3u8
+#EXTINF:0 , Disney XD
+http://159.203.63.115:8081/rstm/DisneyXD/playlist.m3u8
+#EXTINF:0 , HBO Premuim
+http://159.203.63.115:8081/rstm/HBO-Family/playlist.m3u8
+#EXTINF:0, Telehit.
+http://159.203.63.115:8081/rstm/Telehit/playlist.m3u8
+#EXTINF:0 , Rimonson
+http://159.203.63.115:8081/rstm/Ritmoson/playlist.m3u8
+#EXTINF:0, Fo Cinemas.
+http://159.203.63.115:8081/rstm/FOX-Cinema/playlist.m3u8
+#EXTINF:0 , Fox Family
+http://159.203.63.115:8081/rstm/FOX-Family/playlist.m3u8
+#EXTINF:0 , TNT
+http://159.203.63.115:8081/rstm/TNT/playlist.m3u8
+#EXTINF:0 , Venuz
+http://159.203.63.133:8081/rstm/Venus/playlist.m3u8
+#EXTINF:0 , Fox Sports
+http://159.203.63.133:8081/rstm/FoxSports2/playlist.m3u8
+#EXTINF:0 , ESPN
+http://159.203.63.133:8081/rstm/Espn/playlist.m3u8
+#EXTINF:0, OnceTV
+http://159.203.34.7:8081/rstm/OnceTV/playlist.m3u8
 
-#EXTINF:0,PRIVATE 
-http://213.136.90.30:8000/live/christop/christop/9217.ts 
+#EXTINF:0 , Fox 3
+http://159.203.34.7:8081/rstm/FoxSports3/playlist.m3u8
 
-#EXTINF:0,BRAZZERS 
-http://4BA9EBDB07C05883:@5.159.96.170:8000/brazzers 
+#EXTINF:0 , MLS USA
+http://139.59.185.252:8081/rstm/MLB_USA_HD/playlist.m3u8
+#EXTINF:0 , NBC USA
+http://139.59.185.252:8081/rstm/NBC_UNIVERSO_USA_HD/playlist.m3u8
 
-#EXTINF:0,PASSION XXX http://publish.thewebstream.co:1935/leved/_definst_/passielivestream/playlist.m3u8 #EXTINF:0,FREE-X http://37.235.216.255:4000/udp/225.50.70.8:1234 #EXTINF:0,FRENCH LOVER http://37.235.216.255:4000/udp/225.50.70.7:1234 #EXTINF:0,SCT http://selling-team.net:8000/live/ali/ali/6281.m3u8 #EXTINF:0,SEXT 6 SENSO http://selling-team.net:8000/live/ali/ali/6285.m3u8 #EXTINF:0,PINK TV http://selling-team.net:8000/live/ali/ali/6284.m3u8 #EXTINF:0,HOT XXX http://selling-team.net:8000/live/ali/ali/2546.m3u8 #EXTINF:0,EXOTICA http://selling-team.net:8000/live/ali/ali/6283.m3u8 #EXTINF:0,CENTO CENTO http://selling-team.net:8000/live/ali/ali/6282.m3u8 #EXTINF:0,EROXXX http://91.204.214.106:23371/stolen/025/duqu #EXTINF:0,VENUS http://selling-team.net:8000/live/ali/ali/6051.m3u8 #EXTINF:0,HOT http://selling-team.net:8000/live/ali/ali/1774.m3u8 #EXTINF:0,HOT CLUB 1 HD http://selling-team.net:8000/live/ali/ali/608.m3u8 #EXTINF:0,HOTCLUB 2 HD http://selling-team.net:8000/live/ali/ali/609.m3u8 #EXTINF:0,HUSTLER TV http://selling-team.net:8000/live/ali/ali/1775.m3u8
+#EXTINF:0 , Adsport
+http://adtv.ercdn.net/adsport4/adsport2_720p.m3u8
+#EXTINF:0 , Adsport
+http://adtv.ercdn.net/adsport4/adsport1_720p.m3u8
+
+#EXTINF:0 , Adsport
+http://adtv.ercdn.net/adsport4/adsport3_720p.m3u8
+#EXTINF:0 , Adsport
+http://adtv.ercdn.net/adsport4/adsport4_720p.m3u8
+#EXTINF:0 , Adsport
+
+http://adtv.ercdn.net/adsport4/adsport5_720p.m3u8
+
+#EXTINF:0 , Adsport
+http://adtv.ercdn.net/adsport4/adsport6_720p.m3u8
+#EXTINF:0 , Adsport
+
+http://adtv.ercdn.net/adsport4/adsport7_720p.m3u8
+
+#EXTINF:-1,Sport TV 1 
+http://gourl.su/12b 
+#EXTINF:-1,Sport TV 2 
+http://gourl.su/12c 
+#EXTINF:-1,Sport TV 3 
+http://gourl.su/12d 
+#EXTINF:-1,Sport TV 4 
+http://gourl.su/12e 
+#EXTINF:-1,Sport TV 5 
+http://gourl.su/12f 
+#EXTINF:-1,Real Madrid TV 
+http://gourl.su/12g 
+#EXTINF:-1,Sporting TV 
+http://gourl.su/12h 
+#EXTINF:-1,Kombat Sport 
+http://gourl.su/12i 
+#EXTINF:-1,Motors TV 
+http://gourl.su/12j 
