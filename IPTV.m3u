@@ -67,6 +67,27 @@ http://server55.livestreamingcdn.com:1935/tulixdemo/tulixdemo/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiospeaker.it/images/blog/m2o-nuovo-logo-2_landscape_300x1000.jpg",m2o tv
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
 
+#EXTINF:0 , Adsport 1
+http://adtv.ercdn.net/adsport4/adsport1_720p.m3u8
+
+#EXTINF:0 , Adsport 2
+http://adtv.ercdn.net/adsport4/adsport2_720p.m3u8
+
+#EXTINF:0 , Adsport 3
+http://adtv.ercdn.net/adsport4/adsport3_720p.m3u8
+
+#EXTINF:0 , Adsport 4
+http://adtv.ercdn.net/adsport4/adsport4_720p.m3u8
+
+#EXTINF:0 , Adsport 5
+http://adtv.ercdn.net/adsport4/adsport5_720p.m3u8
+
+#EXTINF:0 , Adsport 6
+http://adtv.ercdn.net/adsport4/adsport6_720p.m3u8
+
+#EXTINF:0 , Adsport 7
+http://adtv.ercdn.net/adsport4/adsport7_720p.m3u8
+
 #EXTINF:-1, Antena 3 HD
 http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8?sd=10&rebase=on
 
