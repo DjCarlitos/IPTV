@@ -1,164 +1,46 @@
-#EXTINF:-1, tvg-logo="qzpwloD.png" group-title="Canales Argentinos", El Trece [HD]
-http://prepublish.f.qaotic.net/a03/ngrp:el13_live01-100083_all/Playlist.m3u8|Referer=http://vmf.edge-apps.net&amp;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:49.0) Gecko/20100101 Firefox/49.0&amp;origin=http://vmf.edge-apps.net&amp;Connection=keep-alive&amp;X-Forwarded-For=200.42.143.60
+#EXTINF:-1,24h
+http://190.57.234.164/V0/4/2.m3u8
+#EXTINF:-1,DeporTV
+http://190.57.234.164/V0/4/1.m3u8
+#EXTINF:-1,24h
+http://190.57.234.164/V3/4/2.m3u8
+#EXTINF:-1,ElTrece
+http://190.57.234.164/V3/1/1.m3u8
+#EXTINF:-1,nick2
+http://190.57.234.164/V0/3/1.m3u8
+#EXTINF:-1,ElTrece
+http://190.57.234.164/V0/1/1.m3u8
+#EXTINF:-1,9VIVO
+http://190.57.234.164/V0/2/1.m3u8
+#EXTINF:-1,DXTV
+http://190.57.234.164/V3/4/1.m3u8
+#EXTINF:-1,AYM SPORTS
+http://190.57.234.164/V0/5/1.m3u8
+#EXTINF:-1,AM Sports
+http://190.57.234.164/V3/5/1.m3u8
+#EXTINF:-1,UFC NETWORK OPC 1
+http://190.57.234.164/V0/6/1.m3u8
+#EXTINF:-1,UFC NETWORK OPC 2
+http://190.57.234.164/V0/6/2.m3u8
+#EXTINF:-1,UFC Network OPC 3
+http://190.57.234.164/V3/6/1.m3u8
+#EXTINF:-1,UFC Network OPC 4
+http://190.57.234.164/V3/6/2.m3u8
 
-#EXTINF:-1, tvg-logo="XEnY7aW.png" group-title="Canales Argentinos", TN [HD]
-http://prepublish.f.qaotic.net/a04/ngrp:tn_live01-100083_all/Playlist.m3u8|Referer=http://vmf.edge-apps.net&amp;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:49.0) Gecko/20100101 Firefox/49.0&amp;origin=http://vmf.edge-apps.net&amp;Connection=keep-alive&amp;X-Forwarded-For=200.42.143.60
+#EXTINF:-1,CARTOON NETWORK
+http://31.204.128.117:8081/live/cartoon/playlist.m3u8
+#EXTINF:-1,DISNEY CHANNEL
+http://31.204.128.117:8081:8081/live/disney/playlist.m3u8
+#EXTINF:-1,DISCOVERY KIDS
+http://31.204.128.117:8081:8081/live/discoverykids/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="be3zLgp.png" group-title="Canales Argentinos", C5N [SD]
-http://c5n.stweb.tv:1935/c5n/live_media/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="m504ZL8.png" group-title="Canales Argentinos", Canal 26 [HD]
-http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="wRGgKIo.png" group-title="Canales Argentinos", America TV [HD]
-http://prepublish.f.qaotic.net/epa2/ngrp:americatvlive-100056_all/Playlist.m3u8|Referer=http://vmf.edge-apps.net&amp;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:49.0) Gecko/20100101 Firefox/49.0&amp;origin=http://vmf.edge-apps.net&amp;Connection=keep-alive&amp;X-Forwarded-For=200.42.143.60
-
-#EXTINF:-1, tvg-logo="" group-title="Canales Brasileños", GLOBO SP
-http://31.204.128.127:8081/live/record/playlist.m3u8 
-
-#EXTINF:-1, tvg-logo="" group-title="Canales Brasileños", RIC TV
-http://31.204.128.127:8081/live/sptv/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="" group-title="Canales Españoles", Antena 3 [HD]
-http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
-
-#EXTINF:-1, tvg-logo="" group-title="Canales Españoles", Antena 3 Series [HD]
-http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
-
-#EXTINF:-1, tvg-logo="" group-title="Canales Españoles", Antena 3 Internacional
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8
-
-#EXTINF:-1, tvg-logo="" group-title="Canales Españoles", La Sexta  [HD]
-http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
-
-#EXTINF:-1, tvg-logo="" group-title="Canales Españoles", Mega España [HD] 
-http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8
-
-#EXTINF:-1, tvg-logo="" group-title="Canales Españoles", Neox [HD] 
-http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
-
-#EXTINF:-1, tvg-logo="" group-title="Canales Españoles", Gran Hermano 24Hrs [HD]
-http://mset-prod-1.live-delivery.ooyala.com/out/u/12640_4.m3u8
-
-#EXTINF:-1, tvg-logo="" group-title="Canales Españoles", TVE 1 
-http://iphonelive.rtve.es/LA1_LV3_IPH/bitrate_2.m3u8
-
-#EXTINF:-1, tvg-logo="" group-title="Canales Españoles", TVE 2 
-http://iphonelive.rtve.es/LA2_LV3_IPH/bitrate_2.m3u8
-
-#EXTINF:-1, tvg-logo="" group-title="Canales Españoles", RTVE 24H 
-http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
-
-#EXTINF:-1, tvg-logo="" group-title="Canales Españoles", Canal 13 TV
-http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/.m3u8
-
-#EXTINF:-1, tvg-logo="" group-title="Canales Españoles", RTVE 24 Horas
-http://rtve-live.hds.adaptive.level3.net/hls-live/rtvegl8-24hlv3aomgl8/_definst_/live/stream2.m3u8
-
-#EXTINF:-1, tvg-logo="" group-title="Canales Españoles", RTVE 2
-http://rtve-live.hds.adaptive.level3.net/hls-live/rtvegl7-la1lv3aomgl7/_definst_/live/stream2.m3u8
-
-#EXTINF:-1, tvg-logo="" group-title="Canales Españoles", RTVE 2
-http://rtve-live.hds.adaptive.level3.net/hls-live/rtvegl0-la2lv3aomgl0/_definst_/live/stream3.m3u8
-
-#EXTINF:-1, tvg-logo="" group-title="Canales Mexicanos", Azteca Noticias 
-http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8
-
-#EXTINF:-1, tvg-logo="" group-title="Canales Mexicanos", Azteca 13 [HD]
-http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/master.m3u8
-
-#EXTINF:-1, tvg-logo="" group-title="Canales Mexicanos", Azteca Deportes [HD]
-http://aztecalive-lh.akamaihd.net/i/0sa0dg2r9_1@167681/index_3_av-b.m3u8
-
-#EXTINF:-1, tvg-logo="" group-title="Canales Mexicanos", TVMas [HD]
-rtmp://50.7.98.234/rtv/videortv
-
-#EXTINF:-1, tvg-logo="" group-title="Canales Mexicanos", Multimedios Monterrey [SD]
-http://multimedioshls-i.akamaihd.net/hls/live/223741/57828478001-3/master.m3u8
-
-#EXTINF:-1, tvg-logo="" group-title="Canales Mexicanos", Canal de las Estrellas [FHD]
-http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/master.m3u8
-
-#EXTINF:-1, tvg-logo="" group-title="Canales Mexicanos", Proyecto 40
-http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/master.m3u8
-
-#EXTINF:-1, tvg-logo="" group-title="Canales Mexicanos", Foro TV
-http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/master.m3u8
-
-#EXTINF:-1, tvg-logo="" group-title="Canales Mexicanos", Telemundo
-http://iphone-streaming.ustream.tv/uhls/20720323/streams/live/iphone/playlist.m3u8?
-
-#EXTINF:-1, tvg-logo="" group-title="Canales Mexicanos", Azteca 7
-http://38.104.228.230:1938/info7/info7_512/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="" group-title="Canales Mexicanos", Milenio
-http://brightcove03-f.akamaihd.net/milenio_centro_512k@101956
-
-#EXTINF:-1, tvg-logo="" group-title="Canales Mexicanos", Congreso Mexicano
-http://dl.canaldelcongreso.gob.mx:1935/ccongreso/mp4:congreso2b.mp4/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="" group-title="Canales USA", ABC 12 Anchorage - Alaska [HD]
-http://cdn.bimvidlive.com/kyur/ngrp:kyur1_all/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="" group-title="Canales USA", ABC 3 KTBS Shreveport - Louisiana
-http://ktbs-lh.akamaihd.net/i/KTBS_1069@111925/master.m3u8
-
-#EXTINF:-1, tvg-logo="" group-title="Canales USA", ABC News
-http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on#1
-
-#EXTINF:-1, tvg-logo="" group-title="Canales USA", CBS 7.1 Seattle - Washington
-http://cmghlslive-i.akamaihd.net/hls/live/224708/KIRO/2564k/master.m3u8
-
-#EXTINF:-1, tvg-logo="" group-title="Canales USA", CBS 31.1 Peoria - Illinois
-http://wmbd-apple-live.hls.adaptive.level3.net/stream0/master.m3u8
-
-#EXTINF:-1, tvg-logo="" group-title="Canales USA", NOTV 41 New Orleans - Louisiana [HD]
-http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="KFKktei.png" group-title="Canales de Noticias", RT Español [HD]
-http://rt-esp-live.hls.adaptive.level3.net/rt/esp/index.m3u8
-
-#EXTINF:-1, tvg-logo="KFKktei.png" group-title="Canales de Noticias", RT News [HD]
-http://rt-eng-live.hls.adaptive.level3.net/rt/eng/index.m3u8
-
-#EXTINF:-1, tvg-logo="KFKktei.png" group-title="Canales de Noticias", RT USA [HD]
-http://rt-usa-live.hls.adaptive.level3.net/rt/usa/index.m3u8
-
-#EXTINF:-1, tvg-logo="KFKktei.png" group-title="Canales de Noticias", RT UK [HD]
-http://rt-uk-live.hls.adaptive.level3.net/rt/uk/index.m3u8
-
-#EXTINF:-1, tvg-logo="KFKktei.png" group-title="Canales de Noticias", RT Docu [HD]
-http://rt-doc-live.hls.adaptive.level3.net/rt/doc/index.m3u8
-
-#EXTINF:-1, tvg-logo="PLpyQsV.png" group-title="Canales de Noticias", TRT World [HD]
-http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
-
-#EXTINF:-1, tvg-logo="" group-title="Canales de Noticias", BBC World News
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
-
-#EXTINF:-1, tvg-logo="" group-title="Canales de Noticias", Bloomberg TV
-http://btv-i.akamaihd.net/hls/live/202760/btvusa_ios/P1/M18K.m3u8
-
-#EXTINF:-1, tvg-logo="" group-title="Canales de Noticias", TV5 Monde Latino
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TV5/tu1_1.m3u8
-
-#EXTINF:-1, tvg-logo="" group-title="Canales de Noticias", NHK World
-http://nhkwglobal-i.akamaihd.net/hls/live/222714/nhkwglobal/index_1180.m3u8
-
-#EXTINF:-1, tvg-logo="" group-title="Canales de Noticias", Arirang World
-http://worldlive.arirang.co.kr/cdnlive-hls/arirangwlive/_definst_/liveevent/tvworld4.m3u8
-
-#EXTINF:-1, tvg-logo="" group-title="Canales de Noticias", Arirang Korea
-http://korealive.arirang.co.kr/cdnlive-hls/arirangklive/_definst_/liveevent/tvkorea4.m3u8
-
-#EXTINF:-1, tvg-logo="" group-title="Canales de Musica",Vevo 1 HD
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
-
-#EXTINF:-1, tvg-logo="" group-title="Canales de Musica",Vevo 2 HD
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
-
-#EXTINF:-1, tvg-logo="" group-title="Canales de Musica",Vevo 3 HD
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
-
-
-
+#EXTINF:-1,REDE SUPER
+http://api.new.livestream.com/accounts/10205943/events/3429501/live.m3u8
+#EXTINF:-1,REDE MEIO NORTE
+http://api.new.livestream.com/accounts/3332377/events/2958396/live.m3u8
+#EXTINF:-1,TV GAZETA HD
+http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8
+#EXTINF:-1,TV MIRAMAR – RECORD ANGOLA
+http://api.new.livestream.com/accounts/21076186/events/6180705/live.m3u8
+#EXTINF:-1,MIX TV BRASIL
+http://api.new.livestream.com/accounts/19845366/events/5550262/live.m3u8
