@@ -13,6 +13,9 @@ http://live.hls.http.chv.ztreaming.com/chvhddesktop/chv-desktop.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/13hd.png/250px-13hd.png", Canal 13
 http://csm-e.yospace.13.cl/csm/extlive/canal13cl01,CH13M.m3u8?
 
+#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/tvcable/images/2/24/Cnn_cl.png/revision/latest?cb=20110519193512&path-prefix=es", CNN Chile HD
+http://unlimited6-cl.dps.live/cnn/cnn.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.streamytv.net/wp-content/uploads/2015/11/Djing-TV.jpg", Djing HD
 http://www.djing.com/tv/05.m3u8
 
