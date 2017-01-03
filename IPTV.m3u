@@ -70,6 +70,9 @@ http://server55.livestreamingcdn.com:1935/tulixdemo/tulixdemo/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiospeaker.it/images/blog/m2o-nuovo-logo-2_landscape_300x1000.jpg",m2o tv
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
 
+#EXTINF:-1 tvg-logo="http://mvs-marketing.com/downloads/claro/Clarosports.jpg", Claro Sports HD
+http://jjoo2016ch01-hlsfix.clarovideo.com/Content/hls_clear/Live/Channel(jjoo2016ch01)/Stream(06)/index.m3u8
+
 #EXTINF:0 tvg-logo="http://www.adtv.ae/public/img/adsport_logo.png", Adsport 1 HD
 http://adtv.ercdn.net/adsport4/adsport1_720p.m3u8
 
@@ -84,6 +87,12 @@ http://adtv.ercdn.net/adsport4/adsport4_720p.m3u8
 
 #EXTINF:0 tvg-logo="http://www.adtv.ae/public/img/adsport_logo.png", Adsport 5 HD
 http://adtv.ercdn.net/adsport4/adsport5_720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/The_Olympic_Channel_Logo_2016.svg/2000px-The_Olympic_Channel_Logo_2016.svg.png", Olympic Channel HD
+http://ocs-live.hls.adaptive.level3.net/ocs/channel01/NBC_OCS1_VIDEO_7_6064000.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.redbull.com/cs/RedBull2/images/branding/redbull-tv-logo-2x.png", Red Bull TV HD
+https://elementaldelta2.redbull.tv/30_5.m3u8
 
 #EXTINF:0 , Fox Sports 2
 http://159.203.63.133:8081/rstm/FoxSports2/playlist.m3u8
@@ -138,15 +147,6 @@ http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/800.
 
 #EXTINF:-1, SKY TG 24
 http://skyianywhere2-i.akamaihd.net:80/hls/live/200275/tg24/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://mvs-marketing.com/downloads/claro/Clarosports.jpg", Claro Sports HD
-http://jjoo2016ch01-hlsfix.clarovideo.com/Content/hls_clear/Live/Channel(jjoo2016ch01)/Stream(06)/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/The_Olympic_Channel_Logo_2016.svg/2000px-The_Olympic_Channel_Logo_2016.svg.png", Olympic Channel HD
-http://ocs-live.hls.adaptive.level3.net/ocs/channel01/NBC_OCS1_VIDEO_7_6064000.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.redbull.com/cs/RedBull2/images/branding/redbull-tv-logo-2x.png", Red Bull TV HD
-https://elementaldelta2.redbull.tv/30_5.m3u8
 
 #EXTINF:-1 tvg-logo="http://vegasat.ru/imgs/1443652102.png", RT Docu HD
 http://rt-doc-live.hls.adaptive.level3.net/rt/doc/index.m3u8
