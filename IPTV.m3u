@@ -16,6 +16,18 @@ http://csm-e.yospace.13.cl/csm/extlive/canal13cl01,CH13M.m3u8?
 #EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/tvcable/images/2/24/Cnn_cl.png/revision/latest?cb=20110519193512&path-prefix=es", CNN Chile HD
 http://unlimited6-cl.dps.live/cnn/cnn.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://mvs-marketing.com/downloads/claro/Clarosports.jpg", Claro Sports HD
+http://jjoo2016ch01-hlsfix.clarovideo.com/Content/hls_clear/Live/Channel(jjoo2016ch01)/Stream(06)/index.m3u8
+
+#EXTINF:0 , Fox Sports 2
+http://159.203.63.133:8081/rstm/FoxSports2/playlist.m3u8
+
+#EXTINF:0 , Fox Sports 3
+http://159.203.34.7:8081/rstm/FoxSports3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://online-red.com/images/tv/one-hd.png", One HD
+http://rtmp.one.by:1300/
+
 #EXTINF:-1 tvg-logo="http://www.streamytv.net/wp-content/uploads/2015/11/Djing-TV.jpg", Djing HD
 http://www.djing.com/tv/05.m3u8
 
@@ -36,9 +48,6 @@ http://server5.stweb.tv/radioone/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2730813661/c5c9113226a32210f58259626b68aa9d_400x400.png", Contivision Música HD
 http://wow2.cl.digitalproserver.com/contivisionmusica/contivisionmusicavivomp4:livestream1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://online-red.com/images/tv/one-hd.png", One HD
-http://rtmp.one.by:1300/
 
 #EXTINF:0, Capital TV HD
 http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
@@ -70,9 +79,6 @@ http://server55.livestreamingcdn.com:1935/tulixdemo/tulixdemo/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiospeaker.it/images/blog/m2o-nuovo-logo-2_landscape_300x1000.jpg",m2o tv
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 tvg-logo="http://mvs-marketing.com/downloads/claro/Clarosports.jpg", Claro Sports HD
-http://jjoo2016ch01-hlsfix.clarovideo.com/Content/hls_clear/Live/Channel(jjoo2016ch01)/Stream(06)/index.m3u8
-
 #EXTINF:0 tvg-logo="http://www.adtv.ae/public/img/adsport_logo.png", Adsport 1 HD
 http://adtv.ercdn.net/adsport4/adsport1_720p.m3u8
 
@@ -93,12 +99,6 @@ http://ocs-live.hls.adaptive.level3.net/ocs/channel01/NBC_OCS1_VIDEO_7_6064000.m
 
 #EXTINF:-1 tvg-logo="http://www.redbull.com/cs/RedBull2/images/branding/redbull-tv-logo-2x.png", Red Bull TV HD
 https://elementaldelta2.redbull.tv/30_5.m3u8
-
-#EXTINF:0 , Fox Sports 2
-http://159.203.63.133:8081/rstm/FoxSports2/playlist.m3u8
-
-#EXTINF:0 , Fox Sports 3
-http://159.203.34.7:8081/rstm/FoxSports3/playlist.m3u8
 
 #EXTINF:-1, Antena 3 HD
 http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8?sd=10&rebase=on
