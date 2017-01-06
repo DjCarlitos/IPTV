@@ -43,9 +43,6 @@ http://www.djing.com/tv/a-05.m3u8
 #EXTINF:-1 tvg-logo="http://wikitv.eu/wp-content/uploads/2015/09/DJing-Underground.jpg", Djing Underground HD
 http://www.djing.com/tv/u-05.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tda.gob.ar/servicios/images/productoras/_caba-amba-27.02.png", OneTV HD
-http://server5.stweb.tv/radioone/live/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2730813661/c5c9113226a32210f58259626b68aa9d_400x400.png", Contivision Música HD
 http://wow2.cl.digitalproserver.com/contivisionmusica/contivisionmusicavivomp4:livestream1/playlist.m3u8
 
@@ -60,9 +57,6 @@ http://cdn.rbm.tv/rightbrainmedia-live-109/_definst_/smil:spirit_all.smil/playli
 
 #EXTINF:0, Radio Capital TV
 http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.mediafm.net/media/images/thumbnail/md5/e/5/e52aa4453577d54df408cb795c0705d4/vox_music_tv_1.png", Vox TV Old Cool
-http://stream.smcloud.net/tv/vox/vox_480p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://oklivetv.com/wp-content/uploads/2015/02/virgin_tv_0_11.png", Virgin TV
 http://wow01.105.net/live/virgin1/.m3u8
@@ -204,3 +198,9 @@ rtmp://edge2.everyon.tv/etv2sb/phd10061
 
 #EXTINF:0 tvg-logo="http://live-tv.im/wp-content/uploads/2014/04/Spice-TV.gif", Spice TV Asia
 rtmp://main2sb.everyon.tv:1935/etv1sb/_definst_/phd10499
+
+#EXTINF:-1 tvg-logo="http://www.tda.gob.ar/servicios/images/productoras/_caba-amba-27.02.png", OneTV HD
+http://server5.stweb.tv/radioone/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.mediafm.net/media/images/thumbnail/md5/e/5/e52aa4453577d54df408cb795c0705d4/vox_music_tv_1.png", Vox TV Old Cool
+http://stream.smcloud.net/tv/vox/vox_480p/playlist.m3u8
