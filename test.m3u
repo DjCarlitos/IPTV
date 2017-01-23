@@ -5,57 +5,29 @@ http://s5.tvplayerlatino.com/stk/HBO/index.m3u8
 http://s5.tvplayerlatino.com/stk/HBO2/index.m3u8
 #EXTINF:-1, HBO Family
 http://s5.tvplayerlatino.com/stk/HBOFamily/index.m3u8
-#EXTINF:-1, HBO Plus Oeste
+#EXTINF:-1, HBO Plus
 http://s5.tvplayerlatino.com/stk/HBOPlus/index.m3u8
-#EXTINF:-1, HBO Plus Este
-http://s5.tvplayerlatino.com/stk/HBOPlusEste/index.m3u8
-#EXTINF:-1, Cine Latino
-http://s5.tvplayerlatino.com/stk/CineLatino/index.m3u8
 #EXTINF:-1, Max UP
 http://s5.tvplayerlatino.com/stk/MaxUP/index.m3u8
 #EXTINF:-1, Max Prime
 http://s5.tvplayerlatino.com/stk/MaxPrime/index.m3u8
-#EXTINF:-1, Paramount
-http://s5.tvplayerlatino.com/stk/Paramount/index.m3u8
-#EXTINF:-1, Cinemax
-http://s5.tvplayerlatino.com/stk/Cinemax/index.m3u8
+#EXTINF:-1, Cine Latino
+http://s5.tvplayerlatino.com/stk/CineLatino/index.m3u8
 #EXTINF:-1, MultiPremier
 http://s5.tvplayerlatino.com/stk/MultiPremier/index.m3u8
 #EXTINF:-1, Golden Premier
 http://s5.tvplayerlatino.com/stk/GoldenPremier/index.m3u8
 #EXTINF:-1, Golden Multiplex
 http://s5.tvplayerlatino.com/stk/GoldenMultiplex/index.m3u8
-#EXTINF:-1, H2
-http://s5.tvplayerlatino.com/stk/H2/index.m3u8
-#EXTINF:-1, Discovery Channel
-http://s5.tvplayerlatino.com/stk/DiscoveryChannel/index.m3u8
-#EXTINF:-1, MundoFox
-http://s5.tvplayerlatino.com/stk/MundoFox/index.m3u8
 #EXTINF:-1, Fox Sports 3
 http://s5.tvplayerlatino.com/stk/FoxSports3/index.m3u8
 #EXTINF:-1, Bein Sports
 http://s5.tvplayerlatino.com/stk/BeinSports/index.m3u8
 #EXTINF:-1, Univision Deportes
 http://s5.tvplayerlatino.com/stk/UnivisionDeportes/index.m3u8
-#EXTINF:-1, TDN
-http://s5.tvplayerlatino.com/stk/TDN/index.m3u8
 #EXTINF:-1, Univision TDN
 http://s5.tvplayerlatino.com/stk/UnivisionTDN/index.m3u8
-#EXTINF:-1, CNN en Espanol
-http://s5.tvplayerlatino.com/stk/CNNEspanol/index.m3u8
+#EXTINF:-1, TDN
+http://s5.tvplayerlatino.com/stk/TDN/index.m3u8
 #EXTINF:-1, UFC Network
 http://s5.tvplayerlatino.com/stk/UFC/index.m3u8
-#EXTINF:-1, HTV
-http://s5.tvplayerlatino.com/stk/HTV/index.m3u8
-#EXTINF:-1, Claro Música
-http://s5.tvplayerlatino.com/stk/KMusic/index.m3u8
-#EXTINF:-1, Exa TV
-http://s5.tvplayerlatino.com/stk/ExaTV/index.m3u8
-#EXTINF:-1, VideoRola
-http://s5.tvplayerlatino.com/stk/VideoRola/index.m3u8
-#EXTINF:-1, Baby TV
-http://s5.tvplayerlatino.com/stk/BabyTV/index.m3u8
-#EXTINF:-1, Estrella TV
-http://s5.tvplayerlatino.com/stk/EstrellaTV/index.m3u8
-#EXTINF:-1, Once Niños
-http://s5.tvplayerlatino.com/stk/OnceNinos/index.m3u8
