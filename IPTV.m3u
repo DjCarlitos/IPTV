@@ -19,12 +19,6 @@ http://unlimited6-cl.dps.live/cnn/cnn.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://mvs-marketing.com/downloads/claro/Clarosports.jpg", Claro Sports HD
 http://jjoo2016ch01-hlsfix.clarovideo.com/Content/hls_clear/Live/Channel(jjoo2016ch01)/Stream(06)/index.m3u8
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group", NBCSN
-http://root-iptv.is-found.org:25461/live/daniel/daniel/1551.ts
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group", FS2
-http://root-iptv.is-found.org:25461/live/daniel/daniel/1694.ts
-
 #EXTINF:0 , Fox Sports 2
 http://159.203.63.133:8081/rstm/FoxSports2/playlist.m3u8
 
@@ -85,27 +79,6 @@ http://server55.livestreamingcdn.com:1935/tulixdemo/tulixdemo/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiospeaker.it/images/blog/m2o-nuovo-logo-2_landscape_300x1000.jpg",m2o tv
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group", ESPN
-http://grandiptv.pw:8000/live/6grandiptv419/03332325/1402.m3u8
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group", ESPN 2
-http://root-iptv.is-found.org:25461/live/daniel/daniel/1831.ts
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group", TSN 1
-http://grandiptv.pw:8000/live/6grandiptv419/03332325/1397.m3u8
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group", TSN 2
-http://grandiptv.pw:8000/live/6grandiptv419/03332325/1396.m3u8
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group", TSN 3
-http://grandiptv.pw:8000/live/6grandiptv419/03332325/1395.m3u8
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group", TSN 4
-http://grandiptv.pw:8000/live/6grandiptv419/03332325/1394.m3u8
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group", Bein Sports HD (ts)(server 4)
-http://root-iptv.is-found.org:25461/live/daniel/daniel/1689.m3u8
-
 #EXTINF:0 tvg-logo="http://www.adtv.ae/public/img/adsport_logo.png", AdSport 1 HD
 http://adtv.ercdn.net/adsport4/adsport1_720p.m3u8
 
@@ -120,15 +93,6 @@ http://adtv.ercdn.net/adsport4/adsport4_720p.m3u8
 
 #EXTINF:0 tvg-logo="http://www.adtv.ae/public/img/adsport_logo.png", AdSport 5 HD
 http://adtv.ercdn.net/adsport4/adsport5_720p.m3u8
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group", NFL Network
-http://root-iptv.is-found.org:25461/live/daniel/daniel/1839.ts
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group", MLB NETWORK
-http://root-iptv.is-found.org:25461/live/daniel/daniel/2393.m3u8
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group", Tennis Channel
-http://root-iptv.is-found.org:25461/live/daniel/daniel/10466.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/The_Olympic_Channel_Logo_2016.svg/2000px-The_Olympic_Channel_Logo_2016.svg.png", Olympic Channel HD
 http://ocs-live.hls.adaptive.level3.net/ocs/channel01/NBC_OCS1_VIDEO_7_6064000.m3u8
@@ -180,9 +144,6 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/419.png" group-title="NOTICIAS - NEWS",France 24 HD
 http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group", CNBC
-http://root-iptv.is-found.org:25461/live/daniel/daniel/918.ts
 
 #EXTINF:-1, Bloomberg HD
 http://cdn3.videos.bloomberg.com/btv/us/master.m3u8?b?b*t$
