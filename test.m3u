@@ -1,153 +1,241 @@
 #EXTM3U
-#EXTINF:0,-Chile-
-
-#EXTINF:-1 tvg-logo=”http://i667.photobucket.com/albums/vv35/geneiptv/la_red_cl_zpstevkunxj.png” group-title=”Chile”,La Red
-http://movilstream.digitalproserver.com:443/redtv/redtvvivo/livestream2/playlist.m3u8
-#EXTINF:-1 tvg-logo=”http://i667.photobucket.com/albums/vv35/geneiptv/ucv_tv_cl_zpsquly9vvk.png” group-title=”Chile”,UCV
-http://movilstream.digitalproserver.com/ucvtv/ucvtv.smil/chunklist-b1248000.m3u8
-#EXTINF:-1 tvg-logo=”http://i667.photobucket.com/albums/vv35/geneiptv/tvn_cl_zpsctcjmoub.png” group-title=”Chile”,TVN
-http://tvn-vod.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
-#EXTINF:-1 tvg-logo=”http://i667.photobucket.com/albums/vv35/geneiptv/tvn_cl_zpsctcjmoub.png” group-title=”Chile”,TVN Internacional
-http://edge-11-mvstr.edge.mdstrm.com/tvn-live/smil:285a5c6dade574d5f111419c85c6cf17/playlist.m3u8
-#EXTINF:-1 tvg-logo=”http://i667.photobucket.com/albums/vv35/geneiptv/mega_zpspdvnwvzq.png” group-title=”Chile”,Mega
-http://edge-12-cl.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist_b1500.m3u8
-#EXTINF:-1 tvg-logo=”http://i667.photobucket.com/albums/vv35/geneiptv/chilevision_cl_zpsx06ngmet.png” group-title=”Chile”,CHV
-http://live.hls.http.chv.ztreaming.com/chvhddesktop/chvHi.m3u8
-#EXTINF:-1 tvg-logo=”http://i667.photobucket.com/albums/vv35/geneiptv/canal13_cl_zpsckqtjlod.png” group-title=”Chile”,Canal 13
-http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8
-#EXTINF:-1 tvg-logo=”http://i667.photobucket.com/albums/vv35/geneiptv/canal13_cl_zpsckqtjlod.png” group-title=”Chile”,Canal 13 OP2
-http://13.live.cdn.cl/13hddesktop/13hd-900.m3u8
-#EXTINF:-1 tvg-logo=”http://i667.photobucket.com/albums/vv35/geneiptv/canal13_c_cl_zpsoueja6s7.png” group-title=”Chile”, C13 Cable
-http://cluster.13cmovil.ztreaming.com/13cm/grpz13c/playlist.m3u8
-#EXTINF:-1 tvg-logo=”http://i667.photobucket.com/albums/vv35/geneiptv/vemastv_zpsyhmymsvg.png” group-title=”Chile”, Mas Tv Arica
-http://186.67.39.227:1935/Mastv/myStream/playlist.m3u8?
-#EXTINF:-1 tvg-logo=”http://i667.photobucket.com/albums/vv35/geneiptv/morrovision_zpsgualkdpl.png” group-title=”Chile”, Morro Visión Arica
-http://video.crearchile.com:8080/live/mp4:morrovision.mp4/playlist.m3u8?
-#EXTINF:-1 tvg-logo=”http://i667.photobucket.com/albums/vv35/geneiptv/cap_zpsaosigst3.png” group-title=”Chile”, Cappissima Multimedial Arica
-http://scl.streaminghd.cl/8032/8032/chunklist_w1970467867.m3u8
-#EXTINF:-1 tvg-logo=”http://i667.photobucket.com/albums/vv35/geneiptv/arica_zpssvguoat9.png” group-title=”Chile”,Arica Tv
-http://wow2.cl.digitalproserver.com/aricatv/aricatvvivo/aricatv.smil/chunklist_w725671068_b848000.m3u8?
-#EXTINF:-1 tvg-logo=”http://i667.photobucket.com/albums/vv35/geneiptv/vive_zpsb7x15dmx.png” group-title=”Chile”, Vive Chile Antofagasta
-http://190.107.176.167:1935/live/vive-chile-antofagasta/playlist.m3u8
-#EXTINF:-1 tvg-logo=”http://i667.photobucket.com/albums/vv35/geneiptv/dch_tv_cl_zpsekztvb2k.png” group-title=”Chile”,Digital Channel Tv Antofagasta
-http://evo.eltelon.com:443/live/dch-tv/playlist.m3u8?MegaIPTVArgentina
-#EXTINF:-1 tvg-logo=”http://i667.photobucket.com/albums/vv35/geneiptv/antofagasta_tv_cl_zps9q2wlmjw.png” group-title=”Chile”,Antofagasta Tv Antofagasta
-http://wow2.cl.digitalproserver.com/atv/atvvivo/atv.smil/chunklist_w949479730_b2200000.m3u8
-#EXTINF:-1 tvg-logo=”http://i667.photobucket.com/albums/vv35/geneiptv/am_zpslbw9inor.png” group-title=”Chile”,Am Antofagasta
-http://190.107.176.167:1935/live/am-tv/playlist.m3u8
-#EXTINF:-1 tvg-logo=”http://i667.photobucket.com/albums/vv35/geneiptv/cmds_zpss1x4t0fg.png” group-title=”Chile”, CMDS Antofagasta
-http://190.107.176.167:1935/live/corporacion-antofagasta/playlist.m3u8?
-#EXTINF:-1 tvg-logo=”http://i667.photobucket.com/albums/vv35/geneiptv/calama%20televison_zpstiwjmawd.png” group-title=”Chile”, Calama Tv
-http://iphone-streaming.ustream.tv/ustreamVideo/10819022/streams/live/playlist.m3u8?
-#EXTINF:-1 tvg-logo=”http://i667.photobucket.com/albums/vv35/geneiptv/cl-reg-holvoet_zpsox7uxnwt.png” group-title=”Chile”,Holvoet Copiapo
-http://movilstream.digitalproserver.com/holvoet/holvoetvivo/holvoet.smil/chunklist-b1248000.m3u8
-#EXTINF:-1 tvg-logo=”http://i667.photobucket.com/albums/vv35/geneiptv/tv33_zpsmb5drfvg.png” group-title=”Chile”, TV33 Copiapo
-http://192.186.154.195:80/mcopiapo/tdq7m.sdp/playlist.m3u8?
-#EXTINF:-1 tvg-logo=”http://i667.photobucket.com/albums/vv35/geneiptv/choapa_zpsxqzh3jpt.png” group-title=”Chile”, Choapa Tv Canal 2 Illapel
-http://wow2.cl.digitalproserver.com/tv2/tv2vivo/tv2.smil/playlist.m3u8?
-#EXTINF:-1 tvg-logo=”http://i667.photobucket.com/albums/vv35/geneiptv/tele%208%20illapel_zpstk0q9pzl.png” group-title=”Chile”, Tele 8 Illapel
-http://wow2.cl.digitalproserver.com/tele8/tele8vivo/tele8.smil/playlist.m3u8?
-#EXTINF:-1 tvg-logo=”http://i667.photobucket.com/albums/vv35/geneiptv/ultravision_zpsmgbfcegd.png” group-title=”Chile”, Ultravision Los Vilos
-http://iphone-streaming.ustream.tv/ustreamVideo/13961215/streams/live/playlist.m3u8?
-#EXTINF:-1 tvg-logo=”http://i667.photobucket.com/albums/vv35/geneiptv/canal5_linares_cl_zpsodoukjle.png” group-title=”Chile”, TV5 Linares
-http://v1.streaminglatinoamerica.com:1935/canal5/canal5/playlist.m3u8?
-#EXTINF:-1 tvg-logo=”http://i667.photobucket.com/albums/vv35/geneiptv/telecanal_cl_zpsdazlzkau.png” group-title=”Chile”, Telecanal Santa Cruz
-http://movilstream.digitalproserver.com/tcsc/tcscvivo/livestream2/playlist.m3u8?
-#EXTINF:-1 tvg-logo=”http://i667.photobucket.com/albums/vv35/geneiptv/telecanal_cl_zpsdazlzkau.png” group-title=”Chile”, Telecanal Curico
-http://wow2.cl.digitalproserver.com/tccr/tccrvivo/tccr.smil/playlist.m3u8?
-#EXTINF:-1 tvg-logo=”http://i667.photobucket.com/albums/vv35/geneiptv/vtv_zpspdx6gfwt.png” group-title=”Chile”,VTV Valle de Aconcagua
-http://cdn.streamingmedia.cl:1935/live/vtv2/livestream3/playlist.m3u8
-#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/8/82/LOGO_GIROVISUAL.jpg” group-title=”Chile”,Giro Visual Quinta Region
-http://wow2.cl.digitalproserver.com/girovisual/girovisualvivomp4:livestream2/playlist.m3u8
-#EXTINF:-1 tvg-logo=”http://i667.photobucket.com/albums/vv35/geneiptv/canal2_zpsiwfsrgy0.png” group-title=”Chile”,Canal 2 San Antonio
-rtsp://video.crearchile.com:8080/live/canal2.mp4
-#EXTINF:-1 tvg-logo=”http://i667.photobucket.com/albums/vv35/geneiptv/camara%20dipi_zpsnmwwmqq7.png” group-title=”Chile”, Camara de Diputados Valparaiso
-http://camara.ztreaming.com:80/camara8/streamcam8.sdp/playlist.m3u8?
-#EXTINF:-1 tvg-logo=”http://i667.photobucket.com/albums/vv35/geneiptv/sporting_zpsbqeg5in1.png” group-title=”Chile”, Sporting Tv Valparaiso
-http://movilstream.digitalproserver.com/sportinghd/sportinghdvivo/mp4:livestream2/playlist.m3u8?
-#EXTINF:-1 tvg-logo=”http://i667.photobucket.com/albums/vv35/geneiptv/vtv_zpspdx6gfwt.png” group-title=”Chile”,VTV Valparaiso y VIña del Mar
-http://cdn.streamingmedia.cl:1935/live/vtvvina/playlist.m3u8
-#EXTINF:-1 tvg-logo=”http://i667.photobucket.com/albums/vv35/geneiptv/sexta_zpssstx7vmz.png” group-title=”Chile”,SextaVision Rancagua
-http://scl.streaminghd.cl/8028/8028/chunklist_w1777070189.m3u8
-#EXTINF:-1 tvg-logo=”http://i667.photobucket.com/albums/vv35/geneiptv/tumblr_inline_mmsyp4OxUu1qz4rgp_zpsas2q2vil.png” group-title=”Chile”,Fail Army Santiago
-http://sacapunta.eltelon.com/channels/failarmytv/mid.m3u8
-#EXTINF:-1 tvg-logo=”http://i667.photobucket.com/albums/vv35/geneiptv/agro_zpszhznrscr.png” group-title=”Chile”, Agro Tv Santiago
-http://v2movil.tustreaming.cl/tustreaming/live4/playlist.m3u8?
-#EXTINF:-1 tvg-logo=”http://i667.photobucket.com/albums/vv35/geneiptv/maipu_zpsh675y8t4.png” group-title=”Chile”, Maipu Television
-http://movilstream.digitalproserver.com:1935/maipu/maipuvivo/mp4:livestream2/playlist.m3u8?
-#EXTINF:-1 tvg-logo=”http://i667.photobucket.com/albums/vv35/geneiptv/inde_zpsxkru671e.png” group-title=”Chile”,Independencia Tv Santiago
-http://evo.eltelon.com:443/live/independencia-tv/playlist.m3u8?
-#EXTINF:-1 tvg-logo=”http://i667.photobucket.com/albums/vv35/geneiptv/laflo_zpsiiadsad8.png” group-title=”Chile”,La Florida Tv Santiago
-http://190.107.176.167:1935/live/la-florida-tv/chunklist_w1951352505.m3u8
-#EXTINF:-1 tvg-logo=”http://i667.photobucket.com/albums/vv35/geneiptv/graneros%20tv_zpsup0mp2j1.png” group-title=”Chile”, Graneros Television Santiago
-http://movilstream.digitalproserver.com:1935/graneros/granerosvivo/graneros.smil/playlist.m3u8?
-#EXTINF:-1 tvg-logo=”http://i667.photobucket.com/albums/vv35/geneiptv/ibs_zpssp9xnbtd.png” group-title=”Chile”, ISB San Bernardo Santiago
-http://wow2.cl.digitalproserver.com/isb/isbvivo/isb.smil/playlist.m3u8?
-#EXTINF:-1 tvg-logo=”http://i667.photobucket.com/albums/vv35/geneiptv/pra_zpsxcgxmiie.png” group-title=”Chile”,Pura Noticia Tv Santiago
-http://movilstream.digitalproserver.com/puranoti/puranotivivo/puranoti.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo=”http://i667.photobucket.com/albums/vv35/geneiptv/Liv_TV_logo.svg_zpscpvmqxop.png” group-title=”Chile”,Liv Tv Santiago
-http://cdn.ztreaming.com/tustreaming/live2/chunklist.m3u8
-#EXTINF:-1 tvg-logo=”http://i667.photobucket.com/albums/vv35/geneiptv/logo1_zpskeh6nk1u.png” group-title=”Chile”, Fm Hot Tv Santiago
-http://190.107.176.167:1935/live/fm-hot-tv/playlist.m3u8
-#EXTINF:-1 tvg-logo=”http://i667.photobucket.com/albums/vv35/geneiptv/32679_zpskreromvk.png” group-title=”Chile”,PortalFoxMix Tv Santiago
-http://mediacp.streamingchilenos.cl:1935/portalfoxmix/portalfoxmix/playlist.m3u8
-#EXTINF:-1 tvg-logo=”http://i667.photobucket.com/albums/vv35/geneiptv/logo_head_zps7e04gkdx.png” group-title=”Chile”, NIU Tv Santiago
-http://cl.origin.grupoz.cl/niutv/smil:live.smil/chunklist_w224088368_b750000_slesp.m3u8
-#EXTINF:-1 tvg-logo=”http://i667.photobucket.com/albums/vv35/geneiptv/uestv_zps6rhz9hno.png” group-title=”Chile”,Uestv Santiago
-http://cl.origin.grupoz.cl/uestv/live/playlist.m3u8
-#EXTINF:-1 tvg-logo=”http://i667.photobucket.com/albums/vv35/geneiptv/estudio_zpsfnlhlrob.png” group-title=”Chile”,Estudio Tv Santiago
-rtmp://190.107.176.167:1935/live/estudio-tv
-#EXTINF:-1 tvg-logo=”http://i667.photobucket.com/albums/vv35/geneiptv/sentildealuv_zpsyc3mmrcp.png” group-title=”Chile”, Señal Uc Santiago
-http://www.senaluc.cl:80/playlist/stream.m3u8?s=vdmfcom
-#EXTINF:-1 tvg-logo=”http://i667.photobucket.com/albums/vv35/geneiptv/cesfam_zpsniwj8tf4.png” group-title=”Chile”,Cesfam Santiago
-http://evo.eltelon.com:443/live/cesfamtv/chunklist_w781127916.m3u8
-#EXTINF:-1 tvg-logo=”http://i667.photobucket.com/albums/vv35/geneiptv/Logotipo_TVO_San_Vicente_zpslsws5ap0.png” group-title=”Chile”,TVO San Vicente de tagua Tagua
-http://movilstream.digitalproserver.com/tvo/tvovivo/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo=”http://i667.photobucket.com/albums/vv35/geneiptv/cnc_zpsdful5w9u.png” group-title=”Chile”, CNC Colchagua Santa Cruz
-http://audio.streaminghd.cl/8014/8014/chunklist_w1154290519.m3u8
-#EXTINF:-1 tvg-logo=”http://i667.photobucket.com/albums/vv35/geneiptv/campus_zps8hgdc5lg.png” group-title=”Chile”,Campus Tv Talca
-http://movilstream.digitalproserver.com/campustv/campustvvivo/livestream1/playlist.m3u8
-#EXTINF:-1 tvg-logo=”http://i667.photobucket.com/albums/vv35/geneiptv/contivision_cl_musica_zpsmzgyv5id.png” group-title=”Chile”,Contivision Constitución
-http://wow2.cl.digitalproserver.com/contivisionhd/contivisionhdvivo/contivisionhd.smil/chunklist_w1162159593_b1496000.m3u8
-#EXTINF:-1 tvg-logo=”http://i667.photobucket.com/albums/vv35/geneiptv/contivision_cl_musica_zpsmzgyv5id.png” group-title=”Chile”, Contivision Musica Constitucion
-http://wow2.cl.digitalproserver.com/contivisionmusica/contivisionmusicavivomp4:livestream1/playlist.m3u8
-#EXTINF:-1 tvg-logo=”http://i667.photobucket.com/albums/vv35/geneiptv/canal%209%20regional_zpsjsxxzhzf.png” group-title=”Chile”,Canal 9 Bio Bio Concepción
-http://wow2.cl.digitalproserver.com/c9/livestream1/chunklist_w983075885.m3u8
-#EXTINF:-1 tvg-logo=”http://i667.photobucket.com/albums/vv35/geneiptv/TVUConcepcionLogo_zpsxkgivlcq.png” group-title=”Chile”,TVU Concepción
-http://movilstream.digitalproserver.com/tvu/tvuvivo/livestream1/playlist.m3u8
-#EXTINF:-1 tvg-logo=”http://i667.photobucket.com/albums/vv35/geneiptv/ncc_zpsetirncdh.png” group-title=”Chile”,NCC Tv Tome
-http://evo.eltelon.com:1935/live/ncc-tv/playlist.m3u8
-#EXTINF:-1 tvg-logo=”http://i667.photobucket.com/albums/vv35/geneiptv/etg_zpsupswvbid.png” group-title=”Chile”,Etchegoyen Tv Talcahuano
-http://movilstream.digitalproserver.com:1935/etgtv/etgtvvivo/livestream1/playlist.m3u8?
-#EXTINF:-1 tvg-logo=”http://i667.photobucket.com/albums/vv35/geneiptv/dina_zpshgnxt8vg.png” group-title=”Chile”,Dinamica Tv Coronel
-http://evo.eltelon.com:1935/live/dinamica-television/playlist.m3u8
-#EXTINF:-1 tvg-logo=”http://i667.photobucket.com/albums/vv35/geneiptv/cl-reg-tv4lota_zps1hymhpeo.png” group-title=”Chile”,Tv 4 Lota
-http://190.107.176.167:1935/live/tv4-television/playlist.m3u8?MegaIPTVArgentina
-#EXTINF:-1 tvg-logo=”http://tvonlinegratis.com/wp-content/uploads/2014/08/UA-Television-Logo-300×300.jpg” group-title=”Chile”,Universidad Autonoma Temuco
-http://wow2.cl.digitalproserver.com/uautonoma/uautonomavivomp4:livestream1/playlist.m3u8
-#EXTINF:-1 tvg-logo=”http://i667.photobucket.com/albums/vv35/geneiptv/tectv_zpsqqgbih8g.png” group-title=”Chile”, TEC Television Temuco
-http://evo.eltelon.com:443/live/tec-tv/playlist.m3u8?
-#EXTINF:-1 tvg-logo=”http://i667.photobucket.com/albums/vv35/geneiptv/atv_valdivia_cl_zpsgmzz36y8.png” group-title=”Chile”,Atv Valdivia
-http://190.107.176.167:1935/live/atv-valdivia/playlist.m3u8?
-#EXTINF:-1 tvg-logo=”http://i667.photobucket.com/albums/vv35/geneiptv/cool%20tv_zpswzj5wmyk.png” group-title=”Chile”, Cool Tv Valdivia
-http://iphone-streaming.ustream.tv/uhls/5383481/streams/live/iphone/playlist.m3u8?
-#EXTINF:-1 tvg-logo=”http://i667.photobucket.com/albums/vv35/geneiptv/inettv_zpsl8vzhgko.png” group-title=”Chile”, Inet 2 Tv Osorno
-http://wow2.cl.digitalproserver.com/inet2/inet2vivo/inet2.smil/playlist.m3u8?
-#EXTINF:-1 tvg-logo=”http://i667.photobucket.com/albums/vv35/geneiptv/canal5_zpsy1rplyz7.png” group-title=”Chile”,Canal 5 Puerto Montt
-http://iphone-streaming.ustream.tv/ustreamVideo/16911585/streams/live/playlist.m3u8
-#EXTINF:-1 tvg-logo=”https://pbs.twimg.com/profile_images/550353471044464640/HUBCULy7.jpeg” group-title=”Chile”,RTV Canal 2 Castro
-http://streamradiohd.com:1935/8188/8188/playlist.m3u8
-#EXTINF:-1 tvg-logo=”http://i667.photobucket.com/albums/vv35/geneiptv/rocco_zpsjjszbdd5.png” group-title=”Chile”,Rocco Tv Coyhaique
-http://evo.eltelon.com:443/live/rocco-tv/chunklist_w1957411020.m3u8
-#EXTINF:-1 tvg-logo=”http://i667.photobucket.com/albums/vv35/geneiptv/santa%20maria_zpsxfn6hfkf.png” group-title=”Chile”, Santa Maria Tv Coyhaique
-http://v1.tustreaming.cl:1935/santamaria/santamaria/playlist.m3u8?
-#EXTINF:-1 tvg-logo=”http://i667.photobucket.com/albums/vv35/geneiptv/itv_patagonia_cl_zps3yvz2vwm.png” group-title=”Chile”,ITV Punta Arenas
-http://wow2.cl.digitalproserver.com/itv/itvvivo/livestream1/playlist.m3u8
-#EXTINF:-1 tvg-logo=”http://i667.photobucket.com/albums/vv35/geneiptv/el_pinguino_cl_zpsvhkttrc0.png” group-title=”Chile”,El Pinguino Tv Punta Arenas
-http://streaming.elpinguino.com:1935/live/pinguinotv_360p/BratuMarian.m3u8
-#EXTINF:-1 tvg-logo=”http://i667.photobucket.com/albums/vv35/geneiptv/tv_red_cl_zpsbyvrtowk.png” group-title=”Chile”, TvRed Punta Arenas
-http://69.164.193.177:1935/live/myStream/playlist.m3u8?
-#EXTINF:-1 tvg-logo=”http://i667.photobucket.com/albums/vv35/geneiptv/umag_zpsijajqcz3.png” group-title=”Chile”, UMAG Tv Universidad de Magallanes Punta Arenas
-http://cluster.ztreaming.com:80/tser5/tser5.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo=”http://i667.photobucket.com/albums/vv35/geneiptv/sobe_zpsgqbxhurc.png” group-title=”Chile”,Soberania TV Magallanes y Antartica Chilena
-http://evo.eltelon.com:443/live/soberania/chunklist_w725687300.m3u8
+#EXTINF:-1,CANADA: Willow HD
+http://cp.dmbshare.net:8000/live/rangel/rangel/8795.m3u8
+#EXTINF:-1,CANADA: VH1
+http://cp.dmbshare.net:8000/live/rangel/rangel/8809.m3u8
+#EXTINF:-1,CANADA: USA Network
+http://cp.dmbshare.net:8000/live/rangel/rangel/8797.m3u8
+#EXTINF:-1,CANADA: TSN 5
+http://cp.dmbshare.net:8000/live/rangel/rangel/8790.m3u8
+#EXTINF:-1,CANADA: TSN 4
+http://cp.dmbshare.net:8000/live/rangel/rangel/8789.m3u8
+#EXTINF:-1,CANADA: TSN 3
+http://cp.dmbshare.net:8000/live/rangel/rangel/8788.m3u8
+#EXTINF:-1,CANADA: TSN 2
+http://cp.dmbshare.net:8000/live/rangel/rangel/8787.m3u8
+#EXTINF:-1,CANADA: TSN 1
+http://cp.dmbshare.net:8000/live/rangel/rangel/8786.m3u8
+#EXTINF:-1,CANADA: trutv
+http://cp.dmbshare.net:8000/live/rangel/rangel/8812.m3u8
+#EXTINF:-1,CANADA: TNT
+http://cp.dmbshare.net:8000/live/rangel/rangel/8763.m3u8
+#EXTINF:-1,CANADA: test – feeds
+http://cp.dmbshare.net:8000/live/rangel/rangel/8798.m3u8
+#EXTINF:-1,CANADA: Syfy USA
+http://cp.dmbshare.net:8000/live/rangel/rangel/8785.m3u8
+#EXTINF:-1,CANADA: Starz
+http://cp.dmbshare.net:8000/live/rangel/rangel/8791.m3u8
+#EXTINF:-1,CANADA: SportsNet World
+http://cp.dmbshare.net:8000/live/rangel/rangel/8784.m3u8
+#EXTINF:-1,CANADA: SportsNet Ontario
+http://cp.dmbshare.net:8000/live/rangel/rangel/8783.m3u8
+#EXTINF:-1,CANADA: SportsNet ONE
+http://cp.dmbshare.net:8000/live/rangel/rangel/8782.m3u8
+#EXTINF:-1,CANADA: Spike USA
+http://cp.dmbshare.net:8000/live/rangel/rangel/8771.m3u8
+#EXTINF:-1,CANADA: Showtime USA
+http://cp.dmbshare.net:8000/live/rangel/rangel/8773.m3u8
+#EXTINF:-1,CANADA: sec network
+http://cp.dmbshare.net:8000/live/rangel/rangel/8808.m3u8
+#EXTINF:-1,CANADA: OWN
+http://cp.dmbshare.net:8000/live/rangel/rangel/8813.m3u8
+#EXTINF:-1,CANADA: Nick Jr
+http://cp.dmbshare.net:8000/live/rangel/rangel/8810.m3u8
+#EXTINF:-1,CANADA: NFL
+http://cp.dmbshare.net:8000/live/rangel/rangel/8781.m3u8
+#EXTINF:-1,CANADA: NBC USA
+http://cp.dmbshare.net:8000/live/rangel/rangel/8770.m3u8
+#EXTINF:-1,CANADA: NBC Sports
+http://cp.dmbshare.net:8000/live/rangel/rangel/8779.m3u8
+#EXTINF:-1,CANADA: NBC Golf
+http://cp.dmbshare.net:8000/live/rangel/rangel/8778.m3u8
+#EXTINF:-1,CANADA: NBA USA
+http://cp.dmbshare.net:8000/live/rangel/rangel/8769.m3u8
+#EXTINF:-1,CANADA: MTV
+http://cp.dmbshare.net:8000/live/rangel/rangel/8806.m3u8
+#EXTINF:-1,CANADA: MLB
+http://cp.dmbshare.net:8000/live/rangel/rangel/8814.m3u8
+#EXTINF:-1,CANADA: History
+http://cp.dmbshare.net:8000/live/rangel/rangel/8765.m3u8
+#EXTINF:-1,CANADA: HGTV
+http://cp.dmbshare.net:8000/live/rangel/rangel/8762.m3u8
+#EXTINF:-1,CANADA: Hallmark
+http://cp.dmbshare.net:8000/live/rangel/rangel/8799.m3u8
+#EXTINF:-1,CANADA: H2
+http://cp.dmbshare.net:8000/live/rangel/rangel/8764.m3u8
+#EXTINF:-1,CANADA: Fox Sports 2
+http://cp.dmbshare.net:8000/live/rangel/rangel/8777.m3u8
+#EXTINF:-1,CANADA: Fox Sports 1
+http://cp.dmbshare.net:8000/live/rangel/rangel/8776.m3u8
+#EXTINF:-1,CANADA: Fox 1
+http://cp.dmbshare.net:8000/live/rangel/rangel/8800.m3u8
+#EXTINF:-1,CANADA: food network
+http://cp.dmbshare.net:8000/live/rangel/rangel/8807.m3u8
+#EXTINF:-1,CANADA: Fight Network
+http://cp.dmbshare.net:8000/live/rangel/rangel/8772.m3u8
+#EXTINF:-1,CANADA: ESPN Usa
+http://cp.dmbshare.net:8000/live/rangel/rangel/8796.m3u8
+#EXTINF:-1,CANADA: ESPN U
+http://cp.dmbshare.net:8000/live/rangel/rangel/8766.m3u8
+#EXTINF:-1,CANADA: ESPN News
+http://cp.dmbshare.net:8000/live/rangel/rangel/8805.m3u8
+#EXTINF:-1,CANADA: ESPN 2
+http://cp.dmbshare.net:8000/live/rangel/rangel/8775.m3u8
+#EXTINF:-1,CANADA: Destination America
+http://cp.dmbshare.net:8000/live/rangel/rangel/8801.m3u8
+#EXTINF:-1,CANADA: Cinemax East
+http://cp.dmbshare.net:8000/live/rangel/rangel/8792.m3u8
+#EXTINF:-1,CANADA: CBS Sport
+http://cp.dmbshare.net:8000/live/rangel/rangel/8767.m3u8
+#EXTINF:-1,CANADA: CBS
+http://cp.dmbshare.net:8000/live/rangel/rangel/8768.m3u8
+#EXTINF:-1,CANADA: Bravo
+http://cp.dmbshare.net:8000/live/rangel/rangel/8803.m3u8
+#EXTINF:-1,CANADA: Bet
+http://cp.dmbshare.net:8000/live/rangel/rangel/8802.m3u8
+#EXTINF:-1,CANADA: Bein USA
+http://cp.dmbshare.net:8000/live/rangel/rangel/8774.m3u8
+#EXTINF:-1,CANADA: AXS
+http://cp.dmbshare.net:8000/live/rangel/rangel/8780.m3u8
+#EXTINF:-1,CANADA: AMC USA
+http://cp.dmbshare.net:8000/live/rangel/rangel/8794.m3u8
+#EXTINF:-1,CANADA: ABC USA
+http://cp.dmbshare.net:8000/live/rangel/rangel/8793.m3u8
+#EXTINF:-1,CANADA: ABC Family
+http://cp.dmbshare.net:8000/live/rangel/rangel/8815.m3u8
+#EXTINF:-1,CANADA: A & E
+http://cp.dmbshare.net:8000/live/rangel/rangel/8804.m3u8
+#EXTINF:-1,USA: WWE HD
+http://cp.dmbshare.net:8000/live/rangel/rangel/8536.m3u8
+#EXTINF:-1,USA: VEVO3
+http://cp.dmbshare.net:8000/live/rangel/rangel/8535.m3u8
+#EXTINF:-1,USA: VEVO2
+http://cp.dmbshare.net:8000/live/rangel/rangel/8534.m3u8
+#EXTINF:-1,USA: VEVO1
+http://cp.dmbshare.net:8000/live/rangel/rangel/8533.m3u8
+#EXTINF:-1,USA: NBC Golf HD
+http://cp.dmbshare.net:8000/live/rangel/rangel/8532.m3u8
+#EXTINF:-1,USA/CA: CPAC News
+http://cp.dmbshare.net:8000/live/rangel/rangel/8531.m3u8
+#EXTINF:-1,USA/CA: CNBC WORLD
+http://cp.dmbshare.net:8000/live/rangel/rangel/8530.m3u8
+#EXTINF:-1,USA/CA: Bein Sports HD
+http://cp.dmbshare.net:8000/live/rangel/rangel/8529.m3u8
+#EXTINF:-1,US: Tru HD
+http://cp.dmbshare.net:8000/live/rangel/rangel/8517.m3u8
+#EXTINF:-1,US: TBS HD
+http://cp.dmbshare.net:8000/live/rangel/rangel/8516.m3u8
+#EXTINF:-1,US: Starz Cinema HD
+http://cp.dmbshare.net:8000/live/rangel/rangel/8515.m3u8
+#EXTINF:-1,US: STARS WEST
+http://cp.dmbshare.net:8000/live/rangel/rangel/8514.m3u8
+#EXTINF:-1,US: STARS KIDS & FAMILY
+http://cp.dmbshare.net:8000/live/rangel/rangel/8513.m3u8
+#EXTINF:-1,US: STAR Z CINEMA
+http://cp.dmbshare.net:8000/live/rangel/rangel/8512.m3u8
+#EXTINF:-1,US: SportsNet Ontario
+http://cp.dmbshare.net:8000/live/rangel/rangel/8511.m3u8
+#EXTINF:-1,US: SPACE
+http://cp.dmbshare.net:8000/live/rangel/rangel/8510.m3u8
+#EXTINF:-1,US: PAG HD
+http://cp.dmbshare.net:8000/live/rangel/rangel/8509.m3u8
+#EXTINF:-1,US: O.W.N HD (oprah winfrey network)
+http://cp.dmbshare.net:8000/live/rangel/rangel/8508.m3u8
+#EXTINF:-1,US: NICK
+http://cp.dmbshare.net:8000/live/rangel/rangel/8507.m3u8
+#EXTINF:-1,US: MMA FIGHT
+http://cp.dmbshare.net:8000/live/rangel/rangel/8506.m3u8
+#EXTINF:-1,US: LIFE TIME
+http://cp.dmbshare.net:8000/live/rangel/rangel/8505.m3u8
+#EXTINF:-1,US: History Channel Canada
+http://cp.dmbshare.net:8000/live/rangel/rangel/8504.m3u8
+#EXTINF:-1,US: HGTV
+http://cp.dmbshare.net:8000/live/rangel/rangel/8503.m3u8
+#EXTINF:-1,US: HBO SIGNATURE
+http://cp.dmbshare.net:8000/live/rangel/rangel/8502.m3u8
+#EXTINF:-1,US: HBO Family
+http://cp.dmbshare.net:8000/live/rangel/rangel/8501.m3u8
+#EXTINF:-1,US: HBO East
+http://cp.dmbshare.net:8000/live/rangel/rangel/8500.m3u8
+#EXTINF:-1,US: HALLMARK
+http://cp.dmbshare.net:8000/live/rangel/rangel/8499.m3u8
+#EXTINF:-1,US: H2
+http://cp.dmbshare.net:8000/live/rangel/rangel/8498.m3u8
+#EXTINF:-1,US: Fight Network
+http://cp.dmbshare.net:8000/live/rangel/rangel/8497.m3u8
+#EXTINF:-1,US: CBS REALITY
+http://cp.dmbshare.net:8000/live/rangel/rangel/8496.m3u8
+#EXTINF:-1,US: CBS HD
+http://cp.dmbshare.net:8000/live/rangel/rangel/8495.m3u8
+#EXTINF:-1,US: CBS DRAMA
+http://cp.dmbshare.net:8000/live/rangel/rangel/8494.m3u8
+#EXTINF:-1,US: CBS ACTION
+http://cp.dmbshare.net:8000/live/rangel/rangel/8493.m3u8
+#EXTINF:-1,US WXYZ TV
+http://cp.dmbshare.net:8000/live/rangel/rangel/8492.m3u8
+#EXTINF:-1,US WGN
+http://cp.dmbshare.net:8000/live/rangel/rangel/8491.m3u8
+#EXTINF:-1,US Versus NBA HD
+http://cp.dmbshare.net:8000/live/rangel/rangel/8490.m3u8
+#EXTINF:-1,US UC TV
+http://cp.dmbshare.net:8000/live/rangel/rangel/8489.m3u8
+#EXTINF:-1,US Twit TV
+http://cp.dmbshare.net:8000/live/rangel/rangel/8488.m3u8
+#EXTINF:-1,US TSC
+http://cp.dmbshare.net:8000/live/rangel/rangel/8487.m3u8
+#EXTINF:-1,US Travel Channel HD
+http://cp.dmbshare.net:8000/live/rangel/rangel/8486.m3u8
+#EXTINF:-1,US Toonami Aftermath
+http://cp.dmbshare.net:8000/live/rangel/rangel/8485.m3u8
+#EXTINF:-1,US The Florida Channel
+http://cp.dmbshare.net:8000/live/rangel/rangel/8484.m3u8
+#EXTINF:-1,US Tech Channel
+http://cp.dmbshare.net:8000/live/rangel/rangel/8483.m3u8
+#EXTINF:-1,US Star Trek
+http://cp.dmbshare.net:8000/live/rangel/rangel/8482.m3u8
+#EXTINF:-1,US Sport1 US HD
+http://cp.dmbshare.net:8000/live/rangel/rangel/8481.m3u8
+#EXTINF:-1,US Showtime HD
+http://cp.dmbshare.net:8000/live/rangel/rangel/8480.m3u8
+#EXTINF:-1,US RT Documentary
+http://cp.dmbshare.net:8000/live/rangel/rangel/8479.m3u8
+#EXTINF:-1,US RT America HD
+http://cp.dmbshare.net:8000/live/rangel/rangel/8478.m3u8
+#EXTINF:-1,US Redbull TV
+http://cp.dmbshare.net:8000/live/rangel/rangel/8477.m3u8
+#EXTINF:-1,US Pocker Central
+http://cp.dmbshare.net:8000/live/rangel/rangel/8476.m3u8
+#EXTINF:-1,US Nasa TV HD
+http://cp.dmbshare.net:8000/live/rangel/rangel/8475.m3u8
+#EXTINF:-1,US Mute TV
+http://cp.dmbshare.net:8000/live/rangel/rangel/8474.m3u8
+#EXTINF:-1,US Motor Sports 7 HD
+http://cp.dmbshare.net:8000/live/rangel/rangel/8473.m3u8
+#EXTINF:-1,US Miami TV
+http://cp.dmbshare.net:8000/live/rangel/rangel/8472.m3u8
+#EXTINF:-1,US Mello TV
+http://cp.dmbshare.net:8000/live/rangel/rangel/8471.m3u8
+#EXTINF:-1,US HSN 2
+http://cp.dmbshare.net:8000/live/rangel/rangel/8470.m3u8
+#EXTINF:-1,US HSN 1
+http://cp.dmbshare.net:8000/live/rangel/rangel/8469.m3u8
+#EXTINF:-1,US Fox 59 News
+http://cp.dmbshare.net:8000/live/rangel/rangel/8468.m3u8
+#EXTINF:-1,US Film Noir Classic Channel
+http://cp.dmbshare.net:8000/live/rangel/rangel/8467.m3u8
+#EXTINF:-1,US Fashion One
+http://cp.dmbshare.net:8000/live/rangel/rangel/8466.m3u8
+#EXTINF:-1,US D23 TV
+http://cp.dmbshare.net:8000/live/rangel/rangel/8465.m3u8
+#EXTINF:-1,US Cinemax
+http://cp.dmbshare.net:8000/live/rangel/rangel/8464.m3u8
+#EXTINF:-1,US BYU Sports TV HD
+http://cp.dmbshare.net:8000/live/rangel/rangel/8463.m3u8
+#EXTINF:-1,US Boston City TV
+http://cp.dmbshare.net:8000/live/rangel/rangel/8462.m3u8
+#EXTINF:-1,US At The Drive-in
+http://cp.dmbshare.net:8000/live/rangel/rangel/8461.m3u8
+#EXTINF:-1,US AMG TV
+http://cp.dmbshare.net:8000/live/rangel/rangel/8460.m3u8
+#EXTINF:-1,US 360 North
+http://cp.dmbshare.net:8000/live/rangel/rangel/8459.m3u8
