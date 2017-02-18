@@ -20,7 +20,7 @@ http://unlimited6-cl.dps.live/cnn/cnn.smil/playlist.m3u8
 http://iptv.nicos.es:81/live/tve.HD.xtra/index.m3u8
 
 #EXTINF:-1, Antena 3 HD
-http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8?sd=10&rebase=on
+http://iptv.nicos.es:81/live/antena3.HD.IRD/index.m3u8
 
 #EXTINF:-1, Cuatro HD
 http://iptv.nicos.es:81/live/cuatro.HD.IRD/index.m3u8
@@ -29,7 +29,7 @@ http://iptv.nicos.es:81/live/cuatro.HD.IRD/index.m3u8
 http://iptv.nicos.es:81/live/telecinco.HD.IRD/index.m3u8
 
 #EXTINF:-1, La Sexta HD
-http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8?sd=10&rebase=on
+http://iptv.nicos.es:81/live/lasexta.HD.IRD/index.m3u8
 
 #EXTINF:-1, Azteca 13
 http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8
@@ -58,6 +58,15 @@ http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
 #EXTINF:-1 tvg-logo="http://www.vertele.com/files/2015/11/atreserieslogo.jpg", ATRESERIES HD
 http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
 
+#EXTINF:-1, Canal Cocina HD
+http://iptv.nicos.es:81/live/cocina.HD.xtra/index.m3u8
+
+#EXTINF:-1, Decasa HD
+http://iptv.nicos.es:81/live/decasa.HD.xtra/index.m3u8
+
+#EXTINF:-1, Paisajes HD
+http://iptv.nicos.es:81/live/paisa.HD.xtra/index.m3u8
+
 #EXTINF:-1, Teledeporte HD
 http://iptv.nicos.es:81/live/tdp.HD.IRD/index.m3u8
 
@@ -69,6 +78,9 @@ http://iptv.nicos.es:81/live/laliga123.HD.xtra/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://mvs-marketing.com/downloads/claro/Clarosports.jpg", Claro Sports HD
 http://jjoo2016ch01-hlsfix.clarovideo.com/Content/hls_clear/Live/Channel(jjoo2016ch01)/Stream(06)/index.m3u8
+
+#EXTINF:-1, Bein Sports
+http://iptv.nicos.es:81/live/beinsport.SD.xtra/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/The_Olympic_Channel_Logo_2016.svg/2000px-The_Olympic_Channel_Logo_2016.svg.png", Olympic Channel HD
 http://ocs-live.hls.adaptive.level3.net/ocs/channel01/NBC_OCS1_VIDEO_7_6064000.m3u8
