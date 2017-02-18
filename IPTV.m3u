@@ -61,7 +61,7 @@ http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
 #EXTINF:-1, Canal Cocina HD
 http://iptv.nicos.es:81/live/cocina.HD.xtra/index.m3u8
 
-#EXTINF:-1, Decasa HD
+#EXTINF:-1 tvg-logo="http://www.todotele.com/wp-content/uploads/2010/07/decasa.jpg", Decasa HD
 http://iptv.nicos.es:81/live/decasa.HD.xtra/index.m3u8
 
 #EXTINF:-1, Paisajes HD
@@ -79,8 +79,8 @@ http://iptv.nicos.es:81/live/laliga123.HD.xtra/index.m3u8
 #EXTINF:-1 tvg-logo="http://mvs-marketing.com/downloads/claro/Clarosports.jpg", Claro Sports HD
 http://jjoo2016ch01-hlsfix.clarovideo.com/Content/hls_clear/Live/Channel(jjoo2016ch01)/Stream(06)/index.m3u8
 
-#EXTINF:-1, Bein Sports
-http://iptv.nicos.es:81/live/beinsport.SD.xtra/index.m3u8
+#EXTINF:-1 tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2017/01/beIN-SPORTS-H-Purple.png", Bein Sports
+http://iptv.nicos.es:81/live/beinsport.HD.xtra/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/The_Olympic_Channel_Logo_2016.svg/2000px-The_Olympic_Channel_Logo_2016.svg.png", Olympic Channel HD
 http://ocs-live.hls.adaptive.level3.net/ocs/channel01/NBC_OCS1_VIDEO_7_6064000.m3u8
