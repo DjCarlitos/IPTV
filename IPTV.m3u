@@ -16,20 +16,17 @@ http://csm-e.yospace.13.cl/csm/extlive/canal13cl01,CH13M.m3u8?
 #EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/tvcable/images/2/24/Cnn_cl.png/revision/latest?cb=20110519193512&path-prefix=es", CNN Chile HD
 http://unlimited6-cl.dps.live/cnn/cnn.smil/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="https://3.bp.blogspot.com/-2-iiR21FcEI/V6eif4WddfI/AAAAAAAAEW0/6aDXc9KScugoBUTzkds0Nbn9W2OSeZRhQCLcB/s1600/bein-laliga-md.png", Bein LaLiga HD
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-2-iiR21FcEI/V6eif4WddfI/AAAAAAAAEW0/6aDXc9KScugoBUTzkds0Nbn9W2OSeZRhQCLcB/s1600/bein-laliga-md.png", Bein LaLiga HD
 http://iptv.nicos.es:81/live/beinlaliga.HD.xtra/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://www.ono.es/resources/images/logo_laliga123_fut.png", Bein LaLiga 123 HD
+#EXTINF:-1 tvg-logo="https://www.ono.es/resources/images/logo_laliga123_fut.png", Bein LaLiga 123 HD
 http://iptv.nicos.es:81/live/laliga123.HD.xtra/index.m3u8
 
-#EXTINF:-1, Teledeporte HD
+#EXTINF:-1 Teledeporte HD
 http://iptv.nicos.es:81/live/tdp.HD.IRD/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://mvs-marketing.com/downloads/claro/Clarosports.jpg", Claro Sports HD
 http://jjoo2016ch01-hlsfix.clarovideo.com/Content/hls_clear/Live/Channel(jjoo2016ch01)/Stream(06)/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://online-red.com/images/tv/one-hd.png", One HD
-http://rtmp.one.by:1300/
 
 #EXTINF:-1 tvg-logo="http://www.streamytv.net/wp-content/uploads/2015/11/Djing-TV.jpg", Djing HD
 http://www.djing.com/tv/05.m3u8
@@ -46,22 +43,25 @@ http://www.djing.com/tv/u-05.m3u8
 #EXTINF:-1 tvg-logo="http://entworld.net/wp-content/uploads/2016/03/Djing-Classic.jpg", Djing Classic HD
 http://www.djing.com/tv/i-05.m3u8
 
+#EXTINF:-1 tvg-logo="http://online-red.com/images/tv/one-hd.png", One HD
+http://rtmp.one.by:1300/
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2730813661/c5c9113226a32210f58259626b68aa9d_400x400.png", Contivision Música HD
 http://wow2.cl.digitalproserver.com/contivisionmusica/contivisionmusicavivo/contivisionmusica.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.tda.gob.ar/servicios/images/productoras/_caba-amba-27.02.png", OneTV HD
 http://server5.stweb.tv/radioone/live/playlist.m3u8
 
-#EXTINF:0, Capital TV HD
+#EXTINF:0 Capital TV HD
 http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
 
-#EXTINF:-1, Heart TV HD
+#EXTINF:-1 Heart TV HD
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.rokuchannels.tv/wp-content/uploads/2014/01/spirit.jpg", Spirit HD
 http://cdn.rbm.tv/rightbrainmedia-live-109/_definst_/smil:spirit_all.smil/playlist.m3u8
 
-#EXTINF:0, Radio Capital TV
+#EXTINF:0 Radio Capital TV
 http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.mediafm.net/media/images/thumbnail/md5/e/5/e52aa4453577d54df408cb795c0705d4/vox_music_tv_1.png", Vox TV Old Cool
@@ -76,7 +76,7 @@ http://fms.105.net:1935/live/rmc1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://d2zr9w65gdacs9.cloudfront.net/14869/538logo-kader-rgb1467807286full-width.png", 538 TV
 http://538hls.lswcdn.triple-it.nl/content/538tv/538tv_0.m3u8
 
-#EXTINF:-1, Deluxe Music
+#EXTINF:-1 Deluxe Music
 http://server55.livestreamingcdn.com:1935/tulixdemo/tulixdemo/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.radiospeaker.it/images/blog/m2o-nuovo-logo-2_landscape_300x1000.jpg",m2o tv
@@ -88,13 +88,13 @@ http://ocs-live.hls.adaptive.level3.net/ocs/channel01/NBC_OCS1_VIDEO_7_6064000.m
 #EXTINF:-1 tvg-logo="http://www.redbull.com/cs/RedBull2/images/branding/redbull-tv-logo-2x.png", Red Bull TV HD
 https://elementaldelta2.redbull.tv/30_5.m3u8
 
-#EXTINF:-1, Odisea HD
+#EXTINF:-1 Odisea HD
 http://iptv.nicos.es:81/live/odisea.HD.xtra/index.m3u8
 
-#EXTINF:-1, Historia HD
+#EXTINF:-1 Historia HD
 http://iptv.nicos.es:81/live/history.HD.xtra/index.m3u8
 
-#EXTINF:-1, XTRM HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/XTRM_España.png", XTRM HD
 http://iptv.nicos.es:81/live/xtreme.HD.xtra/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ESPAñA",Mega HD
@@ -106,25 +106,25 @@ http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
 #EXTINF:-1 tvg-logo="http://www.vertele.com/files/2015/11/atreserieslogo.jpg", ATRESERIES HD
 http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
 
-#EXTINF:-1, Hollywood HD
+#EXTINF:-1 Hollywood HD
 http://iptv.nicos.es:81/live/hollywood.HD.xtra/index.m3u8
 
-#EXTINF:-1, TVE HD
+#EXTINF:-1 TVE HD
 http://iptv.nicos.es:81/live/tve.HD.xtra/index.m3u8
 
-#EXTINF:-1, Antena 3 HD
+#EXTINF:-1 Antena 3 HD
 http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8?sd=10&rebase=on
 
-#EXTINF:-1, Cuatro HD
+#EXTINF:-1 Cuatro HD
 http://iptv.nicos.es:81/live/cuatro.HD.IRD/index.m3u8
 
-#EXTINF:-1, Telecinco HD
+#EXTINF:-1 Telecinco HD
 http://iptv.nicos.es:81/live/telecinco.HD.IRD/index.m3u8
 
-#EXTINF:-1, La Sexta HD
+#EXTINF:-1 La Sexta HD
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8?sd=10&rebase=on
 
-#EXTINF:-1, Azteca 13
+#EXTINF:-1 Azteca 13
 http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8
 
 #EXTINF:-1 tvg-logo="http://vegasat.ru/imgs/1443652102.png", RT Docu HD
@@ -151,13 +151,13 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/419.png" group-title="NOTICIAS - NEWS",France 24 HD
 http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 
-#EXTINF:-1, Aljazeera
+#EXTINF:-1 Aljazeera
 http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/800.m3u8
 
-#EXTINF:-1, SKY TG 24
+#EXTINF:-1 SKY TG 24
 http://skyianywhere2-i.akamaihd.net:80/hls/live/200275/tg24/playlist.m3u8
 
-#EXTINF:-1, Bloomberg HD
+#EXTINF:-1 Bloomberg HD
 http://cdn3.videos.bloomberg.com/btv/us/master.m3u8?b?b*t$
 
 #EXTINF:-1 tvg-logo="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png", NASA TV HD
@@ -166,13 +166,13 @@ http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_1000_av-p.m3u8
 #EXTINF:-1 tvg-logo="http://www.stuffintheair.com/images/theweathernetworkcom-21303164.jpg", The Weather Network HD
 http://brightcove03-f.akamaihd.net/nationalhd_1_2500@106499?
 
-#EXTINF:-1, Weather Channel HD
+#EXTINF:-1 Weather Channel HD
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
 
 #EXTINF:0 tvg-logo="https://photos.prnewswire.com/prnvar/20150526/219576LOGO", JASMIN.TV HD
 rtmp://109.71.162.112:1935/live/sd.jasminchannel.stream
 
-#EXTINF:-1, Miami TV HD
+#EXTINF:-1 Miami TV HD
 http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8?
 
 #EXTINF:-1 tvg-logo="https://0.s3.envato.com/files/109789205/newVISITX.jpg", Visit-X TV HD
@@ -181,10 +181,10 @@ http://stream.visit-x.tv/vxtv/live/playlist.m3u8?
 #EXTINF:-1 tvg-logo="http://ero-tv.org/wp-content/uploads/2014/08/babestation24.gif", BS24 Live
 http://de-origin-live.3qsdn.com:1935/2346/Ct6zG7Nrj3v2JxD/playlist.m3u8
 
-#EXTINF:0, Venus
+#EXTINF:0 Venus
 http://159.203.63.133:8081/rstm/Venus/playlist.m3u8
 
-#EXTINF:-1, Playboy TV Asia
+#EXTINF:-1 Playboy TV Asia
 rtmp://edge1.everyon.tv/etv1sb/phd10497
 
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://hd-report.com/wp-content/uploads/2011/01/penthouse-logo.jpg" group-title="XXX", Penthouse Asia
@@ -193,13 +193,13 @@ rtmp://edge1.everyon.tv/etv1sb/phd10927
 #EXTINF:0 tvg-logo="http://www.tvonlineapp.com/test/scripts/thumbnail.php?src=http://tvonlineapp.com/wp-content/uploads/2013/06/Viki-Enjoy-Premium.png&w=180&h=100&zc=0", Viki Enjoy Premium
 rtmp://edge1.everyon.tv/etv1sb/phd10765
 
-#EXTINF:0, Midnight
+#EXTINF:0 Midnight
 rtmp://edge1.everyon.tv/etv1sb/phd10766
 
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://www.streamytv.net/wp-content/uploads/2014/10/Playy-19-TV-HD-300x187.jpg" group-title="XXX", Playy 19+
 rtmp://edge2.everyon.tv/etv2sb/phd10769
 
-#EXTINF:0, Girls TV
+#EXTINF:0 Girls TV
 rtmp://edge2.everyon.tv/etv2sb/phd10501
 
 #EXTINF:0 tvg-logo="http://1.bp.blogspot.com/-PtpA9jRY4lE/VK27qkoKX0I/AAAAAAAAC78/BFiXtMWDEQ0/w1200-h630-p-nu/But-GO-tv.jpg", But Go
