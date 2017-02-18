@@ -16,10 +16,10 @@ http://csm-e.yospace.13.cl/csm/extlive/canal13cl01,CH13M.m3u8?
 #EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/tvcable/images/2/24/Cnn_cl.png/revision/latest?cb=20110519193512&path-prefix=es", CNN Chile HD
 http://unlimited6-cl.dps.live/cnn/cnn.smil/playlist.m3u8
 
-#EXTINF:-1, Bein LaLiga HD HD
+#EXTINF:-1, tvg-logo="https://3.bp.blogspot.com/-2-iiR21FcEI/V6eif4WddfI/AAAAAAAAEW0/6aDXc9KScugoBUTzkds0Nbn9W2OSeZRhQCLcB/s1600/bein-laliga-md.png", Bein LaLiga HD
 http://iptv.nicos.es:81/live/beinlaliga.HD.xtra/index.m3u8
 
-#EXTINF:-1, Bein LaLiga 123 HD
+#EXTINF:-1, tvg-logo="https://www.ono.es/resources/images/logo_laliga123_fut.png", Bein LaLiga 123 HD
 http://iptv.nicos.es:81/live/laliga123.HD.xtra/index.m3u8
 
 #EXTINF:-1, Teledeporte HD
