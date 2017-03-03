@@ -1,199 +1,50 @@
-#EXTM3U
-#EXTINF:-1, HBO
-http://s5.tvplayerlatino.com/stk/HBO/index.m3u8
-#EXTINF:-1, HBO 2
-http://s5.tvplayerlatino.com/stk/HBO2/index.m3u8
-#EXTINF:-1, HBO Family
-http://s5.tvplayerlatino.com/stk/HBOFamily/index.m3u8
-#EXTINF:-1, HBO Plus
-http://s5.tvplayerlatino.com/stk/HBOPlus/index.m3u8
-#EXTINF:-1, Max UP
-http://s5.tvplayerlatino.com/stk/MaxUP/index.m3u8
-#EXTINF:-1, Max Prime
-http://s5.tvplayerlatino.com/stk/MaxPrime/index.m3u8
-#EXTINF:-1, Cine Latino
-http://s5.tvplayerlatino.com/stk/CineLatino/index.m3u8
-#EXTINF:-1, MultiPremier
-http://s5.tvplayerlatino.com/stk/MultiPremier/index.m3u8
-#EXTINF:-1, Golden Premier
-http://s5.tvplayerlatino.com/stk/GoldenPremier/index.m3u8
-#EXTINF:-1, Golden Multiplex
-http://s5.tvplayerlatino.com/stk/GoldenMultiplex/index.m3u8
-#EXTINF:-1, Fox Sports 3
-http://s5.tvplayerlatino.com/stk/FoxSports3/index.m3u8
-#EXTINF:-1, Bein Sports
-http://s5.tvplayerlatino.com/stk/BeinSports/index.m3u8
-#EXTINF:-1, Univision Deportes
-http://s5.tvplayerlatino.com/stk/UnivisionDeportes/index.m3u8
-#EXTINF:-1, Univision TDN
-http://s5.tvplayerlatino.com/stk/UnivisionTDN/index.m3u8
-#EXTINF:-1, TDN
-http://s5.tvplayerlatino.com/stk/TDN/index.m3u8
-#EXTINF:-1, UFC Network
-http://s5.tvplayerlatino.com/stk/UFC/index.m3u8
-#EXTINF:1,Amc
-http://iptv.iptvmanagerpro.com/streams/55/stream.m3u8
-#EXTINF:1,Fox Cinema
-http://iptv.iptvmanagerpro.com/streams/53/stream.m3u8
-#EXTINF:1,Golden HD
-http://iptv.iptvmanagerpro.com/streams/54/stream.m3u8
-#EXTINF:1,Fox Life
-http://iptv.iptvmanagerpro.com/streams/44/stream.m3u8
-#EXTINF:1,Mtv
-http://iptv.iptvmanagerpro.com/streams/10/stream.m3u8
-#EXTINF:1,Sony
-http://iptv.iptvmanagerpro.com/streams/11/stream.m3u8
-#EXTINF:1,Tnt
-http://iptv.iptvmanagerpro.com/streams/15/stream.m3u8
-#EXTINF:1,Cartoon Network
-http://iptv.iptvmanagerpro.com/streams/16/stream.m3u8
-#EXTINF:1,Canal once
-http://iptv.iptvmanagerpro.com/streams/18/stream.m3u8
-#EXTINF:1,Discovery channel
-http://iptv.iptvmanagerpro.com/streams/19/stream.m3u8
-#EXTINF:1,Disney Channel
-http://iptv.iptvmanagerpro.com/streams/20/stream.m3u8
-#EXTINF:1,Nick
-http://iptv.iptvmanagerpro.com/streams/21/stream.m3u8
-#EXTINF:1,Discovery kids
-http://iptv.iptvmanagerpro.com/streams/22/stream.m3u8
-#EXTINF:1,Nat Geo
-http://iptv.iptvmanagerpro.com/streams/23/stream.m3u8
-#EXTINF:1,Bloomerang
-http://iptv.iptvmanagerpro.com/streams/24/stream.m3u8
-#EXTINF:1,Disney jr
-http://iptv.iptvmanagerpro.com/streams/25/stream.m3u8
-#EXTINF:1,Fx
-http://iptv.iptvmanagerpro.com/streams/29/stream.m3u8
-#EXTINF:1,Disney Xd
-http://iptv.iptvmanagerpro.com/streams/30/stream.m3u8
-#EXTINF:1,Tooncast
-http://iptv.iptvmanagerpro.com/streams/31/stream.m3u8
-#EXTINF:1,Universal Channel
-http://iptv.iptvmanagerpro.com/streams/33/stream.m3u8
-#EXTINF:1,Life Time
-http://iptv.iptvmanagerpro.com/streams/34/stream.m3u8
-#EXTINF:1,Disney Jr
-http://iptv.iptvmanagerpro.com/streams/35/stream.m3u8
-#EXTINF:1,Espn 2
-http://iptv.iptvmanagerpro.com/streams/36/stream.m3u8
-#EXTINF:1,Golden Edge
-http://iptv.iptvmanagerpro.com/streams/37/stream.m3u8
-#EXTINF:1,Tiin
-http://iptv.iptvmanagerpro.com/streams/40/stream.m3u8
-#EXTINF:1,Syfy
-http://iptv.iptvmanagerpro.com/streams/42/stream.m3u8
-#EXTINF:1,Unicable
-http://iptv.iptvmanagerpro.com/streams/43/stream.m3u8
-#EXTINF:1,E!
-http://iptv.iptvmanagerpro.com/streams/45/stream.m3u8
-#EXTINF:1,Aym sports
-http://iptv.iptvmanagerpro.com/streams/47/stream.m3u8
-#EXTINF:1,A&e
-http://iptv.iptvmanagerpro.com/streams/48/stream.m3u8
-#EXTINF:1,Nick Jr
-http://iptv.iptvmanagerpro.com/streams/49/stream.m3u8
-#EXTINF:1,Cbeebies
-http://iptv.iptvmanagerpro.com/streams/50/stream.m3u8
-#EXTINF:1,Boomerang
-http://iptv.iptvmanagerpro.com/streams/51/stream.m3u8
-#EXTINF:1,Fox Classic
-http://iptv.iptvmanagerpro.com/streams/52/stream.m3u8
-#EXTINF:1,n
-http://iptv.iptvmanagerpro.com/streams/55/stream.m3u8
-#EXTINF:1,Studio universal
-http://iptv.iptvmanagerpro.com/streams/56/stream.m3u8
-#EXTINF:1,Tcm
-http://iptv.iptvmanagerpro.com/streams/57/stream.m3u8
-#EXTINF:1,Bbc
-http://iptv.iptvmanagerpro.com/streams/58/stream.m3u8
-#EXTINF:1,Comedy Central
-http://iptv.iptvmanagerpro.com/streams/59/stream.m3u8
-#EXTINF:1,Discovery Civilizatión
-http://iptv.iptvmanagerpro.com/streams/61/stream.m3u8
-#EXTINF:1,Discovery sciense
-http://iptv.iptvmanagerpro.com/streams/62/stream.m3u8
-#EXTINF:1,Discovery turbo
-http://iptv.iptvmanagerpro.com/streams/63/stream.m3u8
-#EXTINF:1,Discovery theater
-http://iptv.iptvmanagerpro.com/streams/64/stream.m3u8
-#EXTINF:1,Investigatión discovery
-http://iptv.iptvmanagerpro.com/streams/65/stream.m3u8
-#EXTINF:1,Home and healt
-http://iptv.iptvmanagerpro.com/streams/66/stream.m3u8
-#EXTINF:1,I sat
-http://iptv.iptvmanagerpro.com/streams/69/stream.m3u8
-#EXTINF:1,Nicktoons
-http://iptv.iptvmanagerpro.com/streams/70/stream.m3u8
-#EXTINF:1,El gourmet
-http://iptv.iptvmanagerpro.com/streams/71/stream.m3u8
-#EXTINF:1,n
-http://iptv.iptvmanagerpro.com/streams/72/stream.m3u8 
-#EXTINF:1,Trutv
-http://iptv.iptvmanagerpro.com/streams/73/stream.m3u8
-#EXTINF:1,Axn
-http://iptv.iptvmanagerpro.com/streams/74/stream.m3u8
-#EXTINF:1,Fox
-http://iptv.iptvmanagerpro.com/streams/8/stream.m3u8
-#EXTINF:1,Las Estrellas
-http://iptv.iptvmanagerpro.com/streams/7/stream.m3u8
-#EXTINF:1,Tlnovelas
-http://iptv.iptvmanagerpro.com/streams/9/stream.m3u8
-#EXTINF:1,Fox Action
-http://proxy.iptvmanagerpro.com/streams/88/stream.m3u8
-#EXTINF:1,Fox1
-http://proxy.iptvmanagerpro.com/streams/89/stream.m3u8
-#EXTINF:1,Az Corazón
-http://proxy.iptvmanagerpro.com/streams/90/stream.m3u8
-#EXTINF:1,Espn
-http://proxy.iptvmanagerpro.com/streams/95/stream.m3u8
-#EXTINF:1,Telefórmula
-http://proxy.iptvmanagerpro.com/streams/99/stream.m3u8
-#EXTINF:1,Telehit
-http://proxy.iptvmanagerpro.com/streams/100/stream.m3u8
-#EXTINF:1,Foro tv
-http://proxy.iptvmanagerpro.com/streams/101/stream.m3u8
-#EXTINF:1,Fox sports
-http://proxy.iptvmanagerpro.com/streams/102/stream.m3u8
-#EXTINF:1,Espn+
-http://proxy.iptvmanagerpro.com/streams/103/stream.m3u8
-#EXTINF:1,Motors
-http://proxy.iptvmanagerpro.com/streams/104/stream.m3u8
-#EXTINF:1,Tlc
-http://proxy.iptvmanagerpro.com/streams/105/stream.m3u8
-#EXTINF:1,Wobi
-http://proxy.iptvmanagerpro.com/streams/107/stream.m3u8
-#EXTINF:1,Proyecto 40
-http://proxy.iptvmanagerpro.com/streams/109/stream.m3u8
-#EXTINF:1,Hola Tv
-http://proxy.iptvmanagerpro.com/streams/110/stream.m3u8
-#EXTINF:1,Milenio
-http://proxy.iptvmanagerpro.com/streams/111/stream.m3u8
-#EXTINF:1,Fashion
-http://proxy.iptvmanagerpro.com/streams/112/stream.m3u8
-#EXTINF:1,Az mundo
-http://proxy.iptvmanagerpro.com/streams/113/stream.m3u8
-#EXTINF:1,Az Cinemá
-http://proxy.iptvmanagerpro.com/streams/114/stream.m3u8
-#EXTINF:1,Cinemax
-http://proxy.iptvmanagerpro.com/streams/115/stream.m3u8
-#EXTINF:1,Nick2
-http://proxy.iptvmanagerpro.com/streams/80/stream.m3u8
-#EXTINF:1,Bandamax
-http://proxy.iptvmanagerpro.com/streams/84/stream.m3u8
-#EXTINF:1,De Película
-http://proxy.iptvmanagerpro.com/streams/85/stream.m3u8
-#EXTINF:1,Az clic
-http://proxy.iptvmanagerpro.com/streams/116/stream.m3u8
-#EXTINF:1,n
-http://s5.tvplayerlatino.com/stk/H2/index.m3u8
-#EXTINF:-1,SONY
-http://iptv.iptvmanagerpro.com/streams/11/stream.m3u8
-#EXTINF:-1,TNT
-http://iptv.iptvmanagerpro.com/streams/15/stream.m3u8
-#EXTINF:-1,CARTOON NETWORK
-http://iptv.iptvmanagerpro.com/streams/16/stream.m3u8
-#EXTINF:-1,ONCE HD
-http://iptv.iptvmanagerpro.com/streams/18/stream.m3u8
-#EXTINF:-1,DISCOVERY
-http://iptv.iptvmanagerpro.com/streams/19/stream.m3u8
+#EXTINF:-1, TVE HD
+http://iptv.nicos.es:81/live/tve.HD.xtra/index.m3u8
+
+#EXTINF:-1, Antena 3 HD
+http://iptv.nicos.es:81/live/antena3.HD.IRD/index.m3u8
+
+#EXTINF:-1, Cuatro HD
+http://iptv.nicos.es:81/live/cuatro.HD.IRD/index.m3u8
+
+#EXTINF:-1, Telecinco HD
+http://iptv.nicos.es:81/live/telecinco.HD.IRD/index.m3u8
+
+#EXTINF:-1, La Sexta HD
+http://iptv.nicos.es:81/live/lasexta.HD.IRD/index.m3u8
+
+#EXTINF:-1, Hollywood HD
+http://iptv.nicos.es:81/live/hollywood.HD.xtra/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.vodafone.es/c/microsite/1435576398828/img/channels/XTRM_HD.png", XTRM HD
+http://iptv.nicos.es:81/live/xtreme.HD.xtra/index.m3u8
+
+#EXTINF:-1, Odisea HD
+http://iptv.nicos.es:81/live/odisea.HD.xtra/index.m3u8
+
+#EXTINF:-1, Historia HD
+http://iptv.nicos.es:81/live/history.HD.xtra/index.m3u8
+
+#EXTINF:-1, Mega HD
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8
+
+#EXTINF:-1, Canal Cocina HD
+http://iptv.nicos.es:81/live/cocina.HD.xtra/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.todotele.com/wp-content/uploads/2010/07/decasa.jpg", Decasa HD
+http://iptv.nicos.es:81/live/decasa.HD.xtra/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/736x/52/64/fa/5264fa6bac2f38a3def7e52a38f7c206.jpg", Paisajes HD
+http://iptv.nicos.es:81/live/paisa.HD.xtra/index.m3u8
+
+#EXTINF:-1, Teledeporte HD
+http://iptv.nicos.es:81/live/tdp.HD.IRD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.beinconnect.es/uploads/comun/img/logos/bein-laliga-md.png", Bein LaLiga HD
+http://iptv.nicos.es:81/live/beinlaliga.HD.xtra/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.beinconnect.es/uploads/comun/img/logos/laliga-123-tv-sm.png", LaLiga 123 HD
+http://iptv.nicos.es:81/live/laliga123.HD.xtra/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fubo.tv/lp/v3_files/nlogos/logo-beIN-Sports-English.png", Bein Sports
+http://iptv.nicos.es:81/live/beinsport.SD.xtra/index.m3u8
