@@ -31,9 +31,6 @@ http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
 #EXTINF:-1 tvg-logo="http://www.vertele.com/files/2015/11/atreserieslogo.jpg", ATRESERIES HD
 http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://mvs-marketing.com/downloads/claro/Clarosports.jpg", Claro Sports HD
-http://jjoo2016ch01-hlsfix.clarovideo.com/Content/hls_clear/Live/Channel(jjoo2016ch01)/Stream(06)/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/The_Olympic_Channel_Logo_2016.svg/2000px-The_Olympic_Channel_Logo_2016.svg.png", Olympic Channel HD
 http://ocs-live.hls.adaptive.level3.net/ocs/channel01/NBC_OCS1_VIDEO_7_6064000.m3u8
 
@@ -113,7 +110,7 @@ http://aztecalive-lh.akamaihd.net/i/0pd7p6ys0_1@175672/index_3_av-p.m3u8
 http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_es.m3u8
 
 #EXTINF:-1, CBS News HD
-http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_4000_av-p.m3u8
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_2200_av-b.m3u8?sd=10&rebase=on
 
 #EXTINF:-1, ABC News HD
 http://abclive.abcnews.com/i/abc_live4@136330/index_4000_av-p.m3u8?sd=10&rebase=on
