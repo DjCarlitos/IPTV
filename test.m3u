@@ -1,3 +1,55 @@
+#EXTINF:-1,Rai 1
+http://b2everyrai-lh.akamaihd.net/i/rai1_1@398068/index_1200_av-p.m3u8
+#EXTINF:-1,Rai 2
+http://b2everyrai-lh.akamaihd.net/i/rai2_1@66477/index_1200_av-p.m3u8
+#EXTINF:-1,Rai 3
+http://b2everyrai-lh.akamaihd.net/i/rai3_1@91501/index_1200_av-p.m3u8
+#EXTINF:-1,La7
+http://la7live-lh.akamaihd.net/i/test_1@143593/index_1_av-b.m3u8
+#EXTINF:-1,Rai 4
+http://b2everyrai-lh.akamaihd.net/i/rai4_1@181951/index_1200_av-p.m3u8
+#EXTINF:-1,Rai Movie
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
+#EXTINF:-1,Rai Premium
+http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1200_av-p.m3u8
+#EXTINF:-1,Rai Gulp
+http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/index_1200_av-p.m3u8
+#EXTINF:-1,Rai Yoyo
+http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/index_1200_av-b.m3u8
+#EXTINF:-1,Rai News
+http://b2everyrai-lh.akamaihd.net/i/rainews_1@179616/index_1200_av-p.m3u8
+#EXTINF:-1,La7
+http://la7live-lh.akamaihd.net/i/test_1@143593/index_1_av-b.m3u8
+#EXTINF:0, LA 3
+http://h3ghdchan101-i.akamaihd.net:80/hls/live/217153/Virtual_Channel101/master.m3u8
+#EXTINF:0,Rai 4
+mmsh://212.162.68.163:80/rai4
+#EXTINF:0,Rai 5
+mmsh://212.162.68.163:80/rai5
+#EXTINF:0,RAI STORIA
+mmsh://212.162.68.162:80/Rai_storia
+#EXTINF:0,Rai Gulp TV
+mmsh://212.162.68.162:80/Rai_gulp
+#EXTINF:0,RAI YOYO
+mmsh://212.162.68.162:80/Rai_yoyo
+#EXTINF:0,RAI SCUOLA
+mmsh://212.162.68.162:80/Rai_scuola
+#EXTINF:-1,RAI MOVIE
+http://stream10.rai.it/italy/raimovie.smil/playlist.m3u8
+#EXTINF:0, RAI MOVIE
+http://stream10.rai.it:80/italy/raimovie.smil/chunklist_b1800000.m3u8
+#EXTINF:-1,Rai Gulp
+http://originstream7.rai.it/italy/smil:raigulp.smil/chunklist_b900000.m3u8
+#EXTINF:-1,Rai Scuola
+http://originstream6.rai.it/italy/smil:raiscuola.smil/chunklist_b900000.m3u8
+#EXTINF:-1,Rai Yoyo
+http://originstream5.rai.it/italy/smil:raiyoyo.smil/chunklist_b900000.m3u8
+#EXTINF:-1,Rai Premium
+http://originstream7.rai.it/italy/smil:raipremium.smil/chunklist_b1800000.m3u8
+#EXTINF:0,SPORT ITALIA
+http://spi.hystream.com:1935/spilive/spistream/livestream.m3u8
+
+
 #EXTINF:-1, TVE HD
 http://iptv.nicos.es:81/live/tve.HD.xtra/index.m3u8
 
