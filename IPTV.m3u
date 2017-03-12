@@ -211,14 +211,12 @@ rtmp://edge2.everyon.tv/etv2sb/phd10769
 #EXTINF:0, Girls TV
 rtmp://edge2.everyon.tv/etv2sb/phd10501
 
-#EXTINF:0 tvg-logo="http://1.bp.blogspot.com/-PtpA9jRY4lE/VK27qkoKX0I/AAAAAAAAC78/BFiXtMWDEQ0/w1200-h630-p-nu/But-GO-tv.jpg", But Go
-rtmp://edge2.everyon.tv/etv2sb/phd10772
-
 #EXTINF:-1, The O
 http://edge2.everyon.tv/etv2sb/phd10771/playlist.m3u8
+
+#EXTINF:0 tvg-logo="http://1.bp.blogspot.com/-PtpA9jRY4lE/VK27qkoKX0I/AAAAAAAAC78/BFiXtMWDEQ0/w1200-h630-p-nu/But-GO-tv.jpg", But Go
+rtmp://edge2.everyon.tv/etv2sb/phd10772
 
 #EXTINF:0 tvg-logo="http://www.sakuratv.com/sites/www.sakuratv.com/files/Sakura-TV_logo.png", Sakura TV
 rtmp://edge2.everyon.tv/etv2sb/phd10061
 
-#EXTINF:0 tvg-logo="http://live-tv.im/wp-content/uploads/2014/04/Spice-TV.gif", Spice TV Asia
-rtmp://main2sb.everyon.tv:1935/etv1sb/_definst_/phd10499
