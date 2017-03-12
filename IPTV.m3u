@@ -64,10 +64,10 @@ http://ocs-live.hls.adaptive.level3.net/ocs/channel01/NBC_OCS1_VIDEO_7_6064000.m
 #EXTINF:-1 tvg-logo="http://www.redbull.com/cs/RedBull2/images/branding/redbull-tv-logo-2x.png", Red Bull TV HD
 https://elementaldelta2.redbull.tv/30_5.m3u8
 
-#EXTINF:-1, RT Español HD
+#EXTINF:-1, RT News Español HD
 http://rt-esp-live.hls.adaptive.level3.net/rt/esp/index.m3u8
 
-#EXTINF:-1, CBS News HD
+#EXTINF:-1 tvg-logo="http://www.tvtechnology.com/Portals/0/CBSN%20logo%20thumbnail.png", CBS News HD
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_2200_av-b.m3u8?sd=10&rebase=on
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2730813661/c5c9113226a32210f58259626b68aa9d_400x400.png", Contivision Música HD
@@ -103,9 +103,6 @@ http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
 #EXTINF:0, Radio Capital TV
 http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.mediafm.net/media/images/thumbnail/md5/e/5/e52aa4453577d54df408cb795c0705d4/vox_music_tv_1.png", Vox TV Old Cool
-http://stream.smcloud.net/tv/vox/vox_480p/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://oklivetv.com/wp-content/uploads/2015/02/virgin_tv_0_11.png", Virgin TV
 http://wow01.105.net/live/virgin1/.m3u8
 
@@ -120,9 +117,6 @@ http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=o
 
 #EXTINF:-1, Deluxe Music
 http://server55.livestreamingcdn.com:1935/tulixdemo/tulixdemo/chunklist.m3u8
-
-#EXTINF:-1, RT Español HD
-http://rt-esp-live.hls.adaptive.level3.net/rt/esp/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Foro_TV_Logo_2015.png/220px-Foro_TV_Logo_2015.png" group-title="NOTICIAS - NEWS",Foro TV HD
 http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/master.m3u8
