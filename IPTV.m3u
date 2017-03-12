@@ -11,10 +11,10 @@ http://mdstrm.com/live-stream-playlist/53d2c1a32640614e62a0e000.m3u8?|User-Agent
 http://mi.chv.cl/playlist/stream.m3u8?s=hd
 
 #EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/tvcable/images/c/c7/Canal_13_Chile.png/revision/latest?cb=20130725204119&path-prefix=es", Canal 13
-http://csm-e.yospace.13.cl/csm/extlive/canal13cl01,CH13M.m3u8?
+http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8
 
 #EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/tvcable/images/2/24/Cnn_cl.png/revision/latest?cb=20110519193512&path-prefix=es", CNN Chile HD
-http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8
+http://unlimited6-cl.dps.live/cnn/cnn.smil/playlist.m3u8
 
 #EXTINF:-1, Antena 3 HD
 http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8?sd=10&rebase=on
