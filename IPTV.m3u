@@ -58,9 +58,6 @@ http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 #EXTINF:-1, EURONEWS Español
 http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_es.m3u8
 
-#EXTINF:0 tvg-logo="http://static.pac-12.com/images/logos/pac-12-network-logo.png", PAC-12 Network HD
-http://xrxs.net/video/live-p12netw-4728.m3u8
-
 #EXTINF:0 tvg-logo="http://static.pac-12.com/images/logos/pac-12-arizona-logo.png", PAC-12 Arizona HD
 http://xrxs.net/video/live-p12ariz-4728.m3u8
 
@@ -87,6 +84,9 @@ https://elementaldelta2.redbull.tv/30_5.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Fox_Sports_News_Australia_Logo.png", Fox Sport News HD
 http://foxsportshlsg01-lh.akamaihd.net/i/fsnewshls_0@301672/master.m3u8?|X-Forwarded-For=110.33.122.75
+
+#EXTINF:0 tvg-logo="http://static.pac-12.com/images/logos/pac-12-network-logo.png", PAC-12 Network HD
+http://xrxs.net/video/live-p12netw-4728.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.streamytv.net/wp-content/uploads/2015/11/Djing-TV.jpg", Djing HD
 http://www.djing.com/tv/05.m3u8
