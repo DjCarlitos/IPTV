@@ -28,6 +28,51 @@ http://cl.origin.grupoz.cl/niutv/smil:live.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2730813661/c5c9113226a32210f58259626b68aa9d_400x400.png", Contivision Música HD
 http://wow2.cl.digitalproserver.com/contivisionmusica/contivisionmusicavivo/contivisionmusica.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.streamytv.net/wp-content/uploads/2015/11/Djing-TV.jpg", Djing HD
+http://www.djing.com/tv/05.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.primetvweb.com/wp-content/uploads/2016/01/Djing-Ibiza-TV.png", Djing Ibiza HD
+http://www.djing.com/tv/d-05.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.streamytv.net/wp-content/uploads/2015/11/Djing-Animation.png", Djing Animation HD
+http://www.djing.com/tv/a-05.m3u8
+
+#EXTINF:-1 tvg-logo="http://wikitv.eu/wp-content/uploads/2015/09/DJing-Underground.jpg", Djing Underground HD
+http://www.djing.com/tv/u-05.m3u8
+
+#EXTINF:-1 tvg-logo="http://entworld.net/wp-content/uploads/2016/03/Djing-Classic.jpg", Djing Classic HD
+http://www.djing.com/tv/i-05.m3u8
+
+#EXTINF:-1 tvg-logo="http://online-red.com/images/tv/one-hd.png", One HD
+http://rtmp.one.by:1300/
+
+#EXTINF:-1 tvg-logo="https://cdn.firstonetv.eu/logos/ch/PILATUS_BEATZ.png",BEATZ TV HD
+http://rtmp.infomaniak.ch/livecast/beats_1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tda.gob.ar/servicios/images/productoras/_caba-amba-27.02.png", OneTV HD
+http://server5.stweb.tv/radioone/live/playlist.m3u8
+
+#EXTINF:0, Capital TV HD
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
+
+#EXTINF:-1, Heart TV HD
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
+
+#EXTINF:0, Radio Capital TV
+http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://oklivetv.com/wp-content/uploads/2015/02/virgin_tv_0_11.png", Virgin TV
+http://wow01.105.net/live/virgin1/.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.unitedmusic.it/images/rmc_logo.png", Monte Carlo TV
+http://fms.105.net:1935/live/rmc1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://d2zr9w65gdacs9.cloudfront.net/14869/538logo-kader-rgb1467807286full-width.png", 538 TV
+http://538hls.lswcdn.triple-it.nl/content/538tv/538tv_0.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.freeetv.com/images/03_logo/Retro_Czech_Republic.jpg", RETRO TV
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+
 #EXTINF:-1, Antena 3 HD
 http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8?sd=10&rebase=on
 
@@ -87,51 +132,6 @@ http://foxsportshlsg01-lh.akamaihd.net/i/fsnewshls_0@301672/master.m3u8?|X-Forwa
 
 #EXTINF:0 tvg-logo="http://static.pac-12.com/images/logos/pac-12-network-logo.png", PAC-12 Network HD
 http://xrxs.net/video/live-p12netw-4728.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.streamytv.net/wp-content/uploads/2015/11/Djing-TV.jpg", Djing HD
-http://www.djing.com/tv/05.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.primetvweb.com/wp-content/uploads/2016/01/Djing-Ibiza-TV.png", Djing Ibiza HD
-http://www.djing.com/tv/d-05.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.streamytv.net/wp-content/uploads/2015/11/Djing-Animation.png", Djing Animation HD
-http://www.djing.com/tv/a-05.m3u8
-
-#EXTINF:-1 tvg-logo="http://wikitv.eu/wp-content/uploads/2015/09/DJing-Underground.jpg", Djing Underground HD
-http://www.djing.com/tv/u-05.m3u8
-
-#EXTINF:-1 tvg-logo="http://entworld.net/wp-content/uploads/2016/03/Djing-Classic.jpg", Djing Classic HD
-http://www.djing.com/tv/i-05.m3u8
-
-#EXTINF:-1 tvg-logo="http://online-red.com/images/tv/one-hd.png", One HD
-http://rtmp.one.by:1300/
-
-#EXTINF:-1 tvg-logo="http://www.tda.gob.ar/servicios/images/productoras/_caba-amba-27.02.png", OneTV HD
-http://server5.stweb.tv/radioone/live/playlist.m3u8
-
-#EXTINF:0, Capital TV HD
-http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
-
-#EXTINF:-1, Heart TV HD
-http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
-
-#EXTINF:0, Radio Capital TV
-http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8
-
-#EXTINF:-1 tvg-logo="http://oklivetv.com/wp-content/uploads/2015/02/virgin_tv_0_11.png", Virgin TV
-http://wow01.105.net/live/virgin1/.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.unitedmusic.it/images/rmc_logo.png", Monte Carlo TV
-http://fms.105.net:1935/live/rmc1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://d2zr9w65gdacs9.cloudfront.net/14869/538logo-kader-rgb1467807286full-width.png", 538 TV
-http://538hls.lswcdn.triple-it.nl/content/538tv/538tv_0.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.radiospeaker.it/images/blog/m2o-nuovo-logo-2_landscape_300x1000.jpg", m2o TV
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
-
-#EXTINF:-1 tvg-logo="http://www.freeetv.com/images/03_logo/Retro_Czech_Republic.jpg", RETRO TV
-http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Foro_TV_Logo_2015.png/220px-Foro_TV_Logo_2015.png" group-title="NOTICIAS - NEWS",Foro TV HD
 http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/master.m3u8
