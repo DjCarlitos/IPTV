@@ -88,20 +88,20 @@ http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
 #EXTINF:-1 tvg-logo="http://www.vertele.com/files/2015/11/atreserieslogo.jpg", ATRESERIES HD
 http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
 
-#EXTINF:-1, RT News Español HD
-http://rt-esp-live.hls.adaptive.level3.net/rt/esp/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Foro_TV_Logo_2015.png/220px-Foro_TV_Logo_2015.png" group-title="NOTICIAS - NEWS",Foro TV HD
+http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.tvtechnology.com/Portals/0/CBSN%20logo%20thumbnail.png", CBS News HD
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_2200_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1, RT News HD
+http://rt-eng-live.hls.adaptive.level3.net/rt/eng/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/4/4c/TRT_World.png/revision/latest?cb=20151105004712" group-title="NOTICIAS - NEWS",TRT World HD
 http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/419.png" group-title="NOTICIAS - NEWS",France 24 HD
 http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
-
-#EXTINF:-1, EURONEWS Español
-http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_es.m3u8
 
 #EXTINF:0 tvg-logo="http://static.pac-12.com/images/logos/pac-12-arizona-logo.png", PAC-12 Arizona HD
 http://xrxs.net/video/live-p12ariz-4728.m3u8
@@ -133,14 +133,14 @@ http://foxsportshlsg01-lh.akamaihd.net/i/fsnewshls_0@301672/master.m3u8?|X-Forwa
 #EXTINF:0 tvg-logo="http://static.pac-12.com/images/logos/pac-12-network-logo.png", PAC-12 Network HD
 http://xrxs.net/video/live-p12netw-4728.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Foro_TV_Logo_2015.png/220px-Foro_TV_Logo_2015.png" group-title="NOTICIAS - NEWS",Foro TV HD
-http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/master.m3u8
+#EXTINF:-1, RT News Español HD
+http://rt-esp-live.hls.adaptive.level3.net/rt/esp/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.aztecanoticias.com.mx/includes/estudios/images/an_logo_horizontal.png", Azteca Noticias
 http://aztecalive-lh.akamaihd.net/i/0pd7p6ys0_1@175672/index_3_av-p.m3u8
 
-#EXTINF:-1, RT News HD
-http://rt-eng-live.hls.adaptive.level3.net/rt/eng/index.m3u8
+#EXTINF:-1, EURONEWS Español
+http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_es.m3u8
 
 #EXTINF:-1, Aljazeera
 http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/800.m3u8
