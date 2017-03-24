@@ -76,6 +76,9 @@ http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 #EXTINF:-1, Antena 3 HD
 http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8?sd=10&rebase=on
 
+#EXTINF:-1, La Sexta HD
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8?sd=10&rebase=on
+
 #EXTINF:-1, Mega HD
 http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8
 
@@ -85,8 +88,8 @@ http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
 #EXTINF:-1, NOVA HD
 http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_4_av-b.m3u8?sd=10&rebase=o
 
-#EXTINF:-1, La Sexta HD
-http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="http://www.vertele.com/files/2015/11/atreserieslogo.jpg", ATRESERIES HD
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.tvtechnology.com/Portals/0/CBSN%20logo%20thumbnail.png", CBS News HD
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_2200_av-b.m3u8?sd=10&rebase=on
@@ -94,14 +97,14 @@ http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_2200_av-b.m3u8?sd=10&re
 #EXTINF:-1, RT News HD
 http://rt-eng-live.hls.adaptive.level3.net/rt/eng/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.vertele.com/files/2015/11/atreserieslogo.jpg", ATRESERIES HD
-http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
-
 #EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/4/4c/TRT_World.png/revision/latest?cb=20151105004712" group-title="NOTICIAS - NEWS",TRT World HD
 http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/419.png" group-title="NOTICIAS - NEWS",France 24 HD
 http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+
+#EXTINF:0 tvg-logo="http://static.pac-12.com/images/logos/pac-12-network-logo.png", PAC-12 Network HD
+http://xrxs.net/video/live-p12netw-4728.m3u8
 
 #EXTINF:0 tvg-logo="http://static.pac-12.com/images/logos/pac-12-arizona-logo.png", PAC-12 Arizona HD
 http://xrxs.net/video/live-p12ariz-4728.m3u8
@@ -130,17 +133,11 @@ http://ocs-live.hls.adaptive.level3.net/ocs/channel01/NBC_OCS1_VIDEO_7_6064000.m
 #EXTINF:-1 tvg-logo="http://www.redbull.com/cs/RedBull2/images/branding/redbull-tv-logo-2x.png", Red Bull TV HD
 https://elementaldelta2.redbull.tv/30_5.m3u8
 
-#EXTINF:0 tvg-logo="http://static.pac-12.com/images/logos/pac-12-network-logo.png", PAC-12 Network HD
-http://xrxs.net/video/live-p12netw-4728.m3u8
-
 #EXTINF:-1, RT News Español HD
 http://rt-esp-live.hls.adaptive.level3.net/rt/esp/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Foro_TV_Logo_2015.png/220px-Foro_TV_Logo_2015.png" group-title="NOTICIAS - NEWS",Foro TV HD
 http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/master.m3u8
-
-#EXTINF:-1, Aljazeera
-http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/800.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.aztecanoticias.com.mx/includes/estudios/images/an_logo_horizontal.png", Azteca Noticias
 http://aztecalive-lh.akamaihd.net/i/0pd7p6ys0_1@175672/index_3_av-p.m3u8
@@ -148,17 +145,20 @@ http://aztecalive-lh.akamaihd.net/i/0pd7p6ys0_1@175672/index_3_av-p.m3u8
 #EXTINF:-1, EURONEWS Español
 http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_es.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.stuffintheair.com/images/theweathernetworkcom-21303164.jpg", The Weather Network HD
-http://brightcove03-f.akamaihd.net/nationalhd_1_2500@106499?
+#EXTINF:-1, Aljazeera
+http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/800.m3u8
 
 #EXTINF:-1, ABC Newscast HD
 http://abclive.abcnews.com/i/abc_live4@136330/index_4000_av-p.m3u8?sd=10&rebase=on
 
+#EXTINF:-1, Bloomberg HD
+http://cdn3.videos.bloomberg.com/btv/us/master.m3u8?b?b*t$
+
 #EXTINF:-1 tvg-logo="http://vegasat.ru/imgs/1443652102.png", RT Docu HD
 http://rt-doc-live.hls.adaptive.level3.net/rt/doc/index.m3u8
 
-#EXTINF:-1, Bloomberg HD
-http://cdn3.videos.bloomberg.com/btv/us/master.m3u8?b?b*t$
+#EXTINF:-1 tvg-logo="http://www.stuffintheair.com/images/theweathernetworkcom-21303164.jpg", The Weather Network HD
+http://brightcove03-f.akamaihd.net/nationalhd_1_2500@106499?
 
 #EXTINF:-1, Weather Channel HD
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
