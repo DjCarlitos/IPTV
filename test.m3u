@@ -1,3 +1,2265 @@
+#EXTM3U
+ 
+ 
+ 
+Noticias
+ 
+#EXTINF:-1 tvg-logo="https://actualidad.rt.com/static/img/apple-touch-icon-144x144-precomposed.png",RT HD Español Rusia
+http://rt-esp-live.hls.adaptive.level3.net/rt/esp/index2500.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://actualidad.rt.com/static/img/apple-touch-icon-144x144-precomposed.png",RT Español Rusia
+http://rt-esp-live.hls.adaptive.level3.net/rt/esp/index1600.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://actualidad.rt.com/static/img/apple-touch-icon-144x144-precomposed.png",RT Español Rusia
+http://rt-esp-live.hls.adaptive.level3.net/rt/esp/index800.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://actualidad.rt.com/static/img/apple-touch-icon-144x144-precomposed.png",RT Español Rusia
+http://rt-esp-live.hls.adaptive.level3.net/rt/esp/index400.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.bitsrojiverdes.org/wordpress/wp-content/uploads/2016/09/hispantvbig.png",HISPANTV HD Irán
+http://178.32.255.199:1935/live/hispantv/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.bitsrojiverdes.org/wordpress/wp-content/uploads/2016/09/hispantvbig.png",HISPANTV HD Irán
+http://178.32.255.199:1935/live/hispantv/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.bitsrojiverdes.org/wordpress/wp-content/uploads/2016/09/hispantvbig.png",HISPANTV HD Irán
+http://178.32.255.199:1935/live/hispantv/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.bitsrojiverdes.org/wordpress/wp-content/uploads/2016/09/hispantvbig.png",HISPANTV HD Irán
+http://178.32.255.199:1935/live/hispantv/media.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/240px-Deutsche_Welle_symbol_2012.svg.png",DW Español Alemania
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-b.m3u8?sd=10&rebase=on
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/240px-Deutsche_Welle_symbol_2012.svg.png",DW Español Alemania
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_2_av-b.m3u8?sd=10&rebase=on
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/240px-Deutsche_Welle_symbol_2012.svg.png",DW Español Alemania
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_3_av-b.m3u8?sd=10&rebase=on
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/240px-Deutsche_Welle_symbol_2012.svg.png",DW Español Alemania
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_4_av-b.m3u8?sd=10&rebase=on
+ 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/732665354242150400/tZsCnjuh.jpg",EURONEWS España
+http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_es.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/732665354242150400/tZsCnjuh.jpg",EURONEWS España
+http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_es.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/732665354242150400/tZsCnjuh.jpg",EURONEWS España
+http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_es.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/732665354242150400/tZsCnjuh.jpg",EURONEWS España
+http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_es.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.diario26.com/images/canal_26_logo.png",CANAL 26 Argentina
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w1700708876_b2628000_sleng.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.diario26.com/images/canal_26_logo.png",CANAL 26 Argentina
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w1700708876_b1864000_sleng.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.diario26.com/images/canal_26_logo.png",CANAL 26 Argentina
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w1700708876_b1264000_sleng.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.diario26.com/images/canal_26_logo.png",CANAL 26 Argentina
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w1700708876_b414000_sleng.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/CB24.png?fit=400%2C260",CB24 Costa Rica
+http://ipointcablertmp.tulix.tv:1935/admin24/myStream.sdp/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/CB24.png?fit=400%2C260",CB24 Costa Rica
+http://ipointcablertmp.tulix.tv:1935/admin24/myStream.sdp/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/CB24.png?fit=400%2C260",CB24 Costa Rica
+http://ipointcablertmp.tulix.tv:1935/admin24/myStream.sdp/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/CB24.png?fit=400%2C260",CB24 Costa Rica
+http://ipointcablertmp.tulix.tv:1935/admin24/myStream.sdp/media.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-4Xa8bDk7UEk/To-41gR82AI/AAAAAAAAAlE/oOKT2ixjNo0/s1600/Azteca+Noticias.PNG",AZTECA NOTICIAS México
+http://aztecalive-lh.akamaihd.net/i/0pd7p6ys0_1@175672/index_3_av-p.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-4Xa8bDk7UEk/To-41gR82AI/AAAAAAAAAlE/oOKT2ixjNo0/s1600/Azteca+Noticias.PNG",AZTECA NOTICIAS México
+http://aztecalive-lh.akamaihd.net/i/0pd7p6ys0_1@175672/index_3_av-p.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-4Xa8bDk7UEk/To-41gR82AI/AAAAAAAAAlE/oOKT2ixjNo0/s1600/Azteca+Noticias.PNG",AZTECA NOTICIAS México
+http://aztecalive-lh.akamaihd.net/i/0pd7p6ys0_1@175672/index_2_av-p.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-4Xa8bDk7UEk/To-41gR82AI/AAAAAAAAAlE/oOKT2ixjNo0/s1600/Azteca+Noticias.PNG",AZTECA NOTICIAS México
+http://aztecalive-lh.akamaihd.net/i/0pd7p6ys0_1@175672/index_1_av-p.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png",FORO TV México
+http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/index_1296_av-b.m3u8?sd=10&rebase=on
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png",FORO TV México
+http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/index_1048_av-b.m3u8?sd=10&rebase=on
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png",FORO TV México
+http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/index_691_av-b.m3u8?sd=10&rebase=on
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png",FORO TV México
+http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/index_518_av-b.m3u8?sd=10&rebase=on
+ 
+#EXTINF:-1 tvg-logo="http://www.ochotv.com/wp-content/uploads/2015/08/logo_ochotv1.png",OCHO TV México
+http://bcliveuniv-lh.akamaihd.net/i/Live_1@170324/index_2200_av-p.m3u8?sd=10&rebase=on
+ 
+#EXTINF:-1 tvg-logo="http://www.ochotv.com/wp-content/uploads/2015/08/logo_ochotv1.png",OCHO TV México
+http://bcliveuniv-lh.akamaihd.net/i/Live_1@170324/index_2200_av-p.m3u8?sd=10&rebase=on
+ 
+#EXTINF:-1 tvg-logo="http://www.ochotv.com/wp-content/uploads/2015/08/logo_ochotv1.png",OCHO TV México
+http://bcliveuniv-lh.akamaihd.net/i/Live_1@170324/master.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.ochotv.com/wp-content/uploads/2015/08/logo_ochotv1.png",OCHO TV México
+http://bcliveuniv-lh.akamaihd.net/i/Live_1@170324/master.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.telesurtv.net/export/sites/telesur/arte/log-iso-telesur.png_253617125.png",TELESUR Venezuela
+http://cdna.telesur.ultrabase.net/mbliveMain/ngrp:mblive_all/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.telesurtv.net/export/sites/telesur/arte/log-iso-telesur.png_253617125.png",TELESUR Venezuela
+http://cdna.telesur.ultrabase.net/mbliveMain/ngrp:mblive_all/chunklist_b603136.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.telesurtv.net/export/sites/telesur/arte/log-iso-telesur.png_253617125.png",TELESUR Venezuela
+http://cdna.telesur.ultrabase.net/mbliveMain/ngrp:mblive_all/chunklist_b456000.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.telesurtv.net/export/sites/telesur/arte/log-iso-telesur.png_253617125.png",TELESUR Venezuela
+http://cdna.telesur.ultrabase.net/mbliveMain/ngrp:mblive_all/chunklist_b298000.m3u8
+ 
+ 
+Interés General
+ 
+ESPAÑA
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Antena3_Atresmedia.png",ANTENA 3 Internacional
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Antena3_Atresmedia.png",ANTENA 3 Internacional
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Antena3_Atresmedia.png",ANTENA 3 Internacional
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_2.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Antena3_Atresmedia.png",ANTENA 3 Internacional
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_3.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/6/65/Antena_3_3d.png/revision/latest?cb=20130413153746",ANTENA 3 España
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/6/65/Antena_3_3d.png/revision/latest?cb=20130413153746",ANTENA 3 España
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_3_av-b.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/6/65/Antena_3_3d.png/revision/latest?cb=20130413153746",ANTENA 3 España
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_2_av-b.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/6/65/Antena_3_3d.png/revision/latest?cb=20130413153746",ANTENA 3 España
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_1_av-b.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.elpoderdelasideas.com/wp-content/uploads/laSexta-logo-2016-detalles-137x160.png",LA SEXTA España
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.elpoderdelasideas.com/wp-content/uploads/laSexta-logo-2016-detalles-137x160.png",LA SEXTA España
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_3_av-b.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.elpoderdelasideas.com/wp-content/uploads/laSexta-logo-2016-detalles-137x160.png",LA SEXTA España
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_2_av-b.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.elpoderdelasideas.com/wp-content/uploads/laSexta-logo-2016-detalles-137x160.png",LA SEXTA España
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_1_av-b.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.antena3.com/static/images/logo_neox_rst.png",NEOX España
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_4_av-b.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.antena3.com/static/images/logo_neox_rst.png",NEOX España
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_3_av-b.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.antena3.com/static/images/logo_neox_rst.png",NEOX España
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_2_av-b.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.antena3.com/static/images/logo_neox_rst.png",NEOX España
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_1_av-b.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-MyTfhZ-XnVE/VY157W4Ov7I/AAAAAAAAFCs/LAva4fEU_fo/s200/logo_mega_rst.png",MEGA España
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_4_av-b.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-MyTfhZ-XnVE/VY157W4Ov7I/AAAAAAAAFCs/LAva4fEU_fo/s200/logo_mega_rst.png",MEGA España
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_3_av-b.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-MyTfhZ-XnVE/VY157W4Ov7I/AAAAAAAAFCs/LAva4fEU_fo/s200/logo_mega_rst.png",MEGA España
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_2_av-b.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-MyTfhZ-XnVE/VY157W4Ov7I/AAAAAAAAFCs/LAva4fEU_fo/s200/logo_mega_rst.png",MEGA España
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_1_av-b.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/e/e2/Atresseries.png/revision/latest?cb=20160120113332",ATRESERIES A3S España
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_4_av-b.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/e/e2/Atresseries.png/revision/latest?cb=20160120113332",ATRESERIES A3S España
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_3_av-b.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/e/e2/Atresseries.png/revision/latest?cb=20160120113332",ATRESERIES A3S España
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_2_av-b.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/e/e2/Atresseries.png/revision/latest?cb=20160120113332",ATRESERIES A3S España
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_1_av-b.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/900px-Logo_TVE-1.svg.png",LA 1 España
+http://hlsackdn_gl7-lh.akamaihd.net/i/hlslive_1@439316/index_1500_av-b.m3u8?sd=10&rebase=on
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/900px-Logo_TVE-1.svg.png",LA 1 España
+http://hlsackdn_gl7-lh.akamaihd.net/i/hlslive_1@439316/index_1500_av-p.m3u8?sd=10&rebase=on
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/900px-Logo_TVE-1.svg.png",LA 1 España
+http://hlsackdn_gl7-lh.akamaihd.net/i/hlslive_1@439316/index_0650_av-b.m3u8?sd=10&rebase=on
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/900px-Logo_TVE-1.svg.png",LA 1 España
+http://hlsackdn_gl7-lh.akamaihd.net/i/hlslive_1@439316/index_0400_av-b.m3u8?sd=10&rebase=on
+ 
+#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/tvcable/images/6/66/Canal24htvelep.png/revision/latest?cb=20140208224312&path-prefix=es",CANAL 24 HORAS España
+http://hlsackdn_gl8-lh.akamaihd.net/i/hlslive_1@441481/index_1500_av-b.m3u8?sd=10&rebase=on
+ 
+#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/tvcable/images/6/66/Canal24htvelep.png/revision/latest?cb=20140208224312&path-prefix=es",CANAL 24 HORAS España
+http://hlsackdn_gl8-lh.akamaihd.net/i/hlslive_1@441481/index_1500_av-p.m3u8?sd=10&rebase=on
+ 
+#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/tvcable/images/6/66/Canal24htvelep.png/revision/latest?cb=20140208224312&path-prefix=es",CANAL 24 HORAS España
+http://hlsackdn_gl8-lh.akamaihd.net/i/hlslive_1@441481/index_0650_av-b.m3u8?sd=10&rebase=on
+ 
+#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/tvcable/images/6/66/Canal24htvelep.png/revision/latest?cb=20140208224312&path-prefix=es",CANAL 24 HORAS España
+http://hlsackdn_gl8-lh.akamaihd.net/i/hlslive_1@441481/index_0400_av-b.m3u8?sd=10&rebase=on
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/Logo_tve_internacional.png",TVE Catalunya España
+http://rtve-live.hds.adaptive.level3.net/hls-live/rtvegl7-la1calv3aomgl7/_definst_/live/stream3.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/Logo_tve_internacional.png",TVE Catalunya España
+http://rtve-live.hds.adaptive.level3.net/hls-live/rtvegl7-la1calv3aomgl7/_definst_/live/stream3.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/Logo_tve_internacional.png",TVE Catalunya España
+http://rtve-live.hds.adaptive.level3.net/hls-live/rtvegl7-la1calv3aomgl7/_definst_/live/stream2.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/Logo_tve_internacional.png",TVE Catalunya España
+http://rtve-live.hds.adaptive.level3.net/hls-live/rtvegl7-la1calv3aomgl7/_definst_/live/stream1.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.canalextremadura.es/sites/all/themes/canalex_2016/images/canalex/logotipo.png",EXTREMADURA TV España
+http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.canalextremadura.es/sites/all/themes/canalex_2016/images/canalex/logotipo.png",EXTREMADURA TV España
+http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b1596000_DVR.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.canalextremadura.es/sites/all/themes/canalex_2016/images/canalex/logotipo.png",EXTREMADURA TV España
+http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b664000_DVR.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.canalextremadura.es/sites/all/themes/canalex_2016/images/canalex/logotipo.png",EXTREMADURA TV España
+http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b264000_DVR.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i63.tinypic.com/34pltg3.png",TELEMADRID España
+http://telemadrid-live.hls.adaptive.level3.net/hls-live/telemadrid-telemadridbis/_definst_/live/stream1.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i63.tinypic.com/34pltg3.png",TELEMADRID España
+http://telemadrid-live.hls.adaptive.level3.net/hls-live/telemadrid-telemadridbis/_definst_/live/stream1.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i63.tinypic.com/34pltg3.png",TELEMADRID España
+http://telemadrid-live.hls.adaptive.level3.net/hls-live/telemadrid-telemadridbis/_definst_/live/stream2.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i63.tinypic.com/34pltg3.png",TELEMADRID España
+http://telemadrid-live.hls.adaptive.level3.net/hls-live/telemadrid-telemadridbis/_definst_/live/stream2.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://static.programacion-tdt.com/imgAPP/La_Otra.min.png",LA OTRA España
+http://laotra-live.hls.adaptive.level3.net/hls-live/telemadrid-laotra/_definst_/live/stream1.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://static.programacion-tdt.com/imgAPP/La_Otra.min.png",LA OTRA España
+http://laotra-live.hls.adaptive.level3.net/hls-live/telemadrid-laotra/_definst_/live/stream1.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://static.programacion-tdt.com/imgAPP/La_Otra.min.png",LA OTRA España
+http://laotra-live.hls.adaptive.level3.net/hls-live/telemadrid-laotra/_definst_/live/stream2.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://static.programacion-tdt.com/imgAPP/La_Otra.min.png",LA OTRA España
+http://laotra-live.hls.adaptive.level3.net/hls-live/telemadrid-laotra/_definst_/live/stream2.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://gaceta.es/sites/default/files/styles/140x/public/intermosca_copia.png?itok=9OUJzDhA",INTERECONOMÍA TV España
+https://streaming-fr02.enetres.net/16011939C62D44ED91350508FB25828B021/smil:live.smil/chunklist.m3u8?idLive=021
+ 
+#EXTINF:-1 tvg-logo="http://gaceta.es/sites/default/files/styles/140x/public/intermosca_copia.png?itok=9OUJzDhA",INTERECONOMÍA TV España
+https://streaming-fr02.enetres.net/16011939C62D44ED91350508FB25828B021/smil:live.smil/chunklist_w735487860_b500000.m3u8?idLive=021
+ 
+#EXTINF:-1 tvg-logo="http://gaceta.es/sites/default/files/styles/140x/public/intermosca_copia.png?itok=9OUJzDhA",INTERECONOMÍA TV España
+https://streaming-fr02.enetres.net/16011939C62D44ED91350508FB25828B021/smil:live.smil/chunklist.m3u8?idLive=021
+ 
+#EXTINF:-1 tvg-logo="http://gaceta.es/sites/default/files/styles/140x/public/intermosca_copia.png?itok=9OUJzDhA",INTERECONOMÍA TV España
+https://streaming-fr02.enetres.net/16011939C62D44ED91350508FB25828B021/smil:live.smil/chunklist_w735487860_b500000.m3u8?idLive=021
+ 
+#EXTINF:-1 tvg-logo="http://www.canalcostatv.es/wp-content/uploads/2013/12/logo-cabecera.png",CANAL COSTA España
+http://cls2.todostreaming.eu/azahara/canalcosta/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.canalcostatv.es/wp-content/uploads/2013/12/logo-cabecera.png",CANAL COSTA España
+http://cls2.todostreaming.eu/azahara/canalcosta/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.canalcostatv.es/wp-content/uploads/2013/12/logo-cabecera.png",CANAL COSTA España
+http://cls2.todostreaming.eu/azahara/canalcosta/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.canalcostatv.es/wp-content/uploads/2013/12/logo-cabecera.png",CANAL COSTA España
+http://cls2.todostreaming.eu/azahara/canalcosta/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.condavision.es/wp-content/uploads/2014/02/logo-cabecera.png",CONDAVISIÓN España
+http://cls2.todostreaming.eu/azahara/uSCQc5ky/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.condavision.es/wp-content/uploads/2014/02/logo-cabecera.png",CONDAVISIÓN España
+http://cls2.todostreaming.eu/azahara/uSCQc5ky/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.condavision.es/wp-content/uploads/2014/02/logo-cabecera.png",CONDAVISIÓN España
+http://cls2.todostreaming.eu/azahara/uSCQc5ky/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.condavision.es/wp-content/uploads/2014/02/logo-cabecera.png",CONDAVISIÓN España
+http://cls2.todostreaming.eu/azahara/uSCQc5ky/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.teleonuba.es/wp-content/uploads/2016/02/logo-cabecera.png",TELEONUBA España
+http://cls2.todostreaming.eu/azahara/teleonuba/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.teleonuba.es/wp-content/uploads/2016/02/logo-cabecera.png",TELEONUBA España
+http://cls2.todostreaming.eu/azahara/teleonuba/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.teleonuba.es/wp-content/uploads/2016/02/logo-cabecera.png",TELEONUBA España
+http://cls2.todostreaming.eu/azahara/teleonuba/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.teleonuba.es/wp-content/uploads/2016/02/logo-cabecera.png",TELEONUBA España
+http://cls2.todostreaming.eu/azahara/teleonuba/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.lebrija.tv/wp-content/uploads/2016/06/cropped-logo-ltv-mini-web-1-192x192.png",LEBRIJA TV España
+http://212.104.160.156:1935/live/lebrijatv2/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.lebrija.tv/wp-content/uploads/2016/06/cropped-logo-ltv-mini-web-1-192x192.png",LEBRIJA TV España
+http://212.104.160.156:1935/live/lebrijatv2/playlist2.m3u8?wowzasessionid=1560645496
+ 
+#EXTINF:-1 tvg-logo="http://www.lebrija.tv/wp-content/uploads/2016/06/cropped-logo-ltv-mini-web-1-192x192.png",LEBRIJA TV España
+http://212.104.160.156:1935/live/lebrijatv2/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.lebrija.tv/wp-content/uploads/2016/06/cropped-logo-ltv-mini-web-1-192x192.png",LEBRIJA TV España
+http://212.104.160.156:1935/live/lebrijatv2/playlist2.m3u8?wowzasessionid=1560645496
+ 
+#EXTINF:-1 tvg-logo="http://www.13tv.es/wp-content/themes/13tv/dist/images/logos/logo256.png",13 TV España
+https://streaming-fr04.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/smil:live.smil/chunklist_w728582340_b700000.m3u8?idLive=021
+ 
+#EXTINF:-1 tvg-logo="http://www.13tv.es/wp-content/themes/13tv/dist/images/logos/logo256.png",13 TV España
+https://streaming-fr04.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/smil:live.smil/chunklist_w728582340_b700000.m3u8?idLive=021
+ 
+#EXTINF:-1 tvg-logo="http://www.13tv.es/wp-content/themes/13tv/dist/images/logos/logo256.png",13 TV España
+https://streaming-fr04.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/smil:live.smil/chunklist_w538754406_b700000.m3u8?idLive=021
+ 
+#EXTINF:-1 tvg-logo="http://www.13tv.es/wp-content/themes/13tv/dist/images/logos/logo256.png",13 TV España
+https://streaming-fr04.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/smil:live.smil/chunklist_w538754406_b700000.m3u8?idLive=021
+ 
+#EXTINF:-1 tvg-logo="http://www.cmmedia.es/wp-content/themes/canal_rtvcm/images/logo.png",CM MEDIA España
+http://rtvcm.bt.flumotion.com/rtvcm/rtvcm2/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.cmmedia.es/wp-content/themes/canal_rtvcm/images/logo.png",CM MEDIA España
+http://rtvcm.bt.flumotion.com/rtvcm/rtvcm2/chunklist_DVR.m3u8?DVR
+ 
+#EXTINF:-1 tvg-logo="http://www.cmmedia.es/wp-content/themes/canal_rtvcm/images/logo.png",CM MEDIA España
+http://rtvcm.bt.flumotion.com/rtvcm/rtvcm2/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.cmmedia.es/wp-content/themes/canal_rtvcm/images/logo.png",CM MEDIA España
+http://rtvcm.bt.flumotion.com/rtvcm/rtvcm2/chunklist_DVR.m3u8?DVR
+ 
+#EXTINF:-1 tvg-logo="http://www.tvonlinegratis.mobi/recursos/imagenes/canales-tv/sura.png",CANAL SUR ANDALUCÍA España
+http://195.55.74.206/rtva/andaluciatelevision-iphone/stream.m3u8?
+ 
+#EXTINF:-1 tvg-logo="http://www.tvonlinegratis.mobi/recursos/imagenes/canales-tv/sura.png",CANAL SUR ANDALUCÍA España
+http://195.55.74.206/rtva/andaluciatelevision-iphone/stream.m3u8?
+ 
+#EXTINF:-1 tvg-logo="http://www.tvonlinegratis.mobi/recursos/imagenes/canales-tv/sura.png",CANAL SUR ANDALUCÍA España
+http://195.10.10.221/rtva/andaluciatelevision-iphone/stream.m3u8?
+ 
+#EXTINF:-1 tvg-logo="http://www.tvonlinegratis.mobi/recursos/imagenes/canales-tv/sura.png",CANAL SUR ANDALUCÍA España
+http://195.10.10.221/rtva/andaluciatelevision-iphone/stream.m3u8?
+ 
+#EXTINF:-1 tvg-logo="http://www.eldia.tv/images/logo-cabecera-u103.png",EL DÍA TV España
+http://teledifusion.tv:1935/dia/dia/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.eldia.tv/images/logo-cabecera-u103.png",EL DÍA TV España
+http://teledifusion.tv:1935/dia/dia/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.eldia.tv/images/logo-cabecera-u103.png",EL DÍA TV España
+http://teledifusion.tv:1935/dia/dia/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.eldia.tv/images/logo-cabecera-u103.png",EL DÍA TV España
+http://teledifusion.tv:1935/dia/dia/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://elcorreoweb.es/base-portlet/webrsrc/ctxvar/324508c8-b30b-4d27-8a68-4b0329c058f1.png",EL CORREO TV España
+http://cls.elitehd-audiovisuales.com/luztv/livestream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://elcorreoweb.es/base-portlet/webrsrc/ctxvar/324508c8-b30b-4d27-8a68-4b0329c058f1.png",EL CORREO TV España
+http://cls.elitehd-audiovisuales.com/luztv/livestream/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://elcorreoweb.es/base-portlet/webrsrc/ctxvar/324508c8-b30b-4d27-8a68-4b0329c058f1.png",EL CORREO TV España
+http://cls.elitehd-audiovisuales.com/luztv/livestream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://elcorreoweb.es/base-portlet/webrsrc/ctxvar/324508c8-b30b-4d27-8a68-4b0329c058f1.png",EL CORREO TV España
+http://cls.elitehd-audiovisuales.com/luztv/livestream/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://webtv.7tvregiondemurcia.es/assets/home/images/logos/television-region-mucia.png",7 TV España
+http://flash0.80670-live0.dna.qbrick.com:1935/80670-live0/murciatv/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://webtv.7tvregiondemurcia.es/assets/home/images/logos/television-region-mucia.png",7 TV España
+http://flash0.80670-live0.dna.qbrick.com:1935/80670-live0/murciatv/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://webtv.7tvregiondemurcia.es/assets/home/images/logos/television-region-mucia.png",7 TV España
+http://flash0.80670-live0.dna.qbrick.com:1935/80670-live0/murciatv/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://webtv.7tvregiondemurcia.es/assets/home/images/logos/television-region-mucia.png",7 TV España
+http://flash0.80670-live0.dna.qbrick.com:1935/80670-live0/murciatv/playlist.m3u8
+ 
+ 
+MEXICO
+ 
+#EXTINF:-1 tvg-logo="http://i2.esmas.com/las-estrellas/favicons/152x152.png",LAS ESTRELLAS México
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i2.esmas.com/las-estrellas/favicons/152x152.png",LAS ESTRELLAS México
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i2.esmas.com/las-estrellas/favicons/152x152.png",LAS ESTRELLAS México
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_2.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i2.esmas.com/las-estrellas/favicons/152x152.png",LAS ESTRELLAS México
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_3.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.aztecatrece.com/portal/azteca132014/images/logo.png",AZTECA TRECE México
+http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.aztecatrece.com/portal/azteca132014/images/logo.png",AZTECA TRECE México
+http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.aztecatrece.com/portal/azteca132014/images/logo.png",AZTECA TRECE México
+http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_2_av-b.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.aztecatrece.com/portal/azteca132014/images/logo.png",AZTECA TRECE México
+http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_1_av-b.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.efekto.tv/wp-content/themes/EfecktoTV/imagenes/logos/efektotvlogo.png",EFECTO TV Mexico
+http://grupomac-lh.akamaihd.net/i/004rss0k8_1@301782/index_1_av-p.m3u8?sd=10&rebase=on
+ 
+#EXTINF:-1 tvg-logo="http://www.efekto.tv/wp-content/themes/EfecktoTV/imagenes/logos/efektotvlogo.png",EFECTO TV Mexico
+http://grupomac-lh.akamaihd.net/i/004rss0k8_1@301782/index_2_av-p.m3u8?sd=10&rebase=on
+ 
+#EXTINF:-1 tvg-logo="http://www.efekto.tv/wp-content/themes/EfecktoTV/imagenes/logos/efektotvlogo.png",EFECTO TV Mexico
+http://grupomac-lh.akamaihd.net/i/004rss0k8_1@301782/index_3_av-p.m3u8?sd=10&rebase=on
+ 
+#EXTINF:-1 tvg-logo="http://www.efekto.tv/wp-content/themes/EfecktoTV/imagenes/logos/efektotvlogo.png",EFECTO TV Mexico
+http://grupomac-lh.akamaihd.net/i/004rss0k8_1@301782/index_4_av-p.m3u8?sd=10&rebase=on
+ 
+#EXTINF:-1 tvg-logo="http://www.greentv.com.mx/wp-content/themes/GreenTV/imagenes/logos/greentvlogo.png",GREEN TV Mexico
+http://grupomac-lh.akamaihd.net/i/0pin4uhat_1@301783/index_1_av-p.m3u8?sd=10&rebase=on
+ 
+#EXTINF:-1 tvg-logo="http://www.greentv.com.mx/wp-content/themes/GreenTV/imagenes/logos/greentvlogo.png",GREEN TV Mexico
+http://grupomac-lh.akamaihd.net/i/0pin4uhat_1@301783/index_2_av-p.m3u8?sd=10&rebase=on
+ 
+#EXTINF:-1 tvg-logo="http://www.greentv.com.mx/wp-content/themes/GreenTV/imagenes/logos/greentvlogo.png",GREEN TV Mexico
+http://grupomac-lh.akamaihd.net/i/0pin4uhat_1@301783/index_3_av-p.m3u8?sd=10&rebase=on
+ 
+#EXTINF:-1 tvg-logo="http://www.greentv.com.mx/wp-content/themes/GreenTV/imagenes/logos/greentvlogo.png",GREEN TV Mexico
+http://grupomac-lh.akamaihd.net/i/0pin4uhat_1@301783/index_4_av-p.m3u8?sd=10&rebase=on
+ 
+#EXTINF:-1 tvg-logo="http://www.tvpacifico.com.mx/portal/images/logos/C2.png",TVP YAQUI México
+http://216.227.135.186:1935/gpacifico3/smil:obregon.smil/chunklist_w1563628369_b1428000_sleng.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.tvpacifico.com.mx/portal/images/logos/C2.png",TVP YAQUI México
+http://216.227.135.186:1935/gpacifico3/smil:obregon.smil/chunklist_w1563628369_b1428000_sleng.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.tvpacifico.com.mx/portal/images/logos/C2.png",TVP YAQUI México
+http://216.227.135.186:1935/gpacifico3/smil:obregon.smil/chunklist_w1563628369_b978000_sleng.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.tvpacifico.com.mx/portal/images/logos/C2.png",TVP YAQUI México
+http://216.227.135.186:1935/gpacifico3/smil:obregon.smil/chunklist_w1563628369_b978000_sleng.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.tvpacifico.com.mx/portal/images/logos/C2.png",TVP MOCHIS México
+http://216.227.135.186:1935/gpacifico2/smil:mochis.smil/chunklist_w682805249_b1428000_sleng.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.tvpacifico.com.mx/portal/images/logos/C2.png",TVP MOCHIS México
+http://216.227.135.186:1935/gpacifico2/smil:mochis.smil/chunklist_w682805249_b1428000_sleng.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.tvpacifico.com.mx/portal/images/logos/C2.png",TVP MOCHIS México
+http://216.227.135.186:1935/gpacifico2/smil:mochis.smil/chunklist_w682805249_b978000_sleng.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.tvpacifico.com.mx/portal/images/logos/C2.png",TVP MOCHIS México
+http://216.227.135.186:1935/gpacifico2/smil:mochis.smil/chunklist_w682805249_b978000_sleng.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.tvpacifico.com.mx/portal/images/logos/C3.png",TVP CULIACÁN México
+http://216.227.135.186:1935/gpacifico1/smil:gpculiacan.smil/chunklist_w1478495464_b1428000_sleng.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.tvpacifico.com.mx/portal/images/logos/C3.png",TVP CULIACÁN México
+http://216.227.135.186:1935/gpacifico1/smil:gpculiacan.smil/chunklist_w1478495464_b1428000_sleng.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.tvpacifico.com.mx/portal/images/logos/C3.png",TVP CULIACÁN México
+http://216.227.135.186:1935/gpacifico1/smil:gpculiacan.smil/chunklist_w1478495464_b978000_sleng.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.tvpacifico.com.mx/portal/images/logos/C3.png",TVP CULIACÁN México
+http://216.227.135.186:1935/gpacifico1/smil:gpculiacan.smil/chunklist_w1478495464_b978000_sleng.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.tvpacifico.com.mx/portal/images/logos/C7.png",TVP MAZATLÁN México
+http://216.227.135.186:1935/gpacifico4/smil:mazatlan.smil/chunklist_w1002820011_b1428000_sleng.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.tvpacifico.com.mx/portal/images/logos/C7.png",TVP MAZATLÁN México
+http://216.227.135.186:1935/gpacifico4/smil:mazatlan.smil/chunklist_w1002820011_b1428000_sleng.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.tvpacifico.com.mx/portal/images/logos/C7.png",TVP MAZATLÁN México
+http://216.227.135.186:1935/gpacifico4/smil:mazatlan.smil/chunklist_w1002820011_b978000_sleng.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.tvpacifico.com.mx/portal/images/logos/C7.png",TVP MAZATLÁN México
+http://216.227.135.186:1935/gpacifico4/smil:mazatlan.smil/chunklist_w1002820011_b978000_sleng.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Multimedios_Television.png/200px-Multimedios_Television.png",MULTIMEDIOS Monterrey México
+http://mdstrm.com/live-stream-playlist_1200/57b4dbf5dbbfc8f16bb63ce1.m3u8?
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Multimedios_Television.png/200px-Multimedios_Television.png",MULTIMEDIOS Monterrey México
+http://mdstrm.com/live-stream-playlist_1200/57b4dbf5dbbfc8f16bb63ce1.m3u8?
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Multimedios_Television.png/200px-Multimedios_Television.png",MULTIMEDIOS Monterrey México
+http://mdstrm.com/live-stream-playlist_700/57b4dbf5dbbfc8f16bb63ce1.m3u8?
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Multimedios_Television.png/200px-Multimedios_Television.png",MULTIMEDIOS Monterrey México
+http://mdstrm.com/live-stream-playlist_400/57b4dbf5dbbfc8f16bb63ce1.m3u8?
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Multimedios_Television.png/200px-Multimedios_Television.png",MULTIMEDIOS Torreón México
+http://mdstrm.com/live-stream-playlist_1200/57bf686a61ff39e1085d43e1.m3u8?
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Multimedios_Television.png/200px-Multimedios_Television.png",MULTIMEDIOS Torreón México
+http://mdstrm.com/live-stream-playlist_1200/57bf686a61ff39e1085d43e1.m3u8?
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Multimedios_Television.png/200px-Multimedios_Television.png",MULTIMEDIOS Torreón México
+http://mdstrm.com/live-stream-playlist_700/57bf686a61ff39e1085d43e1.m3u8?
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Multimedios_Television.png/200px-Multimedios_Television.png",MULTIMEDIOS Torreón México
+http://mdstrm.com/live-stream-playlist_400/57bf686a61ff39e1085d43e1.m3u8?
+ 
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/e/e9/Teleritmo_%282015-%29.png/revision/latest/scale-to-width-down/200?cb=20151111060623",TELERITMO Monterrey México
+http://mdstrm.com/live-stream-playlist_1000/57b4dc126338448314449d0c.m3u8?
+ 
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/e/e9/Teleritmo_%282015-%29.png/revision/latest/scale-to-width-down/200?cb=20151111060623",TELERITMO Monterrey México
+http://mdstrm.com/live-stream-playlist_1000/57b4dc126338448314449d0c.m3u8?
+ 
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/e/e9/Teleritmo_%282015-%29.png/revision/latest/scale-to-width-down/200?cb=20151111060623",TELERITMO Monterrey México
+http://mdstrm.com/live-stream-playlist_700/57b4dc126338448314449d0c.m3u8?
+ 
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/e/e9/Teleritmo_%282015-%29.png/revision/latest/scale-to-width-down/200?cb=20151111060623",TELERITMO Monterrey México
+http://mdstrm.com/live-stream-playlist_400/57b4dc126338448314449d0c.m3u8?
+ 
+#EXTINF:-1 tvg-logo="http://www.rcg.com.mx/wp-content/uploads/2015/05/LOGO-RCG-TV-7-1.png",RCG TV-1 México
+http://wowzacontrol.com:1935/stream34/stream34/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.rcg.com.mx/wp-content/uploads/2015/05/LOGO-RCG-TV-7-1.png",RCG TV-1 México
+http://wowzacontrol.com:1935/stream34/stream34/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.rcg.com.mx/wp-content/uploads/2015/05/LOGO-RCG-TV-7-1.png",RCG TV-1 México
+http://wowzacontrol.com:1935/stream34/stream34/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.rcg.com.mx/wp-content/uploads/2015/05/LOGO-RCG-TV-7-1.png",RCG TV-1 México
+http://wowzacontrol.com:1935/stream34/stream34/chunklist_w1145380528.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.rcg.com.mx/wp-content/uploads/2015/05/LOGO-RCG-TV-7-2.png",RCG TV-2 México
+http://wowzacontrol.com:1936/stream23/stream23/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.rcg.com.mx/wp-content/uploads/2015/05/LOGO-RCG-TV-7-2.png",RCG TV-2 México
+http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.rcg.com.mx/wp-content/uploads/2015/05/LOGO-RCG-TV-7-2.png",RCG TV-2 México
+http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.rcg.com.mx/wp-content/uploads/2015/05/LOGO-RCG-TV-7-2.png",RCG TV-2 México
+http://wowzacontrol.com:1936/stream23/stream23/chunklist_w600441543.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.rcg.com.mx/wp-content/uploads/2016/01/LOGO-RCG-TV-7-3-1.png",RCG TV-3 México
+http://wowzacontrol.com:1936/stream56/stream56/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.rcg.com.mx/wp-content/uploads/2016/01/LOGO-RCG-TV-7-3-1.png",RCG TV-3 México
+http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.rcg.com.mx/wp-content/uploads/2016/01/LOGO-RCG-TV-7-3-1.png",RCG TV-3 México
+http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.rcg.com.mx/wp-content/uploads/2016/01/LOGO-RCG-TV-7-3-1.png",RCG TV-3 México
+http://wowzacontrol.com:1936/stream56/stream56/chunklist_w503576147.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.canal66.tv/wp-content/uploads/2014/10/LOGO-SOLO.png",CANAL 66 TV México
+http://canal44-lh.akamaihd.net/i/ch_mexicali@325633/master.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.canal66.tv/wp-content/uploads/2014/10/LOGO-SOLO.png",CANAL 66 TV México
+http://canal44-lh.akamaihd.net/i/ch_mexicali@325633/master.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.canal66.tv/wp-content/uploads/2014/10/LOGO-SOLO.png",CANAL 66 TV México
+http://canal44-lh.akamaihd.net/i/ch_mexicali@325633/master.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.canal66.tv/wp-content/uploads/2014/10/LOGO-SOLO.png",CANAL 66 TV México
+http://canal44-lh.akamaihd.net/i/ch_mexicali@325633/master.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://oncetv-ipn.net/generales/wp-content/uploads/2016/08/logo_canalonce.png",CANAL ONCE México
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://oncetv-ipn.net/generales/wp-content/uploads/2016/08/logo_canalonce.png",CANAL ONCE México
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/master.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://oncetv-ipn.net/generales/wp-content/uploads/2016/08/logo_canalonce.png",CANAL ONCE México
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://oncetv-ipn.net/generales/wp-content/uploads/2016/08/logo_canalonce.png",CANAL ONCE México
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/master.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.nsmedios.com/players/telesistemas/canal5/1/images/logo/logo.png",CANAL 5 TV México
+http://play.gvstream.net:554/e-tv-video/default.stream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.nsmedios.com/players/telesistemas/canal5/1/images/logo/logo.png",CANAL 5 TV México
+http://play.gvstream.net:554/e-tv-video/default.stream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.nsmedios.com/players/telesistemas/canal5/1/images/logo/logo.png",CANAL 5 TV México
+http://play.gvstream.net:554/e-tv-video/default.stream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.nsmedios.com/players/telesistemas/canal5/1/images/logo/logo.png",CANAL 5 TV México
+http://play.gvstream.net:554/e-tv-video/default.stream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/CAPITAL21CDMX.png/120px-CAPITAL21CDMX.png",CAPITAL 21 CDMX Mexico
+http://187.237.253.94:8134/hls-live/livepkgr/_definst_/liveevent/livestream1.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/CAPITAL21CDMX.png/120px-CAPITAL21CDMX.png",CAPITAL 21 CDMX Mexico
+http://187.237.253.94:8134/hls-live/livepkgr/_definst_/liveevent/livestream1.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/CAPITAL21CDMX.png/120px-CAPITAL21CDMX.png",CAPITAL 21 CDMX Mexico
+http://187.237.253.94:8134/hls-live/livepkgr/_definst_/liveevent/livestream1.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/CAPITAL21CDMX.png/120px-CAPITAL21CDMX.png",CAPITAL 21 CDMX Mexico
+http://187.237.253.94:8134/hls-live/livepkgr/_definst_/liveevent/livestream1.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.telemax.com.mx/wp-content/uploads/2016/09/cropped-telemax-4.png",TELEMAX México
+http://enhd.co:1935/8122/8122/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.telemax.com.mx/wp-content/uploads/2016/09/cropped-telemax-4.png",TELEMAX México
+http://enhd.co:1935/8122/8122/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.telemax.com.mx/wp-content/uploads/2016/09/cropped-telemax-4.png",TELEMAX México
+http://enhd.co:1935/8122/8122/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.telemax.com.mx/wp-content/uploads/2016/09/cropped-telemax-4.png",TELEMAX México
+http://enhd.co:1935/8122/8122/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-q4Wl9_QvZgQ/VUAKCHYKPvI/AAAAAAAAAsU/dxmsS3U1dAk/s320/TreceVision%2BYucatan.png",TRECEVISIÓN México
+http://74.222.3.185:1935/live/ngrp:trecevision_all/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-q4Wl9_QvZgQ/VUAKCHYKPvI/AAAAAAAAAsU/dxmsS3U1dAk/s320/TreceVision%2BYucatan.png",TRECEVISIÓN México
+http://74.222.3.185:1935/live/ngrp:trecevision_all/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-q4Wl9_QvZgQ/VUAKCHYKPvI/AAAAAAAAAsU/dxmsS3U1dAk/s320/TreceVision%2BYucatan.png",TRECEVISIÓN México
+http://74.222.3.185:1935/live/ngrp:trecevision_all/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-q4Wl9_QvZgQ/VUAKCHYKPvI/AAAAAAAAAsU/dxmsS3U1dAk/s320/TreceVision%2BYucatan.png",TRECEVISIÓN México
+http://74.222.3.185:1935/live/ngrp:trecevision_all/playlist.m3u8
+ 
+ 
+COLOMBIA
+ 
+#EXTINF:-1 tvg-logo="http://www.xtremostereo.net/wp-content/uploads/2016/11/Caracol_TV_HD_envivo.png",CARACOL HD
+https://mdstrm.com/live-stream-playlist/582f4f6f246da2e008eda56d.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.xtremostereo.net/wp-content/uploads/2016/11/Caracol_TV_HD_envivo.png",CARACOL HD
+https://mdstrm.com/live-stream-playlist_1200/582f4f6f246da2e008eda56d.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.xtremostereo.net/wp-content/uploads/2016/11/Caracol_TV_HD_envivo.png",CARACOL HD
+https://mdstrm.com/live-stream-playlist_800/582f4f6f246da2e008eda56d.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.xtremostereo.net/wp-content/uploads/2016/11/Caracol_TV_HD_envivo.png",CARACOL HD
+https://mdstrm.com/live-stream-playlist_450/582f4f6f246da2e008eda56d.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.canalrcn.com/sites/default/files/logo-rcn_10_1.png",RCN HD
+https://mdstrm.com/live-stream-playlist_900/58a36704896500b908cf1abe.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.canalrcn.com/sites/default/files/logo-rcn_10_1.png",RCN HD
+https://mdstrm.com/live-stream-playlist_600/58a36704896500b908cf1abe.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.canalrcn.com/sites/default/files/logo-rcn_10_1.png",RCN HD
+https://mdstrm.com/live-stream-playlist_400/58a36704896500b908cf1abe.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.canalrcn.com/sites/default/files/logo-rcn_10_1.png",RCN HD
+https://mdstrm.com/live-stream-playlist_200/58a36704896500b908cf1abe.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.winsports.co/assets/img/win/winsports-logo280x150.png",WIN SPORTS
+http://cdn1.elitegol.xyz/verliga/35/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.winsports.co/assets/img/win/winsports-logo280x150.png",WIN SPORTS
+http://cdn1.elitegol.xyz/verliga/35/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.winsports.co/assets/img/win/winsports-logo280x150.png",WIN SPORTS
+http://cdn2.elitegol.xyz/verliga/35/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.winsports.co/assets/img/win/winsports-logo280x150.png",WIN SPORTS
+http://cdn3.elitegol.xyz/verliga/35/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.teleantioquia.co/wp-content/uploads/2016/04/25145310/TA_te_ve_en_grande.png",TELEANTIOQUIA
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.teleantioquia.co/wp-content/uploads/2016/04/25145310/TA_te_ve_en_grande.png",TELEANTIOQUIA
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.teleantioquia.co/wp-content/uploads/2016/04/25145310/TA_te_ve_en_grande.png",TELEANTIOQUIA
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TANT/tu1_2.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.teleantioquia.co/wp-content/uploads/2016/04/25145310/TA_te_ve_en_grande.png",TELEANTIOQUIA
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TANT/tu1_3.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logo_telecaribe_El_Informativo.png/200px-Logo_telecaribe_El_Informativo.png",TELECARIBE
+http://live10.cdnmedia.tv/telecaribelive/smil:live.smil/playlist_1500000.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logo_telecaribe_El_Informativo.png/200px-Logo_telecaribe_El_Informativo.png",TELECARIBE
+http://live10.cdnmedia.tv/telecaribelive/smil:live.smil/playlist_1500000.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logo_telecaribe_El_Informativo.png/200px-Logo_telecaribe_El_Informativo.png",TELECARIBE
+http://live10.cdnmedia.tv/telecaribelive/smil:live.smil/playlist_750000.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logo_telecaribe_El_Informativo.png/200px-Logo_telecaribe_El_Informativo.png",TELECARIBE
+http://live10.cdnmedia.tv/telecaribelive/smil:live.smil/playlist_400000.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://static.rcnradio.com/wp-content/uploads/20160820114423/logo-telecafe-2014.png",TELECAFÉ
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TCAF/tu1_1.m3u8?
+ 
+#EXTINF:-1 tvg-logo="http://static.rcnradio.com/wp-content/uploads/20160820114423/logo-telecafe-2014.png",TELECAFÉ
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TCAF/tu1_1.m3u8?
+ 
+#EXTINF:-1 tvg-logo="http://static.rcnradio.com/wp-content/uploads/20160820114423/logo-telecafe-2014.png",TELECAFÉ
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TCAF/tu1_2.m3u8?
+ 
+#EXTINF:-1 tvg-logo="http://static.rcnradio.com/wp-content/uploads/20160820114423/logo-telecafe-2014.png",TELECAFÉ
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TCAF/tu1_3.m3u8?
+ 
+#EXTINF:-1 tvg-logo="http://telemedellin.tv/wp-content/themes/telemedellin/img/telemedellin-logo.png",TELEMEDELLÍN
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8?
+ 
+#EXTINF:-1 tvg-logo="http://telemedellin.tv/wp-content/themes/telemedellin/img/telemedellin-logo.png",TELEMEDELLÍN
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8?
+ 
+#EXTINF:-1 tvg-logo="http://telemedellin.tv/wp-content/themes/telemedellin/img/telemedellin-logo.png",TELEMEDELLÍN
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_2.m3u8?
+ 
+#EXTINF:-1 tvg-logo="http://telemedellin.tv/wp-content/themes/telemedellin/img/telemedellin-logo.png",TELEMEDELLÍN
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_3.m3u8?
+ 
+#EXTINF:-1 tvg-logo="http://www.canalcapital.gov.co/sites/default/files/header-institucional/LOGO-CANAL-CAPITAL_1.png",CANAL CAPITAL
+http://mdstrm.com/live-stream-playlist_2500/57d01d6c28b263eb73b59a5a.m3u8?
+ 
+#EXTINF:-1 tvg-logo="http://www.canalcapital.gov.co/sites/default/files/header-institucional/LOGO-CANAL-CAPITAL_1.png",CANAL CAPITAL
+http://mdstrm.com/live-stream-playlist_2500/57d01d6c28b263eb73b59a5a.m3u8?
+ 
+#EXTINF:-1 tvg-logo="http://www.canalcapital.gov.co/sites/default/files/header-institucional/LOGO-CANAL-CAPITAL_1.png",CANAL CAPITAL
+http://mdstrm.com/live-stream-playlist_1100/57d01d6c28b263eb73b59a5a.m3u8?
+ 
+#EXTINF:-1 tvg-logo="http://www.canalcapital.gov.co/sites/default/files/header-institucional/LOGO-CANAL-CAPITAL_1.png",CANAL CAPITAL
+http://mdstrm.com/live-stream-playlist_800/57d01d6c28b263eb73b59a5a.m3u8?
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Canal_tro_logo.PNG/245px-Canal_tro_logo.PNG",CANAL TRO
+http://live10.cdnmedia.tv/canaltro2live/smil:live.smil/playlist_1500000.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Canal_tro_logo.PNG/245px-Canal_tro_logo.PNG",CANAL TRO
+http://live10.cdnmedia.tv/canaltro2live/smil:live.smil/playlist_1500000.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Canal_tro_logo.PNG/245px-Canal_tro_logo.PNG",CANAL TRO
+http://live10.cdnmedia.tv/canaltro2live/smil:live.smil/playlist_750000.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Canal_tro_logo.PNG/245px-Canal_tro_logo.PNG",CANAL TRO
+http://live10.cdnmedia.tv/canaltro2live/smil:live.smil/playlist_500000.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://lapopularstereo.com/wp-content/uploads/2016/08/LOGO-CANAL-tr3ce-1-2.png",CANAL TR3CE
+http://streaming-ca.enetres.net/907242981A11434D900C2676A56AE374021/smil:live.smil/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://lapopularstereo.com/wp-content/uploads/2016/08/LOGO-CANAL-tr3ce-1-2.png",CANAL TR3CE
+http://streaming-ca.enetres.net/907242981A11434D900C2676A56AE374021/smil:live.smil/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://lapopularstereo.com/wp-content/uploads/2016/08/LOGO-CANAL-tr3ce-1-2.png",CANAL TR3CE
+http://streaming-ca.enetres.net/907242981A11434D900C2676A56AE374021/smil:live.smil/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://lapopularstereo.com/wp-content/uploads/2016/08/LOGO-CANAL-tr3ce-1-2.png",CANAL TR3CE
+http://streaming-ca.enetres.net/907242981A11434D900C2676A56AE374021/smil:live.smil/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.canaluno.com.co/sites/all/themes/senalcolombia/logo.png",CANAL UNO
+http://live10.cdnmedia.tv/rtvcCanalUNOlive/smil:live.smil/playlist_1500000.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.canaluno.com.co/sites/all/themes/senalcolombia/logo.png",CANAL UNO
+http://live10.cdnmedia.tv/rtvcCanalUNOlive/smil:live.smil/playlist_1500000.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.canaluno.com.co/sites/all/themes/senalcolombia/logo.png",CANAL UNO
+http://live10.cdnmedia.tv/rtvcCanalUNOlive/smil:live.smil/playlist_750000.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.canaluno.com.co/sites/all/themes/senalcolombia/logo.png",CANAL UNO
+http://live10.cdnmedia.tv/rtvcCanalUNOlive/smil:live.smil/playlist_500000.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.senalcolombia.tv/sites/all/themes/senalcolombia/logo.png",SEÑAL COLOMBIA
+http://live10.cdnmedia.tv/rtvcscolombialive/smil:live.smil/playlist_1500000.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.senalcolombia.tv/sites/all/themes/senalcolombia/logo.png",SEÑAL COLOMBIA
+http://live10.cdnmedia.tv/rtvcscolombialive/smil:live.smil/playlist_1500000.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.senalcolombia.tv/sites/all/themes/senalcolombia/logo.png",SEÑAL COLOMBIA
+http://live10.cdnmedia.tv/rtvcscolombialive/smil:live.smil/playlist_750000.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.senalcolombia.tv/sites/all/themes/senalcolombia/logo.png",SEÑAL COLOMBIA
+http://live10.cdnmedia.tv/rtvcscolombialive/smil:live.smil/playlist_500000.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.canalinstitucional.tv/sites/all/themes/senalinstitucional/images/logo_ppal_1.png",CANAL INSTITUCIONAL
+http://live10.cdnmedia.tv/rtvcsinstitucionallive/smil:live.smil/playlist_1500000.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.canalinstitucional.tv/sites/all/themes/senalinstitucional/images/logo_ppal_1.png",CANAL INSTITUCIONAL
+http://live10.cdnmedia.tv/rtvcsinstitucionallive/smil:live.smil/playlist_1500000.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.canalinstitucional.tv/sites/all/themes/senalinstitucional/images/logo_ppal_1.png",CANAL INSTITUCIONAL
+http://live10.cdnmedia.tv/rtvcsinstitucionallive/smil:live.smil/playlist_750000.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.canalinstitucional.tv/sites/all/themes/senalinstitucional/images/logo_ppal_1.png",CANAL INSTITUCIONAL
+http://live10.cdnmedia.tv/rtvcsinstitucionallive/smil:live.smil/playlist_500000.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.cablenoticias.tv/images/logoCableCabezote.png",CABLENOTICIAS HD
+http://cnmedia.eastus2.cloudapp.azure.com:1935/live/cablenoticiastv_720p/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.cablenoticias.tv/images/logoCableCabezote.png",CABLENOTICIAS
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.cablenoticias.tv/images/logoCableCabezote.png",CABLENOTICIAS
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_2.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.cablenoticias.tv/images/logoCableCabezote.png",CABLENOTICIAS
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_3.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.eltiempo.com/media/images/ET_desktop.png",EL TIEMPO TELEVISIÓN
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.eltiempo.com/media/images/ET_desktop.png",EL TIEMPO TELEVISIÓN
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.eltiempo.com/media/images/ET_desktop.png",EL TIEMPO TELEVISIÓN
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_2.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.eltiempo.com/media/images/ET_desktop.png",EL TIEMPO TELEVISIÓN
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_3.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.ntv.com.co/imagenes/logo.png",NACIÓN TV
+http://live10.cdnmedia.tv/naciontv1live/smil:ntv.smil/playlist_1500000.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.ntv.com.co/imagenes/logo.png",NACIÓN TV
+http://live10.cdnmedia.tv/naciontv1live/smil:ntv.smil/playlist_1500000.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.ntv.com.co/imagenes/logo.png",NACIÓN TV
+http://live10.cdnmedia.tv/naciontv1live/smil:ntv.smil/playlist_750000.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.ntv.com.co/imagenes/logo.png",NACIÓN TV
+http://live10.cdnmedia.tv/naciontv1live/smil:ntv.smil/playlist_400000.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/CTV_LOGO.png/245px-CTV_LOGO.png",CANTINAZO TV
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/CTV_LOGO.png/245px-CTV_LOGO.png",CANTINAZO TV
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/CTV_LOGO.png/245px-CTV_LOGO.png",CANTINAZO TV
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_2.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/CTV_LOGO.png/245px-CTV_LOGO.png",CANTINAZO TV
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_3.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.canalmimusica.com/wp-content/uploads/2012/11/favicon.png",MI MUSICA TV
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.canalmimusica.com/wp-content/uploads/2012/11/favicon.png",MI MUSICA TV
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.canalmimusica.com/wp-content/uploads/2012/11/favicon.png",MI MUSICA TV
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_2.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.canalmimusica.com/wp-content/uploads/2012/11/favicon.png",MI MUSICA TV
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_3.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.tigomusic.co/sites/music.co/files/logo_music.png",TIGO MUSIC
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.tigomusic.co/sites/music.co/files/logo_music.png",TIGO MUSIC
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.tigomusic.co/sites/music.co/files/logo_music.png",TIGO MUSIC
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_2.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.tigomusic.co/sites/music.co/files/logo_music.png",TIGO MUSIC
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_3.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/TC_LOGO.png/245px-TC_LOGO.png",TRENDY CHANNEL
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/TC_LOGO.png/245px-TC_LOGO.png",TRENDY CHANNEL
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/TC_LOGO.png/245px-TC_LOGO.png",TRENDY CHANNEL
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_2.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/TC_LOGO.png/245px-TC_LOGO.png",TRENDY CHANNEL
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_3.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://canal4.uao.edu.co/common/img/logo.png",CANAL 4 Universidad Autónoma de Occidente
+http://streaming-ca.enetres.net/184784E1D210401F8041E3E1266822CC021/smil:live.smil/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://canal4.uao.edu.co/common/img/logo.png",CANAL 4 Universidad Autónoma de Occidente
+http://streaming-ca.enetres.net/184784E1D210401F8041E3E1266822CC021/smil:live.smil/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://canal4.uao.edu.co/common/img/logo.png",CANAL 4 Universidad Autónoma de Occidente
+http://streaming-ca.enetres.net/184784E1D210401F8041E3E1266822CC021/smil:live.smil/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://canal4.uao.edu.co/common/img/logo.png",CANAL 4 Universidad Autónoma de Occidente
+http://streaming-ca.enetres.net/184784E1D210401F8041E3E1266822CC021/smil:live.smil/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.tvagro.tv/images/tvachiqui.png",TV AGRO
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVAG/tu1_1.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.tvagro.tv/images/tvachiqui.png",TV AGRO
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVAG/tu1_1.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.tvagro.tv/images/tvachiqui.png",TV AGRO
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVAG/tu1_2.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.tvagro.tv/images/tvachiqui.png",TV AGRO
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVAG/tu1_3.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-UehDkQhS7wE/VzvBEGicOCI/AAAAAAAACCg/Qf9ic1NQ5hEMv-Ov_sAxaNvMJmutAfB5gCLcB/s200/ANTIESTRES.png",CANAL ANTIESTRES
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-UehDkQhS7wE/VzvBEGicOCI/AAAAAAAACCg/Qf9ic1NQ5hEMv-Ov_sAxaNvMJmutAfB5gCLcB/s200/ANTIESTRES.png",CANAL ANTIESTRES
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-UehDkQhS7wE/VzvBEGicOCI/AAAAAAAACCg/Qf9ic1NQ5hEMv-Ov_sAxaNvMJmutAfB5gCLcB/s200/ANTIESTRES.png",CANAL ANTIESTRES
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_2.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-UehDkQhS7wE/VzvBEGicOCI/AAAAAAAACCg/Qf9ic1NQ5hEMv-Ov_sAxaNvMJmutAfB5gCLcB/s200/ANTIESTRES.png",CANAL ANTIESTRES
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_3.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.lifedesigntv.com/images/lifedesing/logo.png",LIFE DESING TV
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/LDTV/tu1_1.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.lifedesigntv.com/images/lifedesing/logo.png",LIFE DESING TV
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/LDTV/tu1_1.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.lifedesigntv.com/images/lifedesing/logo.png",LIFE DESING TV
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/LDTV/tu1_2.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.lifedesigntv.com/images/lifedesing/logo.png",LIFE DESING TV
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/LDTV/tu1_3.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.cosmovision.tv/wp-content/themes/cosmovision/images/logo-cosmovision.png",COSMOVISIÓN
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_1.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.cosmovision.tv/wp-content/themes/cosmovision/images/logo-cosmovision.png",COSMOVISIÓN
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_1.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.cosmovision.tv/wp-content/themes/cosmovision/images/logo-cosmovision.png",COSMOVISIÓN
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_2.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.cosmovision.tv/wp-content/themes/cosmovision/images/logo-cosmovision.png",COSMOVISIÓN
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_3.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/comparabien-co/logos/une.png",UNE TV Caribe
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEQ/tu1_1.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/comparabien-co/logos/une.png",UNE TV Caribe
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEQ/tu1_1.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/comparabien-co/logos/une.png",UNE TV Caribe
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEQ/tu1_2.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/comparabien-co/logos/une.png",UNE TV Caribe
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEQ/tu1_3.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://canal.une.com.co/images/logo.png",UNE TV Manizales
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEZ/tu1_1.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://canal.une.com.co/images/logo.png",UNE TV Manizales
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEZ/tu1_1.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://canal.une.com.co/images/logo.png",UNE TV Manizales
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEZ/tu1_2.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://canal.une.com.co/images/logo.png",UNE TV Manizales
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEZ/tu1_3.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://canal.une.com.co/images/logo.png",UNE TV
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEM/tu1_1.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://canal.une.com.co/images/logo.png",UNE TV
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEM/tu1_1.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://canal.une.com.co/images/logo.png",UNE TV
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEM/tu1_2.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://canal.une.com.co/images/logo.png",UNE TV
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEM/tu1_3.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://cmbcolombia.tv/img/logo-base.png",CMB TELEVISIÓN
+http://st1.worldkast.com/cmbstream/ngrp:cmbstream_all/chunklist_480.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://cmbcolombia.tv/img/logo-base.png",CMB TELEVISIÓN
+http://st1.worldkast.com/cmbstream/ngrp:cmbstream_all/chunklist_480.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://cmbcolombia.tv/img/logo-base.png",CMB TELEVISIÓN
+http://st1.worldkast.com/cmbstream/ngrp:cmbstream_all/chunklist_320.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://cmbcolombia.tv/img/logo-base.png",CMB TELEVISIÓN
+http://st1.worldkast.com/cmbstream/ngrp:cmbstream_all/chunklist_240.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://canaloasis.com/images/logo.png",OASIS TV
+http://stream.doxainternational.co:8081/oasistv/oasistv_abr/oasistv/83101/chunks.m3u8?
+ 
+#EXTINF:-1 tvg-logo="http://canaloasis.com/images/logo.png",OASIS TV
+http://stream.doxainternational.co:8081/oasistv/oasistv_abr/oasistv/83101/chunks.m3u8?
+ 
+#EXTINF:-1 tvg-logo="http://canaloasis.com/images/logo.png",OASIS TV
+http://stream.doxainternational.co:8081/oasistv/oasistv_abr/oasistv/83102/chunks.m3u8?
+ 
+#EXTINF:-1 tvg-logo="http://canaloasis.com/images/logo.png",OASIS TV
+http://stream.doxainternational.co:8081/oasistv/oasistv_abr/oasistv/83103/chunks.m3u8?
+ 
+#EXTINF:-1 tvg-logo="http://teleamiga.tv/website/wp-content/themes/learnplus/img/logo.png",TELEAMIGA
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TAMI/tu1_1.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://teleamiga.tv/website/wp-content/themes/learnplus/img/logo.png",TELEAMIGA
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TAMI/tu1_1.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://teleamiga.tv/website/wp-content/themes/learnplus/img/logo.png",TELEAMIGA
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TAMI/tu1_2.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://teleamiga.tv/website/wp-content/themes/learnplus/img/logo.png",TELEAMIGA
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TAMI/tu1_3.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.jesuitas.org.co/images/obras/60.jpg",TELE VID
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVID/tu1_1.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.jesuitas.org.co/images/obras/60.jpg",TELE VID
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVID/tu1_1.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.jesuitas.org.co/images/obras/60.jpg",TELE VID
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVID/tu1_2.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.jesuitas.org.co/images/obras/60.jpg",TELE VID
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVID/tu1_3.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.cristovision.tv/addons/shared_addons/themes/bootstrapThree/img/logo-blue.png",CRISTOVISIÓN
+http://live10.cdnmedia.tv/cristovisionlive/smil:live.smil/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.cristovision.tv/addons/shared_addons/themes/bootstrapThree/img/logo-blue.png",CRISTOVISIÓN
+http://live10.cdnmedia.tv/cristovisionlive/smil:live.smil/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.cristovision.tv/addons/shared_addons/themes/bootstrapThree/img/logo-blue.png",CRISTOVISIÓN
+http://live10.cdnmedia.tv/cristovisionlive/smil:live.smil/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.cristovision.tv/addons/shared_addons/themes/bootstrapThree/img/logo-blue.png",CRISTOVISIÓN
+http://live10.cdnmedia.tv/cristovisionlive/smil:live.smil/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.igualavos.com.co/img/logo-loveu.png",CANAL U
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANU/tu1_1.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.igualavos.com.co/img/logo-loveu.png",CANAL U
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANU/tu1_1.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.igualavos.com.co/img/logo-loveu.png",CANAL U
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANU/tu1_2.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.igualavos.com.co/img/logo-loveu.png",CANAL U
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANU/tu1_3.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://canalcalitv.com/wp-content/uploads/2015/11/Logo_CaliTV2.png",CALI TV
+http://video.cehis.net/live-calitv/calitv1/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://canalcalitv.com/wp-content/uploads/2015/11/Logo_CaliTV2.png",CALI TV
+http://video.cehis.net/live-calitv/calitv1/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://canalcalitv.com/wp-content/uploads/2015/11/Logo_CaliTV2.png",CALI TV
+http://video.cehis.net/live-calitv/calitv1/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://canalcalitv.com/wp-content/uploads/2015/11/Logo_CaliTV2.png",CALI TV
+http://video.cehis.net/live-calitv/calitv1/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.pyctelevision.com/wp-content/uploads/2016/04/pyc202x120.png",PYC TELEVISIÓN
+http://vbox.cehis.net/live-canalpyc/canalpyc1/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.pyctelevision.com/wp-content/uploads/2016/04/pyc202x120.png",PYC TELEVISIÓN
+http://vbox.cehis.net/live-canalpyc/canalpyc1/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.pyctelevision.com/wp-content/uploads/2016/04/pyc202x120.png",PYC TELEVISIÓN
+http://vbox.cehis.net/live-canalpyc/canalpyc1/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.pyctelevision.com/wp-content/uploads/2016/04/pyc202x120.png",PYC TELEVISIÓN
+http://vbox.cehis.net/live-canalpyc/canalpyc1/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.pagegear.co/es/dominios/cnc.pagegear.co/plantillas/pagegear/recursos/logopng.png",CANAL CNC
+http://iphone-streaming.ustream.tv/uhls/5958141/streams/live/iphone/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.pagegear.co/es/dominios/cnc.pagegear.co/plantillas/pagegear/recursos/logopng.png",CANAL CNC
+http://iphone-streaming.ustream.tv/uhls/5958141/streams/live/iphone/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.pagegear.co/es/dominios/cnc.pagegear.co/plantillas/pagegear/recursos/logopng.png",CANAL CNC
+http://iphone-streaming.ustream.tv/uhls/5958141/streams/live/iphone/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.pagegear.co/es/dominios/cnc.pagegear.co/plantillas/pagegear/recursos/logopng.png",CANAL CNC
+http://iphone-streaming.ustream.tv/uhls/5958141/streams/live/iphone/playlist.m3u8
+ 
+ 
+PERÚ
+ 
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/_KqKRitubo0s/TMhsjeQMmmI/AAAAAAAACYs/M67UrlyHgyI/s1600/america_tv.png",AMERICA HD Perú
+https://ooyalasecurehd3-f.akamaihd.net/i/atvsec01_delivery@304258/index_2128_av-p.m3u8?sd=10&rebase=on
+ 
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/_KqKRitubo0s/TMhsjeQMmmI/AAAAAAAACYs/M67UrlyHgyI/s1600/america_tv.png",AMERICA Perú
+https://ooyalasecurehd3-f.akamaihd.net/i/atvsec01_delivery@304258/index_1728_av-p.m3u8?sd=10&rebase=on
+ 
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/_KqKRitubo0s/TMhsjeQMmmI/AAAAAAAACYs/M67UrlyHgyI/s1600/america_tv.png",AMERICA Perú
+https://ooyalasecurehd3-f.akamaihd.net/i/atvsec01_delivery@304258/index_1164_av-p.m3u8?sd=10&rebase=on
+ 
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/_KqKRitubo0s/TMhsjeQMmmI/AAAAAAAACYs/M67UrlyHgyI/s1600/america_tv.png",AMERICA Perú
+https://ooyalasecurehd3-f.akamaihd.net/i/atvsec01_delivery@304258/index_564_av-p.m3u8?sd=10&rebase=on
+ 
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/doblaje/images/c/c7/04-frecuencia-latina.jpg/revision/latest?cb=20170105012516&path-prefix=es",LATINA HD Perú
+http://cialive-live.hds.adaptive.level3.net/hls-live/ciaremux-live/_definst_/live/stream4.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/doblaje/images/c/c7/04-frecuencia-latina.jpg/revision/latest?cb=20170105012516&path-prefix=es",LATINA Perú
+http://cialive-live.hds.adaptive.level3.net/hls-live/ciaremux-live/_definst_/live/stream3.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/doblaje/images/c/c7/04-frecuencia-latina.jpg/revision/latest?cb=20170105012516&path-prefix=es",LATINA Perú
+http://cialive-live.hds.adaptive.level3.net/hls-live/ciaremux-live/_definst_/live/stream2.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/doblaje/images/c/c7/04-frecuencia-latina.jpg/revision/latest?cb=20170105012516&path-prefix=es",LATINA Perú
+http://cialive-live.hds.adaptive.level3.net/hls-live/ciaremux-live/_definst_/live/stream1.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.tvperu.gob.pe/sites/default/files/styles/client_270x90/public/TVPERU_HD_0_0.png?itok=bhIVIsm0", TV PERÚ HD Perú
+http://cdnh4.iblups.com/hls/R9WtilpKKB.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.tvperu.gob.pe/sites/default/files/styles/client_270x90/public/TVPERU_HD_0_0.png?itok=bhIVIsm0", TV PERÚ HD Perú
+http://cdnh4.iblups.com/hls/R9WtilpKKB.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.tvperu.gob.pe/sites/default/files/styles/client_270x90/public/TVPERU_HD_0_0.png?itok=bhIVIsm0", TV PERÚ HD Perú
+http://cdnh4.iblups.com/hls/R9WtilpKKB.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.tvperu.gob.pe/sites/default/files/styles/client_270x90/public/TVPERU_HD_0_0.png?itok=bhIVIsm0", TV PERÚ HD Perú
+http://cdnh4.iblups.com/hls/R9WtilpKKB.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.tvperu.gob.pe/sites/default/files/styles/client_270x90/public/TVPERU_0.png?itok=FkryBqXV", TV PERÚ Perú
+http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.tvperu.gob.pe/sites/default/files/styles/client_270x90/public/TVPERU_0.png?itok=FkryBqXV", TV PERÚ Perú
+http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.tvperu.gob.pe/sites/default/files/styles/client_270x90/public/TVPERU_0.png?itok=FkryBqXV", TV PERÚ Perú
+http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.tvperu.gob.pe/sites/default/files/styles/client_270x90/public/TVPERU_0.png?itok=FkryBqXV", TV PERÚ Perú
+http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.tvperu.gob.pe/sites/default/files/styles/client_270x90/public/TVPERU_7_3_0_0.png?itok=iK86BXd8", TV PERÚ 7.3 Perú
+http://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.tvperu.gob.pe/sites/default/files/styles/client_270x90/public/TVPERU_7_3_0_0.png?itok=iK86BXd8", TV PERÚ 7.3 Perú
+http://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.tvperu.gob.pe/sites/default/files/styles/client_270x90/public/TVPERU_7_3_0_0.png?itok=iK86BXd8", TV PERÚ 7.3 Perú
+http://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.tvperu.gob.pe/sites/default/files/styles/client_270x90/public/TVPERU_7_3_0_0.png?itok=iK86BXd8", TV PERÚ 7.3 Perú
+http://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.canalipe.tv/sites/default/themes/bootstrap_drupal/logo.png",IPE TV Perú
+http://cdnh4.iblups.com/hls/irtp.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.canalipe.tv/sites/default/themes/bootstrap_drupal/logo.png",IPE TV Perú
+http://cdnh4.iblups.com/hls/irtp.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.canalipe.tv/sites/default/themes/bootstrap_drupal/logo.png",IPE TV Perú
+http://cdnh4.iblups.com/hls/irtp.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.canalipe.tv/sites/default/themes/bootstrap_drupal/logo.png",IPE TV Perú
+http://cdnh4.iblups.com/hls/irtp.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://panamericana.pe/imagenes/logo.png",PANAMERICANA TV Perú
+http://cdnh5.iblups.com/hls/ptv.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://panamericana.pe/imagenes/logo.png",PANAMERICANA TV Perú
+http://cdnh5.iblups.com/hls/ptv.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://panamericana.pe/imagenes/logo.png",PANAMERICANA TV Perú
+http://cdnh5.iblups.com/hls/ptv.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://panamericana.pe/imagenes/logo.png",PANAMERICANA TV Perú
+http://cdnh5.iblups.com/hls/ptv.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.television-envivo.com/wp-content/uploads/2016/03/willax-television-300-150x150.png",WILLAX TV Perú
+http://movil.mediastream.pe/vv_willax/livestream/playlist.m3u8?wowzasessionid=996342462
+ 
+#EXTINF:-1 tvg-logo="http://www.television-envivo.com/wp-content/uploads/2016/03/willax-television-300-150x150.png",WILLAX TV Perú
+http://movil.mediastream.pe/vv_willax/livestream/playlist.m3u8?wowzasessionid=996342462
+ 
+#EXTINF:-1 tvg-logo="http://www.television-envivo.com/wp-content/uploads/2016/03/willax-television-300-150x150.png",WILLAX TV Perú
+http://movil.mediastream.pe/vv_willax/livestream/playlist.m3u8?wowzasessionid=996342462
+ 
+#EXTINF:-1 tvg-logo="http://www.television-envivo.com/wp-content/uploads/2016/03/willax-television-300-150x150.png",WILLAX TV Perú
+http://movil.mediastream.pe/vv_willax/livestream/playlist.m3u8?wowzasessionid=996342462
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/Capital_tv.png",CAPITAL TV Perú
+http://streaming.video.webrpp-live.hls.adaptive.level3.net/hls-live/videoremux-videoCAPTV/_definst_/live/stream1.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/Capital_tv.png",CAPITAL TV Perú
+http://streaming.video.webrpp-live.hls.adaptive.level3.net/hls-live/videoremux-videoCAPTV/_definst_/live/stream1.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/Capital_tv.png",CAPITAL TV Perú
+http://streaming.video.webrpp-live.hls.adaptive.level3.net/hls-live/videoremux-videoCAPTV/_definst_/live/stream1.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/Capital_tv.png",CAPITAL TV Perú
+http://streaming.video.webrpp-live.hls.adaptive.level3.net/hls-live/videoremux-videoCAPTV/_definst_/live/stream1.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.bhtv.pe/images/LogobhtvTransparente.png",BHTV Perú
+http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.bhtv.pe/images/LogobhtvTransparente.png",BHTV Perú
+http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.bhtv.pe/images/LogobhtvTransparente.png",BHTV Perú
+http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.bhtv.pe/images/LogobhtvTransparente.png",BHTV Perú
+http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://diariomatutino.com/img/ctcmenubar.png",CTC TV Cusco
+http://livestreamingperu.com:1935/ctctv/ctctv/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://diariomatutino.com/img/ctcmenubar.png",CTC TV Cusco
+http://livestreamingperu.com:1935/ctctv/ctctv/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://diariomatutino.com/img/ctcmenubar.png",CTC TV Cusco
+http://livestreamingperu.com:1935/ctctv/ctctv/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://diariomatutino.com/img/ctcmenubar.png",CTC TV Cusco
+http://livestreamingperu.com:1935/ctctv/ctctv/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://megatvarequipa.com/wp-content/uploads/2015/09/FOOTERLOGO5.jpg",MEGA TV Arequipa
+http://play.hostreamperu.com:1935/8016/8016/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://megatvarequipa.com/wp-content/uploads/2015/09/FOOTERLOGO5.jpg",MEGA TV Arequipa
+http://play.hostreamperu.com:1935/8016/8016/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://megatvarequipa.com/wp-content/uploads/2015/09/FOOTERLOGO5.jpg",MEGA TV Arequipa
+http://play.hostreamperu.com:1935/8016/8016/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://megatvarequipa.com/wp-content/uploads/2015/09/FOOTERLOGO5.jpg",MEGA TV Arequipa
+http://play.hostreamperu.com:1935/8016/8016/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-jBuxEptQC8M/VmXb3drzoCI/AAAAAAAACsU/BSytzZRJJB8/s1600/unotv.png",UNO TV Tacna
+http://unotv.pe:1935/unotv/myStream/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-jBuxEptQC8M/VmXb3drzoCI/AAAAAAAACsU/BSytzZRJJB8/s1600/unotv.png",UNO TV Tacna
+http://unotv.pe:1935/unotv/myStream/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-jBuxEptQC8M/VmXb3drzoCI/AAAAAAAACsU/BSytzZRJJB8/s1600/unotv.png",UNO TV Tacna
+http://unotv.pe:1935/unotv/myStream/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-jBuxEptQC8M/VmXb3drzoCI/AAAAAAAACsU/BSytzZRJJB8/s1600/unotv.png",UNO TV Tacna
+http://unotv.pe:1935/unotv/myStream/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.viatelevisionperu.com/wp-content/uploads/2014/10/logo-via-television.png",VIA TELEVISIÓN Tarapoto
+http://stmv1.tmcreativos.com/viatv25/viatv25/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.viatelevisionperu.com/wp-content/uploads/2014/10/logo-via-television.png",VIA TELEVISIÓN Tarapoto
+http://stmv1.tmcreativos.com/viatv25/viatv25/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.viatelevisionperu.com/wp-content/uploads/2014/10/logo-via-television.png",VIA TELEVISIÓN Tarapoto
+http://stmv1.tmcreativos.com/viatv25/viatv25/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.viatelevisionperu.com/wp-content/uploads/2014/10/logo-via-television.png",VIA TELEVISIÓN Tarapoto
+http://stmv1.tmcreativos.com/viatv25/viatv25/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.antarestvradio.com/images/logo.png",ANTARES TV Tarapoto
+http://173.192.105.252:1935/iptvantares/liveantarestv/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.antarestvradio.com/images/logo.png",ANTARES TV Tarapoto
+http://173.192.105.252:1935/iptvantares/liveantarestv/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.antarestvradio.com/images/logo.png",ANTARES TV Tarapoto
+http://173.192.105.252:1935/iptvantares/liveantarestv/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.antarestvradio.com/images/logo.png",ANTARES TV Tarapoto
+http://173.192.105.252:1935/iptvantares/liveantarestv/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://tvcosmos.pe/wp-content/uploads/2017/01/logo-tv-cosmos-vive-contigo-final.png",TV COSMOS Trujillo
+http://wowzaserver.net:1935/ucvsatelital/ucvsatelital/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://tvcosmos.pe/wp-content/uploads/2017/01/logo-tv-cosmos-vive-contigo-final.png",TV COSMOS Trujillo
+http://wowzaserver.net:1935/ucvsatelital/ucvsatelital/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://tvcosmos.pe/wp-content/uploads/2017/01/logo-tv-cosmos-vive-contigo-final.png",TV COSMOS Trujillo
+http://wowzaserver.net:1935/ucvsatelital/ucvsatelital/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://tvcosmos.pe/wp-content/uploads/2017/01/logo-tv-cosmos-vive-contigo-final.png",TV COSMOS Trujillo
+http://wowzaserver.net:1935/ucvsatelital/ucvsatelital/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-UBNFVYBCUXU/VYxV8F-GY_I/AAAAAAABGZM/KnpdYzxWWOA/s320/soltv%2Bperu%2Btrujillo.png",SOL TV PERÚ Trujillo
+http://wowzaserver.net:1935/vivo21/vivo21/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-UBNFVYBCUXU/VYxV8F-GY_I/AAAAAAABGZM/KnpdYzxWWOA/s320/soltv%2Bperu%2Btrujillo.png",SOL TV PERÚ Trujillo
+http://wowzaserver.net:1935/vivo21/vivo21/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-UBNFVYBCUXU/VYxV8F-GY_I/AAAAAAABGZM/KnpdYzxWWOA/s320/soltv%2Bperu%2Btrujillo.png",SOL TV PERÚ Trujillo
+http://wowzaserver.net:1935/vivo21/vivo21/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-UBNFVYBCUXU/VYxV8F-GY_I/AAAAAAABGZM/KnpdYzxWWOA/s320/soltv%2Bperu%2Btrujillo.png",SOL TV PERÚ Trujillo
+http://wowzaserver.net:1935/vivo21/vivo21/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.rbcradio.pe/assets/front/img/rbc-logo.png",RBC Perú
+http://184.154.28.210:1935/rbc-tv/rbc-tv/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.rbcradio.pe/assets/front/img/rbc-logo.png",RBC Perú
+http://184.154.28.210:1935/rbc-tv/rbc-tv/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.rbcradio.pe/assets/front/img/rbc-logo.png",RBC Perú
+http://184.154.28.210:1935/rbc-tv/rbc-tv/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.rbcradio.pe/assets/front/img/rbc-logo.png",RBC Perú
+http://184.154.28.210:1935/rbc-tv/rbc-tv/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://s.rpp-noticias.io/images/favicons/android-chrome-192x192.png",RPP NOTICIAS Perú
+http://streaming.video.webrpp-live.hls.adaptive.level3.net/hls-live/videoremux-videoRPPWC/_definst_/live/stream1.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://s.rpp-noticias.io/images/favicons/android-chrome-192x192.png",RPP NOTICIAS Perú
+http://streaming.video.webrpp-live.hls.adaptive.level3.net/hls-live/videoremux-videoRPPWC/_definst_/live/stream1.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://s.rpp-noticias.io/images/favicons/android-chrome-192x192.png",RPP NOTICIAS Perú
+http://streaming.video.webrpp-live.hls.adaptive.level3.net/hls-live/videoremux-videoRPPWC/_definst_/live/stream1.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://s.rpp-noticias.io/images/favicons/android-chrome-192x192.png",RPP NOTICIAS Perú
+http://streaming.video.webrpp-live.hls.adaptive.level3.net/hls-live/videoremux-videoRPPWC/_definst_/live/stream1.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://ovacion.pe/sites/default/files/publico/logo-ovacion_0.png",OVACIÓN Perú
+http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://ovacion.pe/sites/default/files/publico/logo-ovacion_0.png",OVACIÓN Perú
+http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://ovacion.pe/sites/default/files/publico/logo-ovacion_0.png",OVACIÓN Perú
+http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://ovacion.pe/sites/default/files/publico/logo-ovacion_0.png",OVACIÓN Perú
+http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://es.live-tv-channels.net/pt-data/uploads/logo/hipodromo_de_monterrico_pe.png",MONTERRICO TV Perú
+http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://es.live-tv-channels.net/pt-data/uploads/logo/hipodromo_de_monterrico_pe.png",MONTERRICO TV Perú
+http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://es.live-tv-channels.net/pt-data/uploads/logo/hipodromo_de_monterrico_pe.png",MONTERRICO TV Perú
+http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://es.live-tv-channels.net/pt-data/uploads/logo/hipodromo_de_monterrico_pe.png",MONTERRICO TV Perú
+http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://paxtvmovil.org/img/logo.png",PAX CATÓLICO Perú
+http://d2s2gdjgdcyicj.cloudfront.net/paxtv/smil:PC.smil/chunklist_b1735000.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://paxtvmovil.org/img/logo.png",PAX CATÓLICO Perú
+http://d2s2gdjgdcyicj.cloudfront.net/paxtv/smil:PC.smil/chunklist_b1735000.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://paxtvmovil.org/img/logo.png",PAX CATÓLICO Perú
+http://d2s2gdjgdcyicj.cloudfront.net/paxtv/smil:PC.smil/chunklist_b1184000.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://paxtvmovil.org/img/logo.png",PAX CATÓLICO Perú
+http://d2s2gdjgdcyicj.cloudfront.net/paxtv/smil:PC.smil/chunklist_b598000.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.buenosaires.gob.ar/sites/gcaba/modules/gcaba_ciudadabierta/logo.png",CANAL DE LA CIUDAD Argentina
+http://186.0.233.76:1935/CiudadAbierta/smil:ciudadabierta.smil/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.buenosaires.gob.ar/sites/gcaba/modules/gcaba_ciudadabierta/logo.png",CANAL DE LA CIUDAD Argentina
+http://186.0.233.76:1935/CiudadAbierta/smil:ciudadabierta.smil/chunklist_w1713142224_b1500000_slspa.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.buenosaires.gob.ar/sites/gcaba/modules/gcaba_ciudadabierta/logo.png",CANAL DE LA CIUDAD Argentina
+http://186.0.233.76:1935/CiudadAbierta/smil:ciudadabierta.smil/chunklist_w1713142224_b900000_slspa.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.buenosaires.gob.ar/sites/gcaba/modules/gcaba_ciudadabierta/logo.png",CANAL DE LA CIUDAD Argentina
+http://186.0.233.76:1935/CiudadAbierta/smil:ciudadabierta.smil/chunklist_w1713142224_b600000_slspa.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Telemax.png/245px-Telemax.png",TLX TELEMAX Argentina
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Telemax.png/245px-Telemax.png",TLX TELEMAX Argentina
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w42285020_b1828000_sleng.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Telemax.png/245px-Telemax.png",TLX TELEMAX Argentina
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w42285020_b864000_sleng.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Telemax.png/245px-Telemax.png",TLX TELEMAX Argentina
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w42285020_b364000_sleng.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.diario26.com/images/musictop_logo.png",MUSICTOP Argentina
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.diario26.com/images/musictop_logo.png",MUSICTOP Argentina
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w893059947_b2028000_sleng.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.diario26.com/images/musictop_logo.png",MUSICTOP Argentina
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w893059947_b964000_sleng.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.diario26.com/images/musictop_logo.png",MUSICTOP Argentina
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w893059947_b364000_sleng.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.telpinteve.com.ar/imagenes/Canal2Logos-03.png",TELPIN TV CANAL 2 Argentina
+http://wowza.telpin.com.ar:1935/telpintv/ttv.stream_720p/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.telpinteve.com.ar/imagenes/Canal2Logos-03.png",TELPIN TV CANAL 2 Argentina
+http://wowza.telpin.com.ar:1935/telpintv/ttv.stream_720p/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.telpinteve.com.ar/imagenes/Canal2Logos-03.png",TELPIN TV CANAL 2 Argentina
+http://wowza.telpin.com.ar:1935/telpintv/ttv.stream_720p/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.telpinteve.com.ar/imagenes/Canal2Logos-03.png",TELPIN TV CANAL 2 Argentina
+http://wowza.telpin.com.ar:1935/telpintv/ttv.stream_720p/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/_YkZZPo1aKZU/ShXegvmX-9I/AAAAAAAAJD4/29ETVvz0vM4/s400/parana-c9.gif",CANAL 9 LITORAL Argentina
+http://192.99.38.174:1935/canal9web/canal9web/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/_YkZZPo1aKZU/ShXegvmX-9I/AAAAAAAAJD4/29ETVvz0vM4/s400/parana-c9.gif",CANAL 9 LITORAL Argentina
+http://192.99.38.174:1935/canal9web/canal9web/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/_YkZZPo1aKZU/ShXegvmX-9I/AAAAAAAAJD4/29ETVvz0vM4/s400/parana-c9.gif",CANAL 9 LITORAL Argentina
+http://192.99.38.174:1935/canal9web/canal9web/chunklist_w1766061929.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/_YkZZPo1aKZU/ShXegvmX-9I/AAAAAAAAJD4/29ETVvz0vM4/s400/parana-c9.gif",CANAL 9 LITORAL Argentina
+http://192.99.38.174:1935/canal9web/canal9web/chunklist_w786446906.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i35.servimg.com/u/f35/12/35/27/16/sin_ti10.jpg",Lapacho TV Argentina
+http://stream2.livestreamingservices.com:1935/tvcanal11/tvcanal11/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i35.servimg.com/u/f35/12/35/27/16/sin_ti10.jpg",Lapacho TV Argentina
+http://stream2.livestreamingservices.com:1935/tvcanal11/tvcanal11/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i35.servimg.com/u/f35/12/35/27/16/sin_ti10.jpg",Lapacho TV Argentina
+http://stream2.livestreamingservices.com:1935/tvcanal11/tvcanal11/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i35.servimg.com/u/f35/12/35/27/16/sin_ti10.jpg",Lapacho TV Argentina
+http://stream2.livestreamingservices.com:1935/tvcanal11/tvcanal11/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://boliviaalairetv.com/wp-content/uploads/2014/10/Logo.png",BOLIVIA AL AIRE Bolivia - Argentina
+http://stream.shockmedia.com.ar:1935/streamvideo21/streamvideo21/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://boliviaalairetv.com/wp-content/uploads/2014/10/Logo.png",BOLIVIA AL AIRE Bolivia - Argentina
+http://stream.shockmedia.com.ar:1935/streamvideo21/streamvideo21/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://boliviaalairetv.com/wp-content/uploads/2014/10/Logo.png",BOLIVIA AL AIRE Bolivia - Argentina
+http://stream.shockmedia.com.ar:1935/streamvideo21/streamvideo21/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://boliviaalairetv.com/wp-content/uploads/2014/10/Logo.png",BOLIVIA AL AIRE Bolivia - Argentina
+http://stream.shockmedia.com.ar:1935/streamvideo21/streamvideo21/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/ATB_logo_nuevo.png",ATB Bolivia
+http://192.99.38.174:1935/atb/atb/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/ATB_logo_nuevo.png",ATB Bolivia
+http://192.99.38.174:1935/atb/atb/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/ATB_logo_nuevo.png",ATB Bolivia
+http://192.99.38.174:1935/atb/atb/chunklist_w1603060686.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/ATB_logo_nuevo.png",ATB Bolivia
+http://192.99.38.174:1935/atb/atb/chunklist_w1603060686.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://tevemi.com/wp-content/uploads/2015/05/titulo_pat.png",REDPAT SANTA CRUZ Bolivia
+http://192.99.46.56:1935/patbolivia/patsantacruz/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://tevemi.com/wp-content/uploads/2015/05/titulo_pat.png",REDPAT SANTA CRUZ Bolivia
+http://192.99.46.56:1935/patbolivia/patsantacruz/chunklist_w104971698.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://tevemi.com/wp-content/uploads/2015/05/titulo_pat.png",REDPAT LA PAZ Bolivia
+http://192.99.46.56:1935/patbolivia/patlapaz/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://tevemi.com/wp-content/uploads/2015/05/titulo_pat.png",REDPAT LA PAZ Bolivia
+http://192.99.46.56:1935/patbolivia/patlapaz/chunklist_w637221618.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://tevemi.com/wp-content/uploads/2016/06/TeleEstrellaLogo.png",TELE ESTRELLA Bolivia
+http://www.channel.tevemi.com:1935/TeleEstrella/TeleEstrella/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://tevemi.com/wp-content/uploads/2016/06/TeleEstrellaLogo.png",TELE ESTRELLA Bolivia
+http://www.channel.tevemi.com:1935/TeleEstrella/TeleEstrella/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://tevemi.com/wp-content/uploads/2016/06/TeleEstrellaLogo.png",TELE ESTRELLA Bolivia
+http://www.channel.tevemi.com:1935/TeleEstrella/TeleEstrella/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://tevemi.com/wp-content/uploads/2016/06/TeleEstrellaLogo.png",TELE ESTRELLA Bolivia
+http://www.channel.tevemi.com:1935/TeleEstrella/TeleEstrella/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://tevemi.com/wp-content/uploads/2015/10/titulo_abyayala2.png",ABYA YALA Bolivia
+http://www.server.tevemi.com:1935/8036/8036/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://tevemi.com/wp-content/uploads/2015/10/titulo_abyayala2.png",ABYA YALA Bolivia
+http://www.server.tevemi.com:1935/8036/8036/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://tevemi.com/wp-content/uploads/2015/10/titulo_abyayala2.png",ABYA YALA Bolivia
+http://www.server.tevemi.com:1935/8036/8036/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://tevemi.com/wp-content/uploads/2015/10/titulo_abyayala2.png",ABYA YALA Bolivia
+http://www.server.tevemi.com:1935/8036/8036/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://tevemi.com/wp-content/uploads/2015/05/titulo_cadenaa.png",CADENA A Bolivia
+http://www.server.tevemi.com:1935/8082/8082/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://tevemi.com/wp-content/uploads/2015/05/titulo_cadenaa.png",CADENA A Bolivia
+http://www.server.tevemi.com:1935/8082/8082/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://tevemi.com/wp-content/uploads/2015/05/titulo_cadenaa.png",CADENA A Bolivia
+http://www.server.tevemi.com:1935/8082/8082/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://tevemi.com/wp-content/uploads/2015/05/titulo_cadenaa.png",CADENA A Bolivia
+http://www.server.tevemi.com:1935/8082/8082/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://tevemi.com/wp-content/uploads/2015/05/titulo_giga.png",GIGAVISIÓN Bolivia
+http://www.server.tevemi.com:1935/8110/8110/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://tevemi.com/wp-content/uploads/2015/05/titulo_giga.png",GIGAVISIÓN Bolivia
+http://www.server.tevemi.com:1935/8110/8110/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://tevemi.com/wp-content/uploads/2015/05/titulo_giga.png",GIGAVISIÓN Bolivia
+http://www.server.tevemi.com:1935/8110/8110/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://tevemi.com/wp-content/uploads/2015/05/titulo_giga.png",GIGAVISIÓN Bolivia
+http://www.server.tevemi.com:1935/8110/8110/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://tevemi.com/wp-content/uploads/2015/05/titulo_tvoff.png",TV OFF TRAVEL Bolivia
+http://www.server.tevemi.com:1935/8090/8090/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://tevemi.com/wp-content/uploads/2015/05/titulo_tvoff.png",TV OFF TRAVEL Bolivia
+http://www.server.tevemi.com:1935/8090/8090/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://tevemi.com/wp-content/uploads/2015/05/titulo_tvoff.png",TV OFF TRAVEL Bolivia
+http://www.server.tevemi.com:1935/8090/8090/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://tevemi.com/wp-content/uploads/2015/05/titulo_tvoff.png",TV OFF TRAVEL Bolivia
+http://www.server.tevemi.com:1935/8090/8090/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://tevemi.com/wp-content/uploads/2016/06/palequetv.png",PALENQUE TV Bolivia
+http://www.channel.tevemi.com:1935/PalenqueTv/PalenqueTv/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://tevemi.com/wp-content/uploads/2016/06/palequetv.png",PALENQUE TV Bolivia
+http://www.channel.tevemi.com:1935/PalenqueTv/PalenqueTv/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://tevemi.com/wp-content/uploads/2016/06/palequetv.png",PALENQUE TV Bolivia
+http://www.channel.tevemi.com:1935/PalenqueTv/PalenqueTv/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://tevemi.com/wp-content/uploads/2016/06/palequetv.png",PALENQUE TV Bolivia
+http://www.channel.tevemi.com:1935/PalenqueTv/PalenqueTv/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://tevemi.com/wp-content/uploads/2015/05/titulo_ppd.png",PODER DE DIOS TV Bolivia
+http://www.server.tevemi.com:1935/8126/8126/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://tevemi.com/wp-content/uploads/2015/05/titulo_ppd.png",PODER DE DIOS TV Bolivia
+http://www.server.tevemi.com:1935/8126/8126/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://tevemi.com/wp-content/uploads/2015/05/titulo_ppd.png",PODER DE DIOS TV Bolivia
+http://www.server.tevemi.com:1935/8126/8126/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://tevemi.com/wp-content/uploads/2015/05/titulo_ppd.png",PODER DE DIOS TV Bolivia
+http://www.server.tevemi.com:1935/8126/8126/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://tevemi.com/wp-content/uploads/2016/09/logovostv.png",VOS TV Bolivia
+http://www.channel.tevemi.com:1935/VosTv/VosTv/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://tevemi.com/wp-content/uploads/2016/09/logovostv.png",VOS TV Bolivia
+http://www.channel.tevemi.com:1935/VosTv/VosTv/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://tevemi.com/wp-content/uploads/2016/09/logovostv.png",VOS TV Bolivia
+http://www.channel.tevemi.com:1935/VosTv/VosTv/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://tevemi.com/wp-content/uploads/2016/09/logovostv.png",VOS TV Bolivia
+http://www.channel.tevemi.com:1935/VosTv/VosTv/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://tevemi.com/wp-content/uploads/2015/05/titulo_ctv.png",CATÓLICA TV Bolivia
+http://www.channel.tevemi.com:1935/CatolicaTv/CatolicaTv/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://tevemi.com/wp-content/uploads/2015/05/titulo_ctv.png",CATÓLICA TV Bolivia
+http://www.channel.tevemi.com:1935/CatolicaTv/CatolicaTv/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://tevemi.com/wp-content/uploads/2015/05/titulo_ctv.png",CATÓLICA TV Bolivia
+http://www.channel.tevemi.com:1935/CatolicaTv/CatolicaTv/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://tevemi.com/wp-content/uploads/2015/05/titulo_ctv.png",CATÓLICA TV Bolivia
+http://www.channel.tevemi.com:1935/CatolicaTv/CatolicaTv/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://tv.en.cr/files/2011/10/13.png",CANAL TRECE SINART Costa Rica
+http://190.10.10.17:1935/SinartCanal13/livestream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://tv.en.cr/files/2011/10/13.png",CANAL TRECE SINART Costa Rica
+http://190.10.10.17:1935/SinartCanal13/livestream/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://tv.en.cr/files/2011/10/13.png",CANAL TRECE SINART Costa Rica
+http://190.10.10.17:1935/SinartCanal13/livestream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://tv.en.cr/files/2011/10/13.png",CANAL TRECE SINART Costa Rica
+http://190.10.10.17:1935/SinartCanal13/livestream/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.tvgratis.tv/logos/smo-tv-costa-rica.png",SMO TV Costa Rica
+http://199.217.118.90:1935/smotv/stream/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.tvgratis.tv/logos/smo-tv-costa-rica.png",SMO TV Costa Rica
+http://199.217.118.90:1935/smotv/stream/chunklist_w430407393.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.tvgratis.tv/logos/smo-tv-costa-rica.png",SMO TV Costa Rica
+http://199.217.118.90:1935/smotv/stream_360p/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.tvgratis.tv/logos/smo-tv-costa-rica.png",SMO TV Costa Rica
+http://199.217.118.90:1935/smotv/stream_360p/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.martinews.com/Content/responsive/OCB/en-US-MN/img/logo.png",TV MARTÍ Cuba
+http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8?
+ 
+#EXTINF:-1 tvg-logo="http://www.martinews.com/Content/responsive/OCB/en-US-MN/img/logo.png",TV MARTÍ Cuba
+http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8?
+ 
+#EXTINF:-1 tvg-logo="http://www.martinews.com/Content/responsive/OCB/en-US-MN/img/logo.png",TV MARTÍ Cuba
+http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8?
+ 
+#EXTINF:-1 tvg-logo="http://www.martinews.com/Content/responsive/OCB/en-US-MN/img/logo.png",TV MARTÍ Cuba
+http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8?
+ 
+#EXTINF:-1 tvg-logo="http://tv.haqbahu.com/tv/Tv2-images/www.freeetv.com/images/reydddd/telecanela.png",Canela TV Ecuador
+http://servicioamerica.net:1935/8154/8154/chunklist_w1330788573.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://tv.haqbahu.com/tv/Tv2-images/www.freeetv.com/images/reydddd/telecanela.png",Canela TV Ecuador
+http://servicioamerica.net:1935/8154/8154/chunklist_w1330788573.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://tv.haqbahu.com/tv/Tv2-images/www.freeetv.com/images/reydddd/telecanela.png",Canela TV Ecuador
+http://servicioamerica.net:1935/8154/8154/chunklist_w1330788573.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://tv.haqbahu.com/tv/Tv2-images/www.freeetv.com/images/reydddd/telecanela.png",Canela TV Ecuador
+http://servicioamerica.net:1935/8154/8154/chunklist_w1330788573.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://envivo.ecotel.tv/images/Ecotel-tv-logo-nuevo.png",Ecotel TV Ecuador
+http://192.95.25.203:554/canal1/radiostation.stream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://envivo.ecotel.tv/images/Ecotel-tv-logo-nuevo.png",Ecotel TV Ecuador
+http://192.95.25.203:554/canal1/radiostation.stream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://envivo.ecotel.tv/images/Ecotel-tv-logo-nuevo.png",Ecotel TV Ecuador
+http://servicioamerica.net:1935/9358/9358/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://envivo.ecotel.tv/images/Ecotel-tv-logo-nuevo.png",Ecotel TV Ecuador
+http://servicioamerica.net:1935/9358/9358/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://static1.squarespace.com/static/54ada6f9e4b0025a4721ef51/54b04ab9e4b026f6bf5286bb/54b130d9e4b023817a5399e6/1420898521632/LOGok2.png?format=750w",TELESUCESOS Ecuador
+http://iphone-streaming.ustream.tv/uhls/8120692/streams/live/iphone/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://static1.squarespace.com/static/54ada6f9e4b0025a4721ef51/54b04ab9e4b026f6bf5286bb/54b130d9e4b023817a5399e6/1420898521632/LOGok2.png?format=750w",TELESUCESOS Ecuador
+http://iphone-streaming.ustream.tv/uhls/8120692/streams/live/iphone/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://static1.squarespace.com/static/54ada6f9e4b0025a4721ef51/54b04ab9e4b026f6bf5286bb/54b130d9e4b023817a5399e6/1420898521632/LOGok2.png?format=750w",TELESUCESOS Ecuador
+http://iphone-streaming.ustream.tv/uhls/8120692/streams/live/iphone/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://static1.squarespace.com/static/54ada6f9e4b0025a4721ef51/54b04ab9e4b026f6bf5286bb/54b130d9e4b023817a5399e6/1420898521632/LOGok2.png?format=750w",TELESUCESOS Ecuador
+http://iphone-streaming.ustream.tv/uhls/8120692/streams/live/iphone/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/06/Agape-Canal-8.png",AGAPE TV 8 El Salvador
+http://agapetv.dominiocreativo.com:1935/8122/8122/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/06/Agape-Canal-8.png",AGAPE TV 8 El Salvador
+http://agapetv.dominiocreativo.com:1935/8122/8122/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/06/Agape-Canal-8.png",AGAPE TV 8 El Salvador
+http://agapetv.dominiocreativo.com:1935/8122/8122/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/06/Agape-Canal-8.png",AGAPE TV 8 El Salvador
+http://agapetv.dominiocreativo.com:1935/8122/8122/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.canal33.tv/images/logo_canal_33.png",CANAL 33 El Salvador
+http://iphone-streaming.ustream.tv/uhls/4811076/streams/live/iphone/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.canal33.tv/images/logo_canal_33.png",CANAL 33 El Salvador
+http://iphone-streaming.ustream.tv/uhls/4811076/streams/live/iphone/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.canal33.tv/images/logo_canal_33.png",CANAL 33 El Salvador
+http://iphone-streaming.ustream.tv/uhls/4811076/streams/live/iphone/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.canal33.tv/images/logo_canal_33.png",CANAL 33 El Salvador
+http://iphone-streaming.ustream.tv/uhls/4811076/streams/live/iphone/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://cdn3.guatevision.com/wp-content/themes/guatevision/img/logo-menu.png",GUATEVISIÓN Guatemala
+http://162.220.218.101:8081/live/stream1.sdp/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://cdn3.guatevision.com/wp-content/themes/guatevision/img/logo-menu.png",GUATEVISIÓN Guatemala
+http://162.220.218.101:8081/live/stream1.sdp/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://cdn3.guatevision.com/wp-content/themes/guatevision/img/logo-menu.png",GUATEVISIÓN Guatemala
+http://162.220.218.101:8081/live/stream1.sdp/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://cdn3.guatevision.com/wp-content/themes/guatevision/img/logo-menu.png",GUATEVISIÓN Guatemala
+http://162.220.218.101:8081/live/stream1.sdp/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-l7k_-KfuiHQ/V-wrvS4lySI/AAAAAAAACcc/X7PFIQkL_GUFfkBpF07MShcIsjUy33iVACK4B/s322/MARTE%2BTV.png",MARTE TV Honduras
+http://iphone-streaming.ustream.tv/uhls/22898173/streams/live/iphone/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-l7k_-KfuiHQ/V-wrvS4lySI/AAAAAAAACcc/X7PFIQkL_GUFfkBpF07MShcIsjUy33iVACK4B/s322/MARTE%2BTV.png",MARTE TV Honduras
+http://iphone-streaming.ustream.tv/uhls/22898173/streams/live/iphone/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-l7k_-KfuiHQ/V-wrvS4lySI/AAAAAAAACcc/X7PFIQkL_GUFfkBpF07MShcIsjUy33iVACK4B/s322/MARTE%2BTV.png",MARTE TV Honduras
+http://iphone-streaming.ustream.tv/uhls/22898173/streams/live/iphone/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-l7k_-KfuiHQ/V-wrvS4lySI/AAAAAAAACcc/X7PFIQkL_GUFfkBpF07MShcIsjUy33iVACK4B/s322/MARTE%2BTV.png",MARTE TV Honduras
+http://iphone-streaming.ustream.tv/uhls/22898173/streams/live/iphone/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.irtvazteca.com/images/nv/azteca-honduras.png",TV AZTECA Honduras
+http://aztecalive-lh.akamaihd.net/i/142kvpq0l_1@67741/master.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.irtvazteca.com/images/nv/azteca-honduras.png",TV AZTECA Honduras
+http://aztecalive-lh.akamaihd.net/i/142kvpq0l_1@67741/master.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.irtvazteca.com/images/nv/azteca-honduras.png",TV AZTECA Honduras
+http://aztecalive-lh.akamaihd.net/i/142kvpq0l_1@67741/master.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.irtvazteca.com/images/nv/azteca-honduras.png",TV AZTECA Honduras
+http://aztecalive-lh.akamaihd.net/i/142kvpq0l_1@67741/master.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.vivanicaragua.com.ni/wp-content/themes/vivanicaraguav3/imagenes/logo.png",VIVA CANAL 13 Nicaragua
+http://iphone-streaming.ustream.tv/uhls/13870671/streams/live/iphone/playlist.m3u8?
+ 
+#EXTINF:-1 tvg-logo="http://www.vivanicaragua.com.ni/wp-content/themes/vivanicaraguav3/imagenes/logo.png",VIVA CANAL 13 Nicaragua
+http://iphone-streaming.ustream.tv/uhls/13870671/streams/live/iphone/playlist.m3u8?
+ 
+#EXTINF:-1 tvg-logo="http://www.vivanicaragua.com.ni/wp-content/themes/vivanicaraguav3/imagenes/logo.png",VIVA CANAL 13 Nicaragua
+http://iphone-streaming.ustream.tv/uhls/13870671/streams/live/iphone/playlist.m3u8?
+ 
+#EXTINF:-1 tvg-logo="http://www.vivanicaragua.com.ni/wp-content/themes/vivanicaraguav3/imagenes/logo.png",VIVA CANAL 13 Nicaragua
+http://iphone-streaming.ustream.tv/uhls/13870671/streams/live/iphone/playlist.m3u8?
+ 
+#EXTINF:-1 tvg-logo="http://www.snt.com.py/favicon-194x194.png",SNT Paraguay
+http://d2i9c9jqs0al43.cloudfront.net/livesnt/smil:livepy.smil/chunklist_b1016832.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.snt.com.py/favicon-194x194.png",SNT Paraguay
+http://d2i9c9jqs0al43.cloudfront.net/livesnt/smil:livepy.smil/chunklist_b1016832.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.snt.com.py/favicon-194x194.png",SNT Paraguay
+http://d2i9c9jqs0al43.cloudfront.net/livesnt/smil:livepy.smil/chunklist_b981072.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.snt.com.py/favicon-194x194.png",SNT Paraguay
+http://d2i9c9jqs0al43.cloudfront.net/livesnt/smil:livepy.smil/chunklist_b331072.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.unicanal.com.py/img/logo.png",UNICANAL Paraguay
+http://strm.unicanal.com.py/live/unicanal_src.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.unicanal.com.py/img/logo.png",UNICANAL Paraguay
+http://strm.unicanal.com.py/live/unicanal_src.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.unicanal.com.py/img/logo.png",UNICANAL Paraguay
+http://strm.unicanal.com.py/live/unicanal_src.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.unicanal.com.py/img/logo.png",UNICANAL Paraguay
+http://strm.unicanal.com.py/live/unicanal_src.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Logo_de_Red_Guarani.png/126px-Logo_de_Red_Guarani.png",RED GUARANÍ Paraguay
+http://iphone-streaming.ustream.tv/uhls/19109913/streams/live/iphone/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Logo_de_Red_Guarani.png/126px-Logo_de_Red_Guarani.png",RED GUARANÍ Paraguay
+http://iphone-streaming.ustream.tv/uhls/19109913/streams/live/iphone/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Logo_de_Red_Guarani.png/126px-Logo_de_Red_Guarani.png",RED GUARANÍ Paraguay
+http://iphone-streaming.ustream.tv/uhls/19109913/streams/live/iphone/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Logo_de_Red_Guarani.png/126px-Logo_de_Red_Guarani.png",RED GUARANÍ Paraguay
+http://iphone-streaming.ustream.tv/uhls/19109913/streams/live/iphone/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Logo_de_RPC_2016.png/200px-Logo_de_RPC_2016.png",RPC Paraguay
+http://70.36.100.38:1935/live/_definst_/canal13_hq.stream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Logo_de_RPC_2016.png/200px-Logo_de_RPC_2016.png",RPC Paraguay
+http://70.36.100.38:1935/live/_definst_/canal13_hq.stream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Logo_de_RPC_2016.png/200px-Logo_de_RPC_2016.png",RPC Paraguay
+http://70.36.100.38:1935/live/_definst_/canal13_hq.stream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Logo_de_RPC_2016.png/200px-Logo_de_RPC_2016.png",RPC Paraguay
+http://70.36.100.38:1935/live/_definst_/canal13_hq.stream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.canal25rd.com/images/canal25_logo_2017_small.png",CANAL 25 República Dominicana
+http://qs1.distream.net:2126/c25_str/canal25/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.canal25rd.com/images/canal25_logo_2017_small.png",CANAL 25 República Dominicana
+http://qs1.distream.net:2126/c25_str/canal25/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.canal25rd.com/images/canal25_logo_2017_small.png",CANAL 25 República Dominicana
+http://qs1.distream.net:2126/c25_str/canal25/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.canal25rd.com/images/canal25_logo_2017_small.png",CANAL 25 República Dominicana
+http://qs1.distream.net:2126/c25_str/canal25/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.colorvision.com.do/wp-content/uploads/2015/01/logoCVs.png",COLOR VISIÓN República Dominicana
+http://ss8.domint.net:2200/cvis_edge/video/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.colorvision.com.do/wp-content/uploads/2015/01/logoCVs.png",COLOR VISIÓN República Dominicana
+http://ss8.domint.net:2200/cvis_edge/video/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.colorvision.com.do/wp-content/uploads/2015/01/logoCVs.png",COLOR VISIÓN República Dominicana
+http://ss8.domint.net:2200/cvis_edge/video/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.colorvision.com.do/wp-content/uploads/2015/01/logoCVs.png",COLOR VISIÓN República Dominicana
+http://ss8.domint.net:2200/cvis_edge/video/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://ulango.tv/uploads/channels/16620/logo_telefuturo6.png",TELEFUTURO República Dominicana
+http://qs1.distream.net:2112/tf_str/futu/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://ulango.tv/uploads/channels/16620/logo_telefuturo6.png",TELEFUTURO República Dominicana
+http://qs1.distream.net:2112/tf_str/futu/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://ulango.tv/uploads/channels/16620/logo_telefuturo6.png",TELEFUTURO República Dominicana
+http://qs1.distream.net:2112/tf_str/futu/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://ulango.tv/uploads/channels/16620/logo_telefuturo6.png",TELEFUTURO República Dominicana
+http://qs1.distream.net:2112/tf_str/futu/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://web10.images.production.s3.amazonaws.com/uploads/image/image/431/web10-logo.png",CANAL 10 Uruguay
+http://cdnw2.zetatv.com.uy/live_edge/_definst_/amlst:2265/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://web10.images.production.s3.amazonaws.com/uploads/image/image/431/web10-logo.png",CANAL 10 Uruguay
+http://cdnw2.zetatv.com.uy/live_edge/_definst_/amlst:2265/chunklist_w1183489711_b1800000.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://web10.images.production.s3.amazonaws.com/uploads/image/image/431/web10-logo.png",CANAL 10 Uruguay
+http://cdnw2.zetatv.com.uy/live_edge/_definst_/amlst:2265/chunklist_w1183489711_b600000.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://web10.images.production.s3.amazonaws.com/uploads/image/image/431/web10-logo.png",CANAL 10 Uruguay
+http://cdnw2.zetatv.com.uy/live_edge/_definst_/amlst:2265/chunklist_w1183489711_b200000.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.montecarlotv.com.uy/sites/all/themes/canalcuatro/assets/img/logo.png",MONTE CARLO TV Uruguay
+http://cdnw2.zetatv.com.uy/live_edge/_definst_/amlst:1949/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.montecarlotv.com.uy/sites/all/themes/canalcuatro/assets/img/logo.png",MONTE CARLO TV Uruguay
+http://cdnw2.zetatv.com.uy/live_edge/_definst_/amlst:1949/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.montecarlotv.com.uy/sites/all/themes/canalcuatro/assets/img/logo.png",MONTE CARLO TV Uruguay
+http://cdnw2.zetatv.com.uy/live_edge/_definst_/amlst:1949/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.montecarlotv.com.uy/sites/all/themes/canalcuatro/assets/img/logo.png",MONTE CARLO TV Uruguay
+http://cdnw2.zetatv.com.uy/live_edge/_definst_/amlst:1949/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.teledoce.com/wp-content/uploads/2016/03/logo-latele-2016-2.png",TELEDOCE Uruguay
+http://cdnw2.zetatv.com.uy/live_edge/_definst_/amlst:11123/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.teledoce.com/wp-content/uploads/2016/03/logo-latele-2016-2.png",TELEDOCE Uruguay
+http://cdnw2.zetatv.com.uy/live_edge/_definst_/amlst:11123/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.teledoce.com/wp-content/uploads/2016/03/logo-latele-2016-2.png",TELEDOCE Uruguay
+http://cdnw2.zetatv.com.uy/live_edge/_definst_/amlst:11123/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.teledoce.com/wp-content/uploads/2016/03/logo-latele-2016-2.png",TELEDOCE Uruguay
+http://cdnw2.zetatv.com.uy/live_edge/_definst_/amlst:11123/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.sunchanneltv.com/wp-content/uploads/2016/03/logo.png",SUN CHANNEL Venezuela
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/SUN/tu1_1.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.sunchanneltv.com/wp-content/uploads/2016/03/logo.png",SUN CHANNEL Venezuela
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/SUN/tu1_1.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.sunchanneltv.com/wp-content/uploads/2016/03/logo.png",SUN CHANNEL Venezuela
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/SUN/tu1_2.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.sunchanneltv.com/wp-content/uploads/2016/03/logo.png",SUN CHANNEL Venezuela
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/SUN/tu1_3.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-nvJRaOXtPRg/AAAAAAAAAAI/AAAAAAAAAAA/j2gX647cqF0/s900-c-k-no-mo-rj-c0xffffff/photo.jpg",VE PLUS TV Venezuela
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8?
+ 
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-nvJRaOXtPRg/AAAAAAAAAAI/AAAAAAAAAAA/j2gX647cqF0/s900-c-k-no-mo-rj-c0xffffff/photo.jpg",VE PLUS TV Venezuela
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8?
+ 
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-nvJRaOXtPRg/AAAAAAAAAAI/AAAAAAAAAAA/j2gX647cqF0/s900-c-k-no-mo-rj-c0xffffff/photo.jpg",VE PLUS TV Venezuela
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_2.m3u8?
+ 
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-nvJRaOXtPRg/AAAAAAAAAAI/AAAAAAAAAAA/j2gX647cqF0/s900-c-k-no-mo-rj-c0xffffff/photo.jpg",VE PLUS TV Venezuela
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_3.m3u8?
+ 
+#EXTINF:-1 tvg-logo="http://www.tvvenezuela.tv/wp-content/uploads/2015/11/tvvlogowhite-e1447090815724-150x109.png",TV Venezuela
+https://vivoplay-i.akamaihd.net/hls/live/255338/canal10/master2500k.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.tvvenezuela.tv/wp-content/uploads/2015/11/tvvlogowhite-e1447090815724-150x109.png",TV Venezuela
+https://vivoplay-i.akamaihd.net/hls/live/255338/canal10/master2500k.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.tvvenezuela.tv/wp-content/uploads/2015/11/tvvlogowhite-e1447090815724-150x109.png",TV Venezuela
+https://vivoplay-i.akamaihd.net/hls/live/255338/canal10/master1000k.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.tvvenezuela.tv/wp-content/uploads/2015/11/tvvlogowhite-e1447090815724-150x109.png",TV Venezuela
+https://vivoplay-i.akamaihd.net/hls/live/255338/canal10/master500k.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.tvr.com.ve/Logo%20TELET.png",TLT Venezuela
+http://enc-fwt.lorini.net/telet/telet/tracks-v1a1/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.tvr.com.ve/Logo%20TELET.png",TLT Venezuela
+http://enc-fwt.lorini.net/telet/telet/tracks-v1a1/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.tvr.com.ve/Logo%20TELET.png",TLT Venezuela
+http://enc-fwt.lorini.net/telet/telet/tracks-v1a1/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.tvr.com.ve/Logo%20TELET.png",TLT Venezuela
+http://enc-fwt.lorini.net/telet/telet/tracks-v1a1/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://telearagua.com/network/images/logo-dark.png",TELEARAGUA Venezuela
+http://enc-fwt.lorini.net/telearagua/telearagua/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://telearagua.com/network/images/logo-dark.png",TELEARAGUA Venezuela
+http://enc-fwt.lorini.net/telearagua/telearagua/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://telearagua.com/network/images/logo-dark.png",TELEARAGUA Venezuela
+http://enc-fwt.lorini.net/telearagua/telearagua/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://telearagua.com/network/images/logo-dark.png",TELEARAGUA Venezuela
+http://enc-fwt.lorini.net/telearagua/telearagua/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.elvenezolano.tv/wp-content/themes/elvenezolanotv-theme/images/logo.png",EL VENEZOLANO TV Venezuela
+http://cast.streamingconnect.com:1935/elvenezolano/elvenezolano/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.elvenezolano.tv/wp-content/themes/elvenezolanotv-theme/images/logo.png",EL VENEZOLANO TV Venezuela
+http://cast.streamingconnect.com:1935/elvenezolano/elvenezolano/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.elvenezolano.tv/wp-content/themes/elvenezolanotv-theme/images/logo.png",EL VENEZOLANO TV Venezuela
+http://cast.streamingconnect.com:1935/elvenezolano/elvenezolano/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.elvenezolano.tv/wp-content/themes/elvenezolanotv-theme/images/logo.png",EL VENEZOLANO TV Venezuela
+http://cast.streamingconnect.com:1935/elvenezolano/elvenezolano/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.canal11delzulia.com.ve/11_files/Canal11-logo.png",CANAL ONCE Venezuela
+http://edge.wms28.lorini.net/canalonce/canalonce/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.canal11delzulia.com.ve/11_files/Canal11-logo.png",CANAL ONCE Venezuela
+http://edge.wms28.lorini.net/canalonce/canalonce/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.canal11delzulia.com.ve/11_files/Canal11-logo.png",CANAL ONCE Venezuela
+http://edge.wms28.lorini.net/canalonce/canalonce/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.canal11delzulia.com.ve/11_files/Canal11-logo.png",CANAL ONCE Venezuela
+http://edge.wms28.lorini.net/canalonce/canalonce/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://promar.web.ve/wp-content/uploads/2016/09/promar-logo.png",PROMAR TV Venezuela
+http://edge.wms28.lorini.net/promar/promar/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://promar.web.ve/wp-content/uploads/2016/09/promar-logo.png",PROMAR TV Venezuela
+http://edge.wms28.lorini.net/promar/promar/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://promar.web.ve/wp-content/uploads/2016/09/promar-logo.png",PROMAR TV Venezuela
+http://edge.wms28.lorini.net/promar/promar/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://promar.web.ve/wp-content/uploads/2016/09/promar-logo.png",PROMAR TV Venezuela
+http://edge.wms28.lorini.net/promar/promar/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.tvo.com.ve/tvo.png",TVO Venezuela
+http://edge.wms28.lorini.net/tvo/tvo/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.tvo.com.ve/tvo.png",TVO Venezuela
+http://edge.wms28.lorini.net/tvo/tvo/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.tvo.com.ve/tvo.png",TVO Venezuela
+http://edge.wms28.lorini.net/tvo/tvo/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.tvo.com.ve/tvo.png",TVO Venezuela
+http://edge.wms28.lorini.net/tvo/tvo/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.telecolor.com/Telecolor.png",TELECOLOR Venezuela
+http://edge.wms28.lorini.net/telecolor/telecolor/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.tves.gob.ve/tv/images/tves.png",TVES Venezuela
+http://cast.streamingconnect.tv:1935/tves2/tves2/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/59e9fa_1efea06f23794c198438d040cbf64370.png/v1/fill/w_227,h_136,al_c,usm_0.66_1.00_0.01/59e9fa_1efea06f23794c198438d040cbf64370.png",CANAL I Venezuela
+http://edge.wms28.lorini.net/canal-i/canal-i/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-dsfh53CVkWA/UY-8u5Cwq3I/AAAAAAAACcs/Ju26lEOOLDY/s288/logo%2520actual%2520de%2520Isla%2520TV.png",Isla TV Venezuela
+http://edge.wms28.lorini.net/islatv/islatv/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1650321744/Comp_1_00000.png",TV PLUS Venezuela
+http://iphone-streaming.ustream.tv/uhls/18110205/streams/live/iphone/playlist.m3u8
+ 
+ 
+ 
+Música
+ 
+#EXTINF:-1 tvg-logo="http://1hd.ru/assets/site/images/logo.png",1 HD Rusia
+http://80.250.191.10:1935/live/hlsstream343/chunklist_w1569638556.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/32/Capital_TV_logo.png",CAPITAL TV Reino Unido
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_1500_av-b.m3u8?sd=10&rebase=on
+ 
+#EXTINF:-1 tvg-logo="http://www.city.bg/themes/city/images/city-web.png",CITY RADIO TV Bulgaria
+http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.dreamtv.com.tr/content/frontEnd/images/dream-tv-logo.png",DREAM TV Turquía
+http://212.224.108.80/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/e/e9/Teleritmo_(2015-).png/revision/latest?cb=20151111060623",TELERITMO México
+http://delta-1-4824m7eyt5b65.cloud.elementaltechnologies.com/out/i/8682_1.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://coolradiohd.com/wp-content/uploads/2015/02/logo-cool-103.png",RADIO COOL 103.7 Argentina
+http://ar.solumedia.com.ar:1935/cool/hd/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.stweb.tv/indalo/radioone/one.jpg",RADIO ONE 103.7 Argentina
+http://server5.stweb.tv/radioone/ngrp:live_all/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.vorterix.com/img/logoblack.png",Radio Vorterix Argentina
+http://ffahls-lh.akamaihd.net/i/vorvideo01hls_1@305260/index_4_av-p.m3u8?sd=10&rebase=on
+ 
+ 
+ 
+Educativos
+ 
+#EXTINF:-1 tvg-logo="http://www.tectv.gob.ar/resources/img/logo.png",TECNÓPOLIS TV Argentina
+http://tectvhls-lh.akamaihd.net/i/tectvHLS_1@334993/index_3_av-p.m3u8?sd=10&rebase=on
+ 
+#EXTINF:-1 tvg-logo="http://viajartv.tv/images/logo-s.png",VIAJAR TV Argentina
+http://eventshd-lh.akamaihd.net/i/viajar_1@168433/master.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.proyecto40.com/images/logo.png",PROYECTO 40 México
+http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/index_3_av-p.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.tvmas.mx/wp-content/themes/tvmas/images/logoTVMAS.png",TV MÁS México
+http://50.7.98.234:1935/rtv/videortv/live.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.unavozcontodos.mx/img/template/uvct_logo_gde.jpg",UV TV México
+http://urtmpkal-f.akamaihd.net/i/0queot4rb_1@327205/index_1_av-p.m3u8?sd=10&rebase=on
+ 
+#EXTINF:-1 tvg-logo="http://www.proyectodiez.mx/wp-content/uploads/2015/04/carta-abierta-a-miriam-vachez.jpg",C7 JALISCO 25.1 México
+http://74.63.97.188:1935/c7/videoc7/master.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://en.ofj.com.mx/img/patrocinadores/1.png",C7 JALISCO 25.2 México
+http://74.63.97.188:1935/gnode05/videognode05/master.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.valetv.com/images/logo.png",VALE TV Venezuela
+http://edge.wms28.lorini.net/valetv/valetv/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.cristovienelared.org/images/logo.png",CRISTO VIENE LA RED Bolivia
+http://67.215.182.6:1935/8250/82502/playlist.m3u8
+ 
+ 
+ 
+Dibujos Animados
+ 
+#EXTINF:-1 tvg-logo="http://tateti.tv/images/logo.png",TATETI Argentina
+http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/master.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.pakapaka.gob.ar/img/botones/logo-pakapaka-2.png",PAKAPAKA Argentina
+http://lsdencuentrohls-lh.akamaihd.net/i/PKPKHLS_1@198010/index_1_av-p.m3u8?sd=10&rebase=on
+ 
+#EXTINF:-1 tvg-logo="http://us.wiiz.tv/wp-content/uploads/2016/08/AnimeTV.jpg",ANIME TV Mexico
+http://video7.stream.mx:1935/raxatv/raxatv/playlist.m3u8
+ 
+ 
+ 
+Religioso
+ 
+#EXTINF:-1 tvg-logo="http://enl2015.wpengine.com/wp-content/uploads/2015/09/enlace3.png",ENLACE JUVENIL TBN Costa Rica
+http://acaooyalahd2-lh.akamaihd.net/i/TBN08_delivery@186246/index_1728_av-p.m3u8?sd=10&rebase=on
+ 
+#EXTINF:-1 tvg-logo="http://www.hugomontecinos.cl/images2/thumbs/logotelevida_vertical250x.png",TELEVIDA Chile
+http://wow2.cl.digitalproserver.com/tlvida/tlvidavivomp4:livestream1/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/emisora-cl/radio-nuevo-tiempo-106-9-fm-chillan.png",NUEVO TIEMPO Chile
+http://wow2.cl.digitalproserver.com/ntiempo/ntiempovivo/mp4:livestream1/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://cmbcolombia.tv/wp-content/uploads/2016/03/logo.png",CMB Televisión Colombia
+http://st1.worldkast.com/cmbstream/ngrp:cmbstream_all/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.tv14.net/wp-content/uploads/2010/10/Tele-Amiga.jpg",Tele Amiga Colombia
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0002/tu1_1.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.jesuitas.org.co/images/obras/60.jpg",Tele Vid Colombia
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVID/tu1_1.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.cristovision.tv/addons/shared_addons/themes/bootstrapThree/img/logo-blue.png",CRISTOVISIÓN Colombia
+http://live10.cdnmedia.tv/cristovisionlive/smil:live.smil/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://static1.squarespace.com/static/5553563ae4b08689b8eeaf65/t/55535926e4b054270906d87c/1475610165905/?format=1500w",ALIENTO VISIÓN
+http://unoredrtmp.tulix.tv:1935/alientovision/stream/master.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://lh3.ggpht.com/59cFn8ZfrNuvLc3Bd40cVgivJanoxd7nYDLhyE1u9Dcbd_QMJLBQEPEkhpHitUYaAGM=w300",RT VIDA Argentina
+http://178.32.53.254/radiovida/livestream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://solidariatv.com.ar/wp-content/uploads/2015/12/logo2.jpg",Solidaria TV Argentina
+http://orion.comelson.es/remararg/livestream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.canalorbe21.com/img/logo/main_logo.png",Orbe 21 Argentina
+http://urtmpkal-f.akamaihd.net/i/1b6mj17sk_1@308700/master.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://nebula.wsimg.com/468d2a72aa368c7df170a174b1f49253?AccessKeyId=DFBE11245D51D61685BE&disposition=0&alloworigin=1",ALCANCE TV México
+http://control1.worldkast.com/alcanceagua/ngrp:alcanceagua_all/chunklist_w1340114056_b1021952.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.tabernaculo.net/images2014/logo.png",CANAL 17 TABERNÁCULO El Salvador
+http://streamingcontrol.com:1935/tbbcentral/l1v1.sdp_640/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://paxtvmovil.org/img/logo.png",PAX CATÓLICO Perú
+http://d2s2gdjgdcyicj.cloudfront.net/paxtv/smil:PC.smil/chunklist_b1735000.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.clarettv.net/images/logo.jpg",ClaretTV Venezuela
+http://edge.wms28.lorini.net/clarettv/clarettv/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://ewtn.com/multimedia/images/ewtnGlobe_White.png",EWTN Red Católica Mundial
+http://ewtn.mpl.miisolutions.net:1935/ewtn-live-5/smil:spas.smil/chunklist_w907830722_b900000.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.byutvi.org/content/icons/apple-touch-icon-180x180.png",BYU TV Mormón
+http://byuhd2-lh.akamaihd.net/i/byutvintspanhd2_live@103133/index_2540_av-p.m3u8?sd=10&rebase=on
+ 
+ 
+ 
+Politica
+ 
+#EXTINF:-1 tvg-logo="http://tv-online.cl/cdtv-camara-de-diputados-chile-canal-television-en-vivo.jpg?160901082648",CAMARA DE DIPUTADOS Chile
+http://camara.03.cl.cdnz.cl/camara19/live/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.canaldelcongreso.gob.mx/assets/img/logocdc.png",Canal del Congreso México
+http://dl.canaldelcongreso.gob.mx:1935/ccongreso/mp4:congreso2b.mp4/playlist.m3u8
+ 
+ 
+ 
+Cataluña
+ 
+#EXTINF:-1 tvg-logo="http://www.levantetv.es/elementosWeb/version6_20100407/mediaweb/images/logoLevanteTv.jpg",LEVANTE TV España
+http://teledifusion.tv:1935/levantetvlive/levantetvlive/master.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.levantetv.es/elementosWeb/version6_20100407/mediaweb/images/logoLevanteTv.jpg",LEVANTE TV España
+http://teledifusion.tv:1935/levantetvlive/levantetvlive/master.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.levantetv.es/elementosWeb/version6_20100407/mediaweb/images/logoLevanteTv.jpg",LEVANTE TV España
+http://teledifusion.tv:1935/levantetvlive/levantetvlive/master.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.levantetv.es/elementosWeb/version6_20100407/mediaweb/images/logoLevanteTv.jpg",LEVANTE TV España
+http://teledifusion.tv:1935/levantetvlive/levantetvlive/master.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.clag.es/sites/default/files/noticias/imagen/2015/10/28/tvg_logo.png",Galicia TV América Interés General
+http://media3.crtvg.es/live/_definst_/tvga_2/chunklist_w85011441.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.clag.es/sites/default/files/noticias/imagen/2015/10/28/tvg_logo.png",Galicia TV Europa Interés General
+http://media3.crtvg.es/live/_definst_/tvge_2/chunklist_w542124886.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-IowXVcqfNAw/VnJumyZoUtI/AAAAAAAAe_k/P7b3t_75npM/s1600/Canal3-24_logo2014.png",CANAL 3/24 CATALAN Noticias
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.8tv.cat/wp-content/themes/8tv/_/images/apple-touch-icons/apple-touch-icon.png",8 TV España
+http://streaming.8tv.cat/8TV/8aldia-directe/chunklist_w1058883651.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-oPHetkQd2Rs/VFkkpCYxqkI/AAAAAAAAOMU/C1Ahjb1peOs/s1600/log_etb.png",EITB.EUS España
+http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0748_av-p.m3u8
+ 
+ 
+ 
+Andorra
+ 
+#EXTINF:-1 tvg-logo="http://www.andorradifusio.ad/Content/Template/images/logo-andorradifusio.png",ANDORRA DIFUSIÓ
+http://194.158.80.31:443/live/rtva/master.m3u8
+ 
+ 
+ 
+Otros Países
+ 
+#EXTINF:-1 tvg-logo="http://securityri.com/assets/files/images/ABC.png",ABC News Estados Unidos
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
+ 
+#EXTINF:-1 tvg-logo="http://static.bbci.co.uk/frameworks/barlesque/3.20.5/orb/4/img/bbc-blocks-dark.png",BBC News Inglaterra
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.aljazeera.com/mritems/assets/images/aj-logo-lg.png",AL JAZEERA Qatar
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index2073.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.tv5monde.com/cms/template/arche/images/h-logoTV5MONDE.png",TV5 MONDE Francia
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TV5/tu1_1.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.yesenglish.tv/detalles/HOME/logo.png",YES ENGLISH TV Colombia
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/YES/tu1_1.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.raimovie.rai.it/dl/PortaliRai/images/logo_movie.png",RAI MOVIE Italia
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.nasa.gov/sites/all/themes/custom/nasatwo/images/apple-touch-icon-152x152.png",NASA USA
+https://nasa-i.akamaihd.net/hls/live/253565/NTV-Public/master_2000.m3u8
+ 
+Deportes
+ 
+#EXTINF:-1 tvg-logo="http://www.foromedios.com/uploads/monthly_2016_10/medium.Deportv.png.ed84df784bd16a1d2731058ca4a862df.png",DEPORTV (DXTV) Argentina
+http://186.33.227.199/DXTV/smil:DXTV.smil/chunklist_w1935281357_b800000_slesp.m3u8?
+ 
+#EXTINF:-1 tvg-logo="http://www.foromedios.com/uploads/monthly_2016_10/medium.Deportv.png.ed84df784bd16a1d2731058ca4a862df.png",DEPORTV (DXTV) Argentina
+http://186.33.227.196/DXTV/smil:DXTV.smil/chunklist_w833667660_b800000_slesp.m3u8?
+ 
+#EXTINF:-1 tvg-logo="http://www.foromedios.com/uploads/monthly_2016_10/medium.Deportv.png.ed84df784bd16a1d2731058ca4a862df.png",DEPORTV (DXTV) Argentina
+http://186.33.227.196/DXTV/smil:DXTV.smil/chunklist_w833667660_b542000_slesp.m3u8?
+ 
+#EXTINF:-1 tvg-logo="http://www.foromedios.com/uploads/monthly_2016_10/medium.Deportv.png.ed84df784bd16a1d2731058ca4a862df.png",DEPORTV (DXTV) Argentina
+http://186.33.227.196/DXTV/smil:DXTV.smil/chunklist_w833667660_b358000_slesp.m3u8?
+ 
+#EXTINF:-1 tvg-logo="http://www.foromedios.com/uploads/monthly_2016_10/medium.Deportv.png.ed84df784bd16a1d2731058ca4a862df.png",DEPORTV (DXTV) Argentina
+http://186.33.227.196/DXTV/smil:DXTV.smil/chunklist_w833667660_b200000_slesp.m3u8?
+ 
+#EXTINF:-1 tvg-logo="http://www.supersport.al/wp-content/uploads/2015/09/SS1.png",SUPER SPORT 1 Albania Kósovo
+http://81.7.13.162/hls/ss1/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.supersport.al/wp-content/uploads/2015/09/SS2.png",SUPER SPORT 2 Albania Kósovo
+http://81.7.13.162/hls/ss2/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.supersport.al/wp-content/uploads/2015/09/SS3.png",SUPER SPORT 3 Albania Kósovo
+http://81.7.13.162/hls/ss3/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.supersport.al/wp-content/uploads/2015/09/SS4.png",SUPER SPORT 4 Albania Kósovo
+http://81.7.13.162/hls/ss4/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/logo.png",PAC 12 Network
+http://xrxs.net/video/live-p12netw-4728.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/logo.png",PAC 12 Los Angeles
+http://xrxs.net/video/live-p12losa-4728.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/logo.png",PAC 12 Mountain
+http://xrxs.net/video/live-p12moun-4728.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/logo.png",PAC 12 Arizona
+http://xrxs.net/video/live-p12ariz-4728.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/logo.png",PAC 12 Bay Area
+http://xrxs.net/video/live-p12baya-4728.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/logo.png",PAC 12 Oregon
+http://xrxs.net/video/live-p12oreg-4728.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/logo.png",PAC 12 Washington
+http://xrxs.net/video/live-p12wash-4728.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://hogar.movistar.cl/negocios/tv_digital/img/logo_cdo_premium.png",CDO DEPORTES Chile
+http://wow2.cl.digitalproserver.com/cdo/cdovivo/cdo.smil/chunklist_w913906597_b1064000.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-ext-teletrak.png",TELETRAK Chile
+http://edge1.cl.grupoz.cl/teletrak//live/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://es.live-tv-channels.net/pt-data/uploads/logo/hipodromo_de_monterrico_pe.png",MONTERRICO TV Perú
+http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://realmadridtv.weebly.com/uploads/6/4/6/5/6465786/6810477.png?296",REAL MADRID TV España
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8?sd=10&rebase=on
+ 
+#EXTINF:-1 tvg-logo="http://www.sevillafc.es/sites/all/themes/bootstrap_sevilla/img/escudosfc.png",SEVILLA FC TV España
+http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0700_av-b.m3u8?sd=10&rebase=on
+ 
+#EXTINF:-1 tvg-logo="http://www.rete8.it/wp-content/uploads/2014/09/rete8_sport.png",RETE 8 SPORT Italia
+http://rm-edge-1.cdn2.streamago.tv/streamagoedge/39648/36567/Rete8%20Sport.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.bursasportv.com/images/bursaspor.png",BURSASPORTV Turquía
+http://mob.dgntek.com/Bursaspor/bursaspor/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.dcn.ae/dubairacing/images/samadubai_logo.png",DUBÁI RACING Dubái
+http://dmivll.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.dcn.ae/dubaisports/images/logo.png",DUBÁI SPORTS Dubái
+http://dmiftvll.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1200000.m3u8?
+ 
+#EXTINF:-1 tvg-logo="http://www.goalzz.com/images/logo_sport/kuwaitsport.jpg",KTV SPORT Kuwait
+https://svs.itworkscdn.net/ktvsportslive/ksports.smil/chunklist_w730779791_b2400000.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-A-s6In8QxIE/VfmNReOyGvI/AAAAAAAAAaQ/iOa5s7Fl1Rk/s320/ktv_1_plus.png",KTV SPORT PLUS Kuwait
+https://svs.itworkscdn.net/ktvsportspluslive/ksportsplus.smil/chunklist_w179085786_b2400000.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.jrtv.jo/App_Themes/ar/images/logo.png?lang=ar",Jordan Sports TV 1 Jordania
+http://stream.joinvisions.net:1935/sports/s1/chunklist_w1248758496.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://offwing.com/images/various/VS_LOGO_WHOLE.png",VS VERSUS Estados Unidos
+http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.pokercentral.com/s/media/images/poker-central/site/poker-logo.png?h=47&la=en&w=242&hash=EE665E66DF45074DEE92B842393DD95ABD4F06CB",POKER CENTRAL Estados Unidos
+http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.thewrap.com/wp-content/uploads/2014/04/failarmy-tv-series-dcp-miptv-junkin-media.png",FAILARMY Estados Unidos
+http://sacapunta.eltelon.com/channels/failarmytv/mid.m3u8?
+
 #EXTINF:-1,Korean TV 10059 HD
 http://edge2.everyon.tv:1935/etv2sb/phd10059/playlist.m3u8
 #EXTINF:-1,Korean TV 10059 SD
