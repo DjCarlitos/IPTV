@@ -49,6 +49,9 @@ http://rtmp.one.by:1300/
 #EXTINF:-1 tvg-logo="https://cdn.firstonetv.eu/logos/ch/PILATUS_BEATZ.png",BEATZ TV HD
 http://rtmp.infomaniak.ch/livecast/beats_1/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://1hd.ru/assets/site/images/logo.png",1 HD Music TV
+http://80.250.191.10:1935/live/hlsstream343/chunklist_w1569638556.m3u8
+
 #EXTINF:0, Capital TV HD
 http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
 
@@ -96,6 +99,12 @@ https://mdstrm.com/live-stream-playlist/582f4f6f246da2e008eda56d.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.canalrcn.com/sites/default/files/logo-rcn_10_1.png",RCN HD
 https://mdstrm.com/live-stream-playlist_900/58a36704896500b908cf1abe.m3u8
+
+#EXTINF:-1 tvg-logo="http://web10.images.production.s3.amazonaws.com/uploads/image/image/431/web10-logo.png",CANAL 10 HD
+http://cdnw2.zetatv.com.uy/live_edge/_definst_/amlst:2265/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.unicanal.com.py/img/logo.png",UNICANAL HD
+http://strm.unicanal.com.py/live/unicanal_src.m3u8
 
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/_KqKRitubo0s/TMhsjeQMmmI/AAAAAAAACYs/M67UrlyHgyI/s1600/america_tv.png",AMERICA HD
 https://ooyalasecurehd3-f.akamaihd.net/i/atvsec01_delivery@304258/index_2128_av-p.m3u8?sd=10&rebase=on
