@@ -49,14 +49,17 @@ http://rtmp.one.by:1300/
 #EXTINF:-1 tvg-logo="https://cdn.firstonetv.eu/logos/ch/PILATUS_BEATZ.png",BEATZ TV HD
 http://rtmp.infomaniak.ch/livecast/beats_1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tda.gob.ar/servicios/images/productoras/_caba-amba-27.02.png", OneTV HD
-http://server5.stweb.tv/radioone/live/playlist.m3u8
-
 #EXTINF:0, Capital TV HD
 http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
 
 #EXTINF:-1, Heart TV HD
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.diario26.com/images/musictop_logo.png",MUSICTOP HD
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tigomusic.co/sites/music.co/files/logo_music.png",TIGO MUSIC HD
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8
 
 #EXTINF:0, Radio Capital TV
 http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8
@@ -69,9 +72,6 @@ http://fms.105.net:1935/live/rmc1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://d2zr9w65gdacs9.cloudfront.net/14869/538logo-kader-rgb1467807286full-width.png", 538 TV
 http://538hls.lswcdn.triple-it.nl/content/538tv/538tv_0.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.freeetv.com/images/03_logo/Retro_Czech_Republic.jpg", RETRO TV
-http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 
 #EXTINF:-1, Antena 3 HD
 http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8?sd=10&rebase=on
@@ -99,9 +99,6 @@ https://mdstrm.com/live-stream-playlist_900/58a36704896500b908cf1abe.m3u8
 
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/_KqKRitubo0s/TMhsjeQMmmI/AAAAAAAACYs/M67UrlyHgyI/s1600/america_tv.png",AMERICA HD
 https://ooyalasecurehd3-f.akamaihd.net/i/atvsec01_delivery@304258/index_2128_av-p.m3u8?sd=10&rebase=on
-
-#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/doblaje/images/c/c7/04-frecuencia-latina.jpg/revision/latest?cb=20170105012516&path-prefix=es",LATINA HD Perú
-http://cialive-live.hds.adaptive.level3.net/hls-live/ciaremux-live/_definst_/live/stream4.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Logo_Azteca_13_HD_2007-2011.svg/150px-Logo_Azteca_13_HD_2007-2011.svg.png", Azteca 13
 http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8
