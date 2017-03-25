@@ -109,7 +109,7 @@ http://strm.unicanal.com.py/live/unicanal_src.m3u8
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/_KqKRitubo0s/TMhsjeQMmmI/AAAAAAAACYs/M67UrlyHgyI/s1600/america_tv.png",AMERICA HD
 https://ooyalasecurehd3-f.akamaihd.net/i/atvsec01_delivery@304258/index_2128_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/doblaje/images/c/c7/04-frecuencia-latina.jpg/revision/latest?cb=20170105012516&path-prefix=es",LATINA HD Perú
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/doblaje/images/c/c7/04-frecuencia-latina.jpg/revision/latest?cb=20170105012516&path-prefix=es",LATINA HD
 http://cialive-live.hds.adaptive.level3.net/hls-live/ciaremux-live/_definst_/live/stream4.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.vivanicaragua.com.ni/wp-content/themes/vivanicaraguav3/imagenes/logo.png",VIVA CANAL 13 HD
