@@ -220,9 +220,6 @@ http://stream.visit-x.tv/vxtv/live/playlist.m3u8?
 #EXTINF:-1 tvg-logo="http://ero-tv.org/wp-content/uploads/2014/08/babestation24.gif", BS24 Live
 http://de-origin-live.3qsdn.com:1935/2346/Ct6zG7Nrj3v2JxD/playlist.m3u8
 
-#EXTINF:0, Venus
-http://159.203.63.133:8081/rstm/Venus/playlist.m3u8
-
 #EXTINF:-1, Playboy TV Asia
 http://edge1.everyon.tv:1935/etv1sb/phd10497/playlist.m3u8
 
