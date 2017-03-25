@@ -91,11 +91,17 @@ http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_4_av-b.m3u8?sd=10&r
 #EXTINF:-1 tvg-logo="http://www.vertele.com/files/2015/11/atreserieslogo.jpg", ATRESERIES HD
 http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
 
-#EXTINF:-1, TVE La 2
-http://rtve-live.hds.adaptive.level3.net/hls-live/rtvegl0-la2lv3aomgl0/_definst_/live/stream3.m3u8
+#EXTINF:-1 tvg-logo="http://www.xtremostereo.net/wp-content/uploads/2016/11/Caracol_TV_HD_envivo.png",CARACOL HD
+https://mdstrm.com/live-stream-playlist/582f4f6f246da2e008eda56d.m3u8
 
-#EXTINF:-1, TVE 24H
-http://hlsackdn_gl8-lh.akamaihd.net/i/hlslive_1@441481/index_1500_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="http://www.canalrcn.com/sites/default/files/logo-rcn_10_1.png",RCN HD
+https://mdstrm.com/live-stream-playlist_900/58a36704896500b908cf1abe.m3u8
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/_KqKRitubo0s/TMhsjeQMmmI/AAAAAAAACYs/M67UrlyHgyI/s1600/america_tv.png",AMERICA HD
+https://ooyalasecurehd3-f.akamaihd.net/i/atvsec01_delivery@304258/index_2128_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/doblaje/images/c/c7/04-frecuencia-latina.jpg/revision/latest?cb=20170105012516&path-prefix=es",LATINA HD Perú
+http://cialive-live.hds.adaptive.level3.net/hls-live/ciaremux-live/_definst_/live/stream4.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Logo_Azteca_13_HD_2007-2011.svg/150px-Logo_Azteca_13_HD_2007-2011.svg.png", Azteca 13
 http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8
