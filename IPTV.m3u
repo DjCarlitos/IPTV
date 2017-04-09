@@ -202,13 +202,13 @@ http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1200_av-p.m3u8
 #EXTINF:-1,Rai News
 http://b2everyrai-lh.akamaihd.net/i/rainews_1@179616/index_1200_av-p.m3u8
 
-#EXTINF:0,TRT 1 HD
+#EXTINF:0,TRT HD
 http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
 
-#EXTINF:0,TRT COCUK HD
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/Trt_cocuk.png",TRT COCUK HD
 http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
 
-#EXTINF:0,TRT HABER HD
+#EXTINF:0 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/f/f6/Trt-haberde-yeni-donem-10l.png/revision/latest?cb=20131119031433",TRT HABER HD
 http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/master.m3u8
 
 #EXTINF:0,NDR HD
