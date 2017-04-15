@@ -64,12 +64,6 @@ http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/128/chunklist.
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/Music_Choice_logo.png",Pop Latino
 http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/123/chunklist.m3u8?textatu?iptv.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tigomusic.co/sites/music.co/files/logo_music.png",TIGO MUSIC HD
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.canalmimusica.com/wp-content/uploads/2012/11/favicon.png",MI MUSICA HD
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8
-
 #EXTINF:-1 tvg-logo="http://online-red.com/images/tv/one-hd.png", One HD
 http://rtmp.one.by:1300/
 
@@ -81,6 +75,12 @@ http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
 
 #EXTINF:-1, Heart TV HD
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tigomusic.co/sites/music.co/files/logo_music.png",Tigo Music HD
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.canalmimusica.com/wp-content/uploads/2012/11/favicon.png",Mi Musica HD
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8
 
 #EXTINF:0, Radio Capital TV
 http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8
