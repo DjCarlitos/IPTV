@@ -43,6 +43,31 @@ http://www.djing.com/tv/u-05.m3u8
 #EXTINF:-1 tvg-logo="http://entworld.net/wp-content/uploads/2016/03/Djing-Classic.jpg", Djing Classic HD
 http://www.djing.com/tv/i-05.m3u8
 
+#EXTINF:0,Alternative
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/122/chunklist.m3u8?textatu?iptv.m3u8
+#EXTINF:0,Brits + Hits
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/143/chunklist.m3u8?textatu?iptv.m3u8
+#EXTINF:0,Dance/EDM
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/127/chunklist.m3u8?textatu?iptv.m3u8
+#EXTINF:0,Hit List
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/100/chunklist.m3u8?textatu?iptv.m3u8
+#EXTINF:0,Indie
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/129/chunklist.m3u8?textatu?iptv.m3u8
+#EXTINF:0,Pop & Country
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/132/chunklist.m3u8?textatu?iptv.m3u8
+#EXTINF:0,Pop Hits
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/133/chunklist.m3u8?textatu?iptv.m3u8
+#EXTINF:0,Rock
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/138/chunklist.m3u8?textatu?iptv.m3u8
+#EXTINF:0,Today
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/121/chunklist.m3u8?textatu?iptv.m3u8
+#EXTINF:0,90s
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/140/chunklist.m3u8?textatu?iptv.m3u8
+#EXTINF:0,Musica Urbana
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/128/chunklist.m3u8?textatu?iptv.m3u8
+#EXTINF:0,Pop Latino
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/123/chunklist.m3u8?textatu?iptv.m3u8
+
 #EXTINF:-1 tvg-logo="http://online-red.com/images/tv/one-hd.png", One HD
 http://rtmp.one.by:1300/
 
