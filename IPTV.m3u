@@ -16,9 +16,6 @@ http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/category_6/gallery_1178_6_45342.png", UCV Gran Valparaíso HD
 http://wow2.cl.digitalproserver.com/ucvtv2/ucvtv2vivo/ucvtv2.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/tvcable/images/2/24/Cnn_cl.png/revision/latest?cb=20110519193512&path-prefix=es", CNN Chile HD
-http://unlimited6-cl.dps.live/cnn/cnn.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://www.cdo.tv/senal-premium/img/logo.png", CDO Premium HD
 http://unlimited2-cl.dps.live/cdopremium/cdopremium.smil/playlist.m3u8?wmsAuthSign=
 
@@ -100,9 +97,6 @@ http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8?sd=10&rebase=o
 #EXTINF:-1 tvg-logo="http://www.canalrcn.com/sites/default/files/logo-rcn_10_1.png",RCN HD
 https://mdstrm.com/live-stream-playlist_900/58a36704896500b908cf1abe.m3u8
 
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/_KqKRitubo0s/TMhsjeQMmmI/AAAAAAAACYs/M67UrlyHgyI/s1600/america_tv.png",AMERICA HD
-https://ooyalasecurehd3-f.akamaihd.net/i/atvsec01_delivery@304258/index_2128_av-p.m3u8?sd=10&rebase=on
-
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Logo_Azteca_13_HD_2007-2011.svg/150px-Logo_Azteca_13_HD_2007-2011.svg.png", Azteca 13
 http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8
 
@@ -124,8 +118,29 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 #EXTINF:-1 tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/419.png" group-title="NOTICIAS - NEWS",France 24 HD
 http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.aljazeera.com/mritems/assets/images/aj-logo-lg.png",AL JAZEERA HD
+#EXTINF:-1 tvg-logo="http://www.aljazeera.com/mritems/assets/images/aj-logo-lg.png",Al Jazeera HD
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index2073.m3u8
+
+#EXTINF:-1, RT News Español HD
+http://rt-esp-live.hls.adaptive.level3.net/rt/esp/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Foro_TV_Logo_2015.png/220px-Foro_TV_Logo_2015.png" group-title="NOTICIAS - NEWS",Foro TV HD
+http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.diario26.com/images/canal_26_logo.png", CANAL 26 HD
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w1700708876_b2628000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.aztecanoticias.com.mx/includes/estudios/images/an_logo_horizontal.png", Azteca Noticias
+http://aztecalive-lh.akamaihd.net/i/0pd7p6ys0_1@175672/index_3_av-p.m3u8
+
+#EXTINF:-1, EURONEWS Español
+http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_es.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.licdn.com/mpr/mpr/shrink_200_200/AAEAAQAAAAAAAAL7AAAAJDZmMzQyZjY5LWUxZTQtNDAyOS1iOGY0LTE0NzI0ZmU4MzM4NA.png", TyC Sports HD
+http://clairinlive-a.akamaihd.net/dc-1/live/hls/p/1885581/e/1_8xzo6fux/t/YO19xXbHgW_22sNZezlmTg/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/The_Olympic_Channel_Logo_2016.svg/2000px-The_Olympic_Channel_Logo_2016.svg.png", Olympic Channel HD
+http://ocs-live.hls.adaptive.level3.net/ocs/channel01/NBC_OCS1_VIDEO_7_6064000.m3u8
 
 #EXTINF:0 tvg-logo="http://static.pac-12.com/images/logos/pac-12-network-logo.png", PAC-12 Network HD
 http://xrxs.net/video/live-p12netw-4728.m3u8
@@ -148,30 +163,6 @@ http://xrxs.net/video/live-p12oreg-4728.m3u8
 #EXTINF:0 tvg-logo="http://static.pac-12.com/images/logos/pac-12-washington-logo.png", PAC-12 Washington HD
 http://xrxs.net/video/live-p12wash-4728.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.licdn.com/mpr/mpr/shrink_200_200/AAEAAQAAAAAAAAL7AAAAJDZmMzQyZjY5LWUxZTQtNDAyOS1iOGY0LTE0NzI0ZmU4MzM4NA.png", TyC Sports HD
-http://clairinlive-a.akamaihd.net/dc-1/live/hls/p/1885581/e/1_8xzo6fux/t/YO19xXbHgW_22sNZezlmTg/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/The_Olympic_Channel_Logo_2016.svg/2000px-The_Olympic_Channel_Logo_2016.svg.png", Olympic Channel HD
-http://ocs-live.hls.adaptive.level3.net/ocs/channel01/NBC_OCS1_VIDEO_7_6064000.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.redbull.com/cs/RedBull2/images/branding/redbull-tv-logo-2x.png", Red Bull TV HD
-https://elementaldelta2.redbull.tv/30_5.m3u8
-
-#EXTINF:-1, RT News Español HD
-http://rt-esp-live.hls.adaptive.level3.net/rt/esp/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Foro_TV_Logo_2015.png/220px-Foro_TV_Logo_2015.png" group-title="NOTICIAS - NEWS",Foro TV HD
-http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/master.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.diario26.com/images/canal_26_logo.png", CANAL 26 HD
-http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w1700708876_b2628000_sleng.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.aztecanoticias.com.mx/includes/estudios/images/an_logo_horizontal.png", Azteca Noticias
-http://aztecalive-lh.akamaihd.net/i/0pd7p6ys0_1@175672/index_3_av-p.m3u8
-
-#EXTINF:-1, EURONEWS Español
-http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_es.m3u8
-
 #EXTINF:-1, ABC Newscast HD
 http://abclive.abcnews.com/i/abc_live4@136330/index_4000_av-p.m3u8?sd=10&rebase=on
 
@@ -180,9 +171,6 @@ http://cdn3.videos.bloomberg.com/btv/us/master.m3u8?b?b*t$
 
 #EXTINF:-1 tvg-logo="http://vegasat.ru/imgs/1443652102.png", RT Docu HD
 http://rt-doc-live.hls.adaptive.level3.net/rt/doc/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.stuffintheair.com/images/theweathernetworkcom-21303164.jpg", The Weather Network HD
-http://brightcove03-f.akamaihd.net/nationalhd_1_2500@106499?
 
 #EXTINF:-1, Weather Channel HD
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
@@ -202,7 +190,7 @@ http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1200_av-p.m3u8
 #EXTINF:-1,Rai News
 http://b2everyrai-lh.akamaihd.net/i/rainews_1@179616/index_1200_av-p.m3u8
 
-#EXTINF:0,TRT HD
+#EXTINF:0 tvg-logo="http://oklivetv.com/wp-content/uploads/2015/05/trt1hd_b.png",TRT 1 HD
 http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/Trt_cocuk.png",TRT COCUK HD
