@@ -9,6 +9,752 @@ https://elementaldelta2.redbull.tv/30_5.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.stuffintheair.com/images/theweathernetworkcom-21303164.jpg", The Weather Network HD
 http://brightcove03-f.akamaihd.net/nationalhd_1_2500@106499?
+
+#EXTINF:-1 tvg-logo="http://www.vivanicaragua.com.ni/wp-content/themes/vivanicaraguav3/imagenes/logo.png",VIVA CANAL 13
+http://iphone-streaming.ustream.tv/uhls/13870671/streams/live/iphone/playlist.m3u8?
+
+#EXTM3U
+#EXTINF:0,Sony
+http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/11/stream.m3u8
+#EXTINF:0,FOX
+http://ret8eg4d4vd4u48i44.premiumtutv.com/streams/98/stream.m3u8
+#EXTINF:0,Comedia Central
+http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/59/stream.m3u8
+#EXTINF:0,E
+http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/45/stream.m3u8
+#EXTINF:0,Fox Life
+http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/44/stream.m3u8
+#EXTINF:0,FX
+http://67rhdrdy6t4jhgj45j.premiumtutv.com/streams/8/stream.m3u8
+#EXTINF:0,Syfy
+http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/42/stream.m3u8
+#EXTINF:0,TruTv
+http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/73/stream.m3u8
+#EXTINF:0,Warner Channel
+http://67rhdrdy6t4jhgj45j.premiumtutv.com/streams/9/stream.m3u8
+#EXTINF:0,Boomerang
+http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/51/stream.m3u8
+#EXTINF:0,Cartton Network
+http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/16/stream.m3u8
+#EXTINF:0,Discovery Kids
+http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/22/stream.m3u8
+#EXTINF:0,Disney Channel
+http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/20/stream.m3u8
+#EXTINF:0,Disney Jr
+http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/25/stream.m3u8
+#EXTINF:0,Disney XD
+http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/30/stream.m3u8
+#EXTINF:0,Nick
+http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/21/stream.m3u8
+#EXTINF:0,Nick Jr
+http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/49/stream.m3u8
+#EXTINF:0,Nick Toons
+http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/70/stream.m3u8
+#EXTINF:0,AMC
+http://67rhdrdy6t4jhgj45j.premiumtutv.com/streams/7/stream.m3u8
+#EXTINF:0,AXN
+http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/74/stream.m3u8
+#EXTINF:0,Cine Canal
+http://67rhdrdy6t4jhgj45j.premiumtutv.com/streams/12/stream.m3u8
+#EXTINF:0,Cinemax
+http://67rhdrdy6t4jhgj45j.premiumtutv.com/streams/11/stream.m3u8
+#EXTINF:0,De Pelicula
+http://ret8eg4d4vd4u48i44.premiumtutv.com/streams/85/stream.m3u8
+#EXTINF:0,Fox Action
+http://ret8eg4d4vd4u48i44.premiumtutv.com/streams/88/stream.m3u8
+#EXTINF:0,Fox Movies
+http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/46/stream.m3u8
+#EXTINF:0,Fox Premium series
+http://ret8eg4d4vd4u48i44.premiumtutv.com/streams/89/stream.m3u8
+#EXTINF:0,Golden
+http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/54/stream.m3u8
+#EXTINF:0,Golden Edge
+http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/37/stream.m3u8
+#EXTINF:0,ISat
+http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/69/stream.m3u8
+#EXTINF:0,Space
+http://67rhdrdy6t4jhgj45j.premiumtutv.com/streams/15/stream.m3u8
+#EXTINF:0,Studio Universal
+http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/56/stream.m3u8
+#EXTINF:0,TCM
+http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/57/stream.m3u8
+#EXTINF:0,TNT
+http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/15/stream.m3u8
+#EXTINF:0,Universal Channel
+http://67rhdrdy6t4jhgj45j.premiumtutv.com/streams/10/stream.m3u8
+#EXTINF:0,ESPN
+http://ret8eg4d4vd4u48i44.premiumtutv.com/streams/95/stream.m3u8
+#EXTINF:0,ESPN 2
+http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/35/stream.m3u8
+#EXTINF:0,ESPN 3
+http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/36/stream.m3u8
+#EXTINF:0,ESPN Plus
+http://ret8eg4d4vd4u48i44.premiumtutv.com/streams/103/stream.m3u8
+#EXTINF:0,CDF P
+http://cdn7.verliga.pw/live/cdf/index.m3u8
+#EXTINF:0,Animal Planet
+http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/28/stream.m3u8
+#EXTINF:0,Discovery Channel
+http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/19/stream.m3u8
+#EXTINF:0,Discovery Civilization
+http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/61/stream.m3u8
+#EXTINF:0,Discovery Home
+http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/66/stream.m3u8
+#EXTINF:0,Discovery SCI
+http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/62/stream.m3u8
+#EXTINF:0,Discovery Theater
+http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/64/stream.m3u8
+#EXTINF:0,Discovery Turbo
+http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/63/stream.m3u8
+#EXTINF:0,History
+http://67rhdrdy6t4jhgj45j.premiumtutv.com/streams/6/stream.m3u8
+#EXTINF:0,Investigation Discovery
+http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/65/stream.m3u8
+#EXTINF:0,Antena 3 Internacional
+http://a3live-lh.akamaihd.net:80/i/antena3_1@35248/master.m3u8
+#EXTINF:0,Sun Channel HD
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/SUN/tu1_manifest.m3u8
+#EXTINF:0,Cosmovision
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_1.m3u8
+#EXTINF:0,Yes
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/YES/tu1_1.m3u8
+#EXTINF:0,Trendy Channel
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8
+#EXTINF:0,Mi musica
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8
+ 
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8
+#EXTINF:0,Tigo Music
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8
+#EXTINF:0,Televida
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVID/tu1_1.m3u8
+#EXTINF:0,Cantinazo Tv
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8
+#EXTINF:0,Atreseries
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
+#EXTINF:0,La Sexta
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
+#EXTINF:0,Mega
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8
+#EXTINF:0,Neox
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
+#EXTINF:0,Nova
+http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8
+#EXTINF:0,Tec TV
+http://tectvhls-lh.akamaihd.net/i/tectvHLS_1@334993/master.m3u8
+#EXTINF:0,TV Monde
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TV5/tu1_1.m3u8
+#EXTINF:0,Nueva Vida
+http://stream.novotempo.com:1935/tv/tvnuevotiempo.stream/live.m3u8
+#EXTINF:0,Nasa TV
+http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
+#EXTINF:0, Telemedellin
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8
+#EXTINF:0,Canal Antiestres
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8
+#EXTINF:0,Telecafe
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TCAF/tu1_1.m3u8
+#EXTINF:0,Teleantioquia HD
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8
+#EXTINF:0,Ve plus TV
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8
+#EXTINF:0,CosmoVision
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_1.m3u8
+#EXTINF:0,Tigo Music
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8
+#EXTINF:0,Trendy
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8
+#EXTINF:1,MVS NOTICIAS
+http://wos1.smartcast.com.mx:1935/mvs/mvs_radio/mvs_radio.m3u8
+#EXTINF:1,EFEKTO TV
+http://grupomac-lh.akamaihd.net:80/i/004rss0k8_1@301782/master.m3u8
+#EXTINF:0,FORO TV
+http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/master.m3u8
+#EXTINF:0,Las estrellas
+http://0nlym3x-lh.akamaihd.net/i/c4nst02_1@175273/master.m3u8
+#EXTINF:0, Azteca 13
+http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/master.m3u8
+#EXTINF:1,AZTECA NOTICIAS
+http://aztecalive-lh.akamaihd.net/i/0pd7p6ys0_1@175672/index_3_av-p.m3u8
+#EXTINF:0,PROYECTO 40
+http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/index_2_av-p.m3u8
+#EXTINF:0,CAPITAL 21 CDMX
+http://187.237.253.94:8134/hls-live/livepkgr/_definst_/liveevent.m3u8
+#EXTINF:0,UNA VOZ CON TODOS HD
+http://urtmpkal-f.akamaihd.net/i/0queot4rb_1@327205/master.m3u8
+#EXTINF:0,MULTIMEDIOS
+http://play.gvstream.net:554/e-tv-video/default.stream/chunklist_w316615179.m3u8
+#EXTINF:0,HBO Family
+http://streaming.wirenetserver.com.ar:1935/canal4/live_1/chunklist_w437571733.m3u8?
+#EXTINF:0,Nova
+http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_4_av-b.m3u8
+#EXTINF:0,Efecko-TV
+http://grupomac-lh.akamaihd.net:80/i/004rss0k8_1@301782/master.m3u8
+#EXTINF:0,Trecevicion
+http://74.222.3.185:1935/live/ngrp:trecevision_all/chunklist_w425485154_b1431072.m3u8
+#EXTINF:0,CBN
+http://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/master.m3u8
+#EXTINF:0,Telecentro
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+#EXTINF:0,Telpin
+http://201.219.100.30:1935/telpintv/ttv.stream_720p/playlist.m3u8
+#EXTINF:0,Pinguino TV
+http://streaming.elpinguino.com:1935/live/pinguinotv_720p/playlist.m3u8
+#EXTINF:0,RT
+http://rt-esp-live.hls.adaptive.level3.net/rt/esp/index.m3u8
+#EXTINF:0,Teletrack
+http://edge1.cl.grupoz.cl/teletrak//live/playlist.m3u8
+#EXTINF:0,TV-uno
+http://k3.usastreams.com:1935/tvuno1/tvuno1/playlist.m3u8
+#EXTINF:0,Project-40
+http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/index_2_av-p.m3u8
+#EXTINF:0,TV Mas
+http://50.7.98.234:1935/rtv/videortv/chunklist.m3u8?textatu?iptv.m3u8?hermoso.m3u8
+#EXTINF:0,TELEMUNDO
+http://iphone-streaming.ustream.tv/uhls/22489838/streams/live/iphone/playlist.m3u8
+#EXTINF:0,VMAS TV
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8
+#EXTINF:0,TyC SPORTS
+http://clairinlive-a.akamaihd.net/dc-1/live/hls/p/1885581/e/1_8xzo6fux/t/YO19xXbHgW_22sNZezlmTg/index-s32-v1-a1.m3u8
+#EXTINF:0,AZTECA DEPORTES HD
+http://aztecalive-lh.akamaihd.net/i/0sa0dg2r9_1@167681/index_3_av-b.m3u8
+#EXTINF:0,BASKET UNI.USA (Washington)
+http://xrxs.net/video/live-p12wash-2328.m3u8
+#EXTINF:0,TV ALL SPORTS
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
+#EXTINF:0,PAC-12 Net. (Arizona)
+http://xrxs.net/video/live-p12ariz-4728.m3u8
+#EXTINF:0,PAC-12 Net. (Bay Area)
+http://xrxs.net/video/live-p12baya-4728.m3u8
+#EXTINF:0,PAC-12 Net. (Los Angeles)
+http://xrxs.net/video/live-p12losa-4728.m3u8
+#EXTINF:0,PAC-12 Net. (Moutain)
+http://xrxs.net/video/live-p12moun-4728.m3u8
+#EXTINF:0,PAC-12 Net. (Oregon)
+http://xrxs.net/video/live-p12oreg-4728.m3u8
+#EXTINF:0,PAC-12 Net. (Washington)
+http://xrxs.net/video/live-p12wash-4728.m3u8
+#EXTINF:0,EUROSPORT 1 ENG
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
+#EXTINF:0,EUROSPORT 1 FRANCE
+http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8
+#EXTINF:0,MVS NOTICIAS
+http://wos1.smartcast.com.mx:1935/mvs/mvs_radio/mvs_radio.m3u8
+#EXTINF:0,AZTECA NOTICIAS
+http://aztecalive-lh.akamaihd.net/i/0pd7p6ys0_1@175672/index_3_av-p.m3u8
+#EXTINF:0,AZTECA 13 HD
+http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/master.m3u8
+#EXTINF:0,AZTECA HONDURAS
+http://aztecalive-lh.akamaihd.net/i/142kvpq0l_1@67741/master.m3u8
+#EXTINF:0,[COLOR deepskyblue]Canales 24/7[/COLOR]
+http://live-lax.vaughnsoft.net:443/live/_definst_/live_cienciaficcion/playlist.m3u8
+#EXTINF:0,ANIME TV
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?textatu?iptv.m3u8?monclovacaliente.m3u8
+ 
+ 
+#EXTINF:-1 tvg-id="" tvg-name="LA RED HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/La_Red.svg/1280px-La_Red.svg.png" group-title="CHILE",LA RED HD
+http://144.217.70.189:8000/live/iptvchile/demolibre/130.ts
+#EXTINF:-1 tvg-id="" tvg-name="UCV HD" tvg-logo="http://www.ucvmedios.cl/imagenes/logo-ucv-200.png" group-title="CHILE",UCV HD
+http://144.217.70.189:8000/live/iptvchile/demolibre/118.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/TVN_HD_Chile.png" group-title="CHILE",TVN HD
+http://144.217.70.189:8000/live/iptvchile/demolibre/117.ts
+#EXTINF:-1 tvg-id="" tvg-name="MEGA HD" tvg-logo="http://vignette1.wikia.nocookie.net/tvcable/images/5/51/LogoMega2015.png/revision/latest?cb=20151117223345&path-prefix=es" group-title="CHILE",MEGA HD
+http://144.217.70.189:8000/live/iptvchile/demolibre/116.ts
+#EXTINF:-1 tvg-id="" tvg-name="CHV" tvg-logo="http://www.uss.cl/wp-content/uploads/2016/05/chv.png" group-title="CHILE",CHV
+http://144.217.70.189:8000/live/iptvchile/demolibre/149.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal 13" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/9/9e/Logo13.png/revision/latest?cb=20160609180608" group-title="CHILE",Canal 13
+http://144.217.70.189:8000/live/iptvchile/demolibre/150.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 13 FHD H265" tvg-logo="http://2.bp.blogspot.com/-2zj4Ey0x7zk/VP87C4FtLpI/AAAAAAAAEHw/9CjzippWGR4/s1600/Canal%2B13%2BHD%2B2.png" group-title="DEPORTES",CANAL 13 FHD H265
+http://144.217.70.189:8000/live/iptvchile/demolibre/143.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 13 FHD H264" tvg-logo="http://2.bp.blogspot.com/-2zj4Ey0x7zk/VP87C4FtLpI/AAAAAAAAEHw/9CjzippWGR4/s1600/Canal%2B13%2BHD%2B2.png" group-title="CHILE",CANAL 13 FHD H264
+http://144.217.70.189:8000/live/iptvchile/demolibre/155.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 Horas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/24_Horas_TVN_alt.png/250px-24_Horas_TVN_alt.png" group-title="CHILE",24 Horas
+http://144.217.70.189:8000/live/iptvchile/demolibre/148.ts
+#EXTINF:-1 tvg-id="" tvg-name="CNN CHILE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/Logo_cnnchile.png" group-title="CHILE",CNN CHILE
+http://144.217.70.189:8000/live/iptvchile/demolibre/151.ts
+#EXTINF:-1 tvg-id="" tvg-name="NIU TV" tvg-logo="http://niu.cl/wp-content/uploads/2016/07/logo.png" group-title="CHILE",NIU TV
+http://144.217.70.189:8000/live/iptvchile/demolibre/154.ts
+#EXTINF:-1 tvg-id="" tvg-name="Teletrack HD" tvg-logo="http://www.teletrak.cl/imagenes/logo2.png" group-title="CHILE",Teletrack HD
+http://144.217.70.189:8000/live/iptvchile/demolibre/152.ts
+#EXTINF:-1 tvg-id="" tvg-name="MEGA FUL HD H265" tvg-logo="http://vignette1.wikia.nocookie.net/tvcable/images/5/51/LogoMega2015.png/revision/latest?cb=20151117223345&path-prefix=es" group-title="CHILE",MEGA FUL HD H265
+http://144.217.70.189:8000/live/iptvchile/demolibre/147.ts
+#EXTINF:-1 tvg-id="" tvg-name="MEGA HD 720P H264" tvg-logo="http://vignette1.wikia.nocookie.net/tvcable/images/5/51/LogoMega2015.png/revision/latest?cb=20151117223345&path-prefix=es" group-title="CHILE",MEGA HD 720P H264
+http://144.217.70.189:8000/live/iptvchile/demolibre/146.ts
+#EXTINF:-1 tvg-id="" tvg-name="CDF HD" tvg-logo="http://foromedios.com/uploads/gallery/category_6/med_gallery_1157_6_16978.png" group-title="DEPORTES",CDF HD
+http://144.217.70.189:8000/live/iptvchile/demolibre/144.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports" tvg-logo="" group-title="DEPORTES",Fox Sports
+http://144.217.70.189:8000/live/iptvchile/demolibre/69.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7e/Fox_Sports_2_logo.png" group-title="DEPORTES",Fox Sport 2
+http://144.217.70.189:8000/live/iptvchile/demolibre/3.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORT 3" tvg-logo="http://visionperuanatv.com/wp-content/uploads/2017/01/fox-sports-3-online.png" group-title="DEPORTES",FOX SPORT 3
+http://144.217.70.189:8000/live/iptvchile/demolibre/70.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="" group-title="DEPORTES",ESPN
+http://144.217.70.189:8000/live/iptvchile/demolibre/11.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2" tvg-logo="" group-title="DEPORTES",ESPN 2
+http://144.217.70.189:8000/live/iptvchile/demolibre/10.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3" tvg-logo="" group-title="DEPORTES",ESPN 3
+http://144.217.70.189:8000/live/iptvchile/demolibre/9.ts
+#EXTINF:-1 tvg-id="" tvg-name="GOL TV" tvg-logo="https://2.bp.blogspot.com/-u1R-pryM6rA/WEGZrTlPj9I/AAAAAAAAD3k/1IUfLSQDyZURbL2Nvs83cAbk3OO9m0tTgCLcB/s1600/goltv.png" group-title="DEPORTES",GOL TV
+http://144.217.70.189:8000/live/iptvchile/demolibre/126.ts
+#EXTINF:-1 tvg-id="" tvg-name="TYC SPORT SD" tvg-logo="http://www.tycsports.com/sites/default/files/nota_periodistica/imagen_tyc.jpg" group-title="DEPORTES",TYC SPORT SD
+http://144.217.70.189:8000/live/iptvchile/demolibre/129.ts
+#EXTINF:-1 tvg-id="" tvg-name="TYC SPORT HD" tvg-logo="http://www.tycsports.com/sites/default/files/nota_periodistica/imagen_tyc.jpg" group-title="DEPORTES",TYC SPORT HD
+http://144.217.70.189:8000/live/iptvchile/demolibre/128.ts
+#EXTINF:-1 tvg-id="" tvg-name="UFC NETWORK" tvg-logo="https://pbs.twimg.com/profile_images/623546871525408768/8BLiGFqy.png" group-title="",UFC NETWORK
+http://144.217.70.189:8000/live/iptvchile/demolibre/153.ts
+#EXTINF:-1 tvg-id="" tvg-name="UFC Network HD" tvg-logo="https://pbs.twimg.com/profile_images/623546871525408768/8BLiGFqy.png" group-title="DEPORTES",UFC Network HD
+http://144.217.70.189:8000/live/iptvchile/demolibre/29.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT HD op1" tvg-logo="http://www.llrr13.fr/sites/default/files/medias/styles/large/public/field/image/bein_blanccartouchecouleur_rvb_24.jpg?itok=C3ZgRrmS" group-title="DEPORTES",BEIN SPORT HD op1
+http://144.217.70.189:8000/live/iptvchile/demolibre/127.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT HD op2" tvg-logo="http://www.llrr13.fr/sites/default/files/medias/styles/large/public/field/image/bein_blanccartouchecouleur_rvb_24.jpg?itok=C3ZgRrmS" group-title="DEPORTES",BEIN SPORT HD op2
+http://144.217.70.189:8000/live/iptvchile/demolibre/121.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT LA LIGA HD" tvg-logo="https://www.comparaiso.es/images/bein-laliga-300.jpg" group-title="",BEIN SPORT LA LIGA HD
+http://144.217.70.189:8000/live/iptvchile/demolibre/156.ts
+#EXTINF:-1 tvg-id="" tvg-name="LA LIGA TV" tvg-logo="http://files.laliga.es/seccion_logos/laliga-h-monocolor-16-9.jpg" group-title="DEPORTES",LA LIGA TV
+http://144.217.70.189:8000/live/iptvchile/demolibre/122.ts
+#EXTINF:-1 tvg-id="" tvg-name="+Futbol" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-futbol.jpg" group-title="DEPORTES",+Futbol
+http://144.217.70.189:8000/live/iptvchile/demolibre/120.ts
+#EXTINF:-1 tvg-id="" tvg-name="+ Futboll 2 (movistar)" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-futbol.jpg" group-title="DEPORTES",+ Futboll 2 (movistar)
+http://144.217.70.189:8000/live/iptvchile/demolibre/123.ts
+#EXTINF:-1 tvg-id="" tvg-name="Movistar DEPORTES 1" tvg-logo="http://www.mundoplus.tv/img/cb01a9c0e40f87e56f60452bccd73321" group-title="DEPORTES",Movistar DEPORTES 1
+http://144.217.70.189:8000/live/iptvchile/demolibre/124.ts
+#EXTINF:-1 tvg-id="" tvg-name="Movistar DEPORTES 2" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/6/63/MovistarDeportes2.png/revision/latest?cb=20160818140550" group-title="DEPORTES",Movistar DEPORTES 2
+http://144.217.70.189:8000/live/iptvchile/demolibre/125.ts
+#EXTINF:-1 tvg-id="" tvg-name="Movistar F1 720p" tvg-logo="" group-title="DEPORTES",Movistar F1 720p
+http://144.217.70.189:8000/live/iptvchile/demolibre/138.ts
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Estrenos" tvg-logo="" group-title="CINE",Movistar Estrenos
+http://144.217.70.189:8000/live/iptvchile/demolibre/140.ts
+#EXTINF:-1 tvg-id="" tvg-name="Claro Sports" tvg-logo="" group-title="",Claro Sports
+http://144.217.70.189:8000/live/iptvchile/demolibre/95.ts
+#EXTINF:-1 tvg-id="" tvg-name="A&E HD" tvg-logo="" group-title="CINE",A&E HD
+http://144.217.70.189:8000/live/iptvchile/demolibre/112.ts
+#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="" group-title="CINE",AMC
+http://144.217.70.189:8000/live/iptvchile/demolibre/111.ts
+#EXTINF:-1 tvg-id="" tvg-name="AXN HD" tvg-logo="" group-title="CINE",AXN HD
+http://144.217.70.189:8000/live/iptvchile/demolibre/109.ts
+#EXTINF:-1 tvg-id="" tvg-name="Az Click HD" tvg-logo="" group-title="LATINOAMERICA",Az Click HD
+http://144.217.70.189:8000/live/iptvchile/demolibre/108.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINELATINO" tvg-logo="" group-title="CINE",CINELATINO
+http://144.217.70.189:8000/live/iptvchile/demolibre/96.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cinecanal HD" tvg-logo="" group-title="CINE",Cinecanal HD
+http://144.217.70.189:8000/live/iptvchile/demolibre/97.ts
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Central HD" tvg-logo="" group-title="CINE",Comedy Central HD
+http://144.217.70.189:8000/live/iptvchile/demolibre/94.ts
+#EXTINF:-1 tvg-id="" tvg-name="De Pelicula HD" tvg-logo="" group-title="CINE",De Pelicula HD
+http://144.217.70.189:8000/live/iptvchile/demolibre/93.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISTRITO COMEDIA" tvg-logo="" group-title="CINE",DISTRITO COMEDIA
+http://144.217.70.189:8000/live/iptvchile/demolibre/83.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox Cinema" tvg-logo="" group-title="CINE",Fox Cinema
+http://144.217.70.189:8000/live/iptvchile/demolibre/6.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox action" tvg-logo="" group-title="CINE",Fox action
+http://144.217.70.189:8000/live/iptvchile/demolibre/7.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox 1" tvg-logo="" group-title="CINE",Fox 1
+http://144.217.70.189:8000/live/iptvchile/demolibre/8.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox" tvg-logo="" group-title="CINE",Fox
+http://144.217.70.189:8000/live/iptvchile/demolibre/5.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox Movies" tvg-logo="" group-title="CINE",Fox Movies
+http://144.217.70.189:8000/live/iptvchile/demolibre/4.ts
+#EXTINF:-1 tvg-id="" tvg-name="FX" tvg-logo="" group-title="CINE",FX
+http://144.217.70.189:8000/live/iptvchile/demolibre/67.ts
+#EXTINF:-1 tvg-id="" tvg-name="Film & Arts" tvg-logo="" group-title="CINE",Film & Arts
+http://144.217.70.189:8000/live/iptvchile/demolibre/78.ts
+#EXTINF:-1 tvg-id="" tvg-name="Golden HD" tvg-logo="" group-title="CINE",Golden HD
+http://144.217.70.189:8000/live/iptvchile/demolibre/63.ts
+#EXTINF:-1 tvg-id="" tvg-name="Golden Edge" tvg-logo="" group-title="CINE",Golden Edge
+http://144.217.70.189:8000/live/iptvchile/demolibre/64.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="" group-title="CINE",HBO
+http://144.217.70.189:8000/live/iptvchile/demolibre/60.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2" tvg-logo="" group-title="CINE",HBO 2
+http://144.217.70.189:8000/live/iptvchile/demolibre/59.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO Signature" tvg-logo="" group-title="CINE",HBO Signature
+http://144.217.70.189:8000/live/iptvchile/demolibre/58.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX UP" tvg-logo="" group-title="CINE",MAX UP
+http://144.217.70.189:8000/live/iptvchile/demolibre/55.ts
+#EXTINF:-1 tvg-id="" tvg-name="Space HD" tvg-logo="" group-title="CINE",Space HD
+http://144.217.70.189:8000/live/iptvchile/demolibre/40.ts
+#EXTINF:-1 tvg-id="" tvg-name="SUNDANCE TV" tvg-logo="" group-title="CINE",SUNDANCE TV
+http://144.217.70.189:8000/live/iptvchile/demolibre/39.ts
+#EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="" group-title="CINE",TNT
+http://144.217.70.189:8000/live/iptvchile/demolibre/33.ts
+#EXTINF:-1 tvg-id="" tvg-name="TnT Series" tvg-logo="" group-title="CINE",TnT Series
+http://144.217.70.189:8000/live/iptvchile/demolibre/1.ts
+#EXTINF:-1 tvg-id="" tvg-name="Universal HD" tvg-logo="" group-title="CINE",Universal HD
+http://144.217.70.189:8000/live/iptvchile/demolibre/26.ts
+#EXTINF:-1 tvg-id="" tvg-name="Warner HD" tvg-logo="" group-title="CINE",Warner HD
+http://144.217.70.189:8000/live/iptvchile/demolibre/22.ts
+#EXTINF:-1 tvg-id="" tvg-name="AZTECA 13" tvg-logo="" group-title="LATINOAMERICA",AZTECA 13
+http://144.217.70.189:8000/live/iptvchile/demolibre/107.ts
+#EXTINF:-1 tvg-id="" tvg-name="CARACOL" tvg-logo="" group-title="",CARACOL
+http://144.217.70.189:8000/live/iptvchile/demolibre/101.ts
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet" tvg-logo="" group-title="CULTURA",Animal Planet
+http://144.217.70.189:8000/live/iptvchile/demolibre/110.ts
+#EXTINF:-1 tvg-id="" tvg-name="NatGeo Wild" tvg-logo="" group-title="CULTURA",NatGeo Wild
+http://144.217.70.189:8000/live/iptvchile/demolibre/2.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo" tvg-logo="" group-title="",Discovery Turbo
+http://144.217.70.189:8000/live/iptvchile/demolibre/12.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel" tvg-logo="" group-title="CULTURA",Discovery Channel
+http://144.217.70.189:8000/live/iptvchile/demolibre/92.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Civilization" tvg-logo="" group-title="CULTURA",Discovery Civilization
+http://144.217.70.189:8000/live/iptvchile/demolibre/91.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery ID" tvg-logo="" group-title="CULTURA",Discovery ID
+http://144.217.70.189:8000/live/iptvchile/demolibre/90.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery TLC" tvg-logo="" group-title="CULTURA",Discovery TLC
+http://144.217.70.189:8000/live/iptvchile/demolibre/87.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Teather HD" tvg-logo="" group-title="CULTURA",Discovery Teather HD
+http://144.217.70.189:8000/live/iptvchile/demolibre/88.ts
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK" tvg-logo="" group-title="INFANTILES",CARTOON NETWORK
+http://144.217.70.189:8000/live/iptvchile/demolibre/99.ts
+#EXTINF:-1 tvg-id="" tvg-name="Carton Network" tvg-logo="" group-title="INFANTILES",Carton Network
+http://144.217.70.189:8000/live/iptvchile/demolibre/13.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney XD" tvg-logo="" group-title="INFANTILES",Disney XD
+http://144.217.70.189:8000/live/iptvchile/demolibre/84.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel" tvg-logo="" group-title="INFANTILES",Disney Channel
+http://144.217.70.189:8000/live/iptvchile/demolibre/86.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney Junior" tvg-logo="" group-title="INFANTILES",Disney Junior
+http://144.217.70.189:8000/live/iptvchile/demolibre/85.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids" tvg-logo="" group-title="INFANTILES",Discovery Kids
+http://144.217.70.189:8000/live/iptvchile/demolibre/89.ts
+#EXTINF:-1 tvg-id="" tvg-name="NICK Jr" tvg-logo="" group-title="INFANTILES",NICK Jr
+http://144.217.70.189:8000/live/iptvchile/demolibre/44.ts
+#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON" tvg-logo="" group-title="INFANTILES",NICKELODEON
+http://144.217.70.189:8000/live/iptvchile/demolibre/43.ts
+#EXTINF:-1 tvg-id="" tvg-name="EL GOURMET" tvg-logo="" group-title="",EL GOURMET
+http://144.217.70.189:8000/live/iptvchile/demolibre/80.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX LIFE" tvg-logo="" group-title="CINE",FOX LIFE
+http://144.217.70.189:8000/live/iptvchile/demolibre/72.ts
+#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="" group-title="CULTURA",NATIONAL GEOGRAPHIC
+http://144.217.70.189:8000/live/iptvchile/demolibre/45.ts
+#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="" group-title="CULTURA",TLC
+http://144.217.70.189:8000/live/iptvchile/demolibre/34.ts
+#EXTINF:-1 tvg-id="" tvg-name="Gourmet" tvg-logo="" group-title="",Gourmet
+http://144.217.70.189:8000/live/iptvchile/demolibre/62.ts
+#EXTINF:-1 tvg-id="" tvg-name="Glitz" tvg-logo="" group-title="",Glitz
+http://144.217.70.189:8000/live/iptvchile/demolibre/65.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tru Tv HD" tvg-logo="" group-title="CINE",Tru Tv HD
+http://144.217.70.189:8000/live/iptvchile/demolibre/31.ts
+#EXTINF:-1 tvg-id="" tvg-name="INVESTIGACION DISCOVERY" tvg-logo="" group-title="CULTURA",INVESTIGACION DISCOVERY
+http://144.217.70.189:8000/live/iptvchile/demolibre/56.ts
+#EXTINF:-1 tvg-id="" tvg-name="H2" tvg-logo="" group-title="CULTURA",H2
+http://144.217.70.189:8000/live/iptvchile/demolibre/61.ts
+#EXTINF:-1 tvg-id="" tvg-name="History HD" tvg-logo="" group-title="",History HD
+http://144.217.70.189:8000/live/iptvchile/demolibre/57.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV Hits" tvg-logo="" group-title="",MTV Hits
+http://144.217.70.189:8000/live/iptvchile/demolibre/18.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV Classic" tvg-logo="" group-title="",MTV Classic
+http://144.217.70.189:8000/live/iptvchile/demolibre/20.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV BASE" tvg-logo="" group-title="",MTV BASE
+http://144.217.70.189:8000/live/iptvchile/demolibre/21.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV Dance" tvg-logo="" group-title="",MTV Dance
+http://144.217.70.189:8000/live/iptvchile/demolibre/19.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV LATINO" tvg-logo="" group-title="",MTV LATINO
+http://144.217.70.189:8000/live/iptvchile/demolibre/51.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV LATINO HITS" tvg-logo="" group-title="",MTV LATINO HITS
+http://144.217.70.189:8000/live/iptvchile/demolibre/50.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV Music" tvg-logo="" group-title="",MTV Music
+http://144.217.70.189:8000/live/iptvchile/demolibre/17.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV Rocks" tvg-logo="" group-title="",MTV Rocks
+http://144.217.70.189:8000/live/iptvchile/demolibre/16.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal De Las Estrellas HD" tvg-logo="" group-title="LATINOAMERICA",Canal De Las Estrellas HD
+http://144.217.70.189:8000/live/iptvchile/demolibre/102.ts
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO INT" tvg-logo="" group-title="LATINOAMERICA",TELEMUNDO INT
+http://144.217.70.189:8000/live/iptvchile/demolibre/37.ts
+#EXTINF:-1 tvg-id="" tvg-name="TELEVISA HD" tvg-logo="" group-title="LATINOAMERICA",TELEVISA HD
+http://144.217.70.189:8000/live/iptvchile/demolibre/35.ts
+#EXTINF:-1 tvg-id="" tvg-name="Unicable HD" tvg-logo="" group-title="LATINOAMERICA",Unicable HD
+http://144.217.70.189:8000/live/iptvchile/demolibre/28.ts
+#EXTINF:-1 tvg-id="" tvg-name="UNIMAS HD" tvg-logo="" group-title="LATINOAMERICA",UNIMAS HD
+http://144.217.70.189:8000/live/iptvchile/demolibre/27.ts
+#EXTINF:-1 tvg-id="" tvg-name="UNIVISION HD" tvg-logo="" group-title="LATINOAMERICA",UNIVISION HD
+http://144.217.70.189:8000/live/iptvchile/demolibre/25.ts
+#EXTINF:-1 tvg-id="" tvg-name="UNIVISION TDN HD" tvg-logo="" group-title="LATINOAMERICA",UNIVISION TDN HD
+http://144.217.70.189:8000/live/iptvchile/demolibre/24.ts
+#EXTINF:0,CARTOON NETWORK USA
+http://vs8.cdn.ott.otautv.kz:80/dtv/id33_KTR_SG--CartoonNetwork/03/plst.m3u8?textatu?iptv.m3u8
+#EXTINF:0,NICKTOONS USA
+http://208.86.19.13:8080/live/15.stream/index.m3u8?textatu?iptv.m3u8
+#EXTINF:0,H2 USA FULL HD (HISTORY 2)
+http://fluvod1.giniko.com/all-documentaries/all-documentaries/tracks-5,6/index.m3u8?textatu?iptv.m3u8
+#EXTINF:0, Euro Sports
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8?textatu?iptv.m3u8
+#EXTINF:0, tvg-logo="FTLjroU.png" -  Sevilla FC
+http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/master.m3u8?textatu?iptv.m3u8#6
+#EXTINF:0,EUROSPORT 1
+http://81.7.13.162/hls/ss4/index.m3u8?textatu?iptv.m3u8
+#EXTINF:0,Real Madrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?textatu?iptv.m3u8?sd=10&rebase=on
+#EXTINF:0, DXTV
+http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u8?textatu?iptv.m3u8
+#EXTINF:0,Alternative
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/122/chunklist.m3u8?textatu?iptv.m3u8
+#EXTINF:0,Brits + Hits
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/143/chunklist.m3u8?textatu?iptv.m3u8
+#EXTINF:0,Brits + Hits
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/127/chunklist.m3u8?textatu?iptv.m3u8
+#EXTINF:0,Dance/EDM
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/127/chunklist.m3u8?textatu?iptv.m3u8
+#EXTINF:0,Hip-Hop And R&B
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/106/chunklist.m3u8?textatu?iptv.m3u8
+#EXTINF:0,Hit List
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/100/chunklist.m3u8?textatu?iptv.m3u8
+#EXTINF:0,Indie
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/129/chunklist.m3u8?textatu?iptv.m3u8
+#EXTINF:0,Metal
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/139/chunklist.m3u8?textatu?iptv.m3u8
+#EXTINF:0,Pop & Country
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/132/chunklist.m3u8?textatu?iptv.m3u8
+#EXTINF:0,Pop Hits
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/133/chunklist.m3u8?textatu?iptv.m3u8
+#EXTINF:0,R&B Soul
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/124/chunklist.m3u8?textatu?iptv.m3u8
+#EXTINF:0,Rap
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/125/chunklist.m3u8?textatu?iptv.m3u8
+#EXTINF:0,Rap 2K
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/141/chunklist.m3u8?textatu?iptv.m3u8
+#EXTINF:0,Rock
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/138/chunklist.m3u8?textatu?iptv.m3u8
+#EXTINF:0,Teen Beats
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/118/chunklist.m3u8?textatu?iptv.m3u8
+#EXTINF:0,Todayhttp://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/121/chunklist.m3u8?textatu?iptv.m3u8
+#EXTINF:0,90s
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/140/chunklist.m3u8?textatu?iptv.m3u8
+#EXTINF:0,Throwback Jamz
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/142/chunklist.m3u8?textatu?iptv.m3u8
+#EXTINF:0,Y2K
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/145/chunklist.m3u8?textatu?iptv.m3u8
+#EXTINF:0,Mexicana
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/131/chunklist.m3u8?textatu?iptv.m3u8
+#EXTINF:0,Musica Urbana
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/128/chunklist.m3u8?textatu?iptv.m3u8
+#EXTINF:0,Pop Latino
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/123/chunklist.m3u8?textatu?iptv.m3u8
+#EXTINF:0,Tropicales
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/137/chunklist.m3u8?textatu?iptv.m3u8
+#EXTINF:0,Kidz Only!
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/130/chunklist.m3u8?textatu?iptv.m3u8
+#EXTINF:0,Toddler Tunes
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/144/chunklist.m3u8?textatu?iptv.m3u8
+#EXTINF:0,MC Play
+http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8?textatu?iptv.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="TEST A&E" tvg-logo="" group-title="",TEST A&E
+http://test.servicespcl.com:8000/live/test/test/2386.ts
+#EXTINF:-1 tvg-id="" tvg-name="TEST AMC" tvg-logo="" group-title="",TEST AMC
+http://test.servicespcl.com:8000/live/test/test/2385.ts
+#EXTINF:-1 tvg-id="" tvg-name="TEST Animal Planet" tvg-logo="" group-title="",TEST Animal Planet
+http://test.servicespcl.com:8000/live/test/test/2384.ts
+#EXTINF:-1 tvg-id="" tvg-name="TEST AXN" tvg-logo="" group-title="",TEST AXN
+http://test.servicespcl.com:8000/live/test/test/2383.ts
+#EXTINF:-1 tvg-id="" tvg-name="TEST AzCorazon" tvg-logo="" group-title="",TEST AzCorazon
+http://test.servicespcl.com:8000/live/test/test/2382.ts
+#EXTINF:-1 tvg-id="" tvg-name="TEST Azteca Noticias" tvg-logo="" group-title="",TEST Azteca Noticias
+http://test.servicespcl.com:8000/live/test/test/2381.ts
+#EXTINF:-1 tvg-id="" tvg-name="TEST Azteca Siete" tvg-logo="" group-title="",TEST Azteca Siete
+http://test.servicespcl.com:8000/live/test/test/2380.ts
+#EXTINF:-1 tvg-id="" tvg-name="TEST Azteca Trece" tvg-logo="" group-title="",TEST Azteca Trece
+http://test.servicespcl.com:8000/live/test/test/2379.ts
+#EXTINF:-1 tvg-id="" tvg-name="TEST Bandamax" tvg-logo="" group-title="",TEST Bandamax
+http://test.servicespcl.com:8000/live/test/test/2378.ts
+#EXTINF:-1 tvg-id="" tvg-name="TEST BBC Entertainment" tvg-logo="" group-title="",TEST BBC Entertainment
+http://test.servicespcl.com:8000/live/test/test/2377.ts
+#EXTINF:-1 tvg-id="" tvg-name="TEST Boomerang" tvg-logo="" group-title="",TEST Boomerang
+http://test.servicespcl.com:8000/live/test/test/2376.ts
+#EXTINF:-1 tvg-id="" tvg-name="TEST Canal 5" tvg-logo="" group-title="",TEST Canal 5
+http://test.servicespcl.com:8000/live/test/test/2375.ts
+#EXTINF:-1 tvg-id="" tvg-name="TEST Canal Gourmet" tvg-logo="" group-title="",TEST Canal Gourmet
+http://test.servicespcl.com:8000/live/test/test/2374.ts
+#EXTINF:-1 tvg-id="" tvg-name="TEST Canal Once" tvg-logo="" group-title="",TEST Canal Once
+http://test.servicespcl.com:8000/live/test/test/2373.ts
+#EXTINF:-1 tvg-id="" tvg-name="TEST Cartoon Network" tvg-logo="" group-title="",TEST Cartoon Network
+http://test.servicespcl.com:8000/live/test/test/2372.ts
+#EXTINF:-1 tvg-id="" tvg-name="TEST CBeebies" tvg-logo="" group-title="",TEST CBeebies
+http://test.servicespcl.com:8000/live/test/test/2371.ts
+#EXTINF:-1 tvg-id="" tvg-name="TEST Cinecanal" tvg-logo="" group-title="",TEST Cinecanal
+http://test.servicespcl.com:8000/live/test/test/2370.ts
+#EXTINF:-1 tvg-id="" tvg-name="TEST Cinecanal 2" tvg-logo="" group-title="",TEST Cinecanal 2
+http://test.servicespcl.com:8000/live/test/test/2369.ts
+#EXTINF:-1 tvg-id="" tvg-name="TEST Cinemax" tvg-logo="" group-title="",TEST Cinemax
+http://test.servicespcl.com:8000/live/test/test/2368.ts
+#EXTINF:-1 tvg-id="" tvg-name="TEST Comedy Central" tvg-logo="" group-title="",TEST Comedy Central
+http://test.servicespcl.com:8000/live/test/test/2367.ts
+#EXTINF:-1 tvg-id="" tvg-name="TEST De Pel" tvg-logo="" group-title="",TEST De Pel
+http://test.servicespcl.com:8000/live/test/test/2366.ts
+#EXTINF:-1 tvg-id="" tvg-name="TEST Discovery Channel" tvg-logo="" group-title="",TEST Discovery Channel
+http://test.servicespcl.com:8000/live/test/test/2365.ts
+#EXTINF:-1 tvg-id="" tvg-name="TEST Discovery Civilization" tvg-logo="" group-title="",TEST Discovery Civilization
+http://test.servicespcl.com:8000/live/test/test/2364.ts
+#EXTINF:-1 tvg-id="" tvg-name="TEST Discovery Home & Health" tvg-logo="" group-title="",TEST Discovery Home & Health
+http://test.servicespcl.com:8000/live/test/test/2363.ts
+#EXTINF:-1 tvg-id="" tvg-name="TEST Discovery Kids" tvg-logo="" group-title="",TEST Discovery Kids
+http://test.servicespcl.com:8000/live/test/test/2362.ts
+#EXTINF:-1 tvg-id="" tvg-name="TEST Discovery Science" tvg-logo="" group-title="",TEST Discovery Science
+http://test.servicespcl.com:8000/live/test/test/2361.ts
+#EXTINF:-1 tvg-id="" tvg-name="TEST Discovery Theater" tvg-logo="" group-title="",TEST Discovery Theater
+http://test.servicespcl.com:8000/live/test/test/2360.ts
+#EXTINF:-1 tvg-id="" tvg-name="TEST Discovery Turbo" tvg-logo="" group-title="",TEST Discovery Turbo
+http://test.servicespcl.com:8000/live/test/test/2359.ts
+#EXTINF:-1 tvg-id="" tvg-name="TEST Discovery World" tvg-logo="" group-title="",TEST Discovery World
+http://test.servicespcl.com:8000/live/test/test/2358.ts
+#EXTINF:-1 tvg-id="" tvg-name="TEST Disney Channel" tvg-logo="" group-title="",TEST Disney Channel
+http://test.servicespcl.com:8000/live/test/test/2357.ts
+#EXTINF:-1 tvg-id="" tvg-name="TEST Disney Junior" tvg-logo="" group-title="",TEST Disney Junior
+http://test.servicespcl.com:8000/live/test/test/2356.ts
+#EXTINF:-1 tvg-id="" tvg-name="TEST Disney XD" tvg-logo="" group-title="",TEST Disney XD
+http://test.servicespcl.com:8000/live/test/test/2355.ts
+#EXTINF:-1 tvg-id="" tvg-name="TEST Distrito Comedia" tvg-logo="" group-title="",TEST Distrito Comedia
+http://test.servicespcl.com:8000/live/test/test/2354.ts
+#EXTINF:-1 tvg-id="" tvg-name="TEST E!" tvg-logo="" group-title="",TEST E!
+http://test.servicespcl.com:8000/live/test/test/2353.ts
+#EXTINF:-1 tvg-id="" tvg-name="TEST ESPN" tvg-logo="" group-title="",TEST ESPN
+http://test.servicespcl.com:8000/live/test/test/2352.ts
+#EXTINF:-1 tvg-id="" tvg-name="TEST ESPN 2" tvg-logo="" group-title="",TEST ESPN 2
+http://test.servicespcl.com:8000/live/test/test/2351.ts
+#EXTINF:-1 tvg-id="" tvg-name="TEST ESPN 3" tvg-logo="" group-title="",TEST ESPN 3
+http://test.servicespcl.com:8000/live/test/test/2350.ts
+#EXTINF:-1 tvg-id="" tvg-name="TEST ESPN Plus" tvg-logo="" group-title="",TEST ESPN Plus
+http://test.servicespcl.com:8000/live/test/test/2349.ts
+#EXTINF:-1 tvg-id="" tvg-name="TEST Estrellas" tvg-logo="" group-title="",TEST Estrellas
+http://test.servicespcl.com:8000/live/test/test/2348.ts
+#EXTINF:-1 tvg-id="" tvg-name="TEST FilmZone" tvg-logo="" group-title="",TEST FilmZone
+http://test.servicespcl.com:8000/live/test/test/2347.ts
+#EXTINF:-1 tvg-id="" tvg-name="TEST Foro TV" tvg-logo="" group-title="",TEST Foro TV
+http://test.servicespcl.com:8000/live/test/test/2346.ts
+#EXTINF:-1 tvg-id="" tvg-name="TEST Fox" tvg-logo="" group-title="",TEST Fox
+http://test.servicespcl.com:8000/live/test/test/2345.ts
+#EXTINF:-1 tvg-id="" tvg-name="TEST Fox Action" tvg-logo="" group-title="",TEST Fox Action
+http://test.servicespcl.com:8000/live/test/test/2344.ts
+#EXTINF:-1 tvg-id="" tvg-name="TEST Fox Cinema" tvg-logo="" group-title="",TEST Fox Cinema
+http://test.servicespcl.com:8000/live/test/test/2343.ts
+#EXTINF:-1 tvg-id="" tvg-name="TEST Fox Classics" tvg-logo="" group-title="",TEST Fox Classics
+http://test.servicespcl.com:8000/live/test/test/2342.ts
+#EXTINF:-1 tvg-id="" tvg-name="TEST Fox Life" tvg-logo="" group-title="",TEST Fox Life
+http://test.servicespcl.com:8000/live/test/test/2341.ts
+#EXTINF:-1 tvg-id="" tvg-name="TEST Fox Movies" tvg-logo="" group-title="",TEST Fox Movies
+http://test.servicespcl.com:8000/live/test/test/2340.ts
+#EXTINF:-1 tvg-id="" tvg-name="TEST Fox SD" tvg-logo="" group-title="",TEST Fox SD
+http://test.servicespcl.com:8000/live/test/test/2339.ts
+#EXTINF:-1 tvg-id="" tvg-name="TEST Fox Sports" tvg-logo="" group-title="",TEST Fox Sports
+http://test.servicespcl.com:8000/live/test/test/2338.ts
+#EXTINF:-1 tvg-id="" tvg-name="TEST Fox Sports 2" tvg-logo="" group-title="",TEST Fox Sports 2
+http://test.servicespcl.com:8000/live/test/test/2337.ts
+#EXTINF:-1 tvg-id="" tvg-name="TEST Fox Sports Argentina HD" tvg-logo="" group-title="",TEST Fox Sports Argentina HD
+http://test.servicespcl.com:8000/live/test/test/2336.ts
+#EXTINF:-1 tvg-id="" tvg-name="TEST FOX SPORTS SUR" tvg-logo="" group-title="",TEST FOX SPORTS SUR
+http://test.servicespcl.com:8000/live/test/test/2335.ts
+#EXTINF:-1 tvg-id="" tvg-name="TEST Fox1" tvg-logo="" group-title="",TEST Fox1
+http://test.servicespcl.com:8000/live/test/test/2334.ts
+#EXTINF:-1 tvg-id="" tvg-name="TEST FX" tvg-logo="" group-title="",TEST FX
+http://test.servicespcl.com:8000/live/test/test/2333.ts
+#EXTINF:-1 tvg-id="" tvg-name="TEST FX SD" tvg-logo="" group-title="",TEST FX SD
+http://test.servicespcl.com:8000/live/test/test/2332.ts
+#EXTINF:-1 tvg-id="" tvg-name="TEST Gala TV" tvg-logo="" group-title="",TEST Gala TV
+http://test.servicespcl.com:8000/live/test/test/2331.ts
+#EXTINF:-1 tvg-id="" tvg-name="TEST Golden" tvg-logo="" group-title="",TEST Golden
+http://test.servicespcl.com:8000/live/test/test/2330.ts
+#EXTINF:-1 tvg-id="" tvg-name="TEST Golden Edge" tvg-logo="" group-title="",TEST Golden Edge
+http://test.servicespcl.com:8000/live/test/test/2329.ts
+#EXTINF:-1 tvg-id="" tvg-name="TEST H2" tvg-logo="" group-title="",TEST H2
+http://test.servicespcl.com:8000/live/test/test/2328.ts
+#EXTINF:-1 tvg-id="" tvg-name="TEST HBO 2" tvg-logo="" group-title="",TEST HBO 2
+http://test.servicespcl.com:8000/live/test/test/2327.ts
+#EXTINF:-1 tvg-id="" tvg-name="TEST HBO FAMILY" tvg-logo="" group-title="",TEST HBO FAMILY
+http://test.servicespcl.com:8000/live/test/test/2326.ts
+#EXTINF:-1 tvg-id="" tvg-name="TEST HBO OESTE" tvg-logo="" group-title="",TEST HBO OESTE
+http://test.servicespcl.com:8000/live/test/test/2325.ts
+#EXTINF:-1 tvg-id="" tvg-name="TEST HBO PLUS" tvg-logo="" group-title="",TEST HBO PLUS
+http://test.servicespcl.com:8000/live/test/test/2324.ts
+#EXTINF:-1 tvg-id="" tvg-name="TEST HBO PLUS OESTE" tvg-logo="" group-title="",TEST HBO PLUS OESTE
+http://test.servicespcl.com:8000/live/test/test/2323.ts
+#EXTINF:-1 tvg-id="" tvg-name="TEST HBO Signature" tvg-logo="" group-title="",TEST HBO Signature
+http://test.servicespcl.com:8000/live/test/test/2322.ts
+#EXTINF:-1 tvg-id="" tvg-name="TEST History" tvg-logo="" group-title="",TEST History
+http://test.servicespcl.com:8000/live/test/test/2321.ts
+#EXTINF:-1 tvg-id="" tvg-name="TEST Investigation Discovery" tvg-logo="" group-title="",TEST Investigation Discovery
+http://test.servicespcl.com:8000/live/test/test/2320.ts
+#EXTINF:-1 tvg-id="" tvg-name="TEST iSat" tvg-logo="" group-title="",TEST iSat
+http://test.servicespcl.com:8000/live/test/test/2319.ts
+#EXTINF:-1 tvg-id="" tvg-name="TEST Lifetime" tvg-logo="" group-title="",TEST Lifetime
+http://test.servicespcl.com:8000/live/test/test/2318.ts
+#EXTINF:-1 tvg-id="" tvg-name="TEST MAX Prime" tvg-logo="" group-title="",TEST MAX Prime
+http://test.servicespcl.com:8000/live/test/test/2317.ts
+#EXTINF:-1 tvg-id="" tvg-name="TEST MTV" tvg-logo="" group-title="",TEST MTV
+http://test.servicespcl.com:8000/live/test/test/2316.ts
+#EXTINF:-1 tvg-id="" tvg-name="TEST MTV hits" tvg-logo="" group-title="",TEST MTV hits
+http://test.servicespcl.com:8000/live/test/test/2315.ts
+#EXTINF:-1 tvg-id="" tvg-name="TEST MTV Live HD" tvg-logo="" group-title="",TEST MTV Live HD
+http://test.servicespcl.com:8000/live/test/test/2314.ts
+#EXTINF:-1 tvg-id="" tvg-name="TEST Multimedios" tvg-logo="" group-title="",TEST Multimedios
+http://test.servicespcl.com:8000/live/test/test/2313.ts
+#EXTINF:-1 tvg-id="" tvg-name="TEST NatGeo Wild" tvg-logo="" group-title="",TEST NatGeo Wild
+http://test.servicespcl.com:8000/live/test/test/2312.ts
+#EXTINF:-1 tvg-id="" tvg-name="TEST National Geographic Channel" tvg-logo="" group-title="",TEST National Geographic Channel
+http://test.servicespcl.com:8000/live/test/test/2311.ts
+#EXTINF:-1 tvg-id="" tvg-name="TEST Nick Jr" tvg-logo="" group-title="",TEST Nick Jr
+http://test.servicespcl.com:8000/live/test/test/2310.ts
+#EXTINF:-1 tvg-id="" tvg-name="TEST Nick2" tvg-logo="" group-title="",TEST Nick2
+http://test.servicespcl.com:8000/live/test/test/2309.ts
+#EXTINF:-1 tvg-id="" tvg-name="TEST Nickelodeon" tvg-logo="" group-title="",TEST Nickelodeon
+http://test.servicespcl.com:8000/live/test/test/2308.ts
+#EXTINF:-1 tvg-id="" tvg-name="TEST NickToons" tvg-logo="" group-title="",TEST NickToons
+http://test.servicespcl.com:8000/live/test/test/2307.ts
+#EXTINF:-1 tvg-id="" tvg-name="TEST Proyecto 40" tvg-logo="" group-title="",TEST Proyecto 40
+http://test.servicespcl.com:8000/live/test/test/2306.ts
+#EXTINF:-1 tvg-id="" tvg-name="TEST Ritmoson" tvg-logo="" group-title="",TEST Ritmoson
+http://test.servicespcl.com:8000/live/test/test/2305.ts
+#EXTINF:-1 tvg-id="" tvg-name="TEST Sony" tvg-logo="" group-title="",TEST Sony
+http://test.servicespcl.com:8000/live/test/test/2304.ts
+#EXTINF:-1 tvg-id="" tvg-name="TEST Space" tvg-logo="" group-title="",TEST Space
+http://test.servicespcl.com:8000/live/test/test/2303.ts
+#EXTINF:-1 tvg-id="" tvg-name="TEST Space SD" tvg-logo="" group-title="",TEST Space SD
+http://test.servicespcl.com:8000/live/test/test/2302.ts
+#EXTINF:-1 tvg-id="" tvg-name="TEST Studio Universal" tvg-logo="" group-title="",TEST Studio Universal
+http://test.servicespcl.com:8000/live/test/test/2301.ts
+#EXTINF:-1 tvg-id="" tvg-name="TEST SyFy" tvg-logo="" group-title="",TEST SyFy
+http://test.servicespcl.com:8000/live/test/test/2300.ts
+#EXTINF:-1 tvg-id="" tvg-name="TEST TBS" tvg-logo="" group-title="",TEST TBS
+http://test.servicespcl.com:8000/live/test/test/2299.ts
+#EXTINF:-1 tvg-id="" tvg-name="TEST TCM" tvg-logo="" group-title="",TEST TCM
+http://test.servicespcl.com:8000/live/test/test/2298.ts
+#EXTINF:-1 tvg-id="" tvg-name="TEST Teleformula" tvg-logo="" group-title="",TEST Teleformula
+http://test.servicespcl.com:8000/live/test/test/2297.ts
+#EXTINF:-1 tvg-id="" tvg-name="TEST Telehit" tvg-logo="" group-title="",TEST Telehit
+http://test.servicespcl.com:8000/live/test/test/2296.ts
+#EXTINF:-1 tvg-id="" tvg-name="TEST TIIN" tvg-logo="" group-title="",TEST TIIN
+http://test.servicespcl.com:8000/live/test/test/2295.ts
+#EXTINF:-1 tvg-id="" tvg-name="TEST TLC Discovery" tvg-logo="" group-title="",TEST TLC Discovery
+http://test.servicespcl.com:8000/live/test/test/2294.ts
+#EXTINF:-1 tvg-id="" tvg-name="TEST TLnovelas" tvg-logo="" group-title="",TEST TLnovelas
+http://test.servicespcl.com:8000/live/test/test/2293.ts
+#EXTINF:-1 tvg-id="" tvg-name="TEST TNT" tvg-logo="" group-title="",TEST TNT
+http://test.servicespcl.com:8000/live/test/test/2292.ts
+#EXTINF:-1 tvg-id="" tvg-name="TEST TNT SD" tvg-logo="" group-title="",TEST TNT SD
+http://test.servicespcl.com:8000/live/test/test/2291.ts
+#EXTINF:-1 tvg-id="" tvg-name="TEST TNT Series" tvg-logo="" group-title="",TEST TNT Series
+http://test.servicespcl.com:8000/live/test/test/2290.ts
+#EXTINF:-1 tvg-id="" tvg-name="TEST Tooncast" tvg-logo="" group-title="",TEST Tooncast
+http://test.servicespcl.com:8000/live/test/test/2289.ts
+#EXTINF:-1 tvg-id="" tvg-name="TEST Tru TV" tvg-logo="" group-title="",TEST Tru TV
+http://test.servicespcl.com:8000/live/test/test/2288.ts
+#EXTINF:-1 tvg-id="" tvg-name="TEST TVE Internacional" tvg-logo="" group-title="",TEST TVE Internacional
+http://test.servicespcl.com:8000/live/test/test/2287.ts
+#EXTINF:-1 tvg-id="" tvg-name="TEST UFC" tvg-logo="" group-title="",TEST UFC
+http://test.servicespcl.com:8000/live/test/test/2286.ts
+#EXTINF:-1 tvg-id="" tvg-name="TEST Unicable" tvg-logo="" group-title="",TEST Unicable
+http://test.servicespcl.com:8000/live/test/test/2285.ts
+#EXTINF:-1 tvg-id="" tvg-name="TEST Universal" tvg-logo="" group-title="",TEST Universal
+http://test.servicespcl.com:8000/live/test/test/2284.ts
+#EXTINF:-1 tvg-id="" tvg-name="TEST Universal Channel" tvg-logo="" group-title="",TEST Universal Channel
+http://test.servicespcl.com:8000/live/test/test/2283.ts
+#EXTINF:-1 tvg-id="" tvg-name="TEST UR: VTV HD" tvg-logo="" group-title="",TEST UR: VTV HD
+http://test.servicespcl.com:8000/live/test/test/2282.ts
+#EXTINF:-1 tvg-id="" tvg-name="TEST VH1" tvg-logo="" group-title="",TEST VH1
+http://test.servicespcl.com:8000/live/test/test/2281.ts
+#EXTINF:-1 tvg-id="" tvg-name="TEST VH1 Classics" tvg-logo="" group-title="",TEST VH1 Classics
+http://test.servicespcl.com:8000/live/test/test/2280.ts
+#EXTINF:-1 tvg-id="" tvg-name="TEST Warner Channel" tvg-logo="" group-title="",TEST Warner Channel
+http://test.servicespcl.com:8000/live/test/test/2279.ts
+http://?
+ lista 3mu
+ 
  
 Noticias
  
