@@ -127,9 +127,6 @@ http://iphone-streaming.ustream.tv/uhls/13870671/streams/live/iphone/playlist.m3
 #EXTINF:-1 tvg-logo="http://www.tvtechnology.com/Portals/0/CBSN%20logo%20thumbnail.png", CBS News HD
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_2200_av-b.m3u8?sd=10&rebase=on
 
-#EXTINF:-1, RT News HD
-http://rt-eng-live.hls.adaptive.level3.net/rt/eng/index.m3u8
-
 #EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/4/4c/TRT_World.png/revision/latest?cb=20151105004712" group-title="NOTICIAS - NEWS",TRT World HD
 http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 
@@ -138,6 +135,9 @@ http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.aljazeera.com/mritems/assets/images/aj-logo-lg.png",Al Jazeera HD
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index2073.m3u8
+
+#EXTINF:-1, RT News HD
+http://rt-eng-live.hls.adaptive.level3.net/rt/eng/index.m3u8
 
 #EXTINF:-1, RT News Español HD
 http://rt-esp-live.hls.adaptive.level3.net/rt/esp/index.m3u8
