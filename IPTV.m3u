@@ -64,11 +64,14 @@ http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/128/chunklist.
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/Music_Choice_logo.png",Pop Latino
 http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/123/chunklist.m3u8?textatu?iptv.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.tigomusic.co/sites/music.co/files/logo_music.png",TIGO MUSIC HD
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.canalmimusica.com/wp-content/uploads/2012/11/favicon.png",MI MUSICA HD
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8
+
 #EXTINF:-1 tvg-logo="http://online-red.com/images/tv/one-hd.png", One HD
 http://rtmp.one.by:1300/
-
-#EXTINF:-1 tvg-logo="https://cdn.firstonetv.eu/logos/ch/PILATUS_BEATZ.png",BEATZ TV HD
-http://rtmp.infomaniak.ch/livecast/beats_1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://1hd.ru/assets/site/images/logo.png",1 HD Music TV
 http://80.250.191.10:1935/live/hlsstream343/chunklist_w1569638556.m3u8
@@ -78,12 +81,6 @@ http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
 
 #EXTINF:-1, Heart TV HD
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.tigomusic.co/sites/music.co/files/logo_music.png",TIGO MUSIC HD
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.canalmimusica.com/wp-content/uploads/2012/11/favicon.png",MI MUSICA HD
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8
 
 #EXTINF:0, Radio Capital TV
 http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8
@@ -121,8 +118,11 @@ https://mdstrm.com/live-stream-playlist_900/58a36704896500b908cf1abe.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Logo_Azteca_13_HD_2007-2011.svg/150px-Logo_Azteca_13_HD_2007-2011.svg.png", Azteca 13
 http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8
 
-#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/doblaje/images/c/c7/04-frecuencia-latina.jpg/revision/latest?cb=20170105012516&path-prefix=es",LATINA HD
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/doblaje/images/c/c7/04-frecuencia-latina.jpg/revision/latest?cb=20170105012516&path-prefix=es",Latina
 http://cialive-live.hds.adaptive.level3.net/hls-live/ciaremux-live/_definst_/live/stream4.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.vivanicaragua.com.ni/wp-content/themes/vivanicaraguav3/imagenes/logo.png",Viva Canal 13
+http://iphone-streaming.ustream.tv/uhls/13870671/streams/live/iphone/playlist.m3u8?
 
 #EXTINF:-1 tvg-logo="http://www.tvtechnology.com/Portals/0/CBSN%20logo%20thumbnail.png", CBS News HD
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_2200_av-b.m3u8?sd=10&rebase=on
