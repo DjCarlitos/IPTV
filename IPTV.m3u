@@ -157,7 +157,7 @@ http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_es.m3u8
 #EXTINF:-1 tvg-logo="https://media.licdn.com/mpr/mpr/shrink_200_200/AAEAAQAAAAAAAAL7AAAAJDZmMzQyZjY5LWUxZTQtNDAyOS1iOGY0LTE0NzI0ZmU4MzM4NA.png", TyC Sports HD
 http://clairinlive-a.akamaihd.net/dc-1/live/hls/p/1885581/e/1_8xzo6fux/t/YO19xXbHgW_22sNZezlmTg/master.m3u8
 
-#EXTINF: -1 tvg-logo="http://d3niw2bnkfod0v.cloudfront.net/wp-content/uploads/2015/02/Logos-Files-Oct-2015_Page_04_2.png",ADSport 1 HD:
+#EXTINF: -1 tvg-logo="http://d3niw2bnkfod0v.cloudfront.net/wp-content/uploads/2015/02/Logos-Files-Oct-2015_Page_04_2.png",ADSport 1 HD
 http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8?Compartilhandolink
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/The_Olympic_Channel_Logo_2016.svg/2000px-The_Olympic_Channel_Logo_2016.svg.png", Olympic Channel HD
@@ -223,11 +223,11 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
 #EXTINF:0 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/f/f6/Trt-haberde-yeni-donem-10l.png/revision/latest?cb=20131119031433",TRT HABER HD
 http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/master.m3u8
 
-#EXTINF:0 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/9/9a/WDR_Fernsehen_HD.png/revision/latest?cb=20141110201119",WDR HD
-http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/master.m3u8
-
 #EXTINF:0,NDR HD
 http://ndr_fs-lh.akamaihd.net/i/ndrfs_nds@119224/index_3776_av-b.m3u8
+
+#EXTINF:0 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/9/9a/WDR_Fernsehen_HD.png/revision/latest?cb=20141110201119",WDR HD
+http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/master.m3u8
 
 #EXTINF:0 tvg-logo="https://photos.prnewswire.com/prnvar/20150526/219576LOGO", JASMIN.TV HD
 rtmp://109.71.162.112:1935/live/sd.jasminchannel.stream
