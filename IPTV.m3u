@@ -123,15 +123,15 @@ http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8?Compartilhandolink
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/The_Olympic_Channel_Logo_2016.svg/2000px-The_Olympic_Channel_Logo_2016.svg.png", Olympic Channel HD
 http://ocs-live.hls.adaptive.level3.net/ocs/channel01/NBC_OCS1_VIDEO_7_6064000.m3u8
 
-#EXTINF: -1 Grupo-title = "Streams", FS1 HD
+#EXTINF: -1 tvg-logo="http://2016.usopen.com/images/schedule/sponsor_fs1.jpg", FS1 HD
 http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/50.mpegts
-#EXTINF: -1 Grupo-title = "Streams", FS2 HD
+#EXTINF: -1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/c/c3/FS2_logo_png.png/revision/latest?cb=20150910154552", FS2 HD
 http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/51.mpegts
 #EXTINF: -1 Grupo-title = "Streams", CBS Sports Network HD
 http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/49.mpegts
-#EXTINF: -1 Grupo-title = "Streams", Sportsnet 360 HD
+#EXTINF: -1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/sn360.png", Sportsnet 360 HD
 http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/66.mpegts
-#EXTINF: -1 Grupo-title = "Streams", Sportsnet Pacific HD
+#EXTINF: -1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/d/d4/Sportsnet_pacific.png/revision/latest?cb=20120212023043", Sportsnet Pacific HD
 http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/67.mpegts
 #EXTINF: -1 Grupo-title = "Streams", NBA TV HD
 http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/52.mpegts
