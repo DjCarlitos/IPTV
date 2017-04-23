@@ -123,10 +123,16 @@ http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8?Compartilhandolink
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/The_Olympic_Channel_Logo_2016.svg/2000px-The_Olympic_Channel_Logo_2016.svg.png", Olympic Channel HD
 http://ocs-live.hls.adaptive.level3.net/ocs/channel01/NBC_OCS1_VIDEO_7_6064000.m3u8
 
-#EXTINF: -1 Grupo-title = "Streams", CBS Sports Network HD
-http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/49.mpegts
 #EXTINF: -1 Grupo-title = "Streams", FS1 HD
 http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/50.mpegts
+#EXTINF: -1 Grupo-title = "Streams", FS2 HD
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/51.mpegts
+#EXTINF: -1 Grupo-title = "Streams", CBS Sports Network HD
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/49.mpegts
+#EXTINF: -1 Grupo-title = "Streams", Sportsnet 360 HD
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/66.mpegts
+#EXTINF: -1 Grupo-title = "Streams", Sportsnet Pacific HD
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/67.mpegts
 #EXTINF: -1 Grupo-title = "Streams", NBA TV HD
 http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/52.mpegts
 #EXTINF: -1 Grupo-title = "Streams", MLB Network HD
@@ -135,112 +141,79 @@ http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/53.mpegts
 
 #EXTINF:0 tvg-logo="http://static.pac-12.com/images/logos/pac-12-network-logo.png", PAC-12 Network HD
 http://xrxs.net/video/live-p12netw-4728.m3u8
-
 #EXTINF:0 tvg-logo="http://static.pac-12.com/images/logos/pac-12-arizona-logo.png", PAC-12 Arizona HD
 http://xrxs.net/video/live-p12ariz-4728.m3u8
-
 #EXTINF:0 tvg-logo="http://static.pac-12.com/images/logos/pac-12-bayarea-logo.png", PAC-12 Bay Area HD
 http://xrxs.net/video/live-p12baya-4728.m3u8
-
 #EXTINF:0 tvg-logo="http://static.pac-12.com/images/logos/pac-12-losangeles-logo.png", PAC-12 Los Angeles HD
 http://xrxs.net/video/live-p12losa-4728.m3u8
-
 #EXTINF:0 tvg-logo="http://static.pac-12.com/images/logos/pac-12-mountain-logo.png", PAC-12 Mountain HD
 http://xrxs.net/video/live-p12moun-4728.m3u8
-
 #EXTINF:0 tvg-logo="http://static.pac-12.com/images/logos/pac-12-oregon-logo.png", PAC-12 Oregon HD
 http://xrxs.net/video/live-p12oreg-4728.m3u8
-
 #EXTINF:0 tvg-logo="http://static.pac-12.com/images/logos/pac-12-washington-logo.png", PAC-12 Washington HD
 http://xrxs.net/video/live-p12wash-4728.m3u8
 
 #EXTINF:0,Telemundo HD
 http://iphone-streaming.ustream.tv/uhls/22489838/streams/live/iphone/playlist.m3u8
-
 #EXTINF:-1, ABC Newscast HD
 http://abclive.abcnews.com/i/abc_live4@136330/index_4000_av-p.m3u8?sd=10&rebase=on
-
 #EXTINF:-1, Bloomberg HD
 http://cdn3.videos.bloomberg.com/btv/us/master.m3u8?b?b*t$
-
 #EXTINF:-1 tvg-logo="http://vegasat.ru/imgs/1443652102.png", RT Docu HD
 http://rt-doc-live.hls.adaptive.level3.net/rt/doc/index.m3u8
-
 #EXTINF:-1, Weather Channel HD
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
 
 #EXTINF:-1, Rai Movie HD
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
-
 #EXTINF:-1,Rai Gulp HD
 http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/index_1200_av-p.m3u8
-
 #EXTINF:-1,Rai Yoyo HD
 http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/index_1200_av-b.m3u8
-
 #EXTINF:-1 tvg-logo="http://www.tv-in-diretta.it/uploads/channels/9057_6666.png", Rai Premium
 http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1200_av-p.m3u8
-
 #EXTINF:-1,Rai News
 http://b2everyrai-lh.akamaihd.net/i/rainews_1@179616/index_1200_av-p.m3u8
 
 #EXTINF:0 tvg-logo="http://oklivetv.com/wp-content/uploads/2015/05/trt1hd_b.png",TRT 1 HD
 http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
-
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/Trt_cocuk.png",TRT COCUK HD
 http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
-
 #EXTINF:0 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/f/f6/Trt-haberde-yeni-donem-10l.png/revision/latest?cb=20131119031433",TRT HABER HD
 http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/master.m3u8
-
 #EXTINF:0,NDR HD
 http://ndr_fs-lh.akamaihd.net/i/ndrfs_nds@119224/index_3776_av-b.m3u8
-
 #EXTINF:0 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/9/9a/WDR_Fernsehen_HD.png/revision/latest?cb=20141110201119",WDR HD
 http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/master.m3u8
 
 #EXTINF:0 tvg-logo="https://photos.prnewswire.com/prnvar/20150526/219576LOGO", JASMIN.TV HD
 rtmp://109.71.162.112:1935/live/sd.jasminchannel.stream
-
 #EXTINF:-1, Miami TV HD
 http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8?
-
 #EXTINF:-1 tvg-logo="https://0.s3.envato.com/files/109789205/newVISITX.jpg", Visit-X TV HD
 http://stream.visit-x.tv/vxtv/live/playlist.m3u8?
-
 #EXTINF:-1 tvg-logo="http://ero-tv.org/wp-content/uploads/2014/08/babestation24.gif", BS24 Live
 http://de-origin-live.3qsdn.com:1935/2346/Ct6zG7Nrj3v2JxD/playlist.m3u8
-
 #EXTINF:-1, Playboy TV Asia
 http://edge1.everyon.tv:1935/etv1sb/phd10497/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://hd-report.com/wp-content/uploads/2011/01/penthouse-logo.jpg" group-title="XXX", Penthouse Asia
 http://edge1.everyon.tv:1935/etv1sb/phd10927/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://scontent.fscl7-1.fna.fbcdn.net/v/t1.0-9/10923386_792656464144641_759989137307820863_n.jpg?oh=6fb3e5ea073fbdb9c058415bffb54477&oe=592AF541", Honey TV
 http://edge1.everyon.tv:1935/etv1sb/phd10928/playlist.m3u8
-
 #EXTINF:0 tvg-logo="http://streamytv.net/wp-content/uploads/2014/10/Viki-Enjoy-Premium-HD.jpg", Viki Enjoy Premium
 http://edge1.everyon.tv:1935/etv1sb/phd10765/playlist.m3u8
-
 #EXTINF:0, Midnight
 http://edge1.everyon.tv:1935/etv1sb/phd10766/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://www.streamytv.net/wp-content/uploads/2014/10/Playy-19-TV-HD-300x187.jpg" group-title="XXX", Playy 19+
 http://edge2.everyon.tv:1935/etv2sb/phd10769/playlist.m3u8
-
 #EXTINF:0, Girls TV
 http://edge2.everyon.tv:1935/etv2sb/phd10501/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://live-tv.im/wp-content/uploads/2014/04/The-O-HD-Tv-125x90.gif", The O
 http://edge2.everyon.tv:1935/etv2sb/phd10771/playlist.m3u8
-
 #EXTINF:0 tvg-logo="http://1.bp.blogspot.com/-PtpA9jRY4lE/VK27qkoKX0I/AAAAAAAAC78/BFiXtMWDEQ0/w1200-h630-p-nu/But-GO-tv.jpg", But Go
 http://edge2.everyon.tv:1935/etv2sb/phd10772/playlist.m3u8
-
 #EXTINF:0 tvg-logo="http://www.sakuratv.com/sites/www.sakuratv.com/files/Sakura-TV_logo.png", Sakura TV
 http://edge2.everyon.tv:1935/etv2sb/phd10061/playlist.m3u8
-
 #EXTINF:-1, Spice TV
 http://edge2.everyon.tv:1935/etv2sb/phd10499/playlist.m3u8
-
