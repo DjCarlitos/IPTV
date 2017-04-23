@@ -114,6 +114,21 @@ http://aztecalive-lh.akamaihd.net/i/0pd7p6ys0_1@175672/index_3_av-p.m3u8
 #EXTINF:-1, EURONEWS Español
 http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_es.m3u8
 
+#EXTINF: -1 tvg-logo="http://2016.usopen.com/images/schedule/sponsor_fs1.jpg", FS1 HD
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/50.mpegts
+#EXTINF: -1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/c/c3/FS2_logo_png.png/revision/latest?cb=20150910154552", FS2 HD
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/51.mpegts
+#EXTINF: -1, NBCSN Overcast HD
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/48.mpegts
+#EXTINF: -1 Grupo-title = "Streams", CBS Sports Network HD
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/49.mpegts
+#EXTINF: -1 tvg-logo="http://www.sportsnet.ca/wp-content/themes/sportsnet-nhl/images/channels/black/sn360-full.svg", Sportsnet 360 HD
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/66.mpegts
+#EXTINF: -1 Grupo-title = "Streams", NBA TV Overcast HD
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/52.mpegts
+#EXTINF: -1 Grupo-title = "Streams", MLB Network HD
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/53.mpegts
+
 #EXTINF:-1 tvg-logo="https://media.licdn.com/mpr/mpr/shrink_200_200/AAEAAQAAAAAAAAL7AAAAJDZmMzQyZjY5LWUxZTQtNDAyOS1iOGY0LTE0NzI0ZmU4MzM4NA.png", TyC Sports HD
 http://clairinlive-a.akamaihd.net/dc-1/live/hls/p/1885581/e/1_8xzo6fux/t/YO19xXbHgW_22sNZezlmTg/master.m3u8
 #EXTINF: -1 tvg-logo="http://d3niw2bnkfod0v.cloudfront.net/wp-content/uploads/2015/02/Logos-Files-Oct-2015_Page_04_2.png",ADSports 1 HD
@@ -122,22 +137,6 @@ http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8?Compartilhandolink
 http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8?Compartilhandolink
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/The_Olympic_Channel_Logo_2016.svg/2000px-The_Olympic_Channel_Logo_2016.svg.png", Olympic Channel HD
 http://ocs-live.hls.adaptive.level3.net/ocs/channel01/NBC_OCS1_VIDEO_7_6064000.m3u8
-
-#EXTINF: -1 tvg-logo="http://2016.usopen.com/images/schedule/sponsor_fs1.jpg", FS1 HD
-http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/50.mpegts
-#EXTINF: -1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/c/c3/FS2_logo_png.png/revision/latest?cb=20150910154552", FS2 HD
-http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/51.mpegts
-#EXTINF: -1 Grupo-title = "Streams", CBS Sports Network HD
-http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/49.mpegts
-#EXTINF: -1 tvg-logo="http://www.sportsnet.ca/wp-content/themes/sportsnet-nhl/images/channels/black/sn360-full.svg", Sportsnet 360 HD
-http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/66.mpegts
-#EXTINF: -1 tvg-logo="http://www.sportsnet.ca/wp-content/themes/sportsnet-nhl/images/channels/black/snw.svg", Sportsnet Pacific HD
-http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/67.mpegts
-#EXTINF: -1 Grupo-title = "Streams", NBA TV HD
-http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/52.mpegts
-#EXTINF: -1 Grupo-title = "Streams", MLB Network HD
-http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/53.mpegts
-
 
 #EXTINF:0 tvg-logo="http://static.pac-12.com/images/logos/pac-12-network-logo.png", PAC-12 Network HD
 http://xrxs.net/video/live-p12netw-4728.m3u8
@@ -154,15 +153,15 @@ http://xrxs.net/video/live-p12oreg-4728.m3u8
 #EXTINF:0 tvg-logo="http://static.pac-12.com/images/logos/pac-12-washington-logo.png", PAC-12 Washington HD
 http://xrxs.net/video/live-p12wash-4728.m3u8
 
-#EXTINF:0,Telemundo HD
+#EXTINF:0, Telemundo Overcast HD
 http://iphone-streaming.ustream.tv/uhls/22489838/streams/live/iphone/playlist.m3u8
-#EXTINF:-1, ABC Newscast HD
+#EXTINF:0, ABC Newscast HD
 http://abclive.abcnews.com/i/abc_live4@136330/index_4000_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1, Bloomberg HD
+#EXTINF:0, Bloomberg HD
 http://cdn3.videos.bloomberg.com/btv/us/master.m3u8?b?b*t$
-#EXTINF:-1 tvg-logo="http://vegasat.ru/imgs/1443652102.png", RT Docu HD
+#EXTINF:0 tvg-logo="http://vegasat.ru/imgs/1443652102.png", RT Docu HD
 http://rt-doc-live.hls.adaptive.level3.net/rt/doc/index.m3u8
-#EXTINF:-1, Weather Channel HD
+#EXTINF:0, Weather Channel HD
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
 
 #EXTINF:-1, Rai Movie HD
