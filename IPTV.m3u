@@ -129,9 +129,9 @@ http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/50.mpegts
 http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/51.mpegts
 #EXTINF: -1 Grupo-title = "Streams", CBS Sports Network HD
 http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/49.mpegts
-#EXTINF: -1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/sn360.png", Sportsnet 360 HD
+#EXTINF: -1 tvg-logo="http://www.sportsnet.ca/wp-content/themes/sportsnet-nhl/images/channels/black/sn360-full.svg", Sportsnet 360 HD
 http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/66.mpegts
-#EXTINF: -1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/d/d4/Sportsnet_pacific.png/revision/latest?cb=20120212023043", Sportsnet Pacific HD
+#EXTINF: -1 tvg-logo="http://www.sportsnet.ca/wp-content/themes/sportsnet-nhl/images/channels/black/snw.svg", Sportsnet Pacific HD
 http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/67.mpegts
 #EXTINF: -1 Grupo-title = "Streams", NBA TV HD
 http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/52.mpegts
