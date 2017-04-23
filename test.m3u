@@ -1,4 +1,177 @@
 # EXTM3U
+#EXTINF: 0, [ES] ESTADOS UNIDOS EE.UU.
+#EXTINF: -1 Grupo-title = "Streams", NBC MUNDOIBOX.COM
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/1.mpegts
+#EXTINF: -1 Grupo-title = "Streams", A & E MUNDOIBOX.COM
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/2.mpegts
+#EXTINF: -1 Grupo-title = "Streams", AMC MUNDOIBOX.COM
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/3.mpegts
+#EXTINF: -1 Grupo-title = "Streams", ABC MUNDOIBOX.COM
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/4.mpegts
+#EXTINF: -1 Grupo-title = "Streams", E! MUNDOIBOX.COM
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/5.mpegts
+#EXTINF: -1 Grupo-title = "Streams", FOX MUNDOIBOX.COM
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/6.mpegts
+#EXTINF: -1 Grupo-title = "Streams", Syfy MUNDOIBOX.COM
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/7.mpegts
+#EXTINF: -1 Grupo-title = "Streams", Spike MUNDOIBOX.COM
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/8.mpegts
+#EXTINF: -1 Grupo-title = "Streams", TBS MUNDOIBOX.COM
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/9.mpegts
+#EXTINF: -1 Grupo-title = "Streams", TNT MUNDOIBOX.COM
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/10.mpegts
+#EXTINF: -1 Grupo-title = "Streams", LMN MUNDOIBOX.COM
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/12.mpegts
+#EXTINF: -1 Grupo-title = "Streams", Hallmark ChannelMUNDOIBOX.COM
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/13.mpegts
+#EXTINF: -1 Grupo-title = "Streams", truTV MUNDOIBOX.COM
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/14.mpegts
+#EXTINF: -1 Grupo-title = "Streams", PROPIO MUNDOIBOX.COM
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/15.mpegts
+#EXTINF: -1 Grupo-title = "Streams", BBC AMERICA MUNDOIBOX.COM
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/16.mpegts
+#EXTINF: -1 Grupo-title = "Streams", TV CIUDAD MUNDOIBOX.COM
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/17.mpegts
+#EXTINF: -1 Grupo-title = "Streams", CTV MUNDOIBOX.COM
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/18.mpegts
+#EXTINF: -1 Grupo-title = "Streams", central de la comedia
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/19.mpegts
+#EXTINF: -1 Grupo-title = "Streams", de por vida MUNDOIBOX.COM
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/20.mpegts
+#EXTINF: -1 Grupo-title = "Streams", CBC MUNDOIBOX.COM
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/21.mpegts
+#EXTINF: -1 Grupo-title = "Streams", HBO MUNDOIBOX.COM
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/22.mpegts
+#EXTINF: -1 Grupo-title = "Streams", HBO 2 MUNDOIBOX.COM
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/23.mpegts
+#EXTINF: -1 Grupo-title = "Streams", HBO COMEDIA MUNDOIBOX.COM
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/24.mpegts
+#EXTINF: -1 Grupo-title = "Streams", HBO ZONA MUNDOIBOX.COM
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/25.mpegts
+#EXTINF: -1 Grupo-title = "Streams", HBO FIRMA MUNDOIBOX.COM
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/26.mpegts
+#EXTINF: -1 Grupo-title = "Streams", HBO FAMILIA MUNDOIBOX.COM
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/27.mpegts
+#EXTINF: -1 Grupo-title = "Streams", Showtime MUNDOIBOX.COM
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/28.mpegts
+#EXTINF: -1 Grupo-title = "Streams", Showtime 2 MUNDOIBOX.COM
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/29.mpegts
+#EXTINF: -1 Grupo-title = "Streams", VITRINA SHOWTIME MUNDOIBOX.COM
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/30.mpegts
+#EXTINF: -1 Grupo-title = "Streams", Starz Medio MUNDOIBOX.COM
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/31.mpegts
+#EXTINF: -1 Grupo-title = "Streams", Starz West MUNDOIBOX.COM
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/32.mpegts
+#EXTINF: -1 Grupo-title = "Streams", Startz Edge MUNDOIBOX.COM
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/33.mpegts
+#EXTINF: -1 Grupo-title = "Streams", Starz Cine MUNDOIBOX.COM
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/34.mpegts
+#EXTINF: -1 Grupo-title = "Streams", Starz Encore MUNDOIBOX.COM
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/35.mpegts
+#EXTINF: -1 Grupo-title = "Streams", Starz Comedia MUNDOIBOX.COM
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/36.mpegts
+#EXTINF: -1 Grupo-title = "Streams", Starz N Negro MUNDOIBOX.COM
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/37.mpegts
+#EXTINF: -1 Grupo-title = "Streams", Starz Codificar Occidental
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/38.mpegts
+#EXTINF: -1 Grupo-title = "Streams", Cinemax Medio MUNDOIBOX.COM
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/39.mpegts
+#EXTINF: -1 Grupo-title = "Streams", Cinemax 5 StarMax MUNDOIBOX.COM
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/40.mpegts
+#EXTINF: -1 Grupo-title = "Streams", Cinemax ActionMax MUNDOIBOX.COM
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/41.mpegts
+#EXTINF: -1 Grupo-title = "Streams", Cinemax Moremax MUNDOIBOX.COM
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/42.mpegts
+#EXTINF: -1 Grupo-title = "Streams", espacio MUNDOIBOX.COM
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/43.mpegts
+#EXTINF: -1 Grupo-title = "Streams", el canal de pelÌculas MUNDOIBOX.COM
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/44.mpegts
+#EXTINF: -1 Grupo-title = "Streams", ESPN MUNDOIBOX.COM
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/45.mpegts
+#EXTINF: -1 Grupo-title = "Streams", ESPN 2 MUNDOIBOX.COM
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/46.mpegts
+#EXTINF: -1 Grupo-title = "Streams", ESPN NU MUNDOIBOX.COM
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/47.mpegts
+#EXTINF: -1 Grupo-title = "Streams", NBC SN MUNDOIBOX.COM
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/48.mpegts
+#EXTINF: -1 Grupo-title = "Streams", CBS SN MUNDOIBOX.COM
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/49.mpegts
+#EXTINF: -1 Grupo-title = "Streams", Fox Sports 1 MUNDOIBOX.COM
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/50.mpegts
+#EXTINF: -1 Grupo-title = "Streams", Fox Sports 2 MUNDOIBOX.COM
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/51.mpegts
+#EXTINF: -1 Grupo-title = "Streams", NBA TV MUNDOIBOX.COM
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/52.mpegts
+#EXTINF: -1 Grupo-title = "Streams", MLB Network MUNDOIBOX.COM
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/53.mpegts
+#EXTINF: -1 Grupo-title = "Streams", NFL Network MUNDOIBOX.COM
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/54.mpegts
+#EXTINF: -1 Grupo-title = "Streams", NFL Ahora MUNDOIBOX.COM
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/55.mpegts
+#EXTINF: -1 Grupo-title = "Streams", NHL MUNDOIBOX.COM
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/56.mpegts
+#EXTINF: -1 Grupo-title = "Streams", WWE Network MUNDOIBOX.COM
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/57.mpegts
+#EXTINF: -1 Grupo-title = "Streams", Tsn1 MUNDOIBOX.COM
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/58.mpegts
+#EXTINF: -1 Grupo-title = "Streams", TSN 2 MUNDOIBOX.COM
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/59.mpegts
+#EXTINF: -1 Grupo-title = "Streams", TSN 3 MUNDOIBOX.COM
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/60.mpegts
+#EXTINF: -1 Grupo-title = "Streams", TSN4 MUNDOIBOX.COM
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/61.mpegts
+#EXTINF: -1 Grupo-title = "Streams", TSN5 MUNDOIBOX.COM
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/62.mpegts
+#EXTINF: -1 Grupo-title = "Streams", SportsNet UNO MUNDOIBOX.COM
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/63.mpegts
+#EXTINF: -1 Grupo-title = "Streams", SportsNet ONTARIO MUNDOIBOX.COM
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/64.mpegts
+#EXTINF: -1 Grupo-title = "Streams", Sports World MUNDOIBOX.COM
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/65.mpegts
+#EXTINF: -1 Grupo-title = "Streams", Sportsnet 360 MUNDOIBOX.COM
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/66.mpegts
+#EXTINF: -1 Grupo-title = "Streams", SportsNet PACIFIC MUNDOIBOX.COM
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/67.mpegts
+#EXTINF: -1 Grupo-title = "Streams", CNN MUNDOIBOX.COM
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/68.mpegts
+#EXTINF: -1 Grupo-title = "Streams", CBC News MUNDOIBOX.COM
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/69.mpegts
+#EXTINF: -1 Grupo-title = "Streams", CNBC MUNDOIBOX.COM
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/70.mpegts
+#EXTINF: -1 Grupo-title = "Streams", MSNBC MUNDOIBOX.COM
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/71.mpegts
+#EXTINF: -1 Grupo-title = "Streams", FOX NEWS MUNDOIBOX.COM
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/72.mpegts
+#EXTINF: -1 Grupo-title = "Streams", ABC News MUNDOIBOX.COM
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/73.mpegts
+#EXTINF: -1 Grupo-title = "Streams", Fox Business MUNDOIBOX.COM
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/74.mpegts
+#EXTINF: -1 Grupo-title = "Streams", Historia MUNDOIBOX.COM
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/75.mpegts
+#EXTINF: -1 Grupo-title = "Streams", H2 MUNDOIBOX.COM
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/76.mpegts
+#EXTINF: -1 Grupo-title = "Streams" de National Geographic MUNDOIBOX.COM
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/77.mpegts
+#EXTINF: -1 Grupo-title = "Streams", Nat Geo Wild MUNDOIBOX.COM
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/78.mpegts
+#EXTINF: -1 Grupo-title = "Streams", Animal Planet MUNDOIBOX.COM
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/79.mpegts
+#EXTINF: -1 Grupo-title = "Streams", Investigation Discovery MUNDOIBOX.COM
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/80.mpegts
+#EXTINF: -1 Grupo-title = "Streams", Velocity MUNDOIBOX.COM
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/81.mpegts
+#EXTINF: -1 Grupo-title = "Streams", Amor Naturaleza MUNDOIBOX.COM
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/82.mpegts
+#EXTINF: -1 Grupo-title = "Streams", Food Network MUNDOIBOX.COM
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/83.mpegts
+#EXTINF: -1 Grupo-title = "Streams", HGTV MUNDOIBOX.COM
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/84.mpegts
+#EXTINF: -1 Grupo-title = "Streams", Red de bricolaje MUNDOIBOX.COM
+ http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/85.mpegts
+ Turn off the lights
+
+
+# EXTM3U
 #EXTINF: -1 Grupo-title = "Streams", E! MUNDOIBOX.COM
 http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/5.mpegts
 #EXTINF: -1 Grupo-title = "Streams", LMN MUNDOIBOX.COM
