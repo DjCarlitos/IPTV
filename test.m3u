@@ -1,8 +1,8 @@
 EXTM3U
  
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Logo_Latina_Television.jpg" ,LATINA
-http://cialive-live.hds.adaptive.level3.net/hls-live/ciaremux-live/_definst_/live/stream4.m3u8
- 
+#EXTINF:-1 tvg-logo="http://www.vivanicaragua.com.ni/wp-content/themes/vivanicaraguav3/imagenes/logo.png",Viva Canal 13
+http://iphone-streaming.ustream.tv/uhls/13870671/streams/live/iphone/playlist.m3u8? 
+
  
 #EXTINF:-1,Latino | A&E
 http://xcmain.mine.nu:8080/live/internal_stalker/internal_use/6319.ts
