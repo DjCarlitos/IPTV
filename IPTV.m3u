@@ -152,8 +152,6 @@ http://xrxs.net/video/live-p12oreg-4728.m3u8
 #EXTINF:0 tvg-logo="http://static.pac-12.com/images/logos/pac-12-washington-logo.png", PAC-12 Washington HD
 http://xrxs.net/video/live-p12wash-4728.m3u8
 
-#EXTINF:0, Telemundo Overcast HD
-http://iphone-streaming.ustream.tv/uhls/22489838/streams/live/iphone/playlist.m3u8
 #EXTINF:0, ABC Newscast HD
 http://abclive.abcnews.com/i/abc_live4@136330/index_4000_av-p.m3u8?sd=10&rebase=on
 #EXTINF:0, Bloomberg HD
