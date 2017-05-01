@@ -19,6 +19,27 @@ http://cl.origin.grupoz.cl/niutv/smil:live.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2730813661/c5c9113226a32210f58259626b68aa9d_400x400.png", Contivision Música HD
 http://wow2.cl.digitalproserver.com/contivisionmusica/contivisionmusicavivo/contivisionmusica.smil/playlist.m3u8
 
+#EXTINF:-1, Mega HD
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/509064688550694912/WY6A_PqH.jpeg", Neox HD
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
+#EXTINF:-1, NOVA HD
+http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_4_av-b.m3u8?sd=10&rebase=o
+#EXTINF:-1 tvg-logo="http://www.vertele.com/files/2015/11/atreserieslogo.jpg", ATRESERIES HD
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
+#EXTINF:-1, Antena 3 HD
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1, La Sexta HD
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Logo_Azteca_13_HD_2007-2011.svg/150px-Logo_Azteca_13_HD_2007-2011.svg.png", Azteca 13
+http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8
+#EXTINF:-1 tvg-logo="http://www.canalrcn.com/sites/default/files/logo-rcn_10_1.png",RCN
+https://mdstrm.com/live-stream-playlist_900/58a36704896500b908cf1abe.m3u8
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/doblaje/images/c/c7/04-frecuencia-latina.jpg/revision/latest?cb=20170105012516&path-prefix=es",Latina
+http://cialive-live.hds.adaptive.level3.net/hls-live/ciaremux-live/_definst_/live/stream4.m3u8
+#EXTINF:-1 tvg-logo="http://www.vivanicaragua.com.ni/wp-content/themes/vivanicaraguav3/imagenes/logo.png",Viva Canal 13
+http://iphone-streaming.ustream.tv/uhls/13870671/streams/live/iphone/playlist.m3u8?
+
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/Music_Choice_logo.png",Alternative
 http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/122/chunklist.m3u8?textatu?iptv.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/Music_Choice_logo.png",Brits + Hits
@@ -72,27 +93,6 @@ http://wow01.105.net/live/virgin1/.m3u8
 #EXTINF:-1 tvg-logo="http://www.unitedmusic.it/images/rmc_logo.png", Monte Carlo TV
 http://fms.105.net:1935/live/rmc1/playlist.m3u8
 
-#EXTINF:-1, Mega HD
-http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/509064688550694912/WY6A_PqH.jpeg", Neox HD
-http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
-#EXTINF:-1, NOVA HD
-http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_4_av-b.m3u8?sd=10&rebase=o
-#EXTINF:-1 tvg-logo="http://www.vertele.com/files/2015/11/atreserieslogo.jpg", ATRESERIES HD
-http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
-#EXTINF:-1, Antena 3 HD
-http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1, La Sexta HD
-http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8?sd=10&rebase=on
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Logo_Azteca_13_HD_2007-2011.svg/150px-Logo_Azteca_13_HD_2007-2011.svg.png", Azteca 13
-http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8
-#EXTINF:-1 tvg-logo="http://www.canalrcn.com/sites/default/files/logo-rcn_10_1.png",RCN
-https://mdstrm.com/live-stream-playlist_900/58a36704896500b908cf1abe.m3u8
-#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/doblaje/images/c/c7/04-frecuencia-latina.jpg/revision/latest?cb=20170105012516&path-prefix=es",Latina
-http://cialive-live.hds.adaptive.level3.net/hls-live/ciaremux-live/_definst_/live/stream4.m3u8
-#EXTINF:-1 tvg-logo="http://www.vivanicaragua.com.ni/wp-content/themes/vivanicaraguav3/imagenes/logo.png",Viva Canal 13
-http://iphone-streaming.ustream.tv/uhls/13870671/streams/live/iphone/playlist.m3u8?
-
 #EXTINF:-1 tvg-logo="http://www.tvtechnology.com/Portals/0/CBSN%20logo%20thumbnail.png" group-title="Noticias", CBS News HD
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_2200_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/4/4c/TRT_World.png/revision/latest?cb=20151105004712" group-title="Noticias",TRT World HD
@@ -113,37 +113,6 @@ http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_es.m3u8
 http://aztecalive-lh.akamaihd.net/i/0pd7p6ys0_1@175672/index_3_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Foro_TV_Logo_2015.png/220px-Foro_TV_Logo_2015.png" group-title="Noticias" group-title="Noticias",Foro TV
 http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/master.m3u8
-
-#EXTINF: -1 tvg-logo="http://2016.usopen.com/images/schedule/sponsor_fs1.jpg", FS1 HD
-http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/50.mpegts
-#EXTINF: -1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/c/c3/FS2_logo_png.png/revision/latest?cb=20150910154552", FS2 HD
-http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/51.mpegts
-#EXTINF: -1, ESPN HD
-http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/45.mpegts
-#EXTINF: -1, ESPN U HD
-http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/47.mpegts
-#EXTINF: -1, NBCSN Overcast HD
-http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/48.mpegts
-#EXTINF: -1, CBS Sports Network HD
-http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/49.mpegts
-#EXTINF: -1 tvg-logo="http://www.sportsnet.ca/wp-content/themes/sportsnet-nhl/images/channels/black/sn360-full.svg", Sportsnet 360 HD
-http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/66.mpegts
-#EXTINF: -1, TSN 1 HD
-http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/58.mpegts
-#EXTINF: -1, TSN 2 HD
-http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/59.mpegts
-#EXTINF: -1, TSN 3
-http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/60.mpegts
-#EXTINF: -1, TSN 4
-http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/61.mpegts
-#EXTINF: -1, TSN 5
-http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/62.mpegts
-#EXTINF: -1, NBA TV Overcast HD
-http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/52.mpegts
-#EXTINF: -1, MLB Network HD
-http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/53.mpegts
-#EXTINF: -1, WWE Network HD
-http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/57.mpegts
 
 #EXTINF:-1 tvg-logo="https://media.licdn.com/mpr/mpr/shrink_200_200/AAEAAQAAAAAAAAL7AAAAJDZmMzQyZjY5LWUxZTQtNDAyOS1iOGY0LTE0NzI0ZmU4MzM4NA.png", TyC Sports HD
 http://clairinlive-a.akamaihd.net/dc-1/live/hls/p/1885581/e/1_8xzo6fux/t/YO19xXbHgW_22sNZezlmTg/master.m3u8
