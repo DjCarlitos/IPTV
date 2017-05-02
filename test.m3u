@@ -1,5 +1,284 @@
 EXTM3U
  
+#EXTINF:-1 group-title="SERVER 2-clientportal" tvg-logo="http://exabytetv.info/img/icon.png",########   Spain   ########   (s-2)
+http://clientportal.link:8080/live/philip/philip/13304.m3u8
+#EXTINF:-1 group-title="SERVER 2-clientportal" tvg-logo="http://exabytetv.info/img/icon.png",#0 ES   (s-2)
+http://clientportal.link:8080/live/philip/philip/9411.m3u8
+#EXTINF:-1 group-title="SERVER 2-clientportal" tvg-logo="http://exabytetv.info/img/icon.png",#0 HD ES   (s-2)
+http://clientportal.link:8080/live/philip/philip/12734.m3u8
+#EXTINF:-1 group-title="SERVER 2-clientportal" tvg-logo="http://exabytetv.info/img/icon.png",40 TV ES   (s-2)
+http://clientportal.link:8080/live/philip/philip/5475.m3u8
+#EXTINF:-1 group-title="SERVER 2-clientportal" tvg-logo="http://exabytetv.info/img/icon.png",A&E ES   (s-2)
+http://clientportal.link:8080/live/philip/philip/5474.m3u8
+#EXTINF:-1 group-title="SERVER 2-clientportal" tvg-logo="http://exabytetv.info/img/icon.png",AMC ES   (s-2)
+http://clientportal.link:8080/live/philip/philip/9438.m3u8
+#EXTINF:-1 group-title="SERVER 2-clientportal" tvg-logo="http://exabytetv.info/img/icon.png",AMC HD ES   (s-2)
+http://clientportal.link:8080/live/philip/philip/12733.m3u8
+#EXTINF:-1 group-title="SERVER 2-clientportal" tvg-logo="http://exabytetv.info/img/icon.png",Animal Planet ES   (s-2)
+http://clientportal.link:8080/live/philip/philip/11606.m3u8
+#EXTINF:-1 group-title="SERVER 2-clientportal" tvg-logo="http://exabytetv.info/img/icon.png",Antena 3 ES   (s-2)
+http://clientportal.link:8080/live/philip/philip/5472.m3u8
+#EXTINF:-1 group-title="SERVER 2-clientportal" tvg-logo="http://exabytetv.info/img/icon.png",Antena 3 HD ES   (s-2)
+http://clientportal.link:8080/live/philip/philip/12732.m3u8
+#EXTINF:-1 group-title="SERVER 2-clientportal" tvg-logo="http://exabytetv.info/img/icon.png",Aragon TV ES   (s-2)
+http://clientportal.link:8080/live/philip/philip/9409.m3u8
+#EXTINF:-1 group-title="SERVER 2-clientportal" tvg-logo="http://exabytetv.info/img/icon.png",AXN ES   (s-2)
+http://clientportal.link:8080/live/philip/philip/5471.m3u8
+#EXTINF:-1 group-title="SERVER 2-clientportal" tvg-logo="http://exabytetv.info/img/icon.png",AXN HD ES   (s-2)
+http://clientportal.link:8080/live/philip/philip/12731.m3u8
+#EXTINF:-1 group-title="SERVER 2-clientportal" tvg-logo="http://exabytetv.info/img/icon.png",AXN White ES   (s-2)
+http://clientportal.link:8080/live/philip/philip/5470.m3u8
+#EXTINF:-1 group-title="SERVER 2-clientportal" tvg-logo="http://exabytetv.info/img/icon.png",AXN White HD ES   (s-2)
+http://clientportal.link:8080/live/philip/philip/12730.m3u8
+#EXTINF:-1 group-title="SERVER 2-clientportal" tvg-logo="http://exabytetv.info/img/icon.png",Baby TV ES   (s-2)
+http://clientportal.link:8080/live/philip/philip/9427.m3u8
+#EXTINF:-1 group-title="SERVER 2-clientportal" tvg-logo="http://exabytetv.info/img/icon.png",Barca TV ES   (s-2)
+http://clientportal.link:8080/live/philip/philip/5466.m3u8
+#EXTINF:-1 group-title="SERVER 2-clientportal" tvg-logo="http://exabytetv.info/img/icon.png",beIN LaLiga 1 HD ES   (s-2)
+http://clientportal.link:8080/live/philip/philip/13660.m3u8
+#EXTINF:-1 group-title="SERVER 2-clientportal" tvg-logo="http://exabytetv.info/img/icon.png",beIN SPORTS España ES   (s-2)
+http://clientportal.link:8080/live/philip/philip/9407.m3u8
+#EXTINF:-1 group-title="SERVER 2-clientportal" tvg-logo="http://exabytetv.info/img/icon.png",beIN SPORTS España HD ES   (s-2)
+http://clientportal.link:8080/live/philip/philip/12729.m3u8
+#EXTINF:-1 group-title="SERVER 2-clientportal" tvg-logo="http://exabytetv.info/img/icon.png",beIN SPORTS LaLiga HD ES   (s-2)
+http://clientportal.link:8080/live/philip/philip/12719.m3u8
+#EXTINF:-1 group-title="SERVER 2-clientportal" tvg-logo="http://exabytetv.info/img/icon.png",beIN SPORTS MAX 1 España HD ES   (s-2)
+http://clientportal.link:8080/live/philip/philip/13662.m3u8
+#EXTINF:-1 group-title="SERVER 2-clientportal" tvg-logo="http://exabytetv.info/img/icon.png",beIN SPORTS MAX 2 España HD ES   (s-2)
+http://clientportal.link:8080/live/philip/philip/13663.m3u8
+#EXTINF:-1 group-title="SERVER 2-clientportal" tvg-logo="http://exabytetv.info/img/icon.png",Boing ES   (s-2)
+http://clientportal.link:8080/live/philip/philip/9429.m3u8
+#EXTINF:-1 group-title="SERVER 2-clientportal" tvg-logo="http://exabytetv.info/img/icon.png",Calle 13 ES   (s-2)
+http://clientportal.link:8080/live/philip/philip/5469.m3u8
+#EXTINF:-1 group-title="SERVER 2-clientportal" tvg-logo="http://exabytetv.info/img/icon.png",Calle 13 HD ES   (s-2)
+http://clientportal.link:8080/live/philip/philip/12728.m3u8
+#EXTINF:-1 group-title="SERVER 2-clientportal" tvg-logo="http://exabytetv.info/img/icon.png",Canal+ Liga 2 ES   (s-2)
+http://clientportal.link:8080/live/philip/philip/9447.m3u8
+#EXTINF:-1 group-title="SERVER 2-clientportal" tvg-logo="http://exabytetv.info/img/icon.png",Canal 24 Horas ES   (s-2)
+http://clientportal.link:8080/live/philip/philip/9410.m3u8
+#EXTINF:-1 group-title="SERVER 2-clientportal" tvg-logo="http://exabytetv.info/img/icon.png",Canal Cocina ES   (s-2)
+http://clientportal.link:8080/live/philip/philip/5456.m3u8
+#EXTINF:-1 group-title="SERVER 2-clientportal" tvg-logo="http://exabytetv.info/img/icon.png",Canal Decasa ES   (s-2)
+http://clientportal.link:8080/live/philip/philip/5460.m3u8
+#EXTINF:-1 group-title="SERVER 2-clientportal" tvg-logo="http://exabytetv.info/img/icon.png",Canal Panda ES   (s-2)
+http://clientportal.link:8080/live/philip/philip/9418.m3u8
+#EXTINF:-1 group-title="SERVER 2-clientportal" tvg-logo="http://exabytetv.info/img/icon.png",Canal Sur Andalucia ES   (s-2)
+http://clientportal.link:8080/live/philip/philip/5467.m3u8
+#EXTINF:-1 group-title="SERVER 2-clientportal" tvg-logo="http://exabytetv.info/img/icon.png",Caza y Pesca ES   (s-2)
+http://clientportal.link:8080/live/philip/philip/9426.m3u8
+#EXTINF:-1 group-title="SERVER 2-clientportal" tvg-logo="http://exabytetv.info/img/icon.png",Caza y Pesca HD ES   (s-2)
+http://clientportal.link:8080/live/philip/philip/13659.m3u8
+#EXTINF:-1 group-title="SERVER 2-clientportal" tvg-logo="http://exabytetv.info/img/icon.png",Clan TVE ES   (s-2)
+http://clientportal.link:8080/live/philip/philip/9428.m3u8
+#EXTINF:-1 group-title="SERVER 2-clientportal" tvg-logo="http://exabytetv.info/img/icon.png",CLASSICA ES   (s-2)
+http://clientportal.link:8080/live/philip/philip/9437.m3u8
+#EXTINF:-1 group-title="SERVER 2-clientportal" tvg-logo="http://exabytetv.info/img/icon.png",Comedy Central ES   (s-2)
+http://clientportal.link:8080/live/philip/philip/9420.m3u8
+#EXTINF:-1 group-title="SERVER 2-clientportal" tvg-logo="http://exabytetv.info/img/icon.png",Comedy Central HD ES   (s-2)
+http://clientportal.link:8080/live/philip/philip/12711.m3u8
+#EXTINF:-1 group-title="SERVER 2-clientportal" tvg-logo="http://exabytetv.info/img/icon.png",Cosmo ES   (s-2)
+http://clientportal.link:8080/live/philip/philip/5473.m3u8
+#EXTINF:-1 group-title="SERVER 2-clientportal" tvg-logo="http://exabytetv.info/img/icon.png",Cosmo HD ES   (s-2)
+http://clientportal.link:8080/live/philip/philip/12710.m3u8
+#EXTINF:-1 group-title="SERVER 2-clientportal" tvg-logo="http://exabytetv.info/img/icon.png",Crimen & Investigacion ES   (s-2)
+http://clientportal.link:8080/live/philip/philip/9433.m3u8
+#EXTINF:-1 group-title="SERVER 2-clientportal" tvg-logo="http://exabytetv.info/img/icon.png",Cuatro ES   (s-2)
+http://clientportal.link:8080/live/philip/philip/5464.m3u8
+#EXTINF:-1 group-title="SERVER 2-clientportal" tvg-logo="http://exabytetv.info/img/icon.png",Cuatro HD ES   (s-2)
+http://clientportal.link:8080/live/philip/philip/12709.m3u8
+#EXTINF:-1 group-title="SERVER 2-clientportal" tvg-logo="http://exabytetv.info/img/icon.png",Discovery Channel ES   (s-2)
+http://clientportal.link:8080/live/philip/philip/5448.m3u8
+#EXTINF:-1 group-title="SERVER 2-clientportal" tvg-logo="http://exabytetv.info/img/icon.png",Disney Channel ES   (s-2)
+http://clientportal.link:8080/live/philip/philip/5446.m3u8
+#EXTINF:-1 group-title="SERVER 2-clientportal" tvg-logo="http://exabytetv.info/img/icon.png",Disney Channel HD ES   (s-2)
+http://clientportal.link:8080/live/philip/philip/12708.m3u8
+#EXTINF:-1 group-title="SERVER 2-clientportal" tvg-logo="http://exabytetv.info/img/icon.png",Disney Junior ES   (s-2)
+http://clientportal.link:8080/live/philip/philip/9431.m3u8
+#EXTINF:-1 group-title="SERVER 2-clientportal" tvg-logo="http://exabytetv.info/img/icon.png",Disney XD ES   (s-2)
+http://clientportal.link:8080/live/philip/philip/9430.m3u8
+#EXTINF:-1 group-title="SERVER 2-clientportal" tvg-logo="http://exabytetv.info/img/icon.png",Divinity ES   (s-2)
+http://clientportal.link:8080/live/philip/philip/9442.m3u8
+#EXTINF:-1 group-title="SERVER 2-clientportal" tvg-logo="http://exabytetv.info/img/icon.png",Energy ES   (s-2)
+http://clientportal.link:8080/live/philip/philip/9440.m3u8
+#EXTINF:-1 group-title="SERVER 2-clientportal" tvg-logo="http://exabytetv.info/img/icon.png",Eurosport 1 ES   (s-2)
+http://clientportal.link:8080/live/philip/philip/5410.m3u8
+#EXTINF:-1 group-title="SERVER 2-clientportal" tvg-logo="http://exabytetv.info/img/icon.png",Eurosport 1 HD ES   (s-2)
+http://clientportal.link:8080/live/philip/philip/12707.m3u8
+#EXTINF:-1 group-title="SERVER 2-clientportal" tvg-logo="http://exabytetv.info/img/icon.png",FDF ES   (s-2)
+http://clientportal.link:8080/live/philip/philip/9434.m3u8
+#EXTINF:-1 group-title="SERVER 2-clientportal" tvg-logo="http://exabytetv.info/img/icon.png",FOX ES   (s-2)
+http://clientportal.link:8080/live/philip/philip/5442.m3u8
+#EXTINF:-1 group-title="SERVER 2-clientportal" tvg-logo="http://exabytetv.info/img/icon.png",FOX HD ES   (s-2)
+http://clientportal.link:8080/live/philip/philip/13661.m3u8
+#EXTINF:-1 group-title="SERVER 2-clientportal" tvg-logo="http://exabytetv.info/img/icon.png",FOX Life ES   (s-2)
+http://clientportal.link:8080/live/philip/philip/5439.m3u8
+#EXTINF:-1 group-title="SERVER 2-clientportal" tvg-logo="http://exabytetv.info/img/icon.png",Fox Life HD ES   (s-2)
+http://clientportal.link:8080/live/philip/philip/12706.m3u8
+#EXTINF:-1 group-title="SERVER 2-clientportal" tvg-logo="http://exabytetv.info/img/icon.png",FOX News ES   (s-2)
+http://clientportal.link:8080/live/philip/philip/9443.m3u8
+#EXTINF:-1 group-title="SERVER 2-clientportal" tvg-logo="http://exabytetv.info/img/icon.png",Gol T ES   (s-2)
+http://clientportal.link:8080/live/philip/philip/9416.m3u8
+#EXTINF:-1 group-title="SERVER 2-clientportal" tvg-logo="http://exabytetv.info/img/icon.png",Historia ES   (s-2)
+http://clientportal.link:8080/live/philip/philip/9425.m3u8
+#EXTINF:-1 group-title="SERVER 2-clientportal" tvg-logo="http://exabytetv.info/img/icon.png",Hit TV ES   (s-2)
+http://clientportal.link:8080/live/philip/philip/9435.m3u8
+#EXTINF:-1 group-title="SERVER 2-clientportal" tvg-logo="http://exabytetv.info/img/icon.png",Hollywood ES   (s-2)
+http://clientportal.link:8080/live/philip/philip/5428.m3u8
+#EXTINF:-1 group-title="SERVER 2-clientportal" tvg-logo="http://exabytetv.info/img/icon.png",Hollywood HD ES   (s-2)
+http://clientportal.link:8080/live/philip/philip/12705.m3u8
+#EXTINF:-1 group-title="SERVER 2-clientportal" tvg-logo="http://exabytetv.info/img/icon.png",Iberalia TV ES   (s-2)
+http://clientportal.link:8080/live/philip/philip/9408.m3u8
+#EXTINF:-1 group-title="SERVER 2-clientportal" tvg-logo="http://exabytetv.info/img/icon.png",La 1 ES   (s-2)
+http://clientportal.link:8080/live/philip/philip/9404.m3u8
+#EXTINF:-1 group-title="SERVER 2-clientportal" tvg-logo="http://exabytetv.info/img/icon.png",La 1 HD ES   (s-2)
+http://clientportal.link:8080/live/philip/philip/12704.m3u8
+#EXTINF:-1 group-title="SERVER 2-clientportal" tvg-logo="http://exabytetv.info/img/icon.png",La 2 ES   (s-2)
+http://clientportal.link:8080/live/philip/philip/9405.m3u8
+#EXTINF:-1 group-title="SERVER 2-clientportal" tvg-logo="http://exabytetv.info/img/icon.png",LaLiga TV Bar ES   (s-2)
+http://clientportal.link:8080/live/philip/philip/5457.m3u8
+#EXTINF:-1 group-title="SERVER 2-clientportal" tvg-logo="http://exabytetv.info/img/icon.png",LaLiga TV Bar HD ES   (s-2)
+http://clientportal.link:8080/live/philip/philip/12718.m3u8
+#EXTINF:-1 group-title="SERVER 2-clientportal" tvg-logo="http://exabytetv.info/img/icon.png",La Sexta ES   (s-2)
+http://clientportal.link:8080/live/philip/philip/9406.m3u8
+#EXTINF:-1 group-title="SERVER 2-clientportal" tvg-logo="http://exabytetv.info/img/icon.png",La Sexta HD ES   (s-2)
+http://clientportal.link:8080/live/philip/philip/12703.m3u8
+#EXTINF:-1 group-title="SERVER 2-clientportal" tvg-logo="http://exabytetv.info/img/icon.png",LTC ES   (s-2)
+http://clientportal.link:8080/live/philip/philip/9439.m3u8
+#EXTINF:-1 group-title="SERVER 2-clientportal" tvg-logo="http://exabytetv.info/img/icon.png",Mega HD ES   (s-2)
+http://clientportal.link:8080/live/philip/philip/16262.m3u8
+#EXTINF:-1 group-title="SERVER 2-clientportal" tvg-logo="http://exabytetv.info/img/icon.png",Mezzo Live HD ES   (s-2)
+http://clientportal.link:8080/live/philip/philip/12702.m3u8
+#EXTINF:-1 group-title="SERVER 2-clientportal" tvg-logo="http://exabytetv.info/img/icon.png",Movistar Acción ES   (s-2)
+http://clientportal.link:8080/live/philip/philip/5463.m3u8
+#EXTINF:-1 group-title="SERVER 2-clientportal" tvg-logo="http://exabytetv.info/img/icon.png",Movistar Acción HD ES   (s-2)
+http://clientportal.link:8080/live/philip/philip/12727.m3u8
+#EXTINF:-1 group-title="SERVER 2-clientportal" tvg-logo="http://exabytetv.info/img/icon.png",Movistar Cine Ñ ES   (s-2)
+http://clientportal.link:8080/live/philip/philip/5411.m3u8
+#EXTINF:-1 group-title="SERVER 2-clientportal" tvg-logo="http://exabytetv.info/img/icon.png",Movistar Comedia ES   (s-2)
+http://clientportal.link:8080/live/philip/philip/5462.m3u8
+#EXTINF:-1 group-title="SERVER 2-clientportal" tvg-logo="http://exabytetv.info/img/icon.png",Movistar Comedia HD ES   (s-2)
+http://clientportal.link:8080/live/philip/philip/12726.m3u8
+#EXTINF:-1 group-title="SERVER 2-clientportal" tvg-logo="http://exabytetv.info/img/icon.png",Movistar DCine ES   (s-2)
+http://clientportal.link:8080/live/philip/philip/5461.m3u8
+#EXTINF:-1 group-title="SERVER 2-clientportal" tvg-logo="http://exabytetv.info/img/icon.png",Movistar DCine HD ES   (s-2)
+http://clientportal.link:8080/live/philip/philip/12725.m3u8
+#EXTINF:-1 group-title="SERVER 2-clientportal" tvg-logo="http://exabytetv.info/img/icon.png",Movistar Deportes 1 ES   (s-2)
+http://clientportal.link:8080/live/philip/philip/5465.m3u8
+#EXTINF:-1 group-title="SERVER 2-clientportal" tvg-logo="http://exabytetv.info/img/icon.png",Movistar Deportes 1 HD ES   (s-2)
+http://clientportal.link:8080/live/philip/philip/12723.m3u8
+#EXTINF:-1 group-title="SERVER 2-clientportal" tvg-logo="http://exabytetv.info/img/icon.png",Movistar Deportes 2 ES   (s-2)
+http://clientportal.link:8080/live/philip/philip/9419.m3u8
+#EXTINF:-1 group-title="SERVER 2-clientportal" tvg-logo="http://exabytetv.info/img/icon.png",Movistar Deportes 2 HD ES   (s-2)
+http://clientportal.link:8080/live/philip/philip/12724.m3u8
+#EXTINF:-1 group-title="SERVER 2-clientportal" tvg-logo="http://exabytetv.info/img/icon.png",Movistar Estrenos ES   (s-2)
+http://clientportal.link:8080/live/philip/philip/9415.m3u8
+#EXTINF:-1 group-title="SERVER 2-clientportal" tvg-logo="http://exabytetv.info/img/icon.png",Movistar Estrenos HD ES   (s-2)
+http://clientportal.link:8080/live/philip/philip/12722.m3u8
+#EXTINF:-1 group-title="SERVER 2-clientportal" tvg-logo="http://exabytetv.info/img/icon.png",Movistar Formula 1 ES   (s-2)
+http://clientportal.link:8080/live/philip/philip/5445.m3u8
+#EXTINF:-1 group-title="SERVER 2-clientportal" tvg-logo="http://exabytetv.info/img/icon.png",Movistar Formula 1 HD ES   (s-2)
+http://clientportal.link:8080/live/philip/philip/12701.m3u8
+#EXTINF:-1 group-title="SERVER 2-clientportal" tvg-logo="http://exabytetv.info/img/icon.png",Movistar Fútbol ES   (s-2)
+http://clientportal.link:8080/live/philip/philip/5459.m3u8
+#EXTINF:-1 group-title="SERVER 2-clientportal" tvg-logo="http://exabytetv.info/img/icon.png",Movistar Fútbol HD ES   (s-2)
+http://clientportal.link:8080/live/philip/philip/12721.m3u8
+#EXTINF:-1 group-title="SERVER 2-clientportal" tvg-logo="http://exabytetv.info/img/icon.png",Movistar Golf ES   (s-2)
+http://clientportal.link:8080/live/philip/philip/5458.m3u8
+#EXTINF:-1 group-title="SERVER 2-clientportal" tvg-logo="http://exabytetv.info/img/icon.png",Movistar Golf HD ES   (s-2)
+http://clientportal.link:8080/live/philip/philip/12720.m3u8
+#EXTINF:-1 group-title="SERVER 2-clientportal" tvg-logo="http://exabytetv.info/img/icon.png",Movistar MotoGP ES   (s-2)
+http://clientportal.link:8080/live/philip/philip/5436.m3u8
+#EXTINF:-1 group-title="SERVER 2-clientportal" tvg-logo="http://exabytetv.info/img/icon.png",Movistar MotoGP HD ES   (s-2)
+http://clientportal.link:8080/live/philip/philip/12700.m3u8
+#EXTINF:-1 group-title="SERVER 2-clientportal" tvg-logo="http://exabytetv.info/img/icon.png",Movistar Partidazo ES   (s-2)
+http://clientportal.link:8080/live/philip/philip/5447.m3u8
+#EXTINF:-1 group-title="SERVER 2-clientportal" tvg-logo="http://exabytetv.info/img/icon.png",Movistar Partidazo HD ES   (s-2)
+http://clientportal.link:8080/live/philip/philip/12716.m3u8
+#EXTINF:-1 group-title="SERVER 2-clientportal" tvg-logo="http://exabytetv.info/img/icon.png",Movistar Series ES   (s-2)
+http://clientportal.link:8080/live/philip/philip/9413.m3u8
+#EXTINF:-1 group-title="SERVER 2-clientportal" tvg-logo="http://exabytetv.info/img/icon.png",Movistar Series HD ES   (s-2)
+http://clientportal.link:8080/live/philip/philip/13664.m3u8
+#EXTINF:-1 group-title="SERVER 2-clientportal" tvg-logo="http://exabytetv.info/img/icon.png",Movistar Series Xtra ES   (s-2)
+http://clientportal.link:8080/live/philip/philip/9414.m3u8
+#EXTINF:-1 group-title="SERVER 2-clientportal" tvg-logo="http://exabytetv.info/img/icon.png",Movistar Series Xtra HD ES   (s-2)
+http://clientportal.link:8080/live/philip/philip/12714.m3u8
+#EXTINF:-1 group-title="SERVER 2-clientportal" tvg-logo="http://exabytetv.info/img/icon.png",Movistar Xtra ES   (s-2)
+http://clientportal.link:8080/live/philip/philip/9412.m3u8
+#EXTINF:-1 group-title="SERVER 2-clientportal" tvg-logo="http://exabytetv.info/img/icon.png",Movistar Xtra HD ES   (s-2)
+http://clientportal.link:8080/live/philip/philip/12712.m3u8
+#EXTINF:-1 group-title="SERVER 2-clientportal" tvg-logo="http://exabytetv.info/img/icon.png",MTV ES   (s-2)
+http://clientportal.link:8080/live/philip/philip/9448.m3u8
+#EXTINF:-1 group-title="SERVER 2-clientportal" tvg-logo="http://exabytetv.info/img/icon.png",MTV ROCKS ES   (s-2)
+http://clientportal.link:8080/live/philip/philip/9444.m3u8
+#EXTINF:-1 group-title="SERVER 2-clientportal" tvg-logo="http://exabytetv.info/img/icon.png",Nat Geo HD ES   (s-2)
+http://clientportal.link:8080/live/philip/philip/9441.m3u8
+#EXTINF:-1 group-title="SERVER 2-clientportal" tvg-logo="http://exabytetv.info/img/icon.png",Nat Geo Wild ES   (s-2)
+http://clientportal.link:8080/live/philip/philip/5476.m3u8
+#EXTINF:-1 group-title="SERVER 2-clientportal" tvg-logo="http://exabytetv.info/img/icon.png",Nat Geo Wild HD ES   (s-2)
+http://clientportal.link:8080/live/philip/philip/12698.m3u8
+#EXTINF:-1 group-title="SERVER 2-clientportal" tvg-logo="http://exabytetv.info/img/icon.png",National Geographic ES   (s-2)
+http://clientportal.link:8080/live/philip/philip/5455.m3u8
+#EXTINF:-1 group-title="SERVER 2-clientportal" tvg-logo="http://exabytetv.info/img/icon.png",National Geographic HD ES   (s-2)
+http://clientportal.link:8080/live/philip/philip/12699.m3u8
+#EXTINF:-1 group-title="SERVER 2-clientportal" tvg-logo="http://exabytetv.info/img/icon.png",Neox ES   (s-2)
+http://clientportal.link:8080/live/philip/philip/9421.m3u8
+#EXTINF:-1 group-title="SERVER 2-clientportal" tvg-logo="http://exabytetv.info/img/icon.png",Nickelodeon ES   (s-2)
+http://clientportal.link:8080/live/philip/philip/14248.m3u8
+#EXTINF:-1 group-title="SERVER 2-clientportal" tvg-logo="http://exabytetv.info/img/icon.png",Nickelodeon HD ES   (s-2)
+http://clientportal.link:8080/live/philip/philip/12697.m3u8
+#EXTINF:-1 group-title="SERVER 2-clientportal" tvg-logo="http://exabytetv.info/img/icon.png",Nick Jr. ES   (s-2)
+http://clientportal.link:8080/live/philip/philip/14247.m3u8
+#EXTINF:-1 group-title="SERVER 2-clientportal" tvg-logo="http://exabytetv.info/img/icon.png",Nova ES   (s-2)
+http://clientportal.link:8080/live/philip/philip/9422.m3u8
+#EXTINF:-1 group-title="SERVER 2-clientportal" tvg-logo="http://exabytetv.info/img/icon.png",Odisea ES   (s-2)
+http://clientportal.link:8080/live/philip/philip/9417.m3u8
+#EXTINF:-1 group-title="SERVER 2-clientportal" tvg-logo="http://exabytetv.info/img/icon.png",Paramount Channel ES   (s-2)
+http://clientportal.link:8080/live/philip/philip/9446.m3u8
+#EXTINF:-1 group-title="SERVER 2-clientportal" tvg-logo="http://exabytetv.info/img/icon.png",Real Madrid TV ES   (s-2)
+http://clientportal.link:8080/live/philip/philip/5420.m3u8
+#EXTINF:-1 group-title="SERVER 2-clientportal" tvg-logo="http://exabytetv.info/img/icon.png",Sol Musica ES   (s-2)
+http://clientportal.link:8080/live/philip/philip/9432.m3u8
+#EXTINF:-1 group-title="SERVER 2-clientportal" tvg-logo="http://exabytetv.info/img/icon.png",Syfy ES   (s-2)
+http://clientportal.link:8080/live/philip/philip/5417.m3u8
+#EXTINF:-1 group-title="SERVER 2-clientportal" tvg-logo="http://exabytetv.info/img/icon.png",Syfy HD ES   (s-2)
+http://clientportal.link:8080/live/philip/philip/12696.m3u8
+#EXTINF:-1 group-title="SERVER 2-clientportal" tvg-logo="http://exabytetv.info/img/icon.png",Taquilla 1 HD ES   (s-2)
+http://clientportal.link:8080/live/philip/philip/15615.m3u8
+#EXTINF:-1 group-title="SERVER 2-clientportal" tvg-logo="http://exabytetv.info/img/icon.png",Taquilla 2 HD ES   (s-2)
+http://clientportal.link:8080/live/philip/philip/15616.m3u8
+#EXTINF:-1 group-title="SERVER 2-clientportal" tvg-logo="http://exabytetv.info/img/icon.png",Taquilla 3 HD ES   (s-2)
+http://clientportal.link:8080/live/philip/philip/15617.m3u8
+#EXTINF:-1 group-title="SERVER 2-clientportal" tvg-logo="http://exabytetv.info/img/icon.png",Taquilla 4 HD ES   (s-2)
+http://clientportal.link:8080/live/philip/philip/15618.m3u8
+#EXTINF:-1 group-title="SERVER 2-clientportal" tvg-logo="http://exabytetv.info/img/icon.png",Taquilla 5 HD ES   (s-2)
+http://clientportal.link:8080/live/philip/philip/15619.m3u8
+#EXTINF:-1 group-title="SERVER 2-clientportal" tvg-logo="http://exabytetv.info/img/icon.png",Taquilla 6 HD ES   (s-2)
+http://clientportal.link:8080/live/philip/philip/15620.m3u8
+#EXTINF:-1 group-title="SERVER 2-clientportal" tvg-logo="http://exabytetv.info/img/icon.png",TCM ES   (s-2)
+http://clientportal.link:8080/live/philip/philip/9445.m3u8
+#EXTINF:-1 group-title="SERVER 2-clientportal" tvg-logo="http://exabytetv.info/img/icon.png",TCM HD ES   (s-2)
+http://clientportal.link:8080/live/philip/philip/12695.m3u8
+#EXTINF:-1 group-title="SERVER 2-clientportal" tvg-logo="http://exabytetv.info/img/icon.png",Telecinco ES   (s-2)
+http://clientportal.link:8080/live/philip/philip/5415.m3u8
+#EXTINF:-1 group-title="SERVER 2-clientportal" tvg-logo="http://exabytetv.info/img/icon.png",Telecinco HD ES   (s-2)
+http://clientportal.link:8080/live/philip/philip/12694.m3u8
+#EXTINF:-1 group-title="SERVER 2-clientportal" tvg-logo="http://exabytetv.info/img/icon.png",Teledeporte ES   (s-2)
+http://clientportal.link:8080/live/philip/philip/5414.m3u8
+#EXTINF:-1 group-title="SERVER 2-clientportal" tvg-logo="http://exabytetv.info/img/icon.png",TNT ES   (s-2)
+http://clientportal.link:8080/live/philip/philip/9423.m3u8
+#EXTINF:-1 group-title="SERVER 2-clientportal" tvg-logo="http://exabytetv.info/img/icon.png",TNT HD ES   (s-2)
+http://clientportal.link:8080/live/philip/philip/12693.m3u8
+#EXTINF:-1 group-title="SERVER 2-clientportal" tvg-logo="http://exabytetv.info/img/icon.png",Toros TV ES   (s-2)
+http://clientportal.link:8080/live/philip/philip/5437.m3u8
+#EXTINF:-1 group-title="SERVER 2-clientportal" tvg-logo="http://exabytetv.info/img/icon.png",Toros TV HD ES   (s-2)
+http://clientportal.link:8080/live/philip/philip/12713.m3u8
+#EXTINF:-1 group-title="SERVER 2-clientportal" tvg-logo="http://exabytetv.info/img/icon.png",TV3 Catalunya ES   (s-2)
+http://clientportal.link:8080/live/philip/philip/9436.m3u8
+#EXTINF:-1 group-title="SERVER 2-clientportal" tvg-logo="http://exabytetv.info/img/icon.png",Viajar ES   (s-2)
+http://clientportal.link:8080/live/philip/philip/9424.m3u8
+#EXTINF:-1 group-title="SERVER 2-clientportal" tvg-logo="http://exabytetv.info/img/icon.png",Viajar HD ES   (s-2)
+http://clientportal.link:8080/live/philip/philip/12717.m3u8 
+ 
 #EXTM3U
 #EXTINF:-1,Sky Sport News
 http://www.osltv.com/sniffs-s/sports.m3u8?id=skysportsnews-hq
