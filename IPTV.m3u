@@ -72,10 +72,6 @@ http://cialive-live.hds.adaptive.level3.net/hls-live/ciaremux-live/_definst_/liv
 
 #EXTINF:-1 tvg-logo="https://media.licdn.com/mpr/mpr/shrink_200_200/AAEAAQAAAAAAAAL7AAAAJDZmMzQyZjY5LWUxZTQtNDAyOS1iOGY0LTE0NzI0ZmU4MzM4NA.png", TyC Sports HD
 http://clairinlive-a.akamaihd.net/dc-1/live/hls/p/1885581/e/1_8xzo6fux/t/YO19xXbHgW_22sNZezlmTg/index-s32.m3u8
-#EXTINF:-1 tvg-logo="http://s20.postimg.org/6t0raqvf1/Fox_Sport.png", Fox Sports HD
-http://link.theplatform.com/s/flac/pDqM__z_pkCD?mbr=true&feed=FoxPlay%20Sports%20Live%20Events&manifest=M3U&auth=lZ4PzsEq7QN8IlnWAxo20eCAcFCgoHBm&manifest=m3u8
-#EXTINF:-1 tvg-logo="http://s20.postimg.org/tizw3qeml/Fox_Sports2.png", Fox Sports 2 HD
-http://link.theplatform.com/s/flac/8sGhDeM4tLBi?mbr=true&feed=FoxPlay%20Sports%20Live%20Events&manifest=M3U&auth=s09d3wXWk6R6UrmCA1pokWACEAD8MJCu&manifest=m3u8
 #EXTINF: -1 tvg-logo="http://d3niw2bnkfod0v.cloudfront.net/wp-content/uploads/2015/02/Logos-Files-Oct-2015_Page_04_2.png",ADSports 1 HD
 http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8?Compartilhandolink
 #EXTINF: -1 tvg-logo="http://d3niw2bnkfod0v.cloudfront.net/wp-content/uploads/2015/02/Logos-Files-Oct-2015_Page_04_2.png",ADSports 2 HD
