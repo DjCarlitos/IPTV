@@ -94,6 +94,8 @@ http://xrxs.net/video/live-p12oreg-4728.m3u8
 #EXTINF:0 tvg-logo="http://static.pac-12.com/images/logos/pac-12-washington-logo.png", PAC-12 Washington HD
 http://xrxs.net/video/live-p12wash-4728.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.thedailyrash.com/wp-content/uploads/2014/02/MSNBC.jpg" group-title="Noticias", MSNBC HD
+http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvtechnology.com/Portals/0/CBSN%20logo%20thumbnail.png" group-title="Noticias", CBS News HD
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_2200_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/4/4c/TRT_World.png/revision/latest?cb=20151105004712" group-title="Noticias",TRT World HD
@@ -104,6 +106,12 @@ http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index207
 http://rt-eng-live.hls.adaptive.level3.net/rt/eng/index.m3u8
 #EXTINF:-1 tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/419.png" group-title="Noticias",France 24
 http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+#EXTINF:-1 tvg-logo="http://www.isv.net/logos/arirangtv.png" group-title="Noticias",Arirang HD
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://channelpear.com/images/media/80.jpg" group-title="Noticias",NHK World HD
+http://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/UjIHTlp.jpg" group-title="Noticias",Press TV HD
+http://efusion1-i.akamaihd.net/hls/live/252882/ptven/playlist.m3u8
 #EXTINF:-1 group-title="Noticias", RT News Español HD
 http://rt-esp-live.hls.adaptive.level3.net/rt/esp/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.diario26.com/images/canal_26_logo.png" group-title="Noticias", CANAL 26 HD
@@ -115,8 +123,10 @@ http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/master.m3u8
 
 #EXTINF:0, ABC Newscast HD
 http://abclive.abcnews.com/i/abc_live4@136330/index_4000_av-p.m3u8?sd=10&rebase=on
-#EXTINF:0, Bloomberg HD
+#EXTINF:0, Bloomberg US HD
 http://cdn3.videos.bloomberg.com/btv/us/master.m3u8?b?b*t$
+#EXTINF:-1 tvg-logo="https://gigaom.com/wp-content/uploads/sites/1/2012/02/bloomberg-tv-logo-o.jpg",Bloomberg Europe HD
+http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
 #EXTINF:0 tvg-logo="http://vegasat.ru/imgs/1443652102.png", RT Docu HD
 http://rt-doc-live.hls.adaptive.level3.net/rt/doc/index.m3u8
 #EXTINF:0, Weather Channel HD
