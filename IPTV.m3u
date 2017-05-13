@@ -44,6 +44,8 @@ http://80.250.191.10:1935/live/hlsstream343/chunklist_w1569638556.m3u8
 http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
 #EXTINF:-1, Heart TV HD
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
+#EXTINF:-1 tvg-logo="http://www.freeetv.com/images/01_logo/cmc_tv.jpg",CMC HD
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
 #EXTINF:0, Radio Capital TV
 http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8
 #EXTINF:-1 tvg-logo="http://www.rapifutbol.tv/javax.faces.resource/dynamiccontent.properties.jsf;jsessionid=96hau9+7wAfDVFbMJ2gsnuAr.undefined?ln=primefaces&pfdrid=H6AojLbKHXAw5VxJc9SUY69uDesOzTvP&pfdrt=sc&id=520&pfdrid_c=false&uid=c454713e-ce03-48e9-804a-84b45b258140", Virgin TV
@@ -78,6 +80,10 @@ http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8?Compartilhandolink
 http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8?Compartilhandolink
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/The_Olympic_Channel_Logo_2016.svg/2000px-The_Olympic_Channel_Logo_2016.svg.png", Olympic Channel HD
 http://ocs-live.hls.adaptive.level3.net/ocs/channel01/NBC_OCS1_VIDEO_7_6064000.m3u8
+#EXTINF:-1 tvg-logo="http://channelpear.com/images/media/5249.jpg",MLB Network HD
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+#EXTINF:-1 tvg-logo="http://channelpear.com/images/media/9095.png",NFL Now HD
+http://svglive3-event.level3.nfl.com/nflent3/live/now/NFLNOW.m3u8
 
 #EXTINF:0 tvg-logo="http://static.pac-12.com/images/logos/pac-12-network-logo.png", PAC-12 Network HD
 http://xrxs.net/video/live-p12netw-4728.m3u8
@@ -123,12 +129,16 @@ http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/master.m3u8
 
 #EXTINF:0, ABC Newscast HD
 http://abclive.abcnews.com/i/abc_live4@136330/index_4000_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-QeEZiGWs7H0/AAAAAAAAAAI/AAAAAAAACmM/bx1U4F9IYgI/photo.jpg",The Blaze HD
+https://theblaze.global.ssl.fastly.net/live/theblaze/master.m3u8
 #EXTINF:0, Bloomberg US HD
 http://cdn3.videos.bloomberg.com/btv/us/master.m3u8?b?b*t$
 #EXTINF:-1 tvg-logo="https://gigaom.com/wp-content/uploads/sites/1/2012/02/bloomberg-tv-logo-o.jpg",Bloomberg Europe HD
 http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
 #EXTINF:0 tvg-logo="http://vegasat.ru/imgs/1443652102.png", RT Docu HD
 http://rt-doc-live.hls.adaptive.level3.net/rt/doc/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/H00wiqw.jpg",Weather Channel HD
+http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 #EXTINF:0, Weather Channel HD
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
 
