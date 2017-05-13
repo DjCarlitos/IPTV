@@ -38,6 +38,8 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8
 #EXTINF:-1 tvg-logo="http://online-red.com/images/tv/one-hd.png", One HD
 http://rtmp.one.by:1300/
+#EXTINF:-1 tvg-logo="http://tv-tv.in/wp-content/uploads/2014/12/BEATZ-TV-live-streaming.gif",Beatz TV HD
+http://rtmp.infomaniak.ch/livecast/beats_1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://1hd.ru/assets/site/images/logo.png",1 HD Music TV
 http://80.250.191.10:1935/live/hlsstream343/chunklist_w1569638556.m3u8
 #EXTINF:0, Capital TV HD
@@ -153,6 +155,10 @@ http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1200_av-p.m3u8
 #EXTINF:-1,Rai News
 http://b2everyrai-lh.akamaihd.net/i/rainews_1@179616/index_1200_av-p.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.arabe-media.com/tv/img315.png",Dubai One HD
+http://dmivll.mangomolo.com/dubaione/smil:dubaione.smil/master.m3u8
+#EXTINF:-1 tvg-logo="https://superrepo.org/static/images/icons/original/xplugin.video.dubaitv.png.pagespeed.ic.7Zf1xyDRLq.png",Dubai TV HD
+http://dmi.mangomolo.com:1935/dubaitv/smil:dubaitv.smil/master.m3u8
 #EXTINF:0 tvg-logo="http://oklivetv.com/wp-content/uploads/2015/05/trt1hd_b.png",TRT 1 HD
 http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/Trt_cocuk.png",TRT COCUK HD
