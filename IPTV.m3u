@@ -1,23 +1,23 @@
-#EXTINF:-1 tvg-logo="http://www.ucvmedios.cl/imagenes/logo-ucv-200.png", UCV HD
+#EXTINF:-1 tvg-logo="http://www.ucvmedios.cl/imagenes/logo-ucv-200.png" group-title="Television Chilena", UCV HD
 http://unlimited5-cl.digitalproserver.com/ucvtv/ucvtv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/doblaje/images/1/18/TVN2016.png/revision/latest?cb=20160811000314&path-prefix=es", TVN HD
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/doblaje/images/1/18/TVN2016.png/revision/latest?cb=20160811000314&path-prefix=es" group-title="Television Chilena", TVN HD
 http://mdstrm.com/live-stream-playlist/57a498c4d7b86d600e5461cb.m3u8? 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Mega2013oficial.png/200px-Mega2013oficial.png", MEGA HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Mega2013oficial.png/200px-Mega2013oficial.png" group-title="Television Chilena", MEGA HD
 http://mdstrm.com/live-stream-playlist/53d2c1a32640614e62a0e000.m3u8?|User-Agent=Mozilla/5.0&amp;Referer=http://platform.s-mdstrm.com/player/-/assets/screen/screen.swf
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Logo_CHV_2015.png", CHV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Logo_CHV_2015.png" group-title="Television Chilena", CHV
 http://mi.chv.cl/playlist/stream.m3u8?s=hd
-#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/tvcable/images/c/c7/Canal_13_Chile.png/revision/latest?cb=20130725204119&path-prefix=es", Canal 13
+#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/tvcable/images/c/c7/Canal_13_Chile.png/revision/latest?cb=20130725204119&path-prefix=es" group-title="Television Chilena", Canal 13
 http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/category_6/gallery_1178_6_45342.png", UCV Gran Valparaíso HD
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/category_6/gallery_1178_6_45342.png" group-title="Television Chilena", UCV Gran Valparaíso HD
 http://wow2.cl.digitalproserver.com/ucvtv2/ucvtv2vivo/ucvtv2.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/tvcable/images/2/24/Cnn_cl.png/revision/latest?cb=20110519193512&path-prefix=es", CNN Chile HD
+#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/tvcable/images/2/24/Cnn_cl.png/revision/latest?cb=20110519193512&path-prefix=es" group-title="Television Chilena", CNN Chile HD
 http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.cdo.tv/senal-premium/img/logo.png", CDO Premium HD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/aslyRHq.png" group-title="Television Chilena", T13
+http://cdn.ztreaming.com/t13vivo3/desktop.m3u8
+#EXTINF:-1 tvg-logo="http://www.cdo.tv/senal-premium/img/logo.png" group-title="Television Chilena", CDO Premium HD
 http://unlimited2-cl.dps.live/cdopremium/cdopremium.smil/playlist.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://niu.cl/wp-content/uploads/2016/07/logo.png", NIU TV HD
+#EXTINF:-1 tvg-logo="http://niu.cl/wp-content/uploads/2016/07/logo.png" group-title="Television Chilena", NIU TV HD
 http://cl.origin.grupoz.cl/niutv/smil:live.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2730813661/c5c9113226a32210f58259626b68aa9d_400x400.png", Contivision Música HD
-http://wow2.cl.digitalproserver.com/contivisionmusica/contivisionmusicavivo/contivisionmusica.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.streamytv.net/wp-content/uploads/2015/11/Djing-TV.jpg", Djing HD
 http://www.djing.com/tv/05.m3u8
@@ -30,6 +30,8 @@ http://www.djing.com/tv/u-05.m3u8
 #EXTINF:-1 tvg-logo="http://www.streamytv.net/wp-content/uploads/2015/11/Djing-Classic.jpg", Djing Classic HD
 http://www.djing.com/tv/i-05.m3u8
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2730813661/c5c9113226a32210f58259626b68aa9d_400x400.png", Contivision Música HD
+http://wow2.cl.digitalproserver.com/contivisionmusica/contivisionmusicavivo/contivisionmusica.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.diario26.com/images/musictop_logo.png",MUSICTOP HD
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://www.tigomusic.co/sites/music.co/files/logo_music.png",Tigo Music HD
@@ -38,7 +40,7 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8
 #EXTINF:-1 tvg-logo="http://online-red.com/images/tv/one-hd.png", One HD
 http://rtmp.one.by:1300/
-#EXTINF:-1 tvg-logo="http://tv-tv.in/wp-content/uploads/2014/12/BEATZ-TV-live-streaming.gif",Beatz TV HD
+#EXTINF:-1 tvg-logo="http://tv-tv.in/wp-content/uploads/2014/12/BEATZ-TV-live-streaming.gif", Beatz TV HD
 http://rtmp.infomaniak.ch/livecast/beats_1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://1hd.ru/assets/site/images/logo.png",1 HD Music TV
 http://80.250.191.10:1935/live/hlsstream343/chunklist_w1569638556.m3u8
