@@ -40,7 +40,7 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8
 #EXTINF:-1 tvg-logo="http://online-red.com/images/tv/one-hd.png", One HD
 http://rtmp.one.by:1300/
-#EXTINF:-1 tvg-logo="http://tv-tv.in/wp-content/uploads/2014/12/BEATZ-TV-live-streaming.gif", Beatz TV HD
+#EXTINF:-1 tvg-logo="https://cdn.firstonetv.eu/images/logos/ch/PILATUS_BEATZ.png", Beatz TV HD
 http://rtmp.infomaniak.ch/livecast/beats_1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://1hd.ru/assets/site/images/logo.png",1 HD Music TV
 http://80.250.191.10:1935/live/hlsstream343/chunklist_w1569638556.m3u8
@@ -48,7 +48,7 @@ http://80.250.191.10:1935/live/hlsstream343/chunklist_w1569638556.m3u8
 http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
 #EXTINF:-1, Heart TV HD
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
-#EXTINF:-1 tvg-logo="http://www.freeetv.com/images/01_logo/cmc_tv.jpg",CMC HD
+#EXTINF:-1 tvg-logo="http://images.viaway.com/6930062_180.png",CMC HD
 http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
 #EXTINF:0, Radio Capital TV
 http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8
@@ -104,24 +104,20 @@ http://xrxs.net/video/live-p12oreg-4728.m3u8
 #EXTINF:0 tvg-logo="http://static.pac-12.com/images/logos/pac-12-washington-logo.png", PAC-12 Washington HD
 http://xrxs.net/video/live-p12wash-4728.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.thedailyrash.com/wp-content/uploads/2014/02/MSNBC.jpg" group-title="Noticias", MSNBC HD
+#EXTINF:-1 tvg-logo="http://yousenditcc.s3.amazonaws.com/networks/MSNBC_Rebrand_0w.png" group-title="Noticias", MSNBC HD
 http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvtechnology.com/Portals/0/CBSN%20logo%20thumbnail.png" group-title="Noticias", CBS News HD
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_2200_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/4/4c/TRT_World.png/revision/latest?cb=20151105004712" group-title="Noticias",TRT World HD
-http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 #EXTINF:-1 tvg-logo="http://www.aljazeera.com/mritems/assets/images/aj-logo-lg.png" group-title="Noticias",Al Jazeera HD
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index2073.m3u8
 #EXTINF:-1 group-title="Noticias", RT News HD
 http://rt-eng-live.hls.adaptive.level3.net/rt/eng/index.m3u8
-#EXTINF:-1 tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/419.png" group-title="Noticias",France 24
-http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
-#EXTINF:-1 tvg-logo="http://www.isv.net/logos/arirangtv.png" group-title="Noticias",Arirang HD
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://channelpear.com/images/media/80.jpg" group-title="Noticias",NHK World HD
-http://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/4/4c/TRT_World.png/revision/latest?cb=20151105004712" group-title="Noticias",TRT World HD
+http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/UjIHTlp.jpg" group-title="Noticias",Press TV HD
 http://efusion1-i.akamaihd.net/hls/live/252882/ptven/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/419.png" group-title="Noticias",France 24
+http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 #EXTINF:-1 group-title="Noticias", RT News Español HD
 http://rt-esp-live.hls.adaptive.level3.net/rt/esp/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.diario26.com/images/canal_26_logo.png" group-title="Noticias", CANAL 26 HD
@@ -135,6 +131,10 @@ http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/master.m3u8
 http://abclive.abcnews.com/i/abc_live4@136330/index_4000_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-QeEZiGWs7H0/AAAAAAAAAAI/AAAAAAAACmM/bx1U4F9IYgI/photo.jpg",The Blaze HD
 https://theblaze.global.ssl.fastly.net/live/theblaze/master.m3u8
+#EXTINF:-1 tvg-logo="http://www.isv.net/logos/arirangtv.png",Arirang HD
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://channelpear.com/images/media/80.jpg",NHK World HD
+http://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
 #EXTINF:0, Bloomberg US HD
 http://cdn3.videos.bloomberg.com/btv/us/master.m3u8?b?b*t$
 #EXTINF:-1 tvg-logo="https://gigaom.com/wp-content/uploads/sites/1/2012/02/bloomberg-tv-logo-o.jpg",Bloomberg Europe HD
