@@ -141,7 +141,7 @@ http://cdn3.videos.bloomberg.com/btv/us/master.m3u8?b?b*t$
 http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
 #EXTINF:0 tvg-logo="http://vegasat.ru/imgs/1443652102.png", RT Docu HD
 http://rt-doc-live.hls.adaptive.level3.net/rt/doc/index.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/H00wiqw.jpg",Weather Channel HD
+#EXTINF:-1 tvg-logo="https://s.w-x.co/240x180_twc_default.png",Weather Channel HD
 http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 #EXTINF:0, Weather Channel HD
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
@@ -157,7 +157,7 @@ http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1200_av-p.m3u8
 #EXTINF:-1,Rai News
 http://b2everyrai-lh.akamaihd.net/i/rainews_1@179616/index_1200_av-p.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.arabe-media.com/tv/img315.png",Dubai One HD
+#EXTINF:-1 tvg-logo="http://a527.phobos.apple.com/us/r30/Purple4/v4/df/a2/ef/dfa2efe2-80ac-d71b-fa38-b8c571bd5d56/mzl.vgzcwxer.png",Dubai One HD
 http://dmivll.mangomolo.com/dubaione/smil:dubaione.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://superrepo.org/static/images/icons/original/xplugin.video.dubaitv.png.pagespeed.ic.7Zf1xyDRLq.png",Dubai TV HD
 http://dmi.mangomolo.com:1935/dubaitv/smil:dubaitv.smil/master.m3u8
