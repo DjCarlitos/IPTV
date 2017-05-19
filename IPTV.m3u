@@ -104,6 +104,8 @@ http://xrxs.net/video/live-p12oreg-4728.m3u8
 #EXTINF:0 tvg-logo="http://static.pac-12.com/images/logos/pac-12-washington-logo.png", PAC-12 Washington HD
 http://xrxs.net/video/live-p12wash-4728.m3u8
 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/TjHh4PW.png",CNN
+http://109.123.114.178:1935/Livenewson/Livenewson/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://yousenditcc.s3.amazonaws.com/networks/MSNBC_Rebrand_0w.png" group-title="Noticias", MSNBC HD
 http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvtechnology.com/Portals/0/CBSN%20logo%20thumbnail.png" group-title="Noticias", CBS News HD
