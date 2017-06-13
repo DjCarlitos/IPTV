@@ -21,14 +21,14 @@ http://cl.origin.grupoz.cl/niutv/smil:live.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2730813661/c5c9113226a32210f58259626b68aa9d_400x400.png", Contivision Música HD
 http://wow2.cl.digitalproserver.com/contivisionmusica/contivisionmusicavivo/contivisionmusica.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/tRonseR.png" group-title="BELGIUM",NRJ Hits TV HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/tRonseR.png" group-title="BELGIUM", NRJ Hits TV HD
 http://5.196.138.6:1935/live/nrjbelgique/chunklist_w1339281553.m3u8
 #EXTINF:-1 tvg-logo="http://online-red.com/images/tv/one-hd.png", One HD
 http://rtmp.one.by:1300/
 #EXTINF:-1 tvg-logo="https://cdn.firstonetv.eu/images/logos/ch/PILATUS_BEATZ.png", Beatz TV HD
 http://rtmp.infomaniak.ch/livecast/beats_1/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://1hd.ru/assets/site/images/logo.png",1 HD Music TV
-http://80.250.191.10:1935/live/hlsstream343/chunklist_w1569638556.m3u8
+#EXTINF:-1 tvg-logo="http://www.diario26.com/images/musictop_logo.png",MUSICTOP HD
+http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.streamytv.net/wp-content/uploads/2015/11/Djing-TV.jpg", Djing HD
 http://www.djing.com/tv/05.m3u8
@@ -41,8 +41,6 @@ http://www.djing.com/tv/u-05.m3u8
 #EXTINF:-1 tvg-logo="http://www.streamytv.net/wp-content/uploads/2015/11/Djing-Classic.jpg", Djing Classic HD
 http://www.djing.com/tv/i-05.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.diario26.com/images/musictop_logo.png",MUSICTOP HD
-http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.tigomusic.co/sites/music.co/files/logo_music.png",Tigo Music HD
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8
 #EXTINF:-1 tvg-logo="http://www.canalmimusica.com/wp-content/uploads/2012/11/favicon.png",Mi Musica HD
@@ -60,6 +58,8 @@ http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8
 http://wow01.105.net/live/virgin1/.m3u8
 #EXTINF:-1 tvg-logo="http://www.unitedmusic.it/images/rmc_logo.png", Monte Carlo TV
 http://fms.105.net:1935/live/rmc1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.freeetv.com/images/03_logo/Retro_Czech_Republic.jpg" group-title="CZECH REP",Retro
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 
 #EXTINF:-1, Mega HD
 http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8
@@ -79,6 +79,10 @@ http://prepublish.f.qaotic.net/epa/ngrp:americatvlive-100056_all/Playlist.m3u8
 https://mdstrm.com/live-stream-playlist_900/58a36704896500b908cf1abe.m3u8
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/doblaje/images/c/c7/04-frecuencia-latina.jpg/revision/latest?cb=20170105012516&path-prefix=es",Latina
 http://cialive-live.hds.adaptive.level3.net/hls-live/ciaremux-live/_definst_/live/stream4.m3u8
+#EXTINF:-1 tvg-logo="http://www.isv.net/logos/arirangtv.png",Arirang HD
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://channelpear.com/images/media/80.jpg",NHK World HD
+http://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.licdn.com/mpr/mpr/shrink_200_200/AAEAAQAAAAAAAAL7AAAAJDZmMzQyZjY5LWUxZTQtNDAyOS1iOGY0LTE0NzI0ZmU4MzM4NA.png", TyC Sports HD
 http://clairinlive-a.akamaihd.net/dc-1/live/hls/p/1885581/e/1_8xzo6fux/t/YO19xXbHgW_22sNZezlmTg/index-s32.m3u8
@@ -137,10 +141,7 @@ http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_es.m3u8
 http://abclive.abcnews.com/i/abc_live4@136330/index_4000_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-QeEZiGWs7H0/AAAAAAAAAAI/AAAAAAAACmM/bx1U4F9IYgI/photo.jpg",The Blaze HD
 https://theblaze.global.ssl.fastly.net/live/theblaze/master.m3u8
-#EXTINF:-1 tvg-logo="http://www.isv.net/logos/arirangtv.png",Arirang HD
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://channelpear.com/images/media/80.jpg",NHK World HD
-http://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
+
 #EXTINF:0, Bloomberg US HD
 http://cdn3.videos.bloomberg.com/btv/us/master.m3u8?b?b*t$
 #EXTINF:-1 tvg-logo="https://gigaom.com/wp-content/uploads/sites/1/2012/02/bloomberg-tv-logo-o.jpg",Bloomberg Europe HD
