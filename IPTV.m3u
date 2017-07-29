@@ -173,4 +173,6 @@ http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8?
 http://stream.visit-x.tv/vxtv/live/playlist.m3u8?
 #EXTINF:-1 tvg-logo="http://ero-tv.org/wp-content/uploads/2014/08/babestation24.gif" group-title="Adultos", BS24 Live
 http://de-origin-live.3qsdn.com:1935/2346/Ct6zG7Nrj3v2JxD/playlist.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/Logo_14_transp_claim.png", Fundorado
+http://streaming.fundorado.com/fundoradotv/live.stream/playlist.m3u8
 
