@@ -1,5 +1,3140 @@
 EXTM3U
 
+#EXTM3U
+#EXTINF:-1,---FREE PLAYLIST PANDASAT---
+http://www.pandasat.info/iptv/PLAYLIST.avi
+#EXTINF:-1,---LAST UPDATE 22-07-2017---
+http://www.pandasat.info/iptv/PLAYLIST.avi
+#EXTINF:-1,---TOP ITALIA---
+http://www.pandasat.info/iptv/PLAYLIST.avi
+#EXTINF:-1,Rai 1
+http://149.100.19.146:8000/play/a00w
+#EXTINF:-1,Rai 2
+http://149.100.19.146:8000/play/a00x
+#EXTINF:-1,Rai 3
+http://149.100.19.146:8000/play/a00y
+#EXTINF:-1,Rete 4
+http://live1.msf.ticdn.it/Content/HLS/Live/Channel(CH03HA)/Stream(03)/index.m3u8
+#EXTINF:-1,Rete 4 HD
+http://live2.msf.ticdn.it/Content/HLS/Live/Channel(CH03HA)/Stream(04)/index.m3u8
+#EXTINF:-1,Canale 5
+http://live1.msf.ticdn.it/Content/HLS/Live/Channel(CH01HA)/Stream(03)/index.m3u8
+#EXTINF:-1,Canale 5 HD
+http://live1.msf.ticdn.it/Content/HLS/Live/Channel(CH01HA)/Stream(04)/index.m3u8
+#EXTINF:-1,Italia 1
+http://live2.msf.ticdn.it/Content/HLS/Live/Channel(CH02HA)/Stream(03)/index.m3u8
+#EXTINF:-1,Italia 1 HD
+http://live2.msf.ticdn.it/Content/HLS/Live/Channel(CH02HA)/Stream(04)/index.m3u8
+#EXTINF:-1,Rai 4
+http://149.100.19.146:8000/play/a00z
+#EXTINF:-1,Rai 5
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276
+#EXTINF:-1,La5
+http://live2.msf.ticdn.it/Content/HLS/Live/Channel(CH04HA)/Stream(03)/index.m3u8
+#EXTINF:-1,La5 HD
+http://live2.msf.ticdn.it/Content/HLS/Live/Channel(CH04HA)/Stream(04)/index.m3u8
+#EXTINF:-1,La 7
+http://la7livehls-lh.akamaihd.net/i/livebkup_1@372883/index_1_av-p.m3u8
+#EXTINF:-1,Paramount Channel
+http://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@195657/index_2500_av-p.m3u8
+#EXTINF:-1,Rai Movie
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
+#EXTINF:-1,Top Crime
+http://live2.msf.ticdn.it/Content/HLS/Live/Channel(CH07HA)/Stream(03)/index.m3u8
+#EXTINF:-1,Top Crime HD
+http://live2.msf.ticdn.it/Content/HLS/Live/Channel(CH07HA)/Stream(04)/index.m3u8
+#EXTINF:-1,Rai Premium
+http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1200_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,Rai Gulp
+http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/index_1200_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,Rai Yoyo
+http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/index_1200_av-b.m3u8
+#EXTINF:-1,Rai Storia
+http://b2.stream6.rai.it/italy/smil%3araistoria.smil/chunklist_b900000.m3u8?auth=daEa3dzcycocbcnbPdLaLbXbra_a3dPcjaf-bw6Xge-c0-FmwwvGr&aifp=V001
+#EXTINF:-1,Rai Scuola
+http://stream6.rai.it/italy/smil:raiscuola.smil/chunklist_b900000.m3u8
+#EXTINF:-1,Rai Nettuno
+http://stream6.rai.it/live/smil:uninettuno.smil/chunklist_b300000.m3u8
+#EXTINF:-1,Alice
+http://ltlive01.cloudapp.net/LT_CH_4plat296w.isml/QualityLevels(1264000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,Marcopolo
+http://ltlive01.cloudapp.net/LT_CH_2mkw471qp.isml/QualityLevels(1264000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,Iris
+http://live2.msf.ticdn.it/Content/HLS/Live/Channel(CH06HA)/Stream(03)/index.m3u8
+#EXTINF:-1,Iris HD
+http://live2.msf.ticdn.it/Content/HLS/Live/Channel(CH06HA)/Stream(04)/index.m3u8
+#EXTINF:-1,Cielo
+http://skyianywhere2-i.akamaihd.net/hls/live/216865/cielo/playlist.m3u8
+#EXTINF:-1,Mediaset Extra
+http://live3.msf.ticdn.it/Content/HLS/Live/Channel(CH09HA)/Stream(03)/index.m3u8
+#EXTINF:-1,Mediaset Extra HD
+http://live2.msf.ticdn.it/Content/HLS/Live/Channel(CH09HA)/Stream(04)/index.m3u8
+#EXTINF:-1,Italia 2
+http://live2.msf.ticdn.it/Content/HLS/Live/Channel(CH05HA)/Stream(03)/index.m3u8
+#EXTINF:-1,Italia 2 HD
+http://live2.msf.ticdn.it/Content/HLS/Live/Channel(CH05HA)/Stream(04)/index.m3u8
+#EXTINF:-1,Class-Cnbc
+http://liveclass.edgesuite.net/i/classcnbc_1@199799/master.m3u8
+#EXTINF:-1,Tv2000
+http://mi1.wz.tv2000.it/tv2000_alfa.m3u8
+#EXTINF:-1,Qvc
+http://qvcitalia.mmdlive.lldns.net/qvcitalia/66f8359ae9c046bb8aa92144511b450a/manifest.m3u8
+#EXTINF:-1,Class Tv Moda
+http://liveclass.edgesuite.net/i/classtvmoda_1@199801/master.m3u8
+#EXTINF:-1,Radio Radicale Tv
+http://video-4.radioradicale.it:1935/diretta/padtv1/chunklist_w1993029635.m3u8
+#EXTINF:-1,Parole Di Vita
+http://1so1.troydesign.eu/dynamic/pdvm/smil:channel1.smil/?scheme=m3u8
+#EXTINF:-1,Tele Padre Pio Tv
+https://56972e8bd3345.streamlock.net/TRPP_live/smil:bcffcc98-ac2f-4b73-b0a5-ad1bfb96d845_all.smil/chunklist_w1418321773_b227000_slita.m3u8
+#EXTINF:-1,---CANALI SPORT ITALIA---
+http://www.pandasat.info/iptv/PLAYLIST.avi
+#EXTINF:-1,THE LEGEND JUVE
+http://pandasat.info/iptv/the_legend_juve.mp4
+#EXTINF:-1,Automoto Tv
+rtmp://178.22.187.253:1935/streaming-tv/mp4:myStream3
+#EXTINF:-1,Canale 65 Sport
+http://178.22.187.253:1935/streaming-tv/smil:65sport.smil/playlist.m3u8
+#EXTINF:-1,Canale 85 
+http://wms.shared.streamshow.it:80/canale85/mp4:canale85/playlist.m3u8
+#EXTINF:-1,Cbl Chanel
+rtmp://msh0193.stream.seeweb.it/live/stream00.sdp
+#EXTINF:-1,Luna Sport
+http://vs2.streamcaster.net:1935/test_live/lunasport/playlist.m3u8
+#EXTINF:-1,Rai Sport
+http://185.53.163.86:8888/play/a00t
+#EXTINF:-1,Rete 8 Sport 
+rtmp://flash8.streaming.xdevel.com:80/rete8sport/_definst_/rete8sport
+#EXTINF:-1,Rete 8
+rtmp://flash2.streaming.xdevel.com:80/rete8/_definst_/rete8 
+#EXTINF:-1,Rtv San Marino Sport
+rtmp://194.116.78.102:1935/webtv_live4/_definst_/9UXJ2BJMTMNR 
+#EXTINF:-1,Teleromagna Sport
+http://livetr.teleromagna.it/sport/live/playlist.m3u8
+#EXTINF:-1,---CANALI SPORT ESTERI---
+http://www.pandasat.info/iptv/PLAYLIST.avi
+#EXTINF:4932,100 Live Sport
+mms://100automoto.tv/100livesport
+#EXTINF:363,A - AstonMartin - 
+mms://100automoto.tv/channel_italy
+#EXTINF:-1,A.d. Sport 1
+http://adtv.ercdn.net/adsport1/adsport1_480p.m3u8
+#EXTINF:-1,A.d. Sport 2
+http://adtv.ercdn.net/adsport2/adsport2_480p.m3u8
+#EXTINF:-1,BFM Sport
+http://rmc-i.akamaihd.net/hls/live/218333/876630703001/BFMSPORT/master-2.m3u8
+#EXTINF:-1,BS TV
+http://stream.yayindayiz.biz/Bursaspor/bursaspor/SAT_TOTAL.m3u8
+#EXTINF:-1,Bursaspor Tv
+http://stream.yayindayiz.biz/Bursaspor/bursaspor/HasBahCa.m3u8
+#EXTINF:-1,Bursaspor TV (opt. 2)
+http://stream.yayindayiz.biz/Bursaspor/bursaspor/radyodelisi.m3u8
+#EXTINF:-1,Bmw
+mms://100automoto.tv/bmw
+#EXTINF:-1,C-Span 1
+http://cspan1-lh.akamaihd.net/i/cspan1_1@304727/index_1000_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,C-Span 2
+http://cspan2-lh.akamaihd.net/i/cspan2_1@304728/index_1000_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,C-Span 3
+http://cspan3-lh.akamaihd.net/i/cspan3_1@304729/index_1000_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,Canal 9 Hd
+http://b-dnordichlslive09-i.akamaihd.net/hls/live/223862-b/C9DKHD/master.m3u8
+#EXTINF:-1,Deport Tv
+http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u8
+#EXTINF:-1,Dx Tv
+http://186.33.227.200:1935/DXTV/DXTV.smil/stream.m3u8
+#EXTINF:-1,DX TV (opt. 2)
+http://186.33.227.200/DXTV/smil:DXTV.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNy8yMDE1IDEyOjM5OjEwIFBNJmhhc2hfdmFsdWU9enNzd2E
+#EXTINF:-1,Electric
+mms://100automoto.tv/channel_electric
+#EXTINF:-1,Eurosport Eng (opzione 1)
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
+#EXTINF:-1,Mercedes
+mms://100automoto.tv/channel_mercedes
+#EXTINF:2923,Porsche
+mms://100automoto.tv/channel_porsche
+#EXTINF:-1,Real Madrid Tv
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+#EXTINF:-1,Sports Tonight
+rtmp://freeview.fms.visionip.tv/live/sports_tonight-sports_tonight-live-25f-16x9-SD?ref=www.sportstonightlive.com&USER=STL_0001
+#EXTINF:-1,Sports TV
+http://stream.sportstv.com.tr/sportstv/smil:sportstv.smil/chunklist_w708638919_b800000.m3u8
+#EXTINF:-1,Sport Tv 3
+rtmp://stream.sportstv.com.tr/sportstv/SportsTV3
+#EXTINF:-1,SportBG 720p Bulgarian
+http://pri.cdn.bg:2001/fls/sportal_tv_hd.stream/playlist.m3u8
+#EXTINF:-1,Sportelevision
+http://37.59.17.33:1935/sportelevision_live/smil:channel.smil/playlist.m3u8
+#EXTINF:-1,Super Sport 1
+http://81.7.13.162/hls/ss1/index.m3u8
+#EXTINF:-1,Super Sport 2
+http://81.7.13.162/hls/ss2/index.m3u8
+#EXTINF:-1,Super Sport 3
+http://81.7.13.162/hls/ss3/index.m3u8
+#EXTINF:-1,Super Sport 4
+http://81.7.13.162/hls/ss4/index.m3u8
+#EXTINF:-1,TileSport
+http://tv1.streampulse.eu:1935/tilesport/movie1/geldegor.m3u
+#EXTINF:-1,Todo Deportes Tv
+http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8
+#EXTINF:-1,TRT Spor
+http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8
+#EXTINF:-1,TVU Ei
+http://srv6.zoeweb.tv:1935/z433-live/stream/livestream.m3u8
+#EXTINF:-1,USA-BASKET UNI.(Arizona)
+http://xrxs.net/video/live-p12ariz-1164.m3u8
+#EXTINF:-1,USA-BASKET UNI.(Los Angeles)
+http://xrxs.net/video/live-p12losa-1164.m3u8
+#EXTINF:-1,USA-BASKET UNI.(Moutain)
+http://xrxs.net/video/live-p12moun-1164.m3u8
+#EXTINF:-1,USA-BASKET UNI.(Oregon)
+http://xrxs.net/video/live-p12oreg-1164.m3u8
+#EXTINF:-1,USA-BASKET UNI.(Washington)
+http://xrxs.net/video/live-p12wash-2328.m3u8
+#EXTINF:-1,Arena1
+http://185.152.65.131:8080/arena1/mpegts
+#EXTINF:-1,Arena2
+http://185.152.65.131:8080/arena2/mpegts
+#EXTINF:-1,Arena3
+http://185.152.65.131:8080/arena3/mpegts
+#EXTINF:-1,Arena4
+http://185.152.65.131:8080/arena4/mpegts
+#EXTINF:-1,Arena5
+http://185.152.65.131:8080/arena5/mpegts
+#EXTINF:-1,Eurosport1
+http://185.152.65.131:8080/eurosport1/mpegts
+#EXTINF:-1,Eurosport2
+http://185.152.65.131:8080/eurosport2/mpegts
+#EXTINF:-1,---NEWS ITALIA---
+http://www.pandasat.info/iptv/PLAYLIST.avi
+#EXTINF:-1,Tgcom24
+http://live2.msf.ticdn.it/Content/HLS/Live/Channel(CH10HA)/Stream(03)/index.m3u8
+#EXTINF:-1,Tgcom24 HD
+http://live2.msf.ticdn.it/Content/HLS/Live/Channel(CH10HA)/Stream(04)/index.m3u8
+#EXTINF:-1,Camera Dei Deputati
+rtsp://live.cdn2.streamago.tv/streamago/1919/812/?idcanale=812
+#EXTINF:-1,Senato Tv
+http://senato.spectar.tv:1935/senato-live/ngrp:webtv1_all/chunklist_b1155072_DVR.m3u8
+#EXTINF:-1,Rai News
+http://b2everyrai-lh.akamaihd.net/i/rainews_1@179616/master.m3u8
+#EXTINF:-1,Sky Tg24
+http://skyianywhere2-i.akamaihd.net/hls/live/200275/tg24/playlist.m3u8
+#EXTINF:-1,Euronews
+http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/18-live.m3u8
+#EXTINF:-1,Tg Norba24
+http://85.17.80.132:80/tgnorba_24/tgnorba_24_source.stream/playlist.m3u8
+#EXTINF:-1,Il Meteo.it Oggi
+http://media.ilmeteo.it/video/iphone/oggi.m4v
+#EXTINF:-1,Il Meteo.it Domani
+http://media.ilmeteo.it/video/iphone/domani.m4v
+#EXTINF:-1,Il Meteo.it Dopodomani
+http://media.ilmeteo.it/video/iphone/dopodomani.m4v
+#EXTINF:-1,---MUSICA---
+http://www.pandasat.info/iptv/PLAYLIST.avi
+#EXTINF:-1,Rtl 102.5 Tv
+http://origin-rtl-radio-stream.4mecloud.it/live-video/radiovisione/ngrp:radiovisione/playlist.m3u8
+#EXTINF:-1,Radio Universal Tv
+rtmp://flash2.streaming.xdevel.com:80/radiouniversaltv/radiouniversaltv
+#EXTINF:-1,Radio Italia Tv
+http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,Radio Monte Carlo Tv
+http://fms.105.net:1935/live/rmc1/.m3u8
+#EXTINF:-1,Radio 105 Tv
+http://fms.105.net:1935/live/105Test1/playlist.m3u8
+#EXTINF:-1,M2o Tv
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8
+#EXTINF:-1,Radio Capital Tv
+http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8
+#EXTINF:-1,Virgin Tv
+http://fms.105.net:1935/live/virgin1/playlist.m3u8
+#EXTINF:-1,Rock Tv
+mmsh://mediatv2.topix.it/24RockOne66
+#EXTINF:-1,Tele Radio Sciacca
+rtmp://streamtv.level7.it:1935/teleradiosciacca-tv/teleradiosciacca-tv/teleradiosciacca-tv
+#EXTINF:-1,Radio Taormina Tv
+http://flash5.streaming.xdevel.com:80/taorminatv/taorminatv/playlist.m3u8
+#EXTINF:-1,Visual Radio Tv
+http://wms.shared.streamshow.it/visualradio/visualradio_mobile/playlist.m3u8
+#EXTINF:-1,Radio Bruno Tv
+rtmp://37.48.83.34:80/radiobrunotv/radiobrunotv
+#EXTINF:-1,1 Hd Russia
+http://80.250.191.10:1935/live/livestream3/chunklist_w1242882920.m3u8
+#EXTINF:-1,Radio 51 Tv
+http://wms.shared.streamshow.it:80/canale51/canale51/playlist.m3u8
+#EXTINF:-1,Rti Hd
+http://cdn.vsnw.net:8081/interradio/720i.m3u8
+#EXTINF:-1,One Hd By
+rtmp://rtmp.one.by/HD/1muz
+#EXTINF:-1,Jing Underground Hd
+http://cdn.djing.com/tv/u-05.m3u8
+#EXTINF:-1,Jing Dancefloor Hd
+http://cdn.djing.com/tv/d-05.m3u8
+#EXTINF:-1,Jing Classic
+http://www.djing.com/tv/i-05.m3u8
+#EXTINF:-1,Jing Animation
+http://www.djing.com/tv/a-05.m3u8
+#EXTINF:-1,Jing Ibiza
+http://www.djing.com/tv/ibiza.m3u8
+#EXTINF:-1,Electrosound (sonus Fm)
+rtmp://www.electrosound.tv:1935/public/stream
+#EXTINF:-1,Radio Number One Tv
+http://wma02.fluidstream.net/RN1TV/livestream/playlist.m3u8
+#EXTINF:-1,Venere Tv
+rtmp://188.165.224.142:1935/veneretv/veneretv
+#EXTINF:-1,Venere Tv 2
+rtmp://188.165.224.142:1935/veneretv2/veneretv2
+#EXTINF:-1,Otto Fm Tv
+http://live.youiptv.ch:1935/8FM/8FM_source/livestream.m3u8
+#EXTINF:-1,Radionorba Tv
+http://85.17.80.132:80/radionorbatv/norbatv_source.stream/playlist.m3u8
+#EXTINF:-1,Nrj Hits
+http://5.196.138.6:1935/live/nrjbelgique_720p/chunklist_w1562122761.m3u8
+#EXTINF:-1,1 Music Channel
+http://stream.1music.hu/stream/1music.m3u8
+#EXTINF:-1,Deluxe Music
+http://server55.livestreamingcdn.com:1935/tulixdemo/tulixdemo/playlist.m3u8
+#EXTINF:-1,Kiss Kiss Italia Tv
+http://wma05.fluidstream.net/KKTV01/livestream/playlist.m3u8
+#EXTINF:-1,Kiss Kiss Napoli Tv
+http://wma05.fluidstream.net/KKTVNapoli/livestream/playlist.m3u8
+#EXTINF:-1,Vibeetv Music Pop
+http://46.101.21.42:8081/live/live2/playlist.m3u8
+#EXTINF:-1,City Tv
+http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/stream.m3u8
+#EXTINF:-1,Amazing
+http://redir.atmcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8?sessionId%3DABA74CBC0702307FF0B559F938FC9B21.node1%26stream%3D2
+#EXTINF:-1,Radio Linea N. 1 Tv
+rtmp://flash2.streaming.xdevel.com:80/radiolineatv/radiolineatv
+#EXTINF:-1,Beaz Tv
+http://rtmp.infomaniak.ch/livecast/beats_1/playlist.m3u8
+#EXTINF:-1,Radio One Tv (usa)
+rtmp://server5.stweb.tv/radioone/live
+#EXTINF:-1,Klik Tv (rep Ceca)
+http://92.62.234.201:2249/klik.flv
+#EXTINF:-1,Ocko Live (rep. Ceca)
+http://se02.se.ocko-live.service.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
+#EXTINF:-1,Ocko Gold (rep. Ceca) Opzione 2
+http://se03.se.ocko-live.service.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
+#EXTINF:-1,Hit Music Channel
+http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8
+#EXTINF:-1,Melody Channel
+rtmp://186.155.200.118:1935/live/MelodyChannel
+#EXTINF:-1,Mimusica Hd
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8
+#EXTINF:-1,Hit Tv
+rtmp://tst.es.flash.glb.ipercast.net/tst.es-live//live
+#EXTINF:-1,Xite
+http://highvolume03.streampartner.nl/vleugels_hd4/livestream/playlist.m3u8
+#EXTINF:-1,Senzi
+http://109.74.144.130/live/senzihity/senzihity.m3u8
+#EXTINF:-1,Atomic
+rtmp://5.154.185.153/live/live.flv
+#EXTINF:-1,Juce Tv
+http://109.68.190.192:1935/WEB_JuceTV/JuceTV.stream/playlist.m3u8
+#EXTINF:-1,Company Tv
+rtmp://wma10.fluidstream.net/CompanyTV/_definst_/mp4:livestream_720p
+#EXTINF:-1,Radio Tv Azzurra Live
+rtmp://188.165.224.142:1935/radiotivuazzurralive/radiotivuazzurralive
+#EXTINF:-1,Telemusica
+rtmp://186.155.200.118:1935/live/telemusica
+#EXTINF:-1,Pik Tv Hd
+rtmp://78.140.209.14:1935/live/piktv3pik3tv
+#EXTINF:-1,Heart Tv
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
+#EXTINF:-1,Krone Tv
+http://bitcdn-kronehit-live.bitmovin.com/hls/1500k/bitcodin.m3u8
+#EXTINF:-1,O 2
+http://hls.mycdn0633430096.cdnvideo.ru/mycdn0633430096/stream1_sd.sdp/chunklist.m3u8
+#EXTINF:-1,Capital Tv Uk
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_1500_av-b.m3u8
+#EXTINF:-1,Mcm Top
+http://37.235.171.201:81/udp/225.50.64.17:1234
+#EXTINF:-1,Bridge Dance Tv
+http://37.235.171.201:81/udp/225.50.64.26:1234
+#EXTINF:-1,Top Cento Rtv
+http://wms.shared.streamshow.it/rs/mp4:rs/chunklist_w2048803768.m3u8
+#EXTINF:-1,Urban Love Radio TV
+rtmp://52.10.37.231:1986/itstream4179/_definst_/itstream4179
+#EXTINF:-1,---VARI ITALIA---
+http://www.pandasat.info/iptv/PLAYLIST.avi
+#EXTINF:-1,8 Video Calabria
+rtmp://wms.shared.streamshow.it:80/videocalabria/videocalabria
+#EXTINF:-1,Alto Adige Tv
+http://77.72.196.214:8554/live/AltoAdigeTV/playlist.m3u8
+#EXTINF:-1,Antichita' Chiossone
+rtmp://tzvr73.live.cloud.influxis.com:1935/tzvr73/_definst_/acLive
+#EXTINF:-1,Bella TV
+rtmp://server.bellaradio.it:1935/livepkgr?adbe-live-event=diretta/bellatv
+#EXTINF:-1,Brescia Tv
+http://wms.shared.streamshow.it/brescialivetv/brescialivetv/playlist.m3u8
+#EXTINF:-1,C.t.s.90
+rtmp://vod1.kronopress.com:1935/cts_live/cts
+#EXTINF:-1,Canale 7
+rtmp://wms.shared.streamshow.it:80/canale7/canale7
+#EXTINF:-1,Canale 8
+rtmp://wms.shared.streamshow.it:80/canale8/canale8
+#EXTINF:-1,Canale 10
+rtmp://37.187.142.147:1935/ch10live/high.stream
+#EXTINF:-1,Canale 33
+rtmp://video2.kronopress.com:1935/ctp_live/stream6
+#EXTINF:-1,Canale 21 Lazio
+http://live.streamcaster.net:1935/canale21_live/canale21/playlist.m3u8
+#EXTINF:-1,Canale 85
+http://wms.shared.streamshow.it/canale85/mp4:canale85/playlist.m3u8
+#EXTINF:-1,Carina Tv
+http://wms.shared.streamshow.it/carinatv/mp4:carinatv/playlist.m3u8
+#EXTINF:-1,Castrovillari Tv
+rtmp://msh0062.stream.seeweb.it:1935/live/stream00.sdp
+#EXTINF:-1,Cremona 1
+http://cremona1.econcept.it/live/cremona1_high.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,Di Tv
+http://1se3.troydesign.eu/ditv/_definst_/channel1_ditv/playlist.m3u8?ext=.m3u8
+#EXTINF:-1,DI Tv 90
+http://1se3.troydesign.eu/ditv/_definst_/channel1_ditv/chunklist_w1915520415.m3u8
+#EXTINF:-1,DI Tv 210 
+http://1se3.troydesign.eu/ditv/_definst_/channel2_ditv/chunklist_w794163474.m3u8
+#EXTINF:-1,Dinamo Tv
+http://cdnselector.streamago.tv/live/39881/33805/playlist.m3u8
+#EXTINF:-1,Eden Tv
+http://wma02.fluidstream.net/EdenTV/smil:EdenTV.smil/playlist.m3u8
+#EXTINF:-1,Etv Rete 7
+http://video2.kronopress.com:1935/etv_live/rete7/playlist.m3u8
+#EXTINF:-1,Fano Tv
+http://live.kronopress.com:1935/live/fanotv/playlist.m3u8
+#EXTINF:-1,Imperia Tv
+http://ximperia-tvx.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1,Info Trentino
+http://77.72.196.214:8554/live/TrentinoSAT/hasbahca.m3u8
+#EXTINF:-1,Irc Tv
+http://wms.shared.streamshow.it/irctv/mp4:irctv/playlist.m3u8
+#EXTINF:-1,Juwelo IT
+rtmp://edge.3qsdn.com/2559/_definst_/mp4:2559_KXxMdL7PRmGDfhy
+#EXTINF:-1,Julie Italia
+http://188.138.102.199:1935/julieitalia/julieitalia/playlist.m3u8
+#EXTINF:-1,Life Channel
+http://37.59.17.33:1935/sportelevision_live/smil:channel.smil/playlist.m3u8
+#EXTINF:-1,Lucania TV
+rtmp://wms.shared.streamshow.it:80/lucaniatv/lucaniatv
+#EXTINF:-1,Nettuno TV
+http://msh0209.stream.seeweb.it:1935/live/stream02.sdp/playlist.m3u8
+#EXTINF:-1,Onda tv
+rtmp://live.streamcaster.net:1935/ondatv_live/ondatv
+#EXTINF:-1,Piu' Enne News
+http://52.10.37.231:1955/itstream165/_definst_/itstream165/playlist.m3u8
+#EXTINF:-1,Primarete Lombardia
+http://telecolor.econcept.it/live/primarete.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,Primocanale
+rtmp://msh0203.stream.seeweb.it/live/stream1.sdp
+#EXTINF:-1,Radio Tv Peloritana
+rtmp://wms.shared.streamshow.it:80/rtp/rtp
+#EXTINF:-1,Reggio Tv
+http://rm-edge-1.cdn2.streamago.tv:1935/streamagoedge/49217/42253/live.m3u8
+#EXTINF:-1,Repubblica TV
+http://repvideo_1-lh.akamaihd.net/i/Studio1_1@183089/master.m3u8
+#EXTINF:-1,Rete 55
+http://live.youiptv.ch:1935/Rete55/R55.stream_source/playlist.m3u8
+#EXTINF:-1,Rete Biella Tv
+rtmp://sb.top-ix.org:1935/retebiella/streaming
+#EXTINF:-1,Rete Oro
+rtmp://149.202.200.72/ReteOro/LiveIst/ReteOro
+#EXTINF:-1,Retesole
+rtmp://flash2.bsnewline.com:1935/retesolelazio/retesolelazio
+#EXTINF:-1,Rttr
+rtmp://wma07.fluidstream.net:1935/RTTRlive/livestream
+#EXTINF:-1,Saronno TV
+http://msh0193.stream.seeweb.it/live/stream00.sdp/playlist.m3u8
+#EXTINF:-1,Sicilia Media Tv
+http://live.streamcaster.net:1935/siciliamediatv_live/siciliamedia/playlist.m3u8
+#EXTINF:-1,Studio 100
+rtmp://wms.shared.streamshow.it:1935/studio100ta/studio100ta
+#EXTINF:-1,Sudtirol Tv
+http://77.72.196.214:8554/live/SuedtirolTV/hasbahca.m3u8
+#EXTINF:-1,Super J Tv
+http://uk4.streamingpulse.com:1935/SuperJtv/SuperJtv/playlist.m3u8
+#EXTINF:-1,Super J Tv (opt. 2)
+rtmp://uk4.streamingpulse.com:1935/SuperJtv/SuperJtv
+#EXTINF:-1,SuperTv
+http://wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8
+#EXTINF:-1,T.r.c. Modena
+rtmp://o1.senape.tv:1935/webtv_live/VC3TCRHI9LNP
+#EXTINF:-1,TVRS
+http://wms.shared.streamshow.it/tvrs/tvrs/playlist.m3u8
+#EXTINF:-1,Tele Arena
+http://wma07.fluidstream.net:1935/TeleArena/livestream/live.m3u8
+#EXTINF:-1,Tele Argento
+rtmp://wms.shared.streamshow.it:1935/teleargento/teleargento
+#EXTINF:-1,Tele Citta Padova
+rtmp://stream.telepadova.com/live/tv1
+#EXTINF:-1,Tele Diogene
+http://wms.shared.streamshow.it:1935/telediogene/telediogene/playlist.m3u8
+#EXTINF:-1,Tele Galatina
+rtmp://flash2.streaming.xdevel.com:80/telegalatina/telegalatina
+#EXTINF:-1,Tele Idea
+rtsp://cdn-ca-edge-1.cdn2.streamago.tv:554/streamagoedge/59072/49106
+#EXTINF:-1,Tele Idea (opt.2)
+http://cdnselector.streamago.tv/live/59072/49106/playlist.m3u8
+#EXTINF:-1,Tele Jonio
+http://streaming1.bluehat.it:8092/diretta_1.flv
+#EXTINF:-1,Tele Laser
+rtmp://flash2.bsnewline.com:1935/telelaser/telelaser
+#EXTINF:-1,Tele Mantova
+rtmp://wma07.fluidstream.net:1935/TeleMantova/livestream
+#EXTINF:-1,Tele Mia
+http://wms.shared.streamshow.it:80/telemia/telemia/playlist.m3u8
+#EXTINF:-1,Tele Milano
+rtmp://91.121.222.160:1935/piublu/piublu.sdp
+#EXTINF:-1,Tele Oltre
+rtmp://1se2.troydesign.eu:80/np_teleoltre/channel1_np_teleoltre
+#EXTINF:-1,Tele Ticino (CH)
+http://rtmp.infomaniak.ch:1935/livecast/teleticinolive/livestream.m3u8
+#EXTINF:-1,Tele8
+rtmp://vs2.streamcaster.net:1935/tele8_live/tele8
+#EXTINF:-1,TeleBari
+rtmp://fl1.mediastreaming.it:1935/telebari/livestream
+#EXTINF:-1,TeleChiara
+rtmp://fms.tvavicenza.it:1935/telechiara/diretta
+#EXTINF:-1,TeleMilano Piu' Blu
+rtmp://ondemand.superstreaming.it:1935/piublu/piublu.sdp
+#EXTINF:-1,TelePavia
+http://wms.shared.streamshow.it:1935/telepavia/telepavia/live.m3u8
+#EXTINF:-1,TeleStudio Modena
+rtmp://wms.shared.streamshow.it:80/telestudiomo/telestudiomo
+#EXTINF:-1,Teleabruzzo Tv
+http://uk4.streamingpulse.com:1935/TeleabruzzoTV/TeleabruzzoTV/playlist.m3u8
+#EXTINF:-1,Telecolor Lombardia
+http://telecolor.econcept.it/live/telecolor.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,Telecolore
+http://xtcstelecoloresalernox.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1,Telefoggia
+http://wms.shared.streamshow.it/telefoggia/mp4:telefoggia/chunklist_w485752473.m3u8
+#EXTINF:-1,Telegenova
+http://6zkpywaglbeg.hls.live.5centscdn.com/telegenova/6314e7a3d50e89928d181385c6f3f047.sdp/tracks-v1a1/index.m3u8
+#EXTINF:-1,Telegi
+rtsp://live.cdn2.streamago.tv/streamago/31314/25470/?idcanale=25470
+#EXTINF:-1,Teleitalia 2
+rtmp://live.flv.xuniplay.fdnames.com:1935/live/centroserena
+#EXTINF:-1,Teleliguria Sud
+rtmp://misty.infoporto.it:1935/play/tls
+#EXTINF:-1,Telemonteve 3
+http://wms.shared.streamshow.it/telemonteneve3/telemonteneve3/playlist.m3u8
+#EXTINF:-1,Telenord
+http://streamer.oodlz.it/hls/livestream.m3u8
+#EXTINF:-1,Telenuova 2
+rtmp://54.228.254.95:1935/live/myStream
+#EXTINF:-1,Telepordenone
+rtmp://213.187.12.18/telepn/telepn
+#EXTINF:-1,Teleromagna
+http://livetr.teleromagna.it/teleromagna/live/playlist.m3u8
+#EXTINF:-1,Teleromagna Lifestyle
+http://livetr.teleromagna.it/lifestyle/live/playlist.m3u8
+#EXTINF:-1,Teleromagna Mia
+http://livetr.teleromagna.it/mia/live/playlist.m3u8
+#EXTINF:-1,Teleromagna News
+http://livetr.teleromagna.it/news/live/playlist.m3u8
+#EXTINF:-1,Telestar 1
+http://193.34.109.10:8090/
+#EXTINF:-1,Teletricolore
+http://video2.kronopress.com:1935/etv_live/teletricolore/playlist.m3u8
+#EXTINF:-1,Televaldarno RTV38
+http://splive-lh.akamaihd.net/i/livertv38_1@396529/master.m3u8
+#EXTINF:-1,Televendita Arte Network
+http://77.92.76.135:1935/tuttositiweb/livestream/playlist.m3u8?wowzasessionid=967085821
+#EXTINF:-1,Televenezia
+rtmp://flash2.streaming.xdevel.com:80/televenezia/televenezia
+#EXTINF:-1,Tirreno Sat
+http://xtirrenosatx.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1,Trm H24
+http://flash.streamingmedia.it:1935/TRM/livestream/playlist.m3u8
+#EXTINF:-1,Tsn Livigno
+http://wms.shared.streamshow.it/tsn2/tsn2/playlist.m3u8
+#EXTINF:-1,Tsn Tele Sondrio News
+http://wms.shared.streamshow.it/tsn/tsn_mobile/playlist.m3u8
+#EXTINF:-1,Tuscia Sabina 2000
+rtmp://stream.ts2000tv.it/oflaDemo/TusciaSabina2
+#EXTINF:-1,Tv Luna
+http://live.streamcaster.net:1935/test_live/teleluna/chunklist_w1578080865.m3u8
+#EXTINF:-1,Tva Vicenza
+rtmp://fms.tvavicenza.it:1935/live/diretta_1
+#EXTINF:-1,Ultima Tv
+http://vod1.kronopress.com:1935/ultimatv_live/4B96-D3C4-CD06-4CFE/chunklist_w1315656524.m3u8
+#EXTINF:-1,Umbria TV
+rtmp://eventi.ictvalleumbra.it:1935/live/umbriatv.sdp
+#EXTINF:-1,Vera TV
+http://wms.shared.streamshow.it/veratv/veratv/playlist.m3u8
+#EXTINF:-1,VicenzaPiu TV
+rtmp://fms.vicenzapiu.tv:1935/vicenzapiutv/live
+#EXTINF:-1,Video 2
+rtmp://video2.kronopress.com:1935/ctp_live/stream5
+#EXTINF:-1,Video Brescia
+http://wms.shared.streamshow.it/videobrescia/videobrescia/hasbahca.m3u8
+#EXTINF:-1,Video Star TV
+rtmp://live1.kronopress.com:1935/videostar_live/videostar
+#EXTINF:-1,Videolina
+http://178.33.229.111/live/Videolina/master.m3u8
+#EXTINF:-1,TELEFRIULI
+http://or01.top-ix.org:1935/streamtech/telefriuli/playlist.m3u8
+#EXTINF:-1,---BULGARIAN---
+http://www.pandasat.info/iptv/PLAYLIST.avi
+#EXTINF:-1,BG: Planeta HD
+http://84.43.207.130/planetahd/planetahd.m3u8
+#EXTINF:-1,BG: BTV Cinema
+http://84.43.207.130/btvcinema/btvcinema.m3u8
+#EXTINF:-1,BG: Kanal3
+http://hls.cdn.bg:2017/fls/kanal3.stream/playlist.m3u8
+#EXTINF:-1,BG: Diema
+http://84.43.207.130/diema/diema.m3u8
+#EXTINF:-1,BG: Europa TV
+http://84.43.207.130/evropatv/evropatv.m3u8
+#EXTINF:-1,Mrt 1
+http://95.128.191.224:81/play/a00i
+#EXTINF:-1,Sitel Tv
+http://95.128.191.224:81/play/a00b
+#EXTINF:-1,Alfa Tv
+http://95.128.191.224:81/play/a01y
+#EXTINF:-1,Nova Tv Mk
+http://tvnova-live.morescreens.com/tvnova/chunklist.m3u8
+#EXTINF:-1,Kanal 5 Tv
+http://95.128.191.224:81/play/a01p
+#EXTINF:-1,Telma Tv
+http://95.128.191.224:81/play/a00d
+#EXTINF:-1,Plus Tv
+http://141.136.14.18/kanal1/kanal1_1500/index.m3u8
+#EXTINF:-1,Kanal Plus Tv
+http://95.128.191.224:81/play/a00g
+#EXTINF:-1,Hugo Tv
+http://h1.servemp3.com:1935/live/h1/hugo1.m3u8
+#EXTINF:-1,Makedonsko Sonce Tv
+http://5.32.183.178:4080/udp/224.0.0.100:1240
+#EXTINF:-1,24 Vesti Tv
+mms://62.162.58.55/24vesti
+#EXTINF:-1,Iris Tv
+mms://62.162.58.55/TVIris
+#EXTINF:-1,Kanal 21 Tv
+mms://62.162.58.55/TVKanal21
+#EXTINF:-1,Kanal 8 Tv
+mms://62.162.58.55/TVkanal8
+#EXTINF:-1,Alsat M Tv
+http://95.128.191.224:81/play/a00e
+#EXTINF:-1,Mtv 2
+http://95.128.191.224:81/play/a00j
+#EXTINF:-1,Mtv 3
+http://95.128.191.224:81/play/a00k
+#EXTINF:-1,Bosna 1 Tv
+#EXTVLCOPT:http-user-agent=User-Agent=Mozilla/5.0
+http://de2-2.nettvplus.com:8080/stream/?channel=promotvsi3btv&stream=1mb&sp=nettvplus?u=
+#EXTINF:-1,Kcn 2 Tv
+http://212.200.102.3:5000/rtp/239.0.0.2:5000
+#EXTINF:-1,Kcn 3 Tv
+http://212.200.102.3:5000/rtp/239.0.0.3:5000
+#EXTINF:-1,Dm Sat Tv
+http://185.53.163.85:8888/play/a019
+#EXTINF:-1,Balkanika Tv
+http://185.53.163.85:8888/play/a018
+#EXTINF:-1,Top Sound Tv
+http://tvstream.tvtopsound.com:1935/live/ngrp:mpegts.stream_all/playlist.m3u8
+#EXTINF:-1,Duga Tv
+http://w10.streamgb.com:1935/dugaplus/dugaplus/playlist.m3u8
+#EXTINF:-1,Belle Amie Tv
+rtmp://92.60.234.98/live/myStream
+#EXTINF:-1,Balkan Music Tv
+http://109.236.91.150:8080/a1balkantvmahirtvyahsat/playlist.m3u8
+#EXTINF:-1,Banovina Music Tv
+rtmp://video.radio-banovina.hr/live/myStream
+#EXTINF:-1,Planeta Folk
+http://185.53.163.85:8888/play/a01c
+#EXTINF:-1,Planeta HD Tv
+http://84.43.207.130/planetahd/planetahd.m3u8
+#EXTINF:-1,Fen Folk TV
+http://185.53.163.85:8888/play/a011
+#EXTINF:-1,Planeta HD
+http://185.53.163.85:8888/play/a01z
+#EXTINF:-1,Fan Tv
+http://185.53.163.85:8888/play/a016
+#EXTINF:-1,Folklor TV
+http://185.53.163.85:8888/play/a014
+#EXTINF:-1,TV Stoichev
+http://ios.cdn.bg:2015/fls/tvstoichev.stream/playlist.m3u8
+#EXTINF:-1,The Voice Tv
+http://31.13.217.76:1935/rtplive/thevoice_live.stream/playlist.m3u8
+#EXTINF:-1,City TV
+http://185.53.163.85:8888/play/a03e
+#EXTINF:-1,MagicTV
+http://185.53.163.85:8888/play/a03f
+#EXTINF:-1,MTV Hits
+http://185.53.163.85:8888/play/a01k
+#EXTINF:-1,DeeJay HR Tv
+rtmp://5.189.143.182/tv/live
+#EXTINF:-1,Rts Sat
+rtmp://rtssat2.videostreaming.rs/rtssat/rtssat.2.stream
+#EXTINF:-1,Rts 1 Tv
+http://185.53.163.85:8888/play/a02j
+#EXTINF:-1,Rts 2 Tv
+http://185.53.163.85:8888/play/a02k
+#EXTINF:-1,Prva Tv
+http://185.53.163.85:8888/play/a02q
+#EXTINF:-1,Happy Tv
+http://185.53.163.85:8888/play/a02t
+#EXTINF:-1,B 92 Tv
+http://5.32.183.178:4080/udp/224.0.0.100:1235?auth=mojtv
+#EXTINF:-1,Telegraf Tv
+http://v.tf.rs/liveedge/smil:livestream.smil/chunklist_w2119200807_b1396000.m3u8
+#EXTINF:-1,Vojvodina 1 Tv
+mmsh://212.200.255.151/rtv1?MSWMExt=.asf
+#EXTINF:-1,Vojvodina 2 Tv
+mmsh://212.200.255.151/rtv2?MSWMExt=.asf
+#EXTINF:-1,Kcn 1 Tv
+http://212.200.102.3:5000/rtp/239.0.0.1:5000
+#EXTINF:-1,Jata Tv
+http://109.175.31.2:8525
+#EXTINF:-1,Serbia Plus Tv
+http://parh.rtrs.tv:1935/plus/plus/playlist.m3u8
+#EXTINF:-1,Hram Ortodox Tv
+http://178.253.194.75:1935/live/hram.stream/.m3u8
+#EXTINF:-1,As Tv
+http://as.multimediaiptv.net:8080/as/assabac/index.m3u8
+#EXTINF:-1,Mlava Tv
+http://109.72.63.194:5900
+#EXTINF:-1,Kanal 9 Tv
+http://xtvk9nsx.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1,Kladovo Tv
+http://212.200.113.230:1935/iptv/iptv40000.stream/playlist.m3u8
+#EXTINF:-1,Novosadska Tv
+mms://176.106.121.32:8090
+#EXTINF:-1,Lazarevac Tv
+rtmp://188.40.95.74/live/rtvgem
+#EXTINF:-1,Leskovac Tv
+http://de2-2.nettvplus.com:8080/stream/?channel=tvleskovac&stream=1mb&sp=nettvplus?u=
+#EXTINF:-1,Novi Pazar Tv
+http://185.20.36.201:8080/stream?sp=partners&channel=rtvnovipazar&stream=1mb&b=6&player=m3u8&u=rtvnovipazar&p=RTVN0v1Pazar
+#EXTINF:-1,Sandzak Tv
+http://77.46.147.94:9250/
+#EXTINF:-1,Pirot Tv
+http://vps.oneit.rs/picanal/m3u8/stream_ep_copy.m3u8?v=1482621225
+#EXTINF:-1,Studentska TV
+rtmp://213.202.73.202/iskon/studentska_b2.stream
+#EXTINF:-1,Livecam Zagreb
+http://cdn-03.whatsupcams.com/hls/hr_zagreb1.m3u8
+#EXTINF:-1,Bn Bosna Tv
+http://tvstream.rtvbn.com:1935/live/stream/chunklist_w1957700324.m3u8
+#EXTINF:-1,,Sarajevo 1 Tv
+rtmp://91.148.117.134:1935/radios/radiosweb.stream live=1
+#EXTINF:-1,OBN
+http://185.53.163.85:8888/play/a033
+#EXTINF:-1,Bostel Tv
+http://4.31.30.145:9018/
+#EXTINF:-1,Bostel 2 Tv
+http://4.31.30.145:9021/
+#EXTINF:-1,Slon Extra Tv
+http://31.47.8.10:8081/
+#EXTINF:-1,Kanal 777 Tv
+http://109.123.70.27:1935/tehnikatv777/tehnikatv777/playlist.m3u8
+#EXTINF:-1,Crna Gora Sat Tv
+rtmp://rtcg2.videostreaming.rs/rtcg/rtcg.2.stream
+#EXTINF:-1,EuroSport
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
+#EXTINF:-1,EURONEWS
+http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/9-live.m3u8
+#EXTINF:-1,1 (HD) TV Partizan
+http://212.200.102.3:5000/udp/239.99.99.99:23999
+#EXTINF:-1,Sos Kanal Tv
+http://edge-de-01.maksnet.tv/soskanal/soskanal/playlist.m3u8
+#EXTINF:-1,25 TV Barcelona
+http://cdns724ste1010.shooowit.net/25televisiolive/amlst:25tv/playlist.m3u8
+#EXTINF:-1,Diema Sport
+http://195.228.11.89:4080/udp/225.255.255.70:10000
+#EXTINF:-1,Diema Sport 2
+http://195.228.11.89:4080/udp/225.255.255.63:10000
+#EXTINF:-1,BNT HD
+http://185.53.163.85:8888/play/a00o
+#EXTINF:-1,NOVA Bg
+http://185.53.163.85:8888/play/a00q
+#EXTINF:-1,Eurosport
+http://185.53.163.85:8888/play/a01o
+#EXTINF:-1,Eurosport 2
+http://185.53.163.85:8888/play/a028
+#EXTINF:-1,AXN Adria
+http://185.53.163.85:8888/play/a02u
+#EXTINF:-1,FILMBOX
+http://185.53.163.85:8888/play/a03b
+#EXTINF:-1,SuperOne
+http://185.53.163.85:8888/play/a01b  
+#EXTINF:-1,---INGHILTERRA---
+http://www.pandasat.info/iptv/PLAYLIST.avi
+#EXTINF:-1,ABC NEWS
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
+#EXTINF:-1,London Live
+http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
+#EXTINF:-1,Euronews
+http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/14-live.m3u8
+#EXTINF:-1,Al Jazeera English
+http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/appleman.m3u8
+#EXTINF:-1,RT Doc
+http://rt-a.akamaihd.net/ch_05@325609/720p.m3u8
+#EXTINF:-1,France 24 English
+http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+#EXTINF:-1,Heart TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
+#EXTINF:-1,Clubland TV
+http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&protocol=http&output=playlist.m3u8
+#EXTINF:-1,MBC Max
+http://63.237.48.23/ios/MBC_MAX/MBC_MAX.m3u8
+#EXTINF:-1,Gem Travel
+http://63.237.48.3/ios/GEM_TRAVEL/GEM_TRAVEL.m3u8
+#EXTINF:-1,The Florida Channel
+rtmp://webcasting.thefloridachannel.org/live/tvweb1
+#EXTINF:-1,Ann 7
+rtmp://46.4.25.213/live-ann7/ann7-hi.stream
+#EXTINF:-1,Bloomberg (US)
+http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
+#EXTINF:-1,C-Span (US)
+http://cspan1-lh.akamaihd.net/i/cspan1_1@304727/index_1000_av-p.m3u8
+#EXTINF:-1,C-Span 2 (US)
+http://cspan2-lh.akamaihd.net/i/cspan2_1@304728/index_1000_av-p.m3u8
+#EXTINF:-1,C-Span 3 (US)
+http://cspan3-lh.akamaihd.net/i/cspan3_1@304729/index_1000_av-p.m3u8
+#EXTINF:-1,---FRANCIA---
+http://www.pandasat.info/iptv/PLAYLIST.avi
+#EXTINF:-1,Euronews FR
+rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/fr_vidan750_rtp.sdp
+#EXTINF:-1,La tele
+rtsp://rtmp.infomaniak.ch/livecast/latele
+#EXTINF:-1,TV Lux
+rtmp://wowza.tvlux.imust.org/live/tvlux-live
+#EXTINF:-1,Weo
+rtmp://str81.creacast.com:80/weo/high
+#EXTINF:-1,MertoVision
+rtmp://cp228779.live.edgefcs.net:1935/live/metrovision_live@138690
+#EXTINF:-1,---SPAGNA---
+http://www.pandasat.info/iptv/PLAYLIST.avi
+#EXTINF:-1,Extremadura TV
+http://corporacionextremena-live.hls.adaptive.level3.net/hls-live/corporacionextremena-channel02/_definst_/live.m3u8
+#EXTINF:-1,Levante Tv
+rtmp://teledifusion.tv:1935/levantetvlive/levantetvlive
+#EXTINF:-1,Azteca Trece
+http://aztecalive-lh.akamaihd.net:80/i/0oxnvzh8a_1@175671/index_1_av-p.m3u8
+#EXTINF:-1,Azteca Trece Hd
+http://aztecalive-lh.akamaihd.net:80/i/0oxnvzh8a_1@175671/index_3_av-p.m3u8
+#EXTINF:-1,Azteca Trece Hd 2
+http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8
+#EXTINF:-1,Smo Tv
+rtmp://199.217.118.90:1935/smotv/stream
+#EXTINF:-1,La Sexta Hd
+http://a3live-lh.akamaihd.net:80/i/lasexta_1@35272/index_3_av-p.m3u8
+#EXTINF:-1,Andalucia TV
+http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8
+#EXTINF:-1,Espanha: Antena 3
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_3_av-p.m3u8
+#EXTINF:-1,Espanha: Antena 3
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_3_av-b.m3u8
+#EXTINF:-1,Espanha: NOVA
+http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8
+#EXTINF:-1,TVI
+http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/playlist.m3u8
+#EXTINF:-1,Sport Tv 3
+rtmp://stream.sportstv.com.tr/sportstv/SportsTV3
+#EXTINF:-1,TVU Ei
+http://srv6.zoeweb.tv:1935/z433-live/stream/livestream.m3u8
+#EXTINF:-1,DXTV
+http://186.33.227.200/DXTV/smil:DXTV.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNy8yMDE1IDEyOjM5OjEwIFBNJmhhc2hfdmFsdWU9enNzd2E
+#EXTINF:-1,BS TV
+http://stream.yayindayiz.biz/Bursaspor/bursaspor/SAT_TOTAL.m3u8
+#EXTINF:4932,100 Live Sport
+mms://100automoto.tv/100livesport
+#EXTINF:2795,Bmw
+mms://100automoto.tv/bmw
+#EXTINF:1223,Electric
+mms://100automoto.tv/channel_electric
+#EXTINF:363,A - AstonMartin - 
+mms://100automoto.tv/channel_italy
+#EXTINF:341,Mercedes
+mms://100automoto.tv/channel_mercedes
+#EXTINF:2923,Porsche
+mms://100automoto.tv/channel_porsche
+#EXTINF:-1,LaSexta
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
+#EXTINF:-1,LaSexta
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_2_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,Galicia
+http://media3.crtvg.es/live/_definst_/tvge_2/playlist.m3u8
+#EXTINF:-1,Tele B
+http://directe.tvbadalona.cat:1935/live/myStream.sdp/.m3u8
+#EXTINF:-1,Asturias
+http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8
+#EXTINF:-1,Castilla La Mancha
+http://live-hls.rtvcm.stream.flumotion.com/rtvcm/hls-multi/main.m3u8
+#EXTINF:-1,ETB
+http://etbvhlsnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@123113/master.m3u8
+#EXTINF:-1,ElCorreoTV
+http://cls.elitehd-audiovisuales.com/luztv/livestream/playlist.m3u8
+#EXTINF:-1,IB3
+http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/IB3.m3u8
+#EXTINF:-1,One
+http://rtmp.one.by:2300
+#EXTINF:-1,City
+http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/live.m3u8
+#EXTINF:-1,Capital Tv
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,Heart Tv
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
+#EXTINF:-1,Amazing TV
+http://redir.atmcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8?sessionId=ABA74CBC0702307FF0B559F938FC9B21.node1&stream=2
+#EXTINF:-1,Golspel TV 
+rtmp://188.165.135.22/gospeltv/livestream
+#EXTINF:-1,Weo TV 
+rtmp://str81.creacast.com:80/weo/high
+#EXTINF:-1,---GERMANIA---
+http://www.pandasat.info/iptv/PLAYLIST.avi
+#EXTINF:-1,Alex berlin
+http://alex-stream.rosebud-media.de:1935/live/alexlivetv.smil/hasbahca.m3u8?bitrate=800
+#EXTINF:-1,Austria24 TV
+rtmp://streaming.austria24.tv/live/stream_360p
+#EXTINF:-1,Baden TV
+rtmp://badentv-stream2.siebnich.info/rtplive/vlc.sdp
+#EXTINF:-1,BLK online TV Burgenlandkreis
+rtmp://62.113.210.250/medienasa-live/BLKonline_high
+#EXTINF:-1,Elbekanal Sch�nebeck
+rtmp://62.113.210.250/medienasa-live/elbe_high
+#EXTINF:-1,FamilyTV
+rtmp://83.169.58.36/live/Stream3
+#EXTINF:-1,Filstalwelle
+rtmp://62.113.210.27/filstalwelle-live/livestream
+#EXTINF:-1,Halle TV
+rtmp://62.113.210.250/medienasa-live/tvhalle_high
+#EXTINF:-1,Leipzig Fernsehen LF
+rtmp://video61.kanal8.de/leipzigfernsehenlive/myStream.sdp
+#EXTINF:-1,OK Dessau
+rtmp://62.113.210.250/medienasa-live/ok-dessau_high
+#EXTINF:-1,OK Magdeburg
+rtmp://62.113.210.250/medienasa-live/ok-magdeburg_high
+#EXTINF:-1,OK Salzwedel
+rtmp://62.113.210.250/medienasa-live/ok-salzwedel_high
+#EXTINF:-1,OK Stendal
+rtmp://62.113.210.250/medienasa-live/ok-stendal_high
+#EXTINF:-1,OK Wernigerode
+rtmp://62.113.210.250/medienasa-live/ok-wernigerode_high
+#EXTINF:-1,OK Wettin
+rtmp://62.113.210.250/medienasa-live/ok-wettin_high
+#EXTINF:-1,Punktum S�dharz
+rtmp://62.113.210.250/medienasa-live/punktum_high
+#EXTINF:-1,Ran 1
+rtmp://62.113.210.250/medienasa-live/mp4:ran1_high
+#EXTINF:-1,Ran 1 Dessau
+rtmp://62.113.210.250/medienasa-live/ran1_high
+#EXTINF:-1,Rbw
+rtmp://62.113.210.250/medienasa-live/rbw_high
+#EXTINF:-1,Rfh Tv
+rtmp://62.113.210.250/medienasa-live/RFH_high
+#EXTINF:-1,Ric Tv
+rtmp://83.169.58.36/live/sdf:3fb1c9c9-09c8-404a-8c0f-56b27617ab89
+#EXTINF:-1,Rtl Tele Letzebourg
+rtmp://wowza01.newmedia.lu/channel1/live
+#EXTINF:-1,TeleB�rn
+rtsp://rtmp.infomaniak.ch/livecast/barntele
+#EXTINF:-1,---GRECIA---
+http://www.pandasat.info/iptv/PLAYLIST.avi
+#EXTINF:-1,Skai Greece
+http://iphone.skai.gr.edgesuite.net/iphone_iphone.m3u8
+#EXTINF:-1,Vouli
+http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
+#EXTINF:-1,Zougla
+http://zouglahd-f.akamaihd.net/i/zougla_1@56341/index_700_av-b.m3u8
+#EXTINF:-1,Tilesport
+http://tv1.streampulse.eu:1935/tilesport/movie1/live.m3u8
+#EXTINF:-1,Krhth Tv
+rtmp://live.cretetv.gr/cretetv/myStream
+#EXTINF:-1,Kontra TV
+rtmp://flashcloud.mediacdn.com:1935/live/kontratv
+#EXTINF:-1,Omega
+http://stream2.omegatv.net/hls-live/livepkgr/_definst_/liveevent/omegatv.m3u8
+#EXTINF:-1,Messinia
+rtmp://176.9.123.140:1935/messinia/messinia
+#EXTINF:-1,Thrakinet
+rtmp://hls.onestreaming.com:1935/live/thrakinettv
+#EXTINF:-1,Mad TV
+rtmp://144.76.2.213:1935/live/livestream
+#EXTINF:-1,EBS
+http://ott.ec.streamcloud.be/live/disk1/EBS/hls_el/EBS-audio_AACL_ell_66400_207=66400-video=800000.m3u8
+#EXTINF:-1,EBS Plus
+http://ott.ec.streamcloud.be/live/disk1/EBSplus/hls_el/EBSplus-audio_AACL_ell_66400_407=66400-video=800000.m3u8
+#EXTINF:-1,---ROMANIA---
+http://www.pandasat.info/iptv/PLAYLIST.avi
+#EXTINF:-1,TV Buzau
+http://95.77.16.72:81/tv20/playlist.m3u8
+#EXTINF:-1,TeleM Iasi
+http://webmobile.xdev.ro:81/tv16/playlist.m3u8
+#EXTINF:-1,Realitatea Tv
+http://realitatea.m247.ro/hls/live.m3u8
+#EXTINF:-1,Speranta TV
+rtmp://amsix3.streamkit.tv:80/edge/_definst_/sperantatv_500
+#EXTINF:-1,Tv Sud Est
+http://iptv.tvsatrm.ro/livestream/tvse.m3u8
+#EXTINF:-1,---TURCHIA---
+http://www.pandasat.info/iptv/PLAYLIST.avi
+#EXTINF:-1,Kanal Sim Kibris
+rtmp://sponsored.ncbtv.com:1835/live/42e_kanalsim
+#EXTINF:-1,Kibris Ada Tv
+rtmp://sponsored.ncbtv.com:1835/live/42e_adatv
+#EXTINF:-1,Kibris Gen� Tv
+rtmp://sponsored.ncbtv.com:1835/live/42e_genctv
+#EXTINF:-1,Kibris Tv
+rtmp://sponsored.ncbtv.com:1835/live/42e_kibristv
+#EXTINF:-1,---ARABI---
+http://www.pandasat.info/iptv/PLAYLIST.avi
+#EXTINF:-1,Rt Arabic Hd
+http://rt-a.akamaihd.net/ch_03@325607/720p.m3u8
+#EXTINF:-1,Al Arabiya News
+http://alhadath-geo-live.hls.adaptive.level3.net/hls-live/alhadath-channel01/_definst_/live/stream1.m3u8
+#EXTINF:-1,Al Jazeera
+http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/appleman.m3u8
+#EXTINF:-1,Al Sharqiya
+http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
+#EXTINF:-1,BBC Arabia
+http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
+#EXTINF:-1,BBC World News
+http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
+#EXTINF:-1,Irinn
+http://63.237.48.3/ios/IRINN/IRINN.m3u8
+#EXTINF:-1,Orient
+http://173.192.180.122/hls-live/livepkgr/_definst_/liveevent/live_ios.m3u8
+#EXTINF:-1,Sntv
+http://www.axadledirect.com:1936/13/stream/playlist.m3u8
+#EXTINF:-1,Sama Syria TV
+http://sama-tv.net:1935/live/samatv/playlist.m3u8
+#EXTINF:-1,Al Hurra
+http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
+#EXTINF:-1,Alijazeera Documentary
+http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
+#EXTINF:-1,Dubai Drama
+http://dmivll.mangomolo.com/dubaidrama/smil:dubaidrama.stream.smil/playlist.m3u8
+#EXTINF:-1,Future TV
+http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/gmswf.m3u8
+#EXTINF:-1,Sama Dubai
+http://dmi.mangomolo.com:1935/samadubai/smil:samadubai.smil/playlist.m3u8
+#EXTINF:-1,---RUSSIA---
+http://www.pandasat.info/iptv/PLAYLIST.avi
+#EXTINF:-1,Lifenews
+http://tv.life.ru/lifetv/720p/index.m3u8
+#EXTINF:-1,Bg Dnes
+http://80.72.95.40:8088
+#EXTINF:-1,Mtv Hits
+rtmp://fr456.edem.tv/iptv/153?key=6TGEMRUHCLH9PG
+#EXTINF:-1,Rbc Tv
+http://online.video.rbc.ru/online/rbctv_480p/index.m3u8
+#EXTINF:-1,Tch Tv
+http://sibinformburo.cdnvideo.ru:1935/sibinformburo/sibinformburo.sdp/chunklist.m3u8
+#EXTINF:-1,Roma Tv
+http://185.46.161.3/hls/sd.m3u8
+#EXTINF:-1,Ds Tv
+rtmp://46.249.95.140/live/livestream
+#EXTINF:-1,Quiero Musica
+mms://streamqm.uigc.net/qmusica
+#EXTINF:-1,Hip Hop Channel
+http://spb1.peers.tv/streaming/aone/16/tvrec/playlist.m3u8
+#EXTINF:-1,---ASIA---
+http://www.pandasat.info/iptv/PLAYLIST.avi
+#EXTINF:-1,Sztv Hd
+http://ktv002.cdnllnwnl.ds.kylintv.net/nlds/kylin/sztvhd/as/live/sztvhd_5.m3u8
+#EXTINF:-1,Btv Hd
+http://ktv010.cdnllnwnl.ds.kylintv.net/nlds/kylin/btvhd/as/live/btvhd_5.m3u8
+#EXTINF:-1,Btv Variety
+http://ktv033.cdnllnwnl.ds.kylintv.net/nlds/kylin/varietyhd/as/live/varietyhd_5.m3u8
+#EXTINF:-1,Phoenix Hk
+http://ktv039.cdnllnwnl.ds.kylintv.net/nlds/kylin/pxhkus/as/live/pxhkus_4.m3u8
+#EXTINF:-1,Shandong Tv Hd
+http://ktv017.cdnak.ds.kylintv.net/nlds/kylin/sdtvhd/as/live/sdtvhd_4.m3u8
+#EXTINF:-1,Kunlun Hd
+http://ktv009.cdnak.ds.kylintv.net/nlds/kylin/kunlunhd/as/live/kunlunhd_4.m3u8
+#EXTINF:-1,Gdtv Hd
+http://ktv026.cdnak.ds.kylintv.net/nlds/kylin/gdtvhd/as/live/gdtvhd_4.m3u8
+#EXTINF:-1,Formosa Tv
+http://ktv051.cdnak.ds.kylintv.net/nlds/kylin/formosatv/as/live/formosatv_4.m3u8
+#EXTINF:-1,Zhejiang Hd
+http://ktv017.cdnak.ds.kylintv.net/nlds/kylin/zhejtvhd/as/live/zhejtvhd_5.m3u8
+#EXTINF:-1,Lotus Macau
+http://ktv039.cdnllnwnl.ds.kylintv.net/nlds/kylin/lotustv/as/live/lotustv_4.m3u8
+#EXTINF:-1,Cctv 3 Sd
+http://ktv006.cdnllnwnl.ds.kylintv.net/nlds/kylin/cctv3hd/as/live/cctv3hd_3.m3u8
+#EXTINF:-1,---MESSICO---
+http://www.pandasat.info/iptv/PLAYLIST.avi
+#EXTINF:-1,Tv Mas Veracruz
+rtmp://50.7.98.234/rtv/videortv
+#EXTINF:-1,Proyecto 40
+http://tvaz-pd.kaltura.com.edgesuite.net/p/461031/sp/46103100/serveFlavor/entryId/0_08wdjxfl/v/1/flavorId/0_8j06e5nk/forceproxy/true/name/a.mp4
+#EXTINF:-1,El Trece
+http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_1_av-b.m3u8
+#EXTINF:-1,Uanl Tv Canal 53
+mms://streaming.uanl.mx/canal53bandaancha
+#EXTINF:-1,Travel TV
+rtmp://87.106.219.140/live/myStream_2
+#EXTINF:-1,Canal 7 San Luis Potos�
+http://187.188.159.113:1935/live/web.sdp/playlist.m3u8
+#EXTINF:-1,Canal 4 M�rida
+rtmp://159.16.243.10/live/canal4/canal4
+#EXTINF:-1,Capital 21
+http://187.237.253.94:8134/hls-live/livepkgr/_definst_/liveevent.m3u8
+#EXTINF:-1,Canal 2 Mexico
+http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-p.m3u8
+#EXTINF:-1,Azteca 13
+http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8
+#EXTINF:-1,---BRASILE---
+http://www.pandasat.info/iptv/PLAYLIST.avi
+#EXTINF:-1,Rede Tv2
+rtmp://evp.mm.uol.com.br/redetv2/_definst_/redetv2
+#EXTINF:-1,Mana Sat
+rtmp://195.22.19.179/manasat/manasat2
+#EXTINF:-1,Rede Familia
+mms://srv3.ntelecom.com.br/redefamilia
+#EXTINF:-1,Rede Fam�lia 2
+rtsp://srv3.ntelecom.com.br/redefamilia
+#EXTINF:-1,Rede Gospel
+http://media01.s12.com.br:1935/live/redegospel/livestream.m3u8
+#EXTINF:-1,Rede Minas
+rtmp://rtmp.cdn.upx.net.br/00084/myStream.sdp
+#EXTINF:-1,Terra Viva Brasil
+rtmp://evp.mm.uol.com.br/terraviva/_definst_/terraviva
+#EXTINF:-1,TV Urbana
+rtmp://srv6.zoeweb.tv/z433-live/stream
+#EXTINF:-1,TVE/TV Cultura (PARAN�)
+http://200.189.113.201:80/hls/tve.m3u8
+#EXTINF:-1,---COSTA RICA---
+http://www.pandasat.info/iptv/PLAYLIST.avi
+#EXTINF:-1,Tele Uno TV
+rtmp://k3.usastreams.com:1935/tvuno1/tvuno1
+#EXTINF:-1,Canal 6
+rtmp://k3.usastreams.com:1935/cana6/cana6
+#EXTINF:-1,Canal 13
+rtmp://stream01.cyberfuel.com/SinartCanal13/livestream
+#EXTINF:-1,Xperts 33 Tv
+rtmp://k3.usastreams.com:1935/tv33/tv33
+#EXTINF:-1,Extra TV Canal 42
+rtmp://k3.usastreams.com:1935/canal42/canal42
+#EXTINF:-1,Smo Tv Costa Rica
+rtmp://199.217.118.90:1935/smotv/stream
+#EXTINF:-1,Colosal TV
+rtmp://k3.usastreams.com:1935/colosaltv1/colosaltv1
+#EXTINF:-1,---ADULTI XXX---
+http://www.pandasat.info/iptv/PLAYLIST.avi
+#EXTINF:-1,Doll1
+rtmp://216.105.165.72:1941/stream9/live
+#EXTINF:-1,Doll2
+rtmp://216.105.165.72:1939/stream7/live
+#EXTINF:-1,Doll3 
+rtmp://216.105.165.72:1940/stream8/live
+#EXTINF:-1,Sex Station
+rtsp://publish.thewebstream.co:1935/bsx24/_definst_/mpegts1.stream
+#EXTINF:-1,JASMIN TV
+rtmp://109.71.162.112:1935/live/sd.jasminchannel.stream
+#EXTINF:-1,MIAMI TV
+http://mexicoserver.miamitvchannel.com/miamitv/smil%3amiamitvmexico/master.m3u8
+#EXTINF:-1,BS 24 LIVE
+http://de-origin-live.3qsdn.com:1935/2346/Ct6zG7Nrj3v2JxD/playlist.m3u8
+#EXTINF:-1,Y*U P*RN 24 H
+http://iptvnation.com/porn/video.mp4
+#EXTINF:-1,BUD GO
+http://main2sb.everyon.tv:1935/etv2sb/pld10772/playlist.m3u8
+#EXTINF:-1,LIVE TING
+http://main2sb.everyon.tv:1935/etv2sb/pld10062/HasBahCa.m3u8
+#EXTINF:-1,NUART
+http://78.111.176.132:8080
+#EXTINF:-1,OLALA
+http://78.111.176.132:8082
+#EXTINF:-1,Vi*it-*.tv
+rtmp://stream.visit-x.tv/vxtv//live_720p
+#EXTINF:-1,P*n*ho*se HD JAPON online
+rtmp://edge1.everyon.tv/etv1sb//phd10927
+#EXTINF:-1,B*B*S*A*IO*
+http://212.250.196.74:1935/bsx24/_definst_/mpegts1.stream/playlist.m3u8
+#EXTINF:-1,F*NDO*ADO TV online
+rtmp://streaming.fundorado.com:80/fundoradotv//live.stream
+#EXTINF:-1,Li*e Se* Lat*nas
+http://publish.thewebstream.co:1935/leved/_definst_/livesexlatinas/playlist.m3u8
+#EXTINF:-1,---FILM VINTAGE IN ITALIANO---
+http://www.pandasat.info/iptv/PLAYLIST.avi
+#EXTINF:-1,Malena Trailer
+http://hw01.trailers.famehosted.com/2/1/5/0/c50512/trailers/tr_50512_hd.mp4
+#EXTINF:-1,Malena and Trixi Trailer
+http://hw01.trailers.famehosted.com/2/1/5/0/c50512/trailers/50512_02/tr_50512_02_hd.mp4
+#EXTINF:-1,Rocco's perfect slaves Trailer
+http://hw01.trailers.famehosted.com/5/2/9/0/c50925/trailers/50925_01/tr_50925_01_hd.mp4
+#EXTINF:-1,MADRE AFFASCINANTE -EP.1-
+http://www.phicatube.net/media/videos/iphone/2840.mp4
+#EXTINF:-1,MADRE AFFASCINANTE -EP.2-
+http://www.phicatube.net/media/videos/iphone/2841.mp4
+#EXTINF:-1,MADRE AFFASCINANTE -EP.3-
+http://www.phicatube.net/media/videos/iphone/2842.mp4
+#EXTINF:-1,MADRE AFFASCINANTE -EP.4-
+http://www.phicatube.net/media/videos/iphone/2843.mp4
+#EXTINF:-1,MADRE AFFASCINANTE -EP.5-
+http://www.phicatube.net/media/videos/iphone/2844.mp4
+#EXTINF:-1,MADRE AFFASCINANTE -EP.6-
+http://www.phicatube.net/media/videos/iphone/2845.mp4
+#EXTINF:-1,LARA CROFT VIDEOGAMES XXX
+http://www.phicatube.net/media/videos/iphone/40054.mp4
+#EXTINF:-1,POKEMON XXX Parody-super porn
+http://www.phicatube.net/media/videos/iphone/35756.mp4
+#EXTINF:-1,BASIC INSTINCT XXX Parody-super porn
+http://www.phicatube.net/media/videos/iphone/33174.mp4
+#EXTINF:-1,SUPERMAN Vs SPIDERMAN XXX Parody-super porn
+http://www.phicatube.net/media/videos/iphone/28208.mp4
+#EXTINF:-1,BATMAN XXX Parody-super porn
+http://www.phicatube.net/media/videos/iphone/19633.mp4
+#EXTINF:-1,MAN IN BLACK XXX Parody-super porn
+http://www.phicatube.net/media/videos/iphone/20376.mp4
+#EXTINF:-1,KILL BILL XXX Parody-super porn
+http://www.phicatube.net/media/videos/iphone/21692.mp4
+#EXTINF:-1,X-Men XXX Parody-super porn
+http://www.phicatube.net/media/videos/iphone/4438.mp4
+#EXTINF:-1,TERMINATOR XXX Parody-super porn
+http://www.phicatube.net/media/videos/iphone/4437.mp4
+#EXTINF:-1,STAR TREK XXX Parody-SUPER PORN
+http://www.phicatube.net/media/videos/iphone/4435.mp4
+#EXTINF:-1,SCOOBY DOO XXX Parody-SUPER PORN
+http://www.phicatube.net/media/videos/iphone/4434.mp4
+#EXTINF:-1,E.T. XXX Parody-SUPER PORN
+http://www.phicatube.net/media/videos/iphone/4433.mp4
+#EXTINF:-1,South Park XXX Parody-SUPER PORN
+http://www.phicatube.net/media/videos/iphone/4428.mp4
+#EXTINF:-1,PINOCCHIO XXX Parody-SUPER PORN
+http://www.phicatube.net/media/videos/iphone/4425.mp4
+#EXTINF:-1,THE FLINSTONES -PT.1- XXX Parody-SUPER PORN
+http://www.phicatube.net/media/videos/iphone/4420.mp4
+#EXTINF:-1,THE FLINSTONES -PT.2- XXX Parody-SUPER PORN
+http://www.phicatube.net/media/videos/iphone/4421.mp4
+#EXTINF:-1,SELEN
+http://videopornoitaliano.net/media/videos/5/4/8/e/b/548eb57b50a2b.mp4
+#EXTINF:-1,SIGNORE SC@ND@LOSE DI PROVINCI@
+http://videopornoitaliano.net/media/videos/5/4/a/f/7/54af7b7a48578.mp4
+#EXTINF:-1,R@tte e Sf@ndate
+http://cdn.videos.pornopizza.it/media/videos/5/7/a/8/b/57a8b58243474.mp4
+#EXTINF:-1,Le P@rcone Volanti
+http://cdn.videos.pornopizza.it/media/videos/5/7/3/a/f/573af2c3cc340.mp4
+#EXTINF:-1,Filomena M@rtusano
+http://cdn.videos.pornopizza.it/media/videos/5/7/8/a/5/578a53d649c3f.mp4
+#EXTINF:-1,La M@glie del Dentista
+http://cdn.videos.pornopizza.it/media/videos/5/6/2/1/6/56216132ec850.mp4
+#EXTINF:-1,Il Di@volo in C@nvento
+http://cdn.videos.pornopizza.it/media/videos/5/6/f/1/6/56f16772da365.mp4
+#EXTINF:-1,C@lda pioggia di Sess@
+http://cdn.videos.pornopizza.it/media/videos/5/6/2/5/3/56253088b7670.mp4
+#EXTINF:-1,Le avventure Erotix di C@ppuccetto Ross@
+http://cdn.videos.pornopizza.it/media/videos/5/6/2/4/f/5624fb505edd6.mp4
+#EXTINF:-1,Pr@messi Sp@si
+http://cdn.videos.pornopizza.it/media/videos/5/6/2/3/e/5623e53b5500a.mp4
+#EXTINF:-1,P@rno Classico Angelic@ Bell@
+http://cdn.videos.pornopizza.it/media/videos/5/6/2/3/8/56238a00f2fdd.mp4
+#EXTINF:-1,Eterna P@ssione
+http://cdn.videos.pornopizza.it/media/videos/5/6/6/6/9/566693ce97327.mp4
+#EXTINF:-1,L@ sicili@n@
+http://media.tuboitaliano.xxx:81/videos/5/6/5/5/7/56557bb4a3b02.mp4
+#EXTINF:-1,L'@mico di famigli@
+http://media.tuboitaliano.xxx:81/videos/5/6/3/1/2/5631279b0e557.mp4
+#EXTINF:-1,L'elettricist@ ti ric@ric@ il .....
+http://media.tuboitaliano.xxx:81/videos/5/6/2/a/3/562a37f5d9fdc.mp4
+#EXTINF:-1,Il fuoco dell@ tr@sgressione
+http://media.tuboitaliano.xxx:81/videos/5/6/2/7/7/562777081b8e7.mp4
+#EXTINF:-1,B@gno c@ldo
+http://media.tuboitaliano.xxx:81/videos/5/6/2/5/0/562503f05c990.mp4
+#EXTINF:-1,Venere in pellicci@
+http://media.tuboitaliano.xxx:81/videos/5/6/5/5/8/565582e84e062.mp4
+#EXTINF:-1,Cocco di p@p@'
+http://cdn.videos.pornopizza.it/media/videos/5/6/6/7/1/5667180f10c06.mp4
+#EXTINF:-1,GIRL & GIRL 1
+http://188.165.255.145/absoluporn/64e8284ac9aa65f781e41eedd9bbc44f/22949.mp4
+#EXTINF:-1,GIRL & GIRL 3
+http://188.165.232.63/absoluporn/64e8284ac9aa65f781e41eedd9bbc44f/22572.mp4
+#EXTINF:-1,GIRL & GIRL 6
+http://46.105.38.237/absoluporn/64e8284ac9aa65f781e41eedd9bbc44f/21956.mp4
+#EXTINF:-1,GIRL & GIRL 11
+http://188.165.255.145/absoluporn/64e8284ac9aa65f781e41eedd9bbc44f/39337.mp4
+#EXTINF:-1,GIRL & GIRL 14
+http://87.98.184.134/vidshd/56ea912c4df934c216c352fa8d623af3/17353.mp4
+#EXTINF:-1,GIRL & GIRL 19
+http://91.121.136.183/absoluporn/64e8284ac9aa65f781e41eedd9bbc44f/27859.mp4
+#EXTINF:-1,GIRL & GIRL 20
+http://91.121.136.183/absoluporn/64e8284ac9aa65f781e41eedd9bbc44f/25088.mp4
+#EXTINF:-1,GIRL & GIRL 21
+http://188.165.255.145/absoluporn/64e8284ac9aa65f781e41eedd9bbc44f/552.mp4
+#EXTINF:-1,ARIADNA
+http://tube.paperstreetcash.com/12mins/rubateen/rubateen_ariadna_12minute.mp4
+#EXTINF:-1,RISSA
+http://tube.paperstreetcash.com/8mins/exxxtrasmall/exxxtrasmall_rissa_maxxx_8minutes.mp4
+#EXTINF:-1,AMANDA
+http://tube.paperstreetcash.com/8mins/rubateen/rubateen_amanda_8minute.mp4
+#EXTINF:-1,DEMIDA
+http://tube.paperstreetcash.com/8mins/rubateen/rubateen_demida_8minutes.mp4
+#EXTINF:-1,FILM/VIDEO VINTAGE ITALIA
+http://tuboitaliano.xxx/media/videos/5/8/b/f/4/58bf485e5dc05.mp4
+#EXTINF:-1,FILM/VIDEO VINTAGE ITALIA
+http://tuboitaliano.xxx/media/videos/5/8/8/d/c/588dc4e1d8598.mp4
+#EXTINF:-1,FILM/VIDEO VINTAGE ITALIA
+http://tuboitaliano.xxx/media/videos/5/8/5/b/7/585b7a2f543b1.mp4 
+#EXTINF:-1,FILM/VIDEO VINTAGE ITALIA
+http://tuboitaliano.xxx/media/videos/5/8/2/9/0/58290f6edbfc6.mp4
+#EXTINF:-1,FILM/VIDEO VINTAGE ITALIA
+http://tuboitaliano.xxx/media/videos/5/8/2/9/0/58290e9438383.mp4
+#EXTINF:-1,FILM/VIDEO VINTAGE ITALIA
+http://tuboitaliano.xxx/media/videos/5/8/2/8/f/5828f666c2f13.mp4
+#EXTINF:-1,FILM/VIDEO VINTAGE ITALIA
+http://tuboitaliano.xxx/media/videos/5/8/2/9/0/58290feaab245.mp4
+#EXTINF:-1,FILM/VIDEO VINTAGE ITALIA
+http://tuboitaliano.xxx/media/videos/5/8/2/8/f/5828fd5ade95a.mp4
+#EXTINF:-1,FILM/VIDEO VINTAGE ITALIA
+http://tuboitaliano.xxx/media/videos/5/8/2/9/3/582932dcadf9b.mp4
+#EXTINF:-1,FILM/VIDEO VINTAGE ITALIA
+http://tuboitaliano.xxx/media/videos/5/8/0/7/3/580739b000c99.mp4
+#EXTINF:-1,FILM/VIDEO VINTAGE ITALIA
+http://tuboitaliano.xxx/media/videos/5/8/0/7/1/58071ec1bf30f.mp4
+#EXTINF:-1,FILM/VIDEO VINTAGE ITALIA
+http://tuboitaliano.xxx/media/videos/5/8/0/7/4/5807409032586.mp4
+#EXTINF:-1,FILM/VIDEO VINTAGE ITALIA
+http://tuboitaliano.xxx/media/videos/5/8/0/7/4/58074ae7ee35d.mp4
+#EXTINF:-1,FILM/VIDEO VINTAGE ITALIA
+http://tuboitaliano.xxx/media/videos/5/8/0/7/4/58074798c60b0.mp4
+#EXTINF:-1,FILM/VIDEO VINTAGE ITALIA
+http://tuboitaliano.xxx/media/videos/5/8/0/7/5/58075436d8120.mp4
+#EXTINF:-1,FILM/VIDEO VINTAGE ITALIA
+http://tuboitaliano.xxx/media/videos/5/8/0/7/4/58074c2a81ce7.mp4
+#EXTINF:-1,FILM/VIDEO VINTAGE ITALIA
+http://tuboitaliano.xxx/media/videos/5/8/0/7/3/580736353dbd2.mp4
+#EXTINF:-1,FILM/VIDEO VINTAGE ITALIA
+http://tuboitaliano.xxx/media/videos/5/8/0/7/6/5807644f5bfd7.mp4
+#EXTINF:-1,FILM/VIDEO VINTAGE ITALIA
+http://tuboitaliano.xxx/media/videos/5/7/d/9/c/57d9c2ebd1a53.mp4
+#EXTINF:-1,FILM/VIDEO VINTAGE ITALIA
+http://tuboitaliano.xxx/media/videos/5/7/d/9/b/57d9bcb808ef3.mp4
+#EXTINF:-1,FILM/VIDEO VINTAGE ITALIA
+http://tuboitaliano.xxx/media/videos/5/7/c/0/3/57c0370e4861b.mp4
+#EXTINF:-1,FILM/VIDEO VINTAGE ITALIA
+http://tuboitaliano.xxx/media/videos/5/7/c/0/2/57c02c2401a4c.mp4
+#EXTINF:-1,FILM/VIDEO VINTAGE ITALIA
+http://tuboitaliano.xxx/media/videos/5/7/c/0/2/57c02cce80fc4.mp4
+#EXTINF:-1,FILM/VIDEO VINTAGE ITALIA
+http://tuboitaliano.xxx/media/videos/5/7/c/0/3/57c033f489cab.mp4
+#EXTINF:-1,FILM/VIDEO VINTAGE ITALIA
+http://tuboitaliano.xxx/media/videos/5/7/b/3/4/57b34cf66ec63.mp4
+#EXTINF:-1,FILM/VIDEO VINTAGE ITALIA
+http://tuboitaliano.xxx/media/videos/5/7/7/2/b/5772bdff5a62a.mp4
+#EXTINF:-1,FILM/VIDEO VINTAGE ITALIA
+http://tuboitaliano.xxx/media/videos/5/7/7/2/d/5772d8bca2374.mp4
+#EXTINF:-1,FILM/VIDEO VINTAGE ITALIA
+http://tuboitaliano.xxx/media/videos/5/7/7/2/e/5772ed455ac0d.mp4
+#EXTINF:-1,FILM/VIDEO VINTAGE ITALIA
+http://tuboitaliano.xxx/media/videos/5/7/7/2/8/5772812602d65.mp4
+#EXTINF:-1,FILM/VIDEO VINTAGE ITALIA
+http://tuboitaliano.xxx/media/videos/5/7/3/9/f/5739fd498a027.mp4
+#EXTINF:-1,FILM/VIDEO VINTAGE ITALIA
+http://tuboitaliano.xxx/media/videos/5/7/2/3/6/5723658c0d208.mp4
+#EXTINF:-1,FILM/VIDEO VINTAGE ITALIA
+http://tuboitaliano.xxx/media/videos/5/7/0/1/6/57016793cc276.mp4
+#EXTINF:-1,FILM/VIDEO VINTAGE ITALIA
+http://tuboitaliano.xxx/media/videos/5/7/0/1/7/570173d9de973.mp4
+#EXTINF:-1,FILM/VIDEO VINTAGE ITALIA
+http://tuboitaliano.xxx/media/videos/5/6/8/e/b/568eb95e59f89.mp4
+#EXTINF:-1,FILM/VIDEO VINTAGE ITALIA
+http://tuboitaliano.xxx/media/videos/5/6/7/a/c/567ace92dd29e.mp4
+#EXTINF:-1,FILM/VIDEO VINTAGE ITALIA
+http://tuboitaliano.xxx/media/videos/5/7/7/3/3/57733b810f22f.mp4
+#EXTINF:-1,FILM/VIDEO VINTAGE ITALIA
+http://tuboitaliano.xxx/media/videos/5/8/0/7/5/5807551809490.mp4
+#EXTINF:-1,FILM/VIDEO VINTAGE ITALIA
+http://tuboitaliano.xxx/media/videos/5/8/0/7/2/58072eb09f328.mp4
+#EXTINF:-1,FILM/VIDEO VINTAGE ITALIA
+http://tuboitaliano.xxx/media/videos/5/8/0/7/5/580751c28f7e0.mp4
+#EXTINF:-1,Video xxx
+http://188.165.255.145/absoluporn/64e8284ac9aa65f781e41eedd9bbc44f/21999.mp4
+#EXTINF:-1,Movie xxx
+http://87.98.184.123/vidshd/56ea912c4df934c216c352fa8d623af3/3599.mp4
+#EXTINF:-1,Movie xxx
+http://46.105.38.237/absoluporn/64e8284ac9aa65f781e41eedd9bbc44f/25649.mp4
+#EXTINF:-1,Movie xxx
+http://188.165.232.63/absoluporn/64e8284ac9aa65f781e41eedd9bbc44f/22508.mp4
+#EXTINF:-1,Movie xxx
+http://188.165.232.63/absoluporn/64e8284ac9aa65f781e41eedd9bbc44f/23785.mp4
+#EXTINF:-1,Movie xxx
+http://87.98.144.160/absoluporn2/c6b9f6bfb130713becfbbd629b5a6b51/808641.mp4
+#EXTINF:-1,Movie xxx
+http://46.105.38.237/absoluporn/64e8284ac9aa65f781e41eedd9bbc44f/1270.mp4
+#EXTINF:-1,Movie xxx
+http://87.98.184.134/vidshd/56ea912c4df934c216c352fa8d623af3/1191.mp4
+#EXTINF:-1,Movie xxx
+http://87.98.183.251/vidshd/56ea912c4df934c216c352fa8d623af3/13088.mp4
+#EXTINF:-1,Movie xxx
+http://87.98.183.251/vidshd/56ea912c4df934c216c352fa8d623af3/8426.mp4
+#EXTINF:-1,Movie xxx
+http://188.165.255.145/absoluporn/64e8284ac9aa65f781e41eedd9bbc44f/44660.mp4
+#EXTINF:-1,Movie xxx
+http://46.105.38.237/absoluporn/64e8284ac9aa65f781e41eedd9bbc44f/46411.mp4
+#EXTINF:-1,Movie xxx
+http://5.196.77.185/absoluporn2/c6b9f6bfb130713becfbbd629b5a6b51/272686.mp4
+#EXTINF:-1,Movie xxx
+http://5.196.79.19/absoluporn2/c6b9f6bfb130713becfbbd629b5a6b51/901617.mp4
+#EXTINF:-1,Movie xxx
+http://87.98.144.160/absoluporn2/c6b9f6bfb130713becfbbd629b5a6b51/901617.mp4
+#EXTINF:-1,Movie xxx
+http://87.98.144.160/absoluporn2/c6b9f6bfb130713becfbbd629b5a6b51/1373744.mp4
+#EXTINF:-1,Movie xxx
+http://188.165.232.63/absoluporn/64e8284ac9aa65f781e41eedd9bbc44f/26761.mp4
+#EXTINF:-1,Movie xxx
+http://188.165.232.63/absoluporn/64e8284ac9aa65f781e41eedd9bbc44f/39825.mp4
+#EXTINF:-1,Movie xxx
+http://5.196.77.185/absoluporn2/c6b9f6bfb130713becfbbd629b5a6b51/329065.mp4
+#EXTINF:-1,Movie xxx
+http://5.196.79.19/absoluporn2/c6b9f6bfb130713becfbbd629b5a6b51/1510268.mp4
+#EXTINF:-1,Movie xxx
+http://87.98.184.134/vidshd/56ea912c4df934c216c352fa8d623af3/5858.mp4
+#EXTINF:-1,Movie xxx
+http://87.98.144.160/absoluporn2/c6b9f6bfb130713becfbbd629b5a6b51/565457.mp4
+#EXTINF:-1,Movie xxx
+http://5.196.77.185/absoluporn2/c6b9f6bfb130713becfbbd629b5a6b51/633108.mp4
+#EXTINF:-1,Movie xxx
+http://5.196.79.19/absoluporn2/c6b9f6bfb130713becfbbd629b5a6b51/678834.mp4
+#EXTINF:-1,Movie xxx
+http://5.196.77.185/absoluporn2/c6b9f6bfb130713becfbbd629b5a6b51/747258.mp4
+#EXTINF:-1,Movie xxx
+http://87.98.184.134/vidshd/56ea912c4df934c216c352fa8d623af3/15301.mp4
+#EXTINF:-1,Movie xxx
+http://87.98.144.160/absoluporn2/c6b9f6bfb130713becfbbd629b5a6b51/1161904.mp4
+#EXTINF:-1,Movie xxx
+http://87.98.184.134/vidshd/56ea912c4df934c216c352fa8d623af3/597.mp4
+#EXTINF:-1,Movie xxx
+http://46.105.38.237/absoluporn/64e8284ac9aa65f781e41eedd9bbc44f/25373.mp4
+#EXTINF:-1,Movie xxx
+http://5.196.77.185/absoluporn2/c6b9f6bfb130713becfbbd629b5a6b51/679117.mp4
+#EXTINF:-1,Movie xxx
+http://87.98.184.134/vidshd/56ea912c4df934c216c352fa8d623af3/9443.mp4
+#EXTINF:-1,Movie xxx
+http://46.105.38.237/absoluporn/64e8284ac9aa65f781e41eedd9bbc44f/29558.mp4
+#EXTINF:-1,Movie xxx
+http://87.98.183.251/vidshd/56ea912c4df934c216c352fa8d623af3/3386.mp4
+#EXTINF:-1,Movie xxx
+http://178.33.50.13/absoluporn/64e8284ac9aa65f781e41eedd9bbc44f/24569.mp4
+#EXTINF:-1,Movie xxx
+http://178.33.50.13/absoluporn/64e8284ac9aa65f781e41eedd9bbc44f/26239.mp4
+#EXTINF:-1,Movie xxx
+http://178.33.50.13/absoluporn/64e8284ac9aa65f781e41eedd9bbc44f/45495.mp4
+#EXTINF:-1,Movie xxx
+http://5.196.79.19/absoluporn2/c6b9f6bfb130713becfbbd629b5a6b51/1812901.mp4
+#EXTINF:-1,Movie xxx
+http://5.196.77.185/absoluporn2/c6b9f6bfb130713becfbbd629b5a6b51/103671.mp4
+#EXTINF:-1,Movie xxx
+http://87.98.184.134/vidshd/56ea912c4df934c216c352fa8d623af3/11738.mp4
+#EXTINF:-1,Movie xxx
+http://87.98.184.134/vidshd/56ea912c4df934c216c352fa8d623af3/7991.mp4
+#EXTINF:-1,Movie xxx
+http://5.196.77.185/absoluporn2/c6b9f6bfb130713becfbbd629b5a6b51/950598.mp4
+#EXTINF:-1,Movie xxx
+http://87.98.144.160/absoluporn2/c6b9f6bfb130713becfbbd629b5a6b51/725268.mp4
+#EXTINF:-1,Movie xxx
+http://87.98.184.134/vidshd/56ea912c4df934c216c352fa8d623af3/15803.mp4
+#EXTINF:-1,Movie xxx
+http://87.98.184.134/vidshd/56ea912c4df934c216c352fa8d623af3/4147.mp4
+#EXTINF:-1,Movie xxx
+http://5.196.77.185/absoluporn2/c6b9f6bfb130713becfbbd629b5a6b51/911370.mp4
+#EXTINF:-1,Movie xxx
+http://87.98.184.134/vidshd/56ea912c4df934c216c352fa8d623af3/14958.mp4
+#EXTINF:-1,Movie xxx
+http://87.98.184.123/vidshd/56ea912c4df934c216c352fa8d623af3/5028.mp4
+#EXTINF:-1,Movie xxx
+http://178.33.50.13/absoluporn/64e8284ac9aa65f781e41eedd9bbc44f/41202.mp4
+#EXTINF:-1,Movie xxx
+http://188.165.232.63/absoluporn/64e8284ac9aa65f781e41eedd9bbc44f/43002.mp4
+#EXTINF:-1,Movie xxx
+http://5.196.79.19/absoluporn2/c6b9f6bfb130713becfbbd629b5a6b51/1479309.mp4
+#EXTINF:-1,Movie xxx
+http://5.196.77.185/absoluporn2/c6b9f6bfb130713becfbbd629b5a6b51/1029936.mp4
+#EXTINF:-1,MOVIE XXX
+http://cdn.momxxx.org/momxxx_mp4/mom_kathy_sybil_RU031417_720p_2600.mp4
+#EXTINF:-1,MOVIE XXX
+http://cdn.momxxx.org/momxxx_mp4/mom_terra_yenna_RU022217_720p_2600.mp4
+#EXTINF:-1,MOVIE XXX
+http://cdn.momxxx.org/momxxx_mp4/mom_caroline_ardolino_RU012017_720p_2600.mp4
+#EXTINF:-1,MOVIE XXX
+http://cdn.momxxx.org/momxxx_mp4/mom_angel_wicky_RU110216_720p_2600.mp4
+#EXTINF:-1,MOVIE XXX
+http://momxxx.org/momxxx_mp4/mom_angel_wicky_RU110216_720p_2600.mp4
+#EXTINF:-1,MOVIE XXX
+http://cdn.momxxx.org/momxxx_mp4/mom_yasmin_scott_RU061416_720p_2600.mp4
+#EXTINF:-1,MOVIE XXX
+http://cdn.momxxx.org/momxxx_mp4/mom_annie_terra_RU022516_720p_4000.mp4
+#EXTINF:-1,MOVIE XXX
+http://www.eporner.com/dload/105475/360/105475-360p.mp4
+#EXTINF:-1,MOVIE XXX
+http://www.eporner.com/dload/700019/360/700019-360p.mp4
+#EXTINF:-1,MOVIE XXX
+http://www.eporner.com/dload/475595/360/475595-360p.mp4
+#EXTINF:-1,MOVIE XXX
+http://www.eporner.com/dload/398788/360/398788-360p.mp4
+#EXTINF:-1,MOVIE XXX
+http://www.eporner.com/dload/23270/360/23270-360p.mp4
+#EXTINF:-1,MOVIE XXX
+http://www.eporner.com/dload/698539/360/698539-360p.mp4
+#EXTINF:-1,MOVIE XXX
+http://www.eporner.com/dload/340953/360/340953-360p.mp4
+#EXTINF:-1,MOVIE XXX
+http://www.eporner.com/dload/666747/360/666747-360p.mp4
+#EXTINF:-1,MOVIE XXX
+http://www.eporner.com/dload/103504/360/103504-360p.mp4
+#EXTINF:-1,MOVIE XXX
+http://www.eporner.com/dload/322891/360/322891-360p.mp4
+#EXTINF:-1,MOVIE XXX
+http://www.eporner.com/dload/309567/360/309567-360p.mp4
+#EXTINF:-1,MOVIE XXX
+http://www.eporner.com/dload/9204/360/9204-360p.mp4
+#EXTINF:-1,MOVIE XXX
+http://www.eporner.com/dload/97736/360/97736-360p.mp4
+#EXTINF:-1,MOVIE XXX
+http://www.eporner.com/dload/199243/360/199243-360p.mp4
+#EXTINF:-1,MOVIE XXX
+http://www.eporner.com/dload/199067/360/199067-360p.mp4
+#EXTINF:-1,MOVIE XXX
+http://www.eporner.com/dload/311057/360/311057-360p.mp4
+#EXTINF:-1,MOVIE XXX
+http://www.eporner.com/dload/680510/360/680510-360p.mp4
+#EXTINF:-1,AnySex VOD 1
+http://anysex.com/get_file/1/3849af25e06ccb10e1fb6b23f16a615b/197000/197939/197939.mp4/
+#EXTINF:-1,AnySex VOD 2
+http://anysex.com/get_file/1/ff756e8a922190e541ffb28fc1d0899c/182000/182758/182758.mp4/
+#EXTINF:-1,AnySex VOD 3
+http://anysex.com/get_file/1/d2ed04906569520a85cdd25e41629e98/202000/202866/202866.mp4/
+#EXTINF:-1,AnySex VOD 4
+http://anysex.com/get_file/1/36c3f94673b9a0e998f5cf48a5dbae48/184000/184753/184753.mp4/
+#EXTINF:-1,AnySex VOD 5
+http://anysex.com/get_file/1/e14c8e773b9a3ed22ce42000db76a91a/203000/203211/203211.mp4/
+#EXTINF:-1,AnySex VOD 6
+http://anysex.com/get_file/1/f3846b9c434f29d8bc9e6124122b9399/193000/193742/193742.mp4/
+#EXTINF:-1,AnySex VOD 7
+http://anysex.com/get_file/1/1d759b669f1a44309556024be91f9923/193000/193615/193615.mp4/
+#EXTINF:-1,AnySex VOD 8
+http://anysex.com/get_file/1/0dd12485608c09bc44a29b52b2f027cc/184000/184508/184508.mp4/
+#EXTINF:-1,AnySex VOD 9
+http://anysex.com/get_file/1/96383cc05aedc07402e7b2dea40e505c/186000/186265/186265.mp4/
+#EXTINF:-1,AnySex VOD 10
+http://anysex.com/get_file/1/99441daeb374ea78124532d200b98c9d/204000/204522/204522.mp4/
+#EXTINF:-1,AnySex VOD 11
+http://anysex.com/get_file/1/7f1ab8fb692cdd03eceaa260c957393b/200000/200149/200149.mp4/
+#EXTINF:-1,AnySex VOD 12
+http://anysex.com/get_file/1/9d188e3faef698e339825fc656155772/197000/197484/197484.mp4/
+#EXTINF:-1,AnySex VOD 13
+http://anysex.com/get_file/1/f310e31602e9dfc5c5a8b5a1a0198d2b/203000/203224/203224.mp4/
+#EXTINF:-1,AnySex VOD 14
+http://anysex.com/get_file/1/fbb2fa94aaba78f34860bbaad1e245c2/202000/202080/202080.mp4/
+#EXTINF:-1,AnySex VOD 15
+http://anysex.com/get_file/1/dd944af93cbf24415f873364ab965629/204000/204774/204774.mp4/
+#EXTINF:-1,AnySex VOD 16
+http://anysex.com/get_file/1/05aea56460ffe6544e25c74d5e8d603f/203000/203203/203203.mp4/
+#EXTINF:-1,AnySex VOD 17
+http://anysex.com/get_file/1/0f750593e9c13a97d1372da7ba5ff03d/182000/182756/182756.mp4/
+#EXTINF:-1,AnySex VOD 18
+http://anysex.com/get_file/1/b042dbaad0bfc062be1745a7a718fbe6/197000/197560/197560.mp4/
+#EXTINF:-1,AnySex VOD 19
+http://anysex.com/get_file/1/07d3eb53f530b5b9dce8585df1882e95/203000/203802/203802.mp4/
+#EXTINF:-1,AnySex VOD 20
+http://anysex.com/get_file/1/750644b812d0460dfc6ca6a9445ce173/197000/197632/197632.mp4/
+#EXTINF:-1,AnySex VOD 21
+http://anysex.com/get_file/1/8796f0bd1e8e71882aa295e9191b9296/191000/191215/191215.mp4/
+#EXTINF:-1,AnySex VOD 22
+http://anysex.com/get_file/1/28d916a26ef3fc7ff60714212ad2115d/197000/197689/197689.mp4/
+#EXTINF:-1,AnySex VOD 23
+http://anysex.com/get_file/1/dc544f90b53907795a89f54e3c1bb075/197000/197759/197759.mp4/
+#EXTINF:-1,AnySex VOD 24
+http://anysex.com/get_file/1/63d9ba70c151f55c34d0229fd4a77937/197000/197675/197675.mp4/
+#EXTINF:-1,AnySex VOD 25
+http://anysex.com/get_file/1/885342c9c1ea0f88f11e00773ab606ff/197000/197558/197558.mp4/
+#EXTINF:-1,AnySex VOD 26
+http://anysex.com/get_file/1/0516eb3c64e67faaef27f7f399ad9d61/205000/205008/205008.mp4/
+#EXTINF:-1,AnySex VOD 27
+http://anysex.com/get_file/1/4d0fdf20259ebd6a8b89f82d43e4d7cb/197000/197818/197818.mp4/
+#EXTINF:-1,AnySex VOD 28
+http://anysex.com/get_file/1/bdb420da1b33906ade977edb68f569e2/197000/197651/197651.mp4/
+#EXTINF:-1,AnySex VOD 29
+http://anysex.com/get_file/1/1235c95f4616e3cd3c2c1439ea5ab79b/205000/205086/205086.mp4/
+#EXTINF:-1,AnySex VOD 30
+http://anysex.com/get_file/1/d0ca96a0685cd9c3808a00b8e6b2b3f2/205000/205240/205240.mp4/
+#EXTINF:-1,AnySex VOD 31
+http://anysex.com/get_file/1/2e3cde380a13325552c7e086dc08b65f/197000/197982/197982.mp4/
+#EXTINF:-1,AnySex VOD 32
+http://anysex.com/get_file/1/e342bd6ca9c238328a746729169bf76d/202000/202824/202824.mp4/
+#EXTINF:-1,AnySex VOD 33
+http://anysex.com/get_file/1/fc382fdc073fe57bf6e8dc701a5222f5/202000/202815/202815.mp4/
+#EXTINF:-1,AnySex VOD 34
+http://anysex.com/get_file/1/ced7a18195a08f91799809fcfbefd243/197000/197907/197907.mp4/
+#EXTINF:-1,AnySex VOD 35
+http://anysex.com/get_file/1/cd8b8a352de360a9a974ede0d82e9947/197000/197925/197925.mp4/
+#EXTINF:-1,AnySex VOD 36
+http://anysex.com/get_file/1/f9a3bd63cc5a142a887330352666971b/204000/204036/204036.mp4/
+#EXTINF:-1,AnySex VOD 37
+http://anysex.com/get_file/1/7bc6f2646b35105d1fdbf8b86d0e2074/197000/197330/197330.mp4/
+#EXTINF:-1,AnySex VOD 38
+http://anysex.com/get_file/1/ea0dacb6ba238f0c2fd01eae0e3d78bc/174000/174741/174741.mp4/
+#EXTINF:-1,AnySex VOD 39
+http://anysex.com/get_file/1/93c0cfa12077129af9ff427b230822e7/174000/174673/174673.mp4/
+#EXTINF:-1,AnySex VOD 40
+http://anysex.com/get_file/1/f802fe87bbd5036133a84e08c5d2bffd/162000/162590/162590.mp4/
+#EXTINF:-1,AnySex VOD 41
+http://anysex.com/get_file/1/c5d3f84e727d06b25c5b61f12148340b/24000/24633/24633.mp4/
+#EXTINF:-1,AnySex VOD 42
+http://anysex.com/get_file/1/e199e616adc70c16744c72116b495ab5/143000/143016/143016.mp4/
+#EXTINF:-1,AnySex VOD 43
+http://anysex.com/get_file/1/85aa8f150e7a98dcfc24045d0238c3f4/143000/143003/143003.mp4/
+#EXTINF:-1,AnySex VOD 44
+http://anysex.com/get_file/1/271d95f50aabd3718a7be49ca1a2b2d7/171000/171436/171436.mp4/
+#EXTINF:-1,AnySex VOD 45
+http://anysex.com/get_file/1/e0316c7e430801cac92253e7ade1d67c/171000/171473/171473.mp4/
+#EXTINF:-1,AnySex VOD 46
+http://anysex.com/get_file/1/a7b4a55258fd7d15572229a7f214f399/171000/171460/171460.mp4/
+#EXTINF:-1,AnySex VOD 47
+http://anysex.com/get_file/1/961629519d49176158c6e9a5eab7f742/197000/197625/197625.mp4/
+#EXTINF:-1,AnySex VOD 48
+http://anysex.com/get_file/1/42cf2addfba8ecb82827bad0a0f0fe2f/197000/197672/197672.mp4/
+#EXTINF:-1,AnySex VOD 49
+http://anysex.com/get_file/1/faceac3b94ff226bdeb61b3937b72f00/197000/197945/197945.mp4/
+#EXTINF:-1,AnySex VOD 51
+http://anysex.com/get_file/1/048139358e3146db335e7fbdff6e5c5d/194000/194919/194919.mp4/
+#EXTINF:-1,AnySex VOD 52
+http://anysex.com/get_file/1/3ebe4a2993e0dbf891e9558a5455f770/197000/197933/197933.mp4/
+#EXTINF:-1,AnySex VOD 53
+http://anysex.com/get_file/1/e31fcd5344bf35167014113a2d96ffbb/197000/197489/197489.mp4/
+#EXTINF:-1,AnySex VOD 54
+http://anysex.com/get_file/1/5173e1412a034da36e71f85ed0ad1846/203000/203201/203201.mp4/
+#EXTINF:-1,AnySex VOD 55
+http://anysex.com/get_file/1/5288f016456cfc1283ff9adbe102e8d4/197000/197635/197635.mp4/
+#EXTINF:-1,AnySex VOD 56
+http://anysex.com/get_file/1/acbacabd4cb2211c9bc721d7bce93670/197000/197554/197554.mp4/
+#EXTINF:-1,AnySex VOD 57
+http://anysex.com/get_file/1/41b1131ff919a95fb6b35070a216189f/203000/203171/203171.mp4/
+#EXTINF:-1,AnySex VOD 58
+http://anysex.com/get_file/1/ab091ded27d5833743fba73d8860d8f0/194000/194932/194932.mp4/
+#EXTINF:-1,AnySex VOD 59
+http://anysex.com/get_file/1/e52515f2156303eeebefff200a925534/201000/201451/201451.mp4/
+#EXTINF:-1,AnySex VOD 60
+http://anysex.com/get_file/1/1e85444ae844e62672c7ef56e16a7e25/199000/199793/199793.mp4/
+#EXTINF:-1,AnySex VOD 61
+http://anysex.com/get_file/1/2b0ea705000a2b0f35a63f12f0425a4c/197000/197004/197004.mp4/
+#EXTINF:-1,AnySex VOD 62
+http://anysex.com/get_file/1/06917326b75c66564164714f5dfd56f3/197000/197485/197485.mp4/
+#EXTINF:-1,AnySex VOD 63
+http://anysex.com/get_file/1/e49dbc842a2ba698d3d2a9048e87f782/194000/194938/194938.mp4/
+#EXTINF:-1,AnySex VOD 64
+http://anysex.com/get_file/1/e9354f5d1d42f3e5773c0fdd95ef495e/44000/44548/44548.mp4/
+#EXTINF:-1,AnySex VOD 65
+http://anysex.com/get_file/1/e08b64e698f4c6e32c1a97372ac1d15d/197000/197487/197487.mp4/
+#EXTINF:-1,AnySex VOD 66
+http://anysex.com/get_file/1/246ab83c3ffa1adaddc8f16e9c8342d0/199000/199839/199839.mp4/
+#EXTINF:-1,AnySex VOD 67
+http://anysex.com/get_file/1/7b09a5ebd3ff9c955b8896c106cb0540/199000/199755/199755.mp4/
+#EXTINF:-1,AnySex VOD 68
+http://anysex.com/get_file/1/f60a98d58c0116ce00d06cb76ebe525e/204000/204290/204290.mp4/
+#EXTINF:-1,AnySex VOD 69
+http://anysex.com/get_file/1/a5aac25b60f13ce6c95acfac28f70f94/197000/197455/197455.mp4/
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4500/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4600/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4700/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4800/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4900/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/5100/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/5200/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/5300/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/5400/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4512/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4513/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4514/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4515/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4516/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4517/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4521/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4520/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4522/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4523/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4524/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4525/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4526/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4527/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4528/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4529/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4530/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4531/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4533/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4534/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4536/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4538/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4539/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4540/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4541/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4542/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4543/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4544/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4545/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4546/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4547/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4548/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4549/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4550/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4551/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4552/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4554/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4555/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4556/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4557/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4558/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4559/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4560/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4561/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4562/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4563/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4564/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4565/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4566/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4567/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4568/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4569/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4571/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4572/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4573/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4575/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4576/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4577/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4578/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4579/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4580/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4581/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4582/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4583/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4584/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4585/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4586/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4587/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4588/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4589/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4590/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4591/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4592/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4593/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4595/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4596/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4597/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4599/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4600/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4602/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4603/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4604/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4605/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4606/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4607/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4608/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4609/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4610/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4611/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4612/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4613/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4624/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4623/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4622/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4621/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4619/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4625/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4626/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4628/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4629/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4630/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4631/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4633/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4634/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4635/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4636/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4637/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4638/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4639/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4640/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4641/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4642/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4643/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4644/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4646/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4647/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4648/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4649/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4650/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4651/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4652/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4653/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4654/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4656/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4657/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4658/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4659/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4660/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4661/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4662/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4663/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4664/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4666/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4668/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4670/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4671/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4672/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4674/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4675/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4676/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4677/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4678/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4679/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4680/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4681/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4682/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4683/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4684/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4685/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4686/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4687/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4688/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4689/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4690/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4691/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4692/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4693/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4694/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4695/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4696/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4697/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4698/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4699/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4701/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4702/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4703/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4704/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4705/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4706/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4707/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4708/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4709/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4710/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4711/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4714/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4715/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4716/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4717/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4720/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4721/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4722/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4723/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4724/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4726/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4727/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4728/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4729/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4730/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4731/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4732/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4733/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4734/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4735/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4736/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4737/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4738/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4739/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4740/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4741/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4742/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4743/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4744/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4745/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4746/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4747/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4748/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4749/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4750/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4751/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4752/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4754/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4755/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4756/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4757/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4758/180sec.flv
+#EXTINF:-1,VOD XXX HD
+http://static.brazzers.com/scenes/4759/180sec.flv
+#EXTINF:-1,VOD-02
+http://media.tuboitaliano.xxx:81/videos/5/5/7/2/f/5572f86a809c0.mp4
+#EXTINF:-1,VOD-03
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+#EXTINF:-1,VOD-04
+http://media.tuboitaliano.xxx:81/videos/5/6/2/0/2/562024ae52ae4.mp4
+#EXTINF:-1,VOD-05
+http://media.tuboitaliano.xxx:81/videos/5/6/3/7/5/56375d0c81fdb.mp4
+#EXTINF:-1,VOD-06
+http://media.tuboitaliano.xxx:81/videos/5/6/2/f/d/562fd943cc83c.mp4
+#EXTINF:-1,VOD-07
+http://media.tuboitaliano.xxx:81/videos/5/5/8/6/9/55869d0ed868d.mp4
+#EXTINF:-1,VOD-08
+http://media.tuboitaliano.xxx:81/videos/5/6/2/b/d/562bd7b5262d5.mp4
+#EXTINF:-1,VOD-09
+http://media.tuboitaliano.xxx:81/videos/5/6/2/7/7/562777081b8e7.mp4
+#EXTINF:-1,VOD-10
+http://media.tuboitaliano.xxx:81/videos/5/6/3/a/3/563a391e49e4e.mp4
+#EXTINF:-1,VOD-11
+http://media.tuboitaliano.xxx:81/videos/5/6/2/e/d/562ed8ef7b6cd.mp4
+#EXTINF:-1,VOD 59
+http://media.tuboitaliano.xxx:81/videos/5/6/1/d/2/561d234b4d3ad.mp4
+#EXTINF:-1,VOD 60
+http://media.tuboitaliano.xxx:81/videos/5/6/4/8/9/5648923984ced.mp4
+#EXTINF:-1,VOD 61
+http://media.tuboitaliano.xxx:81/videos/5/6/5/1/a/5651aa1a80ecf.mp4
+#EXTINF:-1,VOD 62
+http://media.tuboitaliano.xxx:81/videos/5/5/6/a/2/556a2465e5c2b.mp4
+#EXTINF:-1,VOD 63
+http://media.tuboitaliano.xxx:81/videos/5/5/6/a/c/556acaf32668d.mp4
+#EXTINF:-1,VOD 64
+http://media.tuboitaliano.xxx:81/videos/5/5/8/9/b/5589bd59a6e6e.mp4
+#EXTINF:-1,VOD 65
+http://media.tuboitaliano.xxx:81/videos/5/5/6/a/4/556a44ef99130.mp4
+#EXTINF:-1,VOD 66
+http://media.tuboitaliano.xxx:81/videos/5/6/5/5/9/56559e9aa119e.mp4
+#EXTINF:-1,VOD 67
+http://media.tuboitaliano.xxx:81/videos/5/5/9/4/1/5594130834415.mp4
+#EXTINF:-1,VOD 68
+http://media.tuboitaliano.xxx:81/videos/5/5/9/7/f/5597f049e0408.mp4
+#EXTINF:-1,La France � Poil 1
+http://dlfr2.cdntlsv.com/6582511a11a90ccc06119d4a84218d36.mp4
+#EXTINF:-1,La France � Poil 2
+http://dlfr2.cdntlsv.com/134d0295547459a32a3e546ca1065496.mp4
+#EXTINF:-1,La France � Poil 3
+http://dlfr3.cdntlsv.com/300ed1fc5e5b83d68c42689a75e3026b.mp4
+#EXTINF:-1,La France � Poil 4
+http://dlfr3.cdntlsv.com/8508c012c370489d39c2a7c90e76bc77.mp4
+#EXTINF:-1,La France � Poil 5
+http://dlfr3.cdntlsv.com/067b6ed95858e1a11f10e5765810b3f2.mp4
+#EXTINF:-1,La France � Poil 6
+http://dlfr3.cdntlsv.com/759127a932bd2af3cc7528eb839d09ff.mp4
+#EXTINF:-1,La France � Poil 7
+http://dlfr2.cdntlsv.com/2ca219310f02a1f5f02d64dde4fdf761.mp4
+#EXTINF:-1,La France � Poil 8
+http://dlfr2.cdntlsv.com/909ab898d448ae1729319315b18f701a.mp4
+#EXTINF:-1,La France � Poil 9
+http://dlfr2.cdntlsv.com/4b0c2474c8a1607f810fc953c92f6a13.mp4
+#EXTINF:-1,La France � Poil 10
+http://dlfr2.cdntlsv.com/092985895324a46a93045f4333e1e753.mp4
+#EXTINF:-1,La France � Poil 11
+http://dlfr3.cdntlsv.com/6a58c568af66c2220b63d67e94398483.mp4
+#EXTINF:-1,La France � Poil 12
+http://dlfr3.cdntlsv.com/05906a11b48b92ed0f994a3a056a1b05.mp4
+#EXTINF:-1,Adult 4K: VOD 1
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_chloeamour022714/content/vid01.mp4
+#EXTINF:-1,Adult 4K: VOD 2
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_avataylor_emmastoned032514/content/vid01.mp4
+#EXTINF:-1,Adult 4K: VOD 3
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_dakotaskye040314/content/vid01.mp4
+#EXTINF:-1,Adult 4K: VOD 4
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_sabrinabanks071414/content/vid01.mp4
+#EXTINF:-1,Adult 4K: VOD 5
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_tiffanyfox030514/content/vid01.mp4
+#EXTINF:-1,Adult 4K: VOD 6
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_kaceyjordan061914/content/vid01.mp4
+#EXTINF:-1,Adult 4K: VOD 7
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_jennaross040414/content/vid01.mp4
+#EXTINF:-1,Adult 4K: VOD 8
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_kaceyjordan031914/content/vid01.mp4
+#EXTINF:-1,Adult 4K: VOD 9
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_chloefoster021214/content/vid01.mp4
+#EXTINF:-1,Adult 4K: VOD 10
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_dillionharper030614/content/vid01.mp4
+#EXTINF:-1,Adult 4K: VOD 11
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_emmastoned03414/content/vid01.mp4
+#EXTINF:-1,Adult 4K: VOD 12
+http://v.thebestvideocontentever.com/content/videos/000/052/555/panda/promo/tiny4k_promo_mp4_712_2500.mp4
+#EXTINF:-1,Adult 4K: VOD 13
+http://v.thebestvideocontentever.com/content/videos/000/047/489/panda/promo/tiny4k_promo_mp4_712_2500.mp4
+#EXTINF:-1,Adult 4K: VOD 14
+http://v.thebestvideocontentever.com/content/videos/000/053/566/panda/promo/tiny4k_promo_mp4_712_2500.mp4
+#EXTINF:-1,Adult 4K: VOD 15
+http://v.thebestvideocontentever.com/content/videos/000/052/707/panda/promo/tiny4k_promo_mp4_712_2500.mp4
+#EXTINF:-1,Adult 4K: VOD 16
+http://v.thebestvideocontentever.com/content/videos/000/053/592/panda/promo/tiny4k_promo_mp4_712_2500.mp4
+#EXTINF:-1,Adult 4K: VOD 17
+http://v.thebestvideocontentever.com/content/videos/000/052/535/panda/promo/tiny4k_promo_mp4_712_2500.mp4
+#EXTINF:-1,Adult 4K: VOD 18
+http://v.thebestvideocontentever.com/content/videos/000/052/972/panda/promo/tiny4k_promo_mp4_712_2500.mp4
+#EXTINF:-1,Adult 4K: VOD 19
+http://v.thebestvideocontentever.com/content/videos/000/046/475/panda/promo/tiny4k_promo_mp4_712_2500.mp4
+#EXTINF:-1,Adult 4K: VOD 20
+http://v.thebestvideocontentever.com/content/videos/000/052/741/panda/promo/tiny4k_promo_mp4_712_2500.mp4
+#EXTINF:-1,Adult 4K: VOD 21
+http://v.thebestvideocontentever.com/content/videos/000/047/467/panda/promo/tiny4k_promo_mp4_712_2500.mp4
+#EXTINF:-1,Adult 4K: VOD 22
+http://v.thebestvideocontentever.com/content/videos/000/047/557/panda/promo/tiny4k_promo_mp4_712_2500.mp4
+#EXTINF:-1,Adult 4K: VOD 23
+http://v.thebestvideocontentever.com/content/videos/000/053/705/panda/promo/tiny4k_promo_mp4_712_2500.mp4
+#EXTINF:-1,Adult 4K: VOD 24
+http://v.thebestvideocontentever.com/content/videos/000/047/599/panda/promo/tiny4k_promo_mp4_712_2500.mp4
+#EXTINF:-1,Adult 4K: VOD 25
+http://v.thebestvideocontentever.com/content/videos/000/047/489/panda/promo/tiny4k_promo_mp4_712_2500.mp4
+#EXTINF:-1,Adult 4K: VOD 26
+http://v.thebestvideocontentever.com/content/videos/000/053/617/panda/promo/tiny4k_promo_mp4_712_2500.mp4
+#EXTINF:-1,Adult 4K: VOD 27
+http://v.thebestvideocontentever.com/content/videos/000/053/006/panda/promo/tiny4k_promo_mp4_712_2500.mp4
+#EXTINF:-1,Adult 4K: VOD 28
+http://v.thebestvideocontentever.com/content/videos/000/052/555/panda/promo/tiny4k_promo_mp4_712_2500.mp4
+#EXTINF:-1,Adult 4K: VOD 29
+http://v.thebestvideocontentever.com/content/videos/000/053/059/panda/promo/tiny4k_promo_mp4_712_2500.mp4
+#EXTINF:-1,Adult 4K: VOD 30
+http://v.thebestvideocontentever.com/content/videos/000/053/536/panda/promo/tiny4k_promo_mp4_712_2500.mp4
+#EXTINF:-1,Adult 4K: VOD 31
+http://v.thebestvideocontentever.com/content/videos/000/052/742/panda/promo/tiny4k_promo_mp4_712_2500.mp4
+#EXTINF:-1,Adult 4K: VOD 32
+http://v.thebestvideocontentever.com/content/videos/000/047/595/panda/promo/tiny4k_promo_mp4_712_2500.mp4
+#EXTINF:-1,Adult 4K: VOD 33
+http://v.thebestvideocontentever.com/content/videos/000/052/972/panda/promo/tiny4k_promo_mp4_712_2500.mp4
+#EXTINF:-1,Adult 4K: VOD 34
+http://v.thebestvideocontentever.com/content/videos/000/052/585/panda/promo/tiny4k_promo_mp4_712_2500.mp4
+#EXTINF:-1,Adult 4K: VOD 35
+http://v.thebestvideocontentever.com/content/videos/000/047/543/panda/promo/tiny4k_promo_mp4_712_2500.mp4
+#EXTINF:-1,Adult 4K: VOD 36
+http://v.thebestvideocontentever.com/content/videos/000/053/358/panda/promo/tiny4k_promo_mp4_712_2500.mp4
+#EXTINF:-1,Adult 4K: VOD 37
+http://v.thebestvideocontentever.com/content/videos/000/053/443/panda/promo/tiny4k_promo_mp4_712_2500.mp4
+#EXTINF:-1,Adult 4K: VOD 38
+http://v.thebestvideocontentever.com/content/videos/000/052/946/panda/promo/tiny4k_promo_mp4_712_2500.mp4
+#EXTINF:-1,Adult 4K: VOD 39
+http://v.thebestvideocontentever.com/content/videos/000/046/498/panda/promo/tiny4k_promo_mp4_712_2500.mp4
+#EXTINF:-1,Adult 4K: VOD 40
+http://v.thebestvideocontentever.com/content/videos/000/053/006/panda/promo/tiny4k_promo_mp4_712_2500.mp4
+#EXTINF:-1,Adult 4K: VOD 41
+http://v.thebestvideocontentever.com/content/videos/000/053/057/panda/promo/tiny4k_promo_mp4_712_2500.mp4
+#EXTINF:-1,Adult 4K: VOD 42
+http://v.thebestvideocontentever.com/content/videos/000/053/802/panda/promo/tiny4k_promo_mp4_712_2500.mp4
+#EXTINF:-1,Adult 4K: VOD 43
+http://v.thebestvideocontentever.com/content/videos/000/047/528/panda/promo/tiny4k_promo_mp4_712_2500.mp4
+#EXTINF:-1,Adult 4K: VOD 44
+http://v.thebestvideocontentever.com/content/videos/000/052/333/panda/promo/tiny4k_promo_mp4_712_2500.mp4
+#EXTINF:-1,Adult 4K: VOD 45
+http://v.thebestvideocontentever.com/content/videos/000/053/164/panda/promo/tiny4k_promo_mp4_712_2500.mp4
+#EXTINF:-1,Adult 4K: VOD 46
+http://v.thebestvideocontentever.com/content/videos/000/047/374/panda/promo/tiny4k_promo_mp4_712_2500.mp4
+#EXTINF:-1,pornoid 1
+http://www.pornoid.com/get_file/1/0005dba5913997b85bdeebf89eb19a15/83000/83881/83881.mp4
+#EXTINF:-1,pornoid 2
+http://www.pornoid.com/get_file/1/001cfc87dabc9b1a8b6238386dfd9a71/41000/41015/41015.mp4
+#EXTINF:-1,pornoid 3
+http://www.pornoid.com/get_file/1/001d59e21fd3b9f8cc2105496d19b4c4/60000/60034/60034.mp4
+#EXTINF:-1,pornoid 4
+http://www.pornoid.com/get_file/1/002698a1367c2170ab97df152fe05649/1000/1693/1693.mp4
+#EXTINF:-1,pornoid 5
+http://www.pornoid.com/get_file/1/00332ab29c4b9053fac8c42fd98edd52/79000/79843/79843.mp4
+#EXTINF:-1,pornoid 6
+http://www.pornoid.com/get_file/1/005314cd11c34334243cfc82f47f8d11/83000/83216/83216.mp4
+#EXTINF:-1,pornoid 7
+http://www.pornoid.com/get_file/1/006007d0cff942ae358400cf06b6293c/71000/71601/71601.mp4
+#EXTINF:-1,pornoid 8
+http://www.pornoid.com/get_file/1/0066d1f94271cfcc77ba46ba9643c92b/58000/58925/58925.mp4
+#EXTINF:-1,pornoid 9
+http://www.pornoid.com/get_file/1/007929ab6c47bc93bfdf4963d507eb27/75000/75246/75246.mp4
+#EXTINF:-1,pornoid 10
+http://www.pornoid.com/get_file/1/007e20b3bd548339c2b6c4c83cee6d64/3000/3407/3407.mp4
+#EXTINF:-1,pornoid 11
+http://www.pornoid.com/get_file/1/007fc608674860bf9a36c3cc6a7ea79a/9000/9737/9737.mp4
+#EXTINF:-1,pornoid 12
+http://www.pornoid.com/get_file/1/008937cd8f9a9aa63fd587e8e535e046/2000/2354/2354.mp4
+#EXTINF:-1,pornoid 13
+http://www.pornoid.com/get_file/1/008c764f459f55b0e54903d43de7cf04/78000/78752/78752.mp4
+#EXTINF:-1,pornoid 14
+http://www.pornoid.com/get_file/1/009cddacdf0df4993aee324ff31156b5/31000/31907/31907.mp4
+#EXTINF:-1,pornoid 15
+http://www.pornoid.com/get_file/1/009dacc1de420c701aaabc39e75a008d/16000/16553/16553.mp4
+#EXTINF:-1,pornoid 16
+http://www.pornoid.com/get_file/1/009eafa844f1737b4ea364eae230d8e0/24000/24897/24897.mp4
+#EXTINF:-1,pornoid 17
+http://www.pornoid.com/get_file/1/00a049a4cf1a82f62c1346dd0e56bf87/81000/81995/81995.mp4
+#EXTINF:-1,pornoid 18
+http://www.pornoid.com/get_file/1/00ae1d2156f7c1dcb6c3b6adbc72e25d/0/641/641.mp4
+#EXTINF:-1,pornoid 19
+http://www.pornoid.com/get_file/1/00bc78c96af449b39b8c5f15cbc1eee4/80000/80924/80924.mp4
+#EXTINF:-1,pornoid 20
+http://www.pornoid.com/get_file/1/00c59c188275c2ed1df8c97539fb6855/29000/29952/29952.mp4
+#EXTINF:-1,pornoid 21
+http://www.pornoid.com/get_file/1/00cfbfae1d08f6436a49e8843e334ae5/63000/63357/63357.mp4
+#EXTINF:-1,pornoid 22
+http://www.pornoid.com/get_file/1/00cff13bf11de965610542086035855a/77000/77587/77587.mp4
+#EXTINF:-1,pornoid 23
+http://www.pornoid.com/get_file/1/00d47eb6df4b82f68ef81c19cef79306/65000/65952/65952.mp4
+#EXTINF:-1,pornoid 24
+http://www.pornoid.com/get_file/1/00edbfa1bbb2c11db77b3b525d56d816/5000/5004/5004.mp4
+#EXTINF:-1,pornoid 25
+http://www.pornoid.com/get_file/1/00fae4d411dfb9c382d4690693457c59/26000/26498/26498.mp4
+#EXTINF:-1,pornoid 26
+http://www.pornoid.com/get_file/1/0100a7093376e372e9f320b5313fb05a/71000/71123/71123.mp4
+#EXTINF:-1,pornoid 27
+http://www.pornoid.com/get_file/1/010b118d8071dc87f90946cf66e50db5/57000/57567/57567.mp4
+#EXTINF:-1,pornoid 28
+http://www.pornoid.com/get_file/1/015dc2205ea14608b26719a65722e373/77000/77841/77841.mp4
+#EXTINF:-1,pornoid 29
+http://www.pornoid.com/get_file/1/015f0f30aa9962be6afadb80e8567ae4/3000/3202/3202.mp4
+#EXTINF:-1,pornoid 30
+http://www.pornoid.com/get_file/1/016db94d1e313351abd84da7ac48bc21/31000/31396/31396.mp4
+#EXTINF:-1,pornoid 31
+http://www.pornoid.com/get_file/1/0172dc77ec21d2502defdfea813d82b5/73000/73306/73306.mp4
+#EXTINF:-1,pornoid 32
+http://www.pornoid.com/get_file/1/017bffd81617649cddde3c2768492fb7/29000/29901/29901.mp4
+#EXTINF:-1,pornoid 33
+http://www.pornoid.com/get_file/1/01952d9bc6eca691ca51c2b39782727d/16000/16917/16917.mp4
+#EXTINF:-1,pornoid 34
+http://www.pornoid.com/get_file/1/01aa47d56dd165352079ca2c1d7f45a5/63000/63308/63308.mp4
+#EXTINF:-1,pornoid 35
+http://www.pornoid.com/get_file/1/01b3dd37d294ff3c6eb1532b97ac0158/59000/59955/59955.mp4
+#EXTINF:-1,pornoid 36
+http://www.pornoid.com/get_file/1/01bcaabebd7215ff3d2da61ac167130f/75000/75067/75067.mp4
+#EXTINF:-1,pornoid 37
+http://www.pornoid.com/get_file/1/01d4d88f78fe0e2d3fc69d9b2ba79b62/64000/64300/64300.mp4
+#EXTINF:-1,pornoid 38
+http://www.pornoid.com/get_file/1/01f6ff2e9462e382da1c69693100d3cf/74000/74527/74527.mp4
+#EXTINF:-1,pornoid 39
+http://www.pornoid.com/get_file/1/0208b6d15a6492fa414f664d032a9a2b/77000/77084/77084.mp4
+#EXTINF:-1,pornoid 40
+http://www.pornoid.com/get_file/1/02096370bc5e9f060d63dc4b1f0d5c2e/12000/12673/12673.mp4
+#EXTINF:-1,pornoid 41
+http://www.pornoid.com/get_file/1/020c2dbf74dd90294c09df93ebe74b9b/64000/64850/64850.mp4
+#EXTINF:-1,pornoid 42
+http://www.pornoid.com/get_file/1/020e1a3d6663313662fbfe0cf32e0811/81000/81734/81734.mp4
+#EXTINF:-1,pornoid 43
+http://www.pornoid.com/get_file/1/02267dac766aa5ff39ec22680d65168d/42000/42047/42047.mp4
+#EXTINF:-1,pornoid 44
+http://www.pornoid.com/get_file/1/022b3eda64350a86e89f9fa2e3e651b3/69000/69484/69484.mp4
+#EXTINF:-1,pornoid 45
+http://www.pornoid.com/get_file/1/022e9efc995efbb7b6ab59c03712f765/83000/83055/83055.mp4
+#EXTINF:-1,pornoid 46
+http://www.pornoid.com/get_file/1/024126b2410aa712ba223ede0e57331f/61000/61402/61402.mp4
+#EXTINF:-1,pornoid 47
+http://www.pornoid.com/get_file/1/0245f6e64397ca16a373b742190bf77e/67000/67463/67463.mp4
+#EXTINF:-1,pornoid 48
+http://www.pornoid.com/get_file/1/0252a527966f4d303ed7e691900de722/82000/82798/82798.mp4
+#EXTINF:-1,pornoid 49
+http://www.pornoid.com/get_file/1/0256045e7e94df273daee7e38d8b2485/59000/59997/59997.mp4
+#EXTINF:-1,pornoid 50
+http://www.pornoid.com/get_file/1/02685f05be7e07a85f2c43cfce3d7788/15000/15174/15174.mp4
+#EXTINF:-1,pornoid 51
+http://www.pornoid.com/get_file/1/0275611c9ed6e1fd153dd9a5644b7329/32000/32186/32186.mp4
+#EXTINF:-1,pornoid 52
+http://www.pornoid.com/get_file/1/028bb63bc201a4251a06436d22f72e86/59000/59948/59948.mp4
+#EXTINF:-1,pornoid 53
+http://www.pornoid.com/get_file/1/0293fcee2852fb4d5908b92ef776aecf/32000/32738/32738.mp4
+#EXTINF:-1,pornoid 54
+http://www.pornoid.com/get_file/1/02ad357b7312a0974097099ca95e6e37/77000/77861/77861.mp4
+#EXTINF:-1,pornoid 55
+http://www.pornoid.com/get_file/1/02b3272e35ec849362024d5dbdcfc2b2/77000/77603/77603.mp4
+#EXTINF:-1,pornoid 56
+http://www.pornoid.com/get_file/1/02b8eeb69d555aed51e1efdc5badc71c/32000/32982/32982.mp4
+#EXTINF:-1,pornoid 57
+http://www.pornoid.com/get_file/1/02bbf43ba823d0fd0f39fc59a4193300/1000/1843/1843.mp4
+#EXTINF:-1,pornoid 58
+http://www.pornoid.com/get_file/1/02d990766334eb9bf850afc6986e0085/55000/55749/55749.mp4
+#EXTINF:-1,pornoid 59
+http://www.pornoid.com/get_file/1/02e5a4b31e3f5c6fd0141c0e569a68da/72000/72414/72414.mp4
+#EXTINF:-1,pornoid 60
+http://www.pornoid.com/get_file/1/02e6d811c278692c1d94401703ded830/65000/65169/65169.mp4
+#EXTINF:-1,pornoid 61
+http://www.pornoid.com/get_file/1/02f06129f4747a5d3ca394af8cfff24c/34000/34902/34902.mp4
+#EXTINF:-1,pornoid 62
+http://www.pornoid.com/get_file/1/02f4ce5cf70ceced11576e67c805d829/55000/55689/55689.mp4
+#EXTINF:-1,pornoid 63
+http://www.pornoid.com/get_file/1/0305010fab672df34a239d0f9f39c20c/27000/27027/27027.mp4
+#EXTINF:-1,pornoid 64
+http://www.pornoid.com/get_file/1/03101db3ae1839e979718939c68f0dc6/27000/27223/27223.mp4
+#EXTINF:-1,pornoid 65
+http://www.pornoid.com/get_file/1/0325e5317657e50c78054a8ee573ab89/80000/80169/80169.mp4
+#EXTINF:-1,pornoid 66
+http://www.pornoid.com/get_file/1/032ebc6a31121252141d84b4c92bb0a7/35000/35674/35674.mp4
+#EXTINF:-1,pornoid 67
+http://www.pornoid.com/get_file/1/0350c0c9e91a9ecb67aee76ba95b54ad/48000/48886/48886.mp4
+#EXTINF:-1,pornoid 68
+http://www.pornoid.com/get_file/1/0351e63a9eeed86bff0e84ddc8b21566/67000/67104/67104.mp4
+#EXTINF:-1,pornoid 69
+http://www.pornoid.com/get_file/1/035939a5d0067acdfa0320c1f7a917a4/33000/33018/33018.mp4
+#EXTINF:-1,pornoid 70
+http://www.pornoid.com/get_file/1/03652acc1cb1791beda6e89285a0eb20/22000/22535/22535.mp4
+#EXTINF:-1,pornoid 71
+http://www.pornoid.com/get_file/1/0371af67dc41abf4f2434fb946c62977/38000/38051/38051.mp4
+#EXTINF:-1,pornoid 72
+http://www.pornoid.com/get_file/1/0379ec4bcebbe165550f04385b01fbc4/41000/41208/41208.mp4
+#EXTINF:-1,pornoid 73
+http://www.eporner.com/dload/314308/360/314308-360p.mp4
+#EXTINF:-1,pornoid 74
+https://www.eporner.com/dload/177339/360/177339-360p.mp4
+#EXTINF:-1,XXXVOD3D-1+18 3D
+http://galleries.3dcatchyfetish.com/tube/001/trailer.f4v
+#EXTINF:-1,XXXVOD3D-2+18 3D
+http://galleries.3dcatchyfetish.com/tube/002/trailer.f4v
+#EXTINF:-1,XXXVOD3D-3+18 3D
+http://galleries.3dcatchyfetish.com/tube/003/trailer.f4v
+#EXTINF:-1,XXXVOD3D-4+18 3D
+http://galleries.3dcatchyfetish.com/tube/004/trailer.f4v
+#EXTINF:-1,XXXVOD3D-5+18 3D
+http://galleries.3Dcatchyfetish.com/tube/005/trailer.f4v
+#EXTINF:-1,XXXVOD3D-6+18 3D
+http://galleries.3Dcatchyfetish.com/tube/006/trailer.f4v
+#EXTINF:-1,XXXVOD3D-7+18 3D
+http://galleries.3Dcatchyfetish.com/tube/007/trailer.f4v
+#EXTINF:-1,XXXVOD3D-8+18 3D
+http://galleries.3Dcatchyfetish.com/tube/008/trailer.f4v
+#EXTINF:-1,XXXVOD3D-9+18 3D
+http://galleries.3Dcatchyfetish.com/tube/009/trailer.f4v
+#EXTINF:-1,XXXVOD3D-10+18 3D
+http://galleries.3Dcatchyfetish.com/tube/010/trailer.f4v
+#EXTINF:-1,XXXVOD3D-11+18 3D
+http://galleries.3Dcatchyfetish.com/tube/011/trailer.f4v
+#EXTINF:-1,XXXVOD3D-12+18 3D
+http://galleries.3Dcatchyfetish.com/tube/012/trailer.f4v
+#EXTINF:-1,XXXVOD3D-13+18 3D
+http://galleries.3Dcatchyfetish.com/tube/013/trailer.f4v
+#EXTINF:-1,XXXVOD3D-14+18 3D
+http://galleries.3Dcatchyfetish.com/tube/014/trailer.f4v
+#EXTINF:-1,XXXVOD3D-15+18 3D
+http://galleries.3Dcatchyfetish.com/tube/015/trailer.f4v
+#EXTINF:-1,XXXVOD3D-16+18 3D
+http://galleries.3Dcatchyfetish.com/tube/016/trailer.f4v
+#EXTINF:-1,XXXVOD3D-17+18 3D
+http://galleries.3Dcatchyfetish.com/tube/017/trailer.f4v
+#EXTINF:-1,XXXVOD3D-18+18 3D
+http://galleries.3Dcatchyfetish.com/tube/018/trailer.f4v
+#EXTINF:-1,XXXVOD3D-19+18 3D
+http://galleries.3Dcatchyfetish.com/tube/019/trailer.f4v
+#EXTINF:-1,XXXVOD3D-20+18 3D
+http://galleries.3Dcatchyfetish.com/tube/020/trailer.f4v
+#EXTINF:-1,XXXVOD3D-21+18 3D
+http://galleries.3Dcatchyfetish.com/tube/021/trailer.f4v
+#EXTINF:-1,XXXVOD3D-22+18 3D
+http://galleries.3Dcatchyfetish.com/tube/022/trailer.f4v
+#EXTINF:-1,XXXVOD3D-23+18 3D
+http://galleries.3Dcatchyfetish.com/tube/023/trailer.f4v
+#EXTINF:-1,XXXVOD3D-24+18 3D
+http://galleries.3Dcatchyfetish.com/tube/024/trailer.f4v
+#EXTINF:-1,XXXVOD3D-25+18 3D
+http://galleries.3Dcatchyfetish.com/tube/025/trailer.f4v
+#EXTINF:-1,XXXVOD3D-26+18 3D
+http://galleries.3Dcatchyfetish.com/tube/026/trailer.f4v
+#EXTINF:-1,XXXVOD3D-27+18 3D
+http://galleries.3Dcatchyfetish.com/tube/027/trailer.f4v
+#EXTINF:-1,XXXVOD3D-28+18 3D
+http://galleries.3Dcatchyfetish.com/tube/028/trailer.f4v
+#EXTINF:-1,XXXVOD3D-29+18 3D
+http://galleries.3Dcatchyfetish.com/tube/029/trailer.f4v
+#EXTINF:-1,XXXVOD3D-30+18 3D
+http://galleries.3Dcatchyfetish.com/tube/030/trailer.f4v
+#EXTINF:-1,XXXVOD3D-31+18 3D
+http://galleries.3Dcatchyfetish.com/tube/031/trailer.f4v
+#EXTINF:-1,XXXVOD3D-32+18 3D
+http://galleries.3Dcatchyfetish.com/tube/032/trailer.f4v
+#EXTINF:-1,XXXVOD3D-33+18 3D
+http://galleries.3Dcatchyfetish.com/tube/033/trailer.f4v
+#EXTINF:-1,FILM/VIDEO VINTAGE ITALIA
+http://tuboitaliano.xxx/media/videos/5/8/b/f/4/58bf485e5dc05.mp4
+#EXTINF:-1,FILM/VIDEO VINTAGE ITALIA
+http://tuboitaliano.xxx/media/videos/5/8/8/d/c/588dc4e1d8598.mp4
+#EXTINF:-1,FILM/VIDEO VINTAGE ITALIA
+http://tuboitaliano.xxx/media/videos/5/8/5/b/7/585b7a2f543b1.mp4 
+#EXTINF:-1,FILM/VIDEO VINTAGE ITALIA
+http://tuboitaliano.xxx/media/videos/5/8/2/9/0/58290f6edbfc6.mp4
+#EXTINF:-1,FILM/VIDEO VINTAGE ITALIA
+http://tuboitaliano.xxx/media/videos/5/8/2/9/0/58290e9438383.mp4
+#EXTINF:-1,FILM/VIDEO VINTAGE ITALIA
+http://tuboitaliano.xxx/media/videos/5/8/2/8/f/5828f666c2f13.mp4
+#EXTINF:-1,FILM/VIDEO VINTAGE ITALIA
+http://tuboitaliano.xxx/media/videos/5/8/2/9/0/58290feaab245.mp4
+#EXTINF:-1,FILM/VIDEO VINTAGE ITALIA
+http://tuboitaliano.xxx/media/videos/5/8/2/8/f/5828fd5ade95a.mp4
+#EXTINF:-1,FILM/VIDEO VINTAGE ITALIA
+http://tuboitaliano.xxx/media/videos/5/8/2/9/3/582932dcadf9b.mp4
+#EXTINF:-1,FILM/VIDEO VINTAGE ITALIA
+http://tuboitaliano.xxx/media/videos/5/8/0/7/3/580739b000c99.mp4
+#EXTINF:-1,FILM/VIDEO VINTAGE ITALIA
+http://tuboitaliano.xxx/media/videos/5/8/0/7/1/58071ec1bf30f.mp4
+#EXTINF:-1,FILM/VIDEO VINTAGE ITALIA
+http://tuboitaliano.xxx/media/videos/5/8/0/7/4/5807409032586.mp4
+#EXTINF:-1,FILM/VIDEO VINTAGE ITALIA
+http://tuboitaliano.xxx/media/videos/5/8/0/7/4/58074ae7ee35d.mp4
+#EXTINF:-1,FILM/VIDEO VINTAGE ITALIA
+http://tuboitaliano.xxx/media/videos/5/8/0/7/4/58074798c60b0.mp4
+#EXTINF:-1,FILM/VIDEO VINTAGE ITALIA
+http://tuboitaliano.xxx/media/videos/5/8/0/7/5/58075436d8120.mp4
+#EXTINF:-1,FILM/VIDEO VINTAGE ITALIA
+http://tuboitaliano.xxx/media/videos/5/8/0/7/4/58074c2a81ce7.mp4
+#EXTINF:-1,FILM/VIDEO VINTAGE ITALIA
+http://tuboitaliano.xxx/media/videos/5/8/0/7/3/580736353dbd2.mp4
+#EXTINF:-1,FILM/VIDEO VINTAGE ITALIA
+http://tuboitaliano.xxx/media/videos/5/8/0/7/6/5807644f5bfd7.mp4
+#EXTINF:-1,FILM/VIDEO VINTAGE ITALIA
+http://tuboitaliano.xxx/media/videos/5/7/d/9/c/57d9c2ebd1a53.mp4
+#EXTINF:-1,FILM/VIDEO VINTAGE ITALIA
+http://tuboitaliano.xxx/media/videos/5/7/d/9/b/57d9bcb808ef3.mp4
+#EXTINF:-1,FILM/VIDEO VINTAGE ITALIA
+http://tuboitaliano.xxx/media/videos/5/7/c/0/3/57c0370e4861b.mp4
+#EXTINF:-1,FILM/VIDEO VINTAGE ITALIA
+http://tuboitaliano.xxx/media/videos/5/7/c/0/2/57c02c2401a4c.mp4
+#EXTINF:-1,FILM/VIDEO VINTAGE ITALIA
+http://tuboitaliano.xxx/media/videos/5/7/c/0/2/57c02cce80fc4.mp4
+#EXTINF:-1,FILM/VIDEO VINTAGE ITALIA
+http://tuboitaliano.xxx/media/videos/5/7/c/0/3/57c033f489cab.mp4
+#EXTINF:-1,FILM/VIDEO VINTAGE ITALIA
+http://tuboitaliano.xxx/media/videos/5/7/b/3/4/57b34cf66ec63.mp4
+#EXTINF:-1,FILM/VIDEO VINTAGE ITALIA
+http://tuboitaliano.xxx/media/videos/5/7/7/2/b/5772bdff5a62a.mp4
+#EXTINF:-1,FILM/VIDEO VINTAGE ITALIA
+http://tuboitaliano.xxx/media/videos/5/7/7/2/d/5772d8bca2374.mp4
+#EXTINF:-1,FILM/VIDEO VINTAGE ITALIA
+http://tuboitaliano.xxx/media/videos/5/7/7/2/e/5772ed455ac0d.mp4
+#EXTINF:-1,FILM/VIDEO VINTAGE ITALIA
+http://tuboitaliano.xxx/media/videos/5/7/7/2/8/5772812602d65.mp4
+#EXTINF:-1,FILM/VIDEO VINTAGE ITALIA
+http://tuboitaliano.xxx/media/videos/5/7/3/9/f/5739fd498a027.mp4
+#EXTINF:-1,FILM/VIDEO VINTAGE ITALIA
+http://tuboitaliano.xxx/media/videos/5/7/2/3/6/5723658c0d208.mp4
+#EXTINF:-1,FILM/VIDEO VINTAGE ITALIA
+http://tuboitaliano.xxx/media/videos/5/7/0/1/6/57016793cc276.mp4
+#EXTINF:-1,FILM/VIDEO VINTAGE ITALIA
+http://tuboitaliano.xxx/media/videos/5/7/0/1/7/570173d9de973.mp4
+#EXTINF:-1,FILM/VIDEO VINTAGE ITALIA
+http://tuboitaliano.xxx/media/videos/5/6/8/e/b/568eb95e59f89.mp4
+#EXTINF:-1,FILM/VIDEO VINTAGE ITALIA
+http://tuboitaliano.xxx/media/videos/5/6/7/a/c/567ace92dd29e.mp4
+#EXTINF:-1,FILM/VIDEO VINTAGE ITALIA
+http://tuboitaliano.xxx/media/videos/5/7/7/3/3/57733b810f22f.mp4
+#EXTINF:-1,FILM/VIDEO VINTAGE ITALIA
+http://tuboitaliano.xxx/media/videos/5/8/0/7/5/5807551809490.mp4
+#EXTINF:-1,FILM/VIDEO VINTAGE ITALIA
+http://tuboitaliano.xxx/media/videos/5/8/0/7/2/58072eb09f328.mp4
+#EXTINF:-1,FILM/VIDEO VINTAGE ITALIA
+http://tuboitaliano.xxx/media/videos/5/8/0/7/5/580751c28f7e0.mp4
+#EXTINF:-1,A Casa Das Brasileirinhas: Vol. 1 (Cena 1)
+http://144.217.243.218:15000/movie/6340/6340/4470.mp4
+#EXTINF:-1,A Casa Das Brasileirinhas: Vol. 1 (Cena 2)
+http://144.217.243.218:15000/movie/6340/6340/4471.mp4
+#EXTINF:-1,A Casa Das Brasileirinhas: Vol. 1 (Cena 3)
+http://144.217.243.218:15000/movie/6340/6340/4472.mp4
+#EXTINF:-1,A Casa Das Brasileirinhas: Vol. 1 (Cena 4)
+http://144.217.243.218:15000/movie/6340/6340/4473.mp4
+#EXTINF:-1,A Casa Das Brasileirinhas: Vol. 2 (Cena 1)
+http://144.217.243.218:15000/movie/6340/6340/4474.mp4
+#EXTINF:-1,A Casa Das Brasileirinhas: Vol. 2 (Cena 2)
+http://144.217.243.218:15000/movie/6340/6340/4475.mp4
+#EXTINF:-1,A Casa Das Brasileirinhas: Vol. 2 (Cena 3)
+http://144.217.243.218:15000/movie/6340/6340/4476.mp4
+#EXTINF:-1,A Casa Das Brasileirinhas: Vol. 2 (Cena 4)
+http://144.217.243.218:15000/movie/6340/6340/4477.mp4
+#EXTINF:-1,A Casa Das Brasileirinhas: Vol. 2 (Cena 5)
+http://144.217.243.218:15000/movie/6340/6340/4478.mp4
+#EXTINF:-1,A Casa Das Brasileirinhas: Vol. 3 (Cena 1)
+http://144.217.243.218:15000/movie/6340/6340/4479.mp4
+#EXTINF:-1,A Casa Das Brasileirinhas: Vol. 3 (Cena 2)
+http://144.217.243.218:15000/movie/6340/6340/4480.mp4
+#EXTINF:-1,A Casa Das Brasileirinhas: Vol. 3 (Cena 3)
+http://144.217.243.218:15000/movie/6340/6340/4481.mp4
+#EXTINF:-1,A Casa Das Brasileirinhas: Vol. 3 (Cena 4)
+http://144.217.243.218:15000/movie/6340/6340/4482.mp4
+#EXTINF:-1,A Casa Das Brasileirinhas: Vol. 4 (Cena 1)
+http://144.217.243.218:15000/movie/6340/6340/4483.mp4
+#EXTINF:-1,A Casa Das Brasileirinhas: Vol. 4 (Cena 2)
+http://144.217.243.218:15000/movie/6340/6340/4484.mp4
+#EXTINF:-1,A Casa Das Brasileirinhas: Vol. 4 (Cena 3)
+http://144.217.243.218:15000/movie/6340/6340/4485.mp4
+#EXTINF:-1,A Casa Das Brasileirinhas: Vol. 4 (Cena 4)
+http://144.217.243.218:15000/movie/6340/6340/4486.mp4
+#EXTINF:-1,A Casa Das Brasileirinhas: Vol. 5 (Cena 1)
+http://144.217.243.218:15000/movie/6340/6340/4487.mp4
+#EXTINF:-1,A Casa Das Brasileirinhas: Vol. 5 (Cena 2)
+http://144.217.243.218:15000/movie/6340/6340/4488.mp4
+#EXTINF:-1,A Casa Das Brasileirinhas: Vol. 5 (Cena 3)
+http://144.217.243.218:15000/movie/6340/6340/4489.mp4
+#EXTINF:-1,A Casa Das Brasileirinhas: Vol. 5 (Cena 4)
+http://144.217.243.218:15000/movie/6340/6340/4490.mp4
+#EXTINF:-1,A Casa Das Brasileirinhas: Vol. 5 (Cena 5)
+http://144.217.243.218:15000/movie/6340/6340/4491.mp4
+#EXTINF:-1,A Casa Das Brasileirinhas: Vol. 6 (Cena 1)
+http://144.217.243.218:15000/movie/6340/6340/4492.mp4
+#EXTINF:-1,A Casa Das Brasileirinhas: Vol. 6 (Cena 2)
+http://144.217.243.218:15000/movie/6340/6340/4493.mp4
+#EXTINF:-1,A Casa Das Brasileirinhas: Vol. 6 (Cena 3)
+http://144.217.243.218:15000/movie/6340/6340/4494.mp4
+#EXTINF:-1,A Casa Das Brasileirinhas: Vol. 6 (Cena 4)
+http://144.217.243.218:15000/movie/6340/6340/4495.mp4
+#EXTINF:-1,A Casa Das Brasileirinhas: Vol. 7 (Cena 1)
+http://144.217.243.218:15000/movie/6340/6340/4496.mp4
+#EXTINF:-1,A Casa Das Brasileirinhas: Vol. 7 (Cena 2)
+http://144.217.243.218:15000/movie/6340/6340/4497.mp4
+#EXTINF:-1,A Casa Das Brasileirinhas: Vol. 7 (Cena 3)
+http://144.217.243.218:15000/movie/6340/6340/4498.mp4
+#EXTINF:-1,A Casa Das Brasileirinhas: Vol. 7 (Cena 4)
+http://144.217.243.218:15000/movie/6340/6340/4499.mp4
+#EXTINF:-1,A Casa Das Brasileirinhas: Vol. 8 (Cena 1)
+http://144.217.243.218:15000/movie/6340/6340/4500.mp4
+#EXTINF:-1,A Casa Das Brasileirinhas: Vol. 8 (Cena 2)
+http://144.217.243.218:15000/movie/6340/6340/4501.mp4
+#EXTINF:-1,A Casa Das Brasileirinhas: Vol. 8 (Cena 3)
+http://144.217.243.218:15000/movie/6340/6340/4502.mp4
+#EXTINF:-1,A Casa Das Brasileirinhas: Vol. 8 (Cena 4)
+http://144.217.243.218:15000/movie/6340/6340/4503.mp4
+#EXTINF:-1,A Casa Das Brasileirinhas: Vol. 8 (Cena 5)
+http://144.217.243.218:15000/movie/6340/6340/4504.mp4
+#EXTINF:-1,A Casa Das Brasileirinhas: Vol. 9 (Cena 1)
+http://144.217.243.218:15000/movie/6340/6340/4505.mp4
+#EXTINF:-1,A Casa Das Brasileirinhas: Vol. 9 (Cena 2)
+http://144.217.243.218:15000/movie/6340/6340/4506.mp4
+#EXTINF:-1,A Casa Das Brasileirinhas: Vol. 9 (Cena 3)
+http://144.217.243.218:15000/movie/6340/6340/4507.mp4
+#EXTINF:-1,A Casa Das Brasileirinhas: Vol. 9 (Cena 4)
+http://144.217.243.218:15000/movie/6340/6340/4508.mp4
+#EXTINF:-1,A Casa Das Brasileirinhas: Vol. 10
+http://144.217.243.218:15000/movie/6340/6340/4509.mp4
+#EXTINF:-1,A Casa Das Brasileirinhas: Vol. 11 (Cena 1)
+http://144.217.243.218:15000/movie/6340/6340/4510.mp4
+#EXTINF:-1,A Casa Das Brasileirinhas: Vol. 11 (Cena 2)
+http://144.217.243.218:15000/movie/6340/6340/4511.mp4
+#EXTINF:-1,A Casa Das Brasileirinhas: Vol. 11 (Cena 3)
+http://144.217.243.218:15000/movie/6340/6340/4512.mp4
+#EXTINF:-1,A Casa Das Brasileirinhas: Vol. 11 (Cena 4)
+http://144.217.243.218:15000/movie/6340/6340/4513.mp4
+#EXTINF:-1,A Casa Das Brasileirinhas: Vol. 12 (Cena 1)
+http://144.217.243.218:15000/movie/6340/6340/4514.mp4
+#EXTINF:-1,A Casa Das Brasileirinhas: Vol. 12 (Cena 2)
+http://144.217.243.218:15000/movie/6340/6340/4515.mp4
+#EXTINF:-1,A Casa Das Brasileirinhas: Vol. 12 (Cena 3)
+http://144.217.243.218:15000/movie/6340/6340/4516.mp4
+#EXTINF:-1,A Casa Das Brasileirinhas: Vol. 12 (Cena 4)
+http://144.217.243.218:15000/movie/6340/6340/4517.mp4
+#EXTINF:-1,A Casa Das Brasileirinhas: Vol. 12 (Cena 5)
+http://144.217.243.218:15000/movie/6340/6340/4518.mp4
+#EXTINF:-1,A Casa Das Brasileirinhas: Vol. 13 (Cena 1)
+http://144.217.243.218:15000/movie/6340/6340/4519.mp4
+#EXTINF:-1,A Casa Das Brasileirinhas: Vol. 13 (Cena 2)
+http://144.217.243.218:15000/movie/6340/6340/4520.mp4
+#EXTINF:-1,A Casa Das Brasileirinhas: Vol. 13 (Cena 3)
+http://144.217.243.218:15000/movie/6340/6340/4521.mp4
+#EXTINF:-1,A Casa Das Brasileirinhas: Vol. 13 (Cena 4)
+http://144.217.243.218:15000/movie/6340/6340/4522.mp4
+#EXTINF:-1,A Casa Das Brasileirinhas: Vol. 14 (Cena 1)
+http://144.217.243.218:15000/movie/6340/6340/4523.mp4
+#EXTINF:-1,A Casa Das Brasileirinhas: Vol. 14 (Cena 2)
+http://144.217.243.218:15000/movie/6340/6340/4524.mp4
+#EXTINF:-1,A Casa Das Brasileirinhas: Vol. 14 (Cena 3)
+http://144.217.243.218:15000/movie/6340/6340/4525.mp4
+#EXTINF:-1,A Casa Das Brasileirinhas: Vol. 14 (Cena 4)
+http://144.217.243.218:15000/movie/6340/6340/4526.mp4
+#EXTINF:-1,A Casa Das Brasileirinhas: Vol. 15 (Cena 1)
+http://144.217.243.218:15000/movie/6340/6340/4527.mp4
+#EXTINF:-1,A Casa Das Brasileirinhas: Vol. 15 (Cena 2)
+http://144.217.243.218:15000/movie/6340/6340/4528.mp4
+#EXTINF:-1,A Casa Das Brasileirinhas: Vol. 15 (Cena 3)
+http://144.217.243.218:15000/movie/6340/6340/4529.mp4
+#EXTINF:-1,A Casa Das Brasileirinhas: Vol. 15 (Cena 4)
+http://144.217.243.218:15000/movie/6340/6340/4530.mp4
+#EXTINF:-1,A Casa Das Brasileirinhas: Vol. 16 (Cena 1)
+http://144.217.243.218:15000/movie/6340/6340/4531.mp4
+#EXTINF:-1,A Casa Das Brasileirinhas: Vol. 16 (Cena 2)
+http://144.217.243.218:15000/movie/6340/6340/4532.mp4
+#EXTINF:-1,A Casa Das Brasileirinhas: Vol. 16 (Cena 3)
+http://144.217.243.218:15000/movie/6340/6340/4533.mp4
+#EXTINF:-1,A Casa Das Brasileirinhas: Vol. 16 (Cena 4)
+http://144.217.243.218:15000/movie/6340/6340/4534.mp4
+#EXTINF:-1,A Casa Das Brasileirinhas: Vol. 16 (Cena 5)
+http://144.217.243.218:15000/movie/6340/6340/4535.mp4
+#EXTINF:-1,A Casa Das Brasileirinhas: Vol. 17 (Cena 1)
+http://144.217.243.218:15000/movie/6340/6340/4536.mp4
+#EXTINF:-1,A Casa Das Brasileirinhas: Vol. 17 (Cena 2)
+http://144.217.243.218:15000/movie/6340/6340/4537.mp4
+#EXTINF:-1,A Casa Das Brasileirinhas: Vol. 17 (Cena 3)
+http://144.217.243.218:15000/movie/6340/6340/4538.mp4
+#EXTINF:-1,A Casa Das Brasileirinhas: Vol. 17 (Cena 4)
+http://144.217.243.218:15000/movie/6340/6340/4539.mp4
+#EXTINF:0,A Casa Das Brasileirinhas: Vol. 18 (Cena 1)
+http://144.217.243.218:15000/movie/6340/6340/4540.mp4
+#EXTINF:-1,A Casa Das Brasileirinhas: Vol. 18 (Cena 2)
+http://144.217.243.218:15000/movie/6340/6340/4541.mp4
+#EXTINF:-1,A Casa Das Brasileirinhas: Vol. 18 (Cena 3)
+http://144.217.243.218:15000/movie/6340/6340/4542.mp4
+#EXTINF:-1,A Casa Das Brasileirinhas: Vol. 18 (Cena 4)
+http://144.217.243.218:15000/movie/6340/6340/4543.mp4
+#EXTINF:-1,A Casa Das Brasileirinhas: Vol. 18 (Cena 5)
+http://144.217.243.218:15000/movie/6340/6340/4544.mp4
+#EXTINF:-1,A Casa Das Brasileirinhas: Vol. 19 (Cena 1)
+http://144.217.243.218:15000/movie/6340/6340/4545.mp4
+#EXTINF:-1,A Casa Das Brasileirinhas: Vol. 19 (Cena 2)
+http://144.217.243.218:15000/movie/6340/6340/4546.mp4
+#EXTINF:-1,A Casa Das Brasileirinhas: Vol. 19 (Cena 3)
+http://144.217.243.218:15000/movie/6340/6340/4547.mp4
+#EXTINF:-1,A Casa Das Brasileirinhas: Vol. 19 (Cena 4)
+http://144.217.243.218:15000/movie/6340/6340/4548.mp4
+#EXTINF:-1,A Casa Das Brasileirinhas: Vol. 20 (Cena 1)
+http://144.217.243.218:15000/movie/6340/6340/4549.mp4
+#EXTINF:-1,A Casa Das Brasileirinhas: Vol. 20 (Cena 2)
+http://144.217.243.218:15000/movie/6340/6340/4550.mp4
+#EXTINF:-1,A Casa Das Brasileirinhas: Vol. 20 (Cena 3)
+http://144.217.243.218:15000/movie/6340/6340/4551.mp4
+#EXTINF:-1,A Casa Das Brasileirinhas: Vol. 20 (Cena 4)
+http://144.217.243.218:15000/movie/6340/6340/4552.mp4
+#EXTINF:-1,A Casa Das Brasileirinhas: Vol. 21 (Cena 1)
+http://144.217.243.218:15000/movie/6340/6340/4553.mp4
+#EXTINF:-1,A Casa Das Brasileirinhas: Vol. 21 (Cena 2)
+http://144.217.243.218:15000/movie/6340/6340/4554.mp4
+#EXTINF:-1,A Casa Das Brasileirinhas: Vol. 21 (Cena 3)
+http://144.217.243.218:15000/movie/6340/6340/4555.mp4
+#EXTINF:-1,---FREE PLAYLIST PANDASAT---
+http://www.pandasat.info/iptv/PLAYLIST.avi
+#EXTINF:-1,---RADIO ITALIANE---
+http://www.pandasat.info/iptv/PLAYLIST.avi
+#EXTINF:-1,RAI Radio 1
+http://icestreaming.rai.it/1.mp3
+#EXTINF:-1,RAI Radio 2
+http://icestreaming.rai.it/2.mp3
+#EXTINF:-1,RAI Radio 3
+http://icestreaming.rai.it/3.mp3
+#EXTINF:-1,RAI Radio 4 Light
+http://icestreaming.rai.it/4.mp3
+#EXTINF:-1,RAI Radio 5 Classica
+http://icestreaming.rai.it/5.mp3
+#EXTINF:-1,Rai Radio 6 Teca
+http://icestreaming.rai.it:80/9.mp3
+#EXTINF:-1,Rai Radio 7 Live
+http://icestreaming.rai.it:80/10.mp3
+#EXTINF:-1,Rai Radio 8 Opera
+http://icestreaming.rai.it:80/11.mp3
+#EXTINF:-1,RAI IsoRadio
+http://icestreaming.rai.it/6.mp3
+#EXTINF:-1,RAI GrParlamento
+http://icestreaming.rai.it/7.mp3
+#EXTINF:-1,RADIO SPORTIVA
+http://nr5.newradio.it:8545/stream
+#EXTINF:-1,RTL 102.5
+http://shoutcast.rtl.it:3010/
+#EXTINF:-1,RTL Best
+http://shoutcast.rtl.it:3020/
+#EXTINF:-1,RTL ItalianStyle
+http://shoutcast.rtl.it:3030/
+#EXTINF:-1,RTL Groove
+http://shoutcast.rtl.it:3040/
+#EXTINF:-1,RTL Lounge
+http://shoutcast.rtl.it:3070/
+#EXTINF:-1,RADIO FRECCIA
+http://shoutcast.rtl.it:3060/;stream.nsv
+#EXTINF:-1,Radio Kiss Kiss (opz 1)
+http://wma08.fluidstream.net:4610/
+#EXTINF:-1,Radio Kiss Kiss (opz 2))
+http://ice07.fluidstream.net:8080/KissKiss.mp3
+#EXTINF:-1,Radio Kiss Kiss Italia
+http://wma07.fluidstream.net:3616/;stream.nsv
+#EXTINF:-1,Radio Kiss Kiss Napoli
+http://wma06.fluidstream.net/KissNapoli/KissNapoli.stream/playlist.m3u8
+#EXTINF:-1,RDS
+http://www.rds.it:8000/stream
+#EXTINF:-1,Radio Deejay
+http://radiodeejay-lh.akamaihd.net/i/RadioDeejay_Live_1@189857/master.m3u8
+#EXTINF:-1,Radio Zeta L�Italiana
+http://shoutcast.rtl.it:3030/stream/1/
+#EXTINF:-1,Radio Capital
+http://radiocapital-lh.akamaihd.net/i/RadioCapital_Live_1@196312/master.m3u8
+#EXTINF:-1,Radio m2o
+http://radiom2o-lh.akamaihd.net/i/RadioM2o_Live_1@42518/master.m3u8
+#EXTINF:-1,RADIO CLASSICA
+http://str30.creacast.com/class_radioclassica
+#EXTINF:-1,RADIO STAR ITALIA (LIGABUE)
+http://icy.unitedradio.it/Ligabue.mp3
+#EXTINF:-1,RADIO STAR ITALIA (MINA)
+http://icy.unitedradio.it/Mina.mp3
+#EXTINF:-1,RADIO STAR ITALIA (GIORGIA)
+http://icy.unitedradio.it/Giorgia.mp3
+#EXTINF:-1,RADIO STAR ITALIA (PINO DANIELE)
+http://icy.unitedradio.it/Daniele.mp3
+#EXTINF:-1,RADIO STAR ITALIA (TIZIANO FERRO)
+http://icy.unitedradio.it/Ferro.mp3
+#EXTINF:-1,RADIO STAR ITALIA (ZUCCHERO)
+http://icy.unitedradio.it/Zucchero.mp3
+#EXTINF:-1,RADIO STAR ITALIA (JOVANOTTI)
+http://icy.unitedradio.it/Jovanotti.mp3
+#EXTINF:-1,RADIO STAR ITALIA (VASCO ROSSI)
+http://icy.unitedradio.it/Vasco.mp3
+#EXTINF:-1,RADIO 24
+http://shoutcast.radio24.it:8000/listen.pls
+#EXTINF:-1,RADIO LATTEMIELE
+http://onair18.xdevel.com:8014/
+#EXTINF:-1,RADIO BIRIKINA
+http://wma02.fluidstream.net:2220/
+#EXTINF:-1,RADIO BELLA E MONELLA
+http://wma02.fluidstream.net/RadioBellaemonella/RadioBellaemonella.stream/playlist.m3u8
+#EXTINF:-1,RADIO MARTE
+http://onair18.xdevel.com:8212/
+#EXTINF:-1,RADIO IBIZA
+http://wma02.fluidstream.net:5010/
+#EXTINF:-1,RADIO MONTECARLO
+http://icecast.unitedradio.it/RMC.mp3
+#EXTINF:-1,RADIO MONTECARLO  2
+http://icecast.unitedradio.it/MC2.mp3
+#EXTINF:-1,VIRGIN RADIO
+http://icecast.unitedradio.it/Virgin.mp3
+#EXTINF:-1,RADIO 105
+http://icecast.unitedradio.it/Radio105.mp3
+#EXTINF:-1,RADIO 105 CLASSIC
+http://icy.unitedradio.it/105Classics.mp3?amsparams=playerid:208f105web;skey:1468657622
+#EXTINF:-1,RADIO 105 Hip Hop RnB
+http://icy.unitedradio.it/105HipHopRnB.mp3
+#EXTINF:-1,RADIO NORBA
+http://onair20.xdevel.com:8218/
+#EXTINF:-1,RADIO SUBASIO
+http://onair18.xdevel.com:8152
+#EXTINF:-1,RADIO SUBASIO +
+http://onair11.xdevel.com:8050
+#EXTINF:-1,RADIO SUBASIO XL
+http://onair11.xdevel.com:8052/;stream.nsv
+#EXTINF:-1,RADIO AMORE CAMPANIA
+http://onair11.xdevel.com:8002
+#EXTINF:-1,RADIO CUORE
+http://nr9.newradio.it:9029
+#EXTINF:-1,RIN RADIO ITALIA NETWORK
+http://sr9.inmystream.info:8006
+#EXTINF:-1,LINEA RADIO SAVONA
+http://94.23.67.20:8034/stream
+#EXTINF:-1,RADIO BABBOLEO
+http://www.babboleostreaming.it/RadioBabboleo.mp3
+#EXTINF:-1,RADIO BABBOLEO SUONO
+http://www.babboleostreaming.it:443/RadioBabboleoSuono.mp3
+#EXTINF:-1,RADIO BABBOLEO NEWS
+http://www.babboleostreaming.it/RadioBabboleoNews.mp3
+#EXTINF:-1,RADIO 19 GENOVA
+http://str04.fluidstream.net/radio19.mp3
+#EXTINF:-1,RADIO LIFEGATE
+http://onair11.xdevel.com:8024
+#EXTINF:-1,RADIO ENERGY
+http://178.32.62.172:8911/
+#EXTINF:-1,RADIO ANIMATI
+http://www.radioanimati.it/streaming/radioanimati.m3u
+#EXTINF:-1,RADIO ONDA ROSSA
+http://radio.dyne.org:8000/ondarossa.mp3
+#EXTINF:-1,RADIO DANCE TRIESTE
+http://dreamsiteradiocp3.com:8024/;
+#EXTINF:-1,RADIO 4 NETWORK
+http://panel8.newradio.it:9101/;
+#EXTINF:-1,MEP RADIO
+http://83.103.91.11:8081/;
+#EXTINF:-1,RADIO CITTA' DEL CAPO
+http://stream.rcdc.it:8000/;
+#EXTINF:-1,RADIO RIVIERA DOLCISSIMA
+http://5.39.89.17:6434/;
+#EXTINF:-1,RADIO REGGIO
+http://onair15.xdevel.com:9082/;
+#EXTINF:-1,RADIO ONDE FURLANE
+http://81.208.101.95:8080/;
+#EXTINF:-1,RADIO FANTASY
+http://www.radiofantasy.it:8000/stream3.mp3
+#EXTINF:-1,RADIO POPOLARE
+http://livex.radiopopolare.it/radiopop
+#EXTINF:-1,RADIO VALLE CAMONICA
+http://88.46.53.254:8000/;
+#EXTINF:-1,RADIO GRAN PARADISO
+http://stream15.top-ix.org/radiogranparadiso
+#EXTINF:-1,RADIO VALLE BELBO
+http://nr9.newradio.it:9581/;listen
+#EXTINF:-1,RADIO HOLIDAY
+http://stream.radioholiday.it:8000
+#EXTINF:-1,RADIO CALOLZIO
+http://188.13.39.146:8000/;
+#EXTINF:-1,CIAO COMO RADIO
+http://audio1.meway.tv:8078/;
+#EXTINF:-1,RADIO LOMBARDIA
+http://onair11.xdevel.com:10016/;
+#EXTINF:-1,RADIO KEMONIA
+http://kemoniastreaming2.net:8000/;
+#EXTINF:-1,RADIO VIVA FM
+http://178.32.139.120:8002/stream
+#EXTINF:-1,RADIO PUNTO ZERO
+http://wma02.fluidstream.net:8120/;
+#EXTINF:-1,RADIO PLANET FM
+http://91.121.104.139:8100/;
+#EXTINF:-1,RADIO ANTENNA 2
+http://wma03.fluidstream.net:9070/;
+#EXTINF:-1,RDT STATION
+http://dreamsiteradiocp3.com:8024/;
+#EXTINF:-1,LOLLI RADIO ITALIA
+http://www.lolliradio.net/streaming/italia.m3u
+#EXTINF:-1,LOLLI RADIO SOFT NOTIZIE
+http://nr8.newradio.it:8040/;listen&ext=.mp3
+#EXTINF:-1,LOLLI RADIO HAPPY
+http://nr11.newradio.it:8030/;listen&ext=.mp3
+#EXTINF:-1,LOLLI RADIO HITS
+http://nr11.newradio.it:8080/;listen&ext=.mp3
+#EXTINF:-1,LOLLI RADIO DANCE
+http://nr11.newradio.it:8050/;listen&ext=.mp3
+#EXTINF:-1,RADIO ANNI 80
+http://str01.fluidstream.net:7020/;stream.mp3
+#EXTINF:-1,RADIO ITALIA ANNI 60
+http://wma01.fluidstream.net:7140/;stream.nsv
+#EXTINF:-1,RADIO COMPANY
+http://str01.fluidstream.net:7010/;stream.mp3
+#EXTINF:-1,RADIO VALBELLUNA
+http://str01.fluidstream.net:7030/;stream.mp3
+#EXTINF:-1,RADIO MARILU'
+http://wma02.fluidstream.net:2210/
+#EXTINF:-1,RADIO SORRISO
+http://wma02.fluidstream.net:2250/
+#EXTINF:-1,RADIO 19
+http://ice12.fluidstream.net/radio19.aac?type=.flv&r=285507
+#EXTINF:-1,RADIO PITERPAN
+http://wma02.fluidstream.net:2230/
+#EXTINF:-1,RADIO VALENTINA
+http://wma01x.fluidstream.net/valentina.aac?type=.flv
+#EXTINF:-1,NEW RADIO
+http://nr5.newradio.it:8545/stream
+#EXTINF:-1,RADIO NUMBER ONE
+http://ice12.fluidstream.net/rn1.mp3
+#EXTINF:-1,RADIO BOMBO
+http://nr5.newradio.it:8749/;
+#EXTINF:-1,RADIO RETE SMASH
+http://nr3.newradio.it:8300/;
+#EXTINF:-1,RADIO T.R.C.
+http://sr3.inmystream.info:8018/;
+#EXTINF:-1,RADIO SALENTINA
+http://onair15.xdevel.com:8916/;stream.m4a
+#EXTINF:-1,RADIO RETE 1 NETWORK
+http://dreamsiteradiocp3.com:8042/;
+#EXTINF:-1,RADIO YACHT
+http://94.23.67.172:9160
+#EXTINF:-1,RADIO DANCE 90
+http://37.247.49.19/105Dance90.mp3
+#EXTINF:-1,RADIOLINA
+http://stream.teknusi.org:8000/radiolina
+#EXTINF:-1,RADIO CLUB NETWORK CAGLIARI
+http://sh1.inmystream.info:8188/;
+#EXTINF:-1,RADIO X CAGLIARI
+http://eu1.fastcast4u.com:2014/stream?1478973936177.aac
+#EXTINF:-1,RADIO SARDINIA
+http://wma2.mediastreaming.it:80/radiosardinia
+#EXTINF:-1,RADIO FUSION
+http://91.121.38.216:8034/;
+#EXTINF:-1,RADIO BARBAGIA
+http://sr1.inmystream.info:9075/;
+#EXTINF:-1,RADIO JEANS
+http://streaming.radiojeans.net/rj_hiphop_rb
+#EXTINF:-1,L'ALTRA RADIO
+http://nr6.newradio.it:9182/;
+#EXTINF:-1,DISCO RADIO
+http://46.37.20.206:1935/live/discoradio.stream/playlist.m3u8
+#EXTINF:-1,RADIO SKYLINE SOUL/JAZZ/BLUES/FUNK
+http://onair11.xdevel.com:8116/
+#EXTINF:-1,RADIO ALDEBARAN
+http://5.135.39.189:8026/;stream.nsv
+#EXTINF:-1,RADIO STEREO
+http://trsw.inmystream.info:8068/;stream.nsv
+#EXTINF:-1,RADIO RADICALE
+http://livemp3.radioradicale.it/live.mp3
+#EXTINF:-1,RADIO PADANIA LIBERA
+http://onair11.xdevel.com:9986/;stream.m4a
+#EXTINF:-1,RADIO MARIA
+http://50.7.181.186:8092/;stream.mp3
+#EXTINF:-1,RADIO MATER
+http://s3.shoutitaly.com:8016/;stream.nsv
+#EXTINF:-1,RADIO INCONTRO DONNA
+http://nr7.newradio.it:9375/;stream.mp3
+#EXTINF:-1,RADIO VENERE
+http://onair18.xdevel.com:8018/;stream.m4a
+#EXTINF:-1,RADIO MAMBO
+http://stream1.mambo.it:8062/;stream.nsv
+#EXTINF:-1,YES DANCE RADIO
+http://sr2.inmystream.info:8013/stream
+#EXTINF:-1,RADIO REMEMBER 70/80/90
+http://listen.radionomy.com/remember708090
+#EXTINF:-1,RADIO MAGENTA
+http://sr9.inmystream.info:8038
+#EXTINF:-1,RADIO STUDIO PIU'
+http://www.studiopiu.net:8000/
+#EXTINF:-1,RADIO PANDA
+http://178.32.139.167:8038/
+#EXTINF:-1,RADIO 8 FM
+http://streamradio1.tio.ch:80/
+#EXTINF:-1,RADIO 8 FM ITALY
+http://streamradio2.tio.ch:80/
+#EXTINF:-1,STUDIO RADIO
+http://91.121.38.216:8060/
+#EXTINF:-1,ANTENNA RADIO ESSE
+http://s8.mediastreaming.it:7580/
+#EXTINF:-1,BELLA RADIO
+http://server.bellaradio.it:8090/a1.mp3
+#EXTINF:-1,RADIO CENTRO SUONO SPORT
+http://www.radiocentrosuono.it:8000/rcss.m3u
+#EXTINF:-1,RADIO COUNTRY POWER STATION
+http://shoutcast.countrypowerstation.net:2199/tunein/cps.pls
+#EXTINF:-1,RADIO EASY NETWORK
+http://str01.fluidstream.net:6030/
+#EXTINF:-1,RADIO FM ITALIA
+http://onair7.xdevel.com:8700/
+#EXTINF:-1,GAMMA RADIO
+http://nr9.newradio.it:9071/
+#EXTINF:-1,RADIO QUEEN
+http://ascolta.no-ip.org:8000/
+#EXTINF:-1,RADIO ALCAMO CENTRALE
+http://onair11.xdevel.com:8214/
+#EXTINF:-1,RADIO BUDRIO
+http://audio1.meway.tv:8040/
+#EXTINF:-1,RADIO BUSSOLA 24
+http://rbussola01.as48500.net:8018/
+#EXTINF:-1,RADIO CENTRO 95
+http://194.116.73.162/radiocentro95.m3u
+#EXTINF:-1,RADIO DOLOMITI
+http://streaming.radiodolomiti.com:8068/
+#EXTINF:-1,RADIO DUE PUNTO ZERO
+http://www.radioduepuntozero.net/diretta56.m3u
+#EXTINF:-1,RADIO GALILEO
+http://85.47.51.98:8000/live.m3u
+#EXTINF:-1,RADIO GAMMA GIOIOSA
+http://www.gammagioiosa.net/radiogamma.m3u
+#EXTINF:-1,RADIO MILANO
+http://sh1.inmystream.info:8175/
+#EXTINF:-1,RADIO RECORD
+http://wma01.fluidstream.net:7170/
+#EXTINF:-1,RADIO REPORTER
+http://nr9.newradio.it:9085/listen.pls?sid=1
+#EXTINF:-1,RADIO VANESSA
+http://sr3.inmystream.info:8002/stream
+#EXTINF:-1,RADIO MELODY
+http://www.goldenradio.it/listen.m3u
+#EXTINF:-1,LAZIO STYLE RADIO
+http://176.31.117.120:8221/
+#EXTINF:-1,RADIO LIFEGATE SOUND
+http://onair15.xdevel.com:8254/
+#EXTINF:-1,RADIO GELOSA
+http://ice02.fluidstream.net/gelosa
+#EXTINF:-1,RADIO CARINA
+http://37.187.93.104:8054/stream
+#EXTINF:-1,RADIO CICCIORICCIO
+http://onair11.xdevel.com:8198/;stream.nsv
+#EXTINF:-1,RADIO STEREO CITTA'
+http://onair7.xdevel.com:8746/;stream.nsv
+#EXTINF:-1,RADIO ROSA
+http://onair15.xdevel.com:8100/;stream.nsv
+#EXTINF:-1,RADIO LA FENICE CHANNEL
+http://nr9.newradio.it:9690/stream.mp3?1486762129626.mp3
+#EXTINF:-1,RADIO SELENE
+http://audio1.meway.tv:8032/;stream.nsv?1486762246654.mp3
+#EXTINF:-1,RADIO SUBY NICE
+http://onair7.xdevel.com:8702/;stream.nsv?1486762434493.mp3
+#EXTINF:-1,RADIO CAFE'
+http://onair7.xdevel.com:8744/;stream.nsv?1486762607955.mp3
+#EXTINF:-1,RADIO TOURING 104
+http://onair20.xdevel.com:8074/;
+#EXTINF:-1,RADIO TOURING
+http://onair18.xdevel.com:8102/;stream.nsv?1486762805383.mp3
+#EXTINF:-1,RADIO MARGHERITA
+http://shoutcast.streamingmedia.it:7072/;stream.nsv
+#EXTINF:-1,RADIO DIVA FM
+http://ice04.fluidstream.net/fluid0401.mp3
+#EXTINF:-1,RADIO FLY ITALIA
+http://sr4.inmystream.info:8075/stream
+#EXTINF:-1,RADIO PICO
+http://onair11.xdevel.com:8064/;stream.nsv
+#EXTINF:-1,RADIO LISCIO E FOLK
+http://dj.mediastreaming.it:7012/;stream.nsv
+#EXTINF:-1,RADIO ADIGE
+http://onair15.xdevel.com:8638/;stream.nsv
+#EXTINF:-1,RADIO DIMENSIONE
+http://dimensioneradio.ice.infomaniak.ch/dimensioneradio-128.mp3
+#EXTINF:-1,RADIO MILLE NOTE
+http://ice12.fluidstream.net/millenote.mp3
+#EXTINF:-1,RADIO MANILA
+http://stream15.top-ix.org:80/radiomanila
+#EXTINF:-1,RADIO CIAO
+http://onair15.xdevel.com:8236/;
+#EXTINF:-1,RADIO RCS L'ONDA VERONESE
+http://164.132.178.50:8030/;stream.mp
+#EXTINF:-1,RADIO RAM POWER
+http://46.37.20.205:8000/ram
+#EXTINF:-1,RADIO PLAY STUDIO
+http://193.70.21.115:8000/;
+#EXTINF:-1,RADIO RETE SPORT
+http://5.152.159.31:8080/
+#EXTINF:-1,RADIO NON SOLO SUONI
+http://95.110.226.198:8000
+#EXTINF:-1,RADIO NUOVA SANGIORGIO
+http://eu1.fastcast4u.com:10942
+#EXTINF:-1,ITALIAN GRAFFIATI
+http://kos.broadstreamer.com:8500
+#EXTINF:-1,RADIO VATICANA
+http://live.vaticanwebradio.org/channel5.mp3
+#EXTINF:-1,RADIO SABBIA
+http://onair15.xdevel.com:8672/
+#EXTINF:-1,RADIO JUKEBOX
+http://onair15.xdevel.com:9096/
+#EXTINF:-1,RADIO MALVISI NETWORK
+http://onair20.xdevel.com:8062/
+#EXTINF:-1,Radio rsi rete 1
+http://lsaplus.swisstxt.ch/audio/reteuno_96.stream/chunklist_DVR.m3u8
+#EXTINF:-1,Radio rsi rete 2
+http://lsaplus.swisstxt.ch/audio/retedue_96.stream/chunklist_DVR.m3u8
+#EXTINF:-1,Radio rsi rete 3
+http://lsaplus.swisstxt.ch/audio/retetre_96.stream/chunklist_DVR.m3u8
+#EXTINF:-1,Radio capodistria
+http://mp3.rtvslo.si/capo
+#EXTINF:-1,RADIO OLBIA WEB
+http://tachyon.shoutca.st/tunein/radioolbiaweb.pls
+#EXTINF:-1,---SISTEMARE e LATINI---
+http://www.pandasat.info/iptv/PLAYLIST.avi
+#EXTINF:-1,Canal i Venezuela
+rtmp://edge.wms28.lorini.net/canal-i/canal-i
+#EXTINF:-1,Canal 11 Venezuela
+rtmp://edge.wms28.lorini.net/canalonce/canalonce
+#EXTINF:-1,Anzoategui TV Venezuela
+rtsp://edge.wms28.lorini.net/anzoateguitv/anzoateguitv
+#EXTINF:-1,Global TV Venezuela
+rtmp://edge.wms28.lorini.net/globaltv/globaltv
+#EXTINF:-1,Canal 2 Internac. Nicaragua
+rtmp://162.244.81.181:1935/live//Stream1
+#EXTINF:-1,RUS auto_plus
+http://3.hls.bolshoe.tv/1/streaming/auto_plus/tvrec/playlist.m3u8
+#EXTINF:-1,NOS TV Bonaire
+rtmp://panchito13.flashmediacast.com:2087/live/livestream
+#EXTINF:-1,Plus TV Belice
+http://iphone-streaming.ustream.tv/uhls/6108416/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,TV Maya Guatemala
+http://iphone-streaming.ustream.tv/ustreamVideo/9556054/streams/live/playlist.m3u8
+#EXTINF:-1,Canal 33 El Salvador
+http://iphone-streaming.ustream.tv/ustreamVideo/4811076/streams/live/playlist.m3u8
+#EXTINF:-1,Hondured Canal 13 Honduras
+rtmp://173.236.71.62/hondured/hrtv.sdp
+#EXTINF:-1,Azteca Honduras
+http://aztecalive-lh.akamaihd.net/i/142kvpq0l_1@67741/master.m3u8
+#EXTINF:-1,TVS Ecuador
+http://181.198.10.23:1935/live/_definst_/mp4:mystream_360p/playlist.m3u8
+#EXTINF:-1,UCSG TV Ecuador
+rtmp://ecuastream.net:1935/UCSGHQ/UCSGHQ
+#EXTINF:-1,Williax Per�
+rtmp://willax.mediastream.pe/vv_willax/livestream
+#EXTINF:-1,Capital TV Per�
+rtmp://rpplivefs.fplive.net/rpp02live-live/streamCAPTV
+#EXTINF:-1,Red PAT Nacional Bolivia
+rtmp://www.server.tevemi.com:1935/8092/8092
+#EXTINF:-1,---THANK YOU---
+http://www.pandasat.info/iptv/PLAYLIST.avi
+#EXTINF:-1,---FREE IPTV TEAM---
+http://www.pandasat.info/iptv/PLAYLIST.avi
+#EXTINF:-1,---PANDASAT DEVELOPERS TEAM---
+http://www.pandasat.info/iptv/PLAYLIST.avi
+#EXTINF:-1,------------------
+http://www.pandasat.info/iptv/PLAYLIST.avi
+
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/Music_Choice_logo.png",Alternative
 http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/122/chunklist.m3u8?textatu?iptv.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/Music_Choice_logo.png",Brits + Hits
