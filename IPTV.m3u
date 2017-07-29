@@ -14,9 +14,9 @@ http://wow2.cl.digitalproserver.com/ucvtv2/ucvtv2vivo/ucvtv2.smil/playlist.m3u8
 http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/aslyRHq.png" group-title="Television Chilena", T13
 http://cdn.ztreaming.com/t13vivo3/desktop.m3u8
-#EXTINF:-1, tvg-logo="D3m8gI2.png", 24 Horas
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/24_Horas_TVN_alt.png/1200px-24_Horas_TVN_alt.png", 24 Horas Play
 http://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8
-#EXTINF:-1, tvg-logo="Jy2cSn9.png", Ahora Noticias Digital
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/875491697341460481/LIU32bII_400x400.jpg", Ahora Noticias Digital
 http://mdstrm.com/live-stream-playlist/561430ae330428c223687e1e.m3u8
 #EXTINF:-1 tvg-logo="http://niu.cl/wp-content/uploads/2016/07/logo.png" group-title="Television Chilena", NIU TV HD
 http://cl.origin.grupoz.cl/niutv/smil:live.smil/chunklist.m3u8
