@@ -8,10 +8,10 @@ http://mdstrm.com/live-stream-playlist/53d2c1a32640614e62a0e000.m3u8?|User-Agent
 http://mi.chv.cl/playlist/stream.m3u8?s=hd
 #EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/tvcable/images/c/c7/Canal_13_Chile.png/revision/latest?cb=20130725204119&path-prefix=es" group-title="Television Chilena", Canal 13
 http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/category_6/gallery_1178_6_45342.png" group-title="Television Chilena", UCV3 HD
+#EXTINF:-1 tvg-logo="http://forounivers.com/uploads/monthly_2017_07/large_ucv3.png.d25e1cef69d2d0ad5a3b0efdb082f9a8.png" group-title="Television Chilena", UCV3 HD
 http://wow2.cl.digitalproserver.com/ucvtv2/ucvtv2vivo/ucvtv2.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/tvcable/images/2/24/Cnn_cl.png/revision/latest?cb=20110519193512&path-prefix=es" group-title="Television Chilena", CNN Chile HD
-http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8
+http://unlimited7-cl.dps.live/cnn/cnn.smil/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/24_Horas_TVN_alt.png/1200px-24_Horas_TVN_alt.png", 24 Horas Play HD
 http://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8
@@ -75,8 +75,12 @@ http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8?sd=10&rebase=o
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="http://www.radios-argentinas.com/imagenes/logo_america_tv.jpg", America TV HD
 http://prepublish.f.qaotic.net/epa/ngrp:americatvlive-100056_all/Playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.rpctv.com/header_logo.png" group-title="PANAMA",RPC TV HD
+http://cdnlive.medcom.com.pa/medcom-livestream/rpc-live/rpc-live/streamout-720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://www.canalrcn.com/sites/default/files/logo-rcn_10_1.png", RCN
 https://mdstrm.com/live-stream-playlist_900/58a36704896500b908cf1abe.m3u8
+#EXTINF:-1, tvg-logo="http://www.gruposalinas.com/images/nv/Azteca_04.png" group-title="Canales Mexicanos", Azteca 13
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.diario26.com/images/canal_26_logo.png" group-title="Noticias", CANAL 26 HD
 http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w1700708876_b2628000_sleng.m3u8
@@ -136,9 +140,9 @@ http://xrxs.net/video/live-p12oreg-4728.m3u8
 #EXTINF:0 tvg-logo="http://static.pac-12.com/images/logos/pac-12-washington-logo.png", PAC-12 Washington HD
 http://xrxs.net/video/live-p12wash-4728.m3u8
 
-#EXTINF: -1 tvg-logo="http://d3niw2bnkfod0v.cloudfront.net/wp-content/uploads/2015/02/Logos-Files-Oct-2015_Page_04_2.png", ADSports 1 HD
+#EXTINF: -1 tvg-logo="http://www.rapifutbol.tv/javax.faces.resource/dynamiccontent.properties.jsf;jsessionid=cH2pf1HK0zPRmZJ1IE8VnWkO.undefined?ln=primefaces&pfdrid=H6AojLbKHXAw5VxJc9SUY69uDesOzTvP&pfdrt=sc&id=567&pfdrid_c=true", ADSports 1 HD
 http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8?Compartilhandolink
-#EXTINF: -1 tvg-logo="http://d3niw2bnkfod0v.cloudfront.net/wp-content/uploads/2015/02/Logos-Files-Oct-2015_Page_04_2.png", ADSports 2 HD
+#EXTINF: -1 tvg-logo="http://www.rapifutbol.tv/javax.faces.resource/dynamiccontent.properties.jsf;jsessionid=cH2pf1HK0zPRmZJ1IE8VnWkO.undefined?ln=primefaces&pfdrid=H6AojLbKHXAw5VxJc9SUY69uDesOzTvP&pfdrt=sc&id=567&pfdrid_c=true", ADSports 2 HD
 http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8?Compartilhandolink
 
 #EXTINF:0, NDR HD
