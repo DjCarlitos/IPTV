@@ -79,6 +79,12 @@ http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
 http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1, La Sexta HD
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1, GolTV
+https://cdn.opencable.es/hls/live/goltv/index.m3u8
+#EXTINF:0  tvg-logo="http://mma.uno/wp-content/uploads/2017/04/UFCNetwork.png",UFC NETWORK
+https://cdn.opencable.es/hls/live/fighttime/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.radios-argentinas.com/imagenes/logo_america_tv.jpg", America TV HD
 http://prepublish.f.qaotic.net/epa/ngrp:americatvlive-100056_all/Playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.rpctv.com/header_logo.png" group-title="PANAMA",RPC TV HD
