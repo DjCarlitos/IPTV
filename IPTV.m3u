@@ -8,8 +8,6 @@ http://mdstrm.com/live-stream-playlist/53d2c1a32640614e62a0e000.m3u8?|User-Agent
 http://mi.chv.cl/playlist/stream.m3u8?s=hd
 #EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/tvcable/images/c/c7/Canal_13_Chile.png/revision/latest?cb=20130725204119&path-prefix=es" group-title="Television Chilena", Canal 13
 http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8
-#EXTINF:-1 tvg-logo="http://forounivers.com/uploads/monthly_2017_07/large_ucv3.png.d25e1cef69d2d0ad5a3b0efdb082f9a8.png" group-title="Television Chilena", UCV3 HD
-http://wow2.cl.digitalproserver.com/ucvtv2/ucvtv2vivo/ucvtv2.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/tvcable/images/2/24/Cnn_cl.png/revision/latest?cb=20110519193512&path-prefix=es" group-title="Television Chilena", CNN Chile HD
 http://unlimited7-cl.dps.live/cnn/cnn.smil/playlist.m3u8
 
@@ -20,6 +18,8 @@ http://mdstrm.com/live-stream-playlist/561430ae330428c223687e1e.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/aslyRHq.png" group-title="Television Chilena", T13 Movil
 http://cdn.ztreaming.com/t13vivo3/desktop.m3u8
 
+#EXTINF:-1 tvg-logo="http://forounivers.com/uploads/monthly_2017_07/large_ucv3.png.d25e1cef69d2d0ad5a3b0efdb082f9a8.png" group-title="Television Chilena", UCV3 HD
+http://wow2.cl.digitalproserver.com/ucvtv2/ucvtv2vivo/ucvtv2.smil/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://alvaromiguieles.files.wordpress.com/2012/05/475140_10150594533767204_637551787_o.jpg" group-title="Canales Chilenos", Canal 9 HD
 http://unlimited2-cl.dps.live/c9/c9.smil/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://static-media.streema.com/media/cache/9c/75/9c75606d3a6daafb02d1342c012ba436.jpg" group-title="Canales Chilenos Regionales y Comunales", MaximaTV HD
