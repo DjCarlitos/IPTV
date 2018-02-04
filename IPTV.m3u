@@ -7,7 +7,13 @@ http://mdstrm.com/live-stream-playlist/53d2c1a32640614e62a0e000.m3u8?|User-Agent
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Logo_CHV_2015.png" group-title="Television Chilena", CHV
 http://mi.chv.cl/playlist/stream.m3u8?s=hd
 #EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/tvcable/images/c/c7/Canal_13_Chile.png/revision/latest?cb=20130725204119&path-prefix=es" group-title="Television Chilena", Canal 13
-http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8
+http://csm-e.yospace.13.cl/csm/extlive/canal13cl01,CH13M.m3u8?
+
+#EXTINF:-1, tvg-logo="0kJfD7l.png" group-title="Canales Chilenos", TV Chile | HD
+https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
+#EXTINF:-1 tvg-logo="http://forounivers.com/uploads/monthly_2017_07/large_ucv3.png.d25e1cef69d2d0ad5a3b0efdb082f9a8.png" group-title="Television Chilena", UCV3 HD
+http://wow2.cl.digitalproserver.com/ucvtv2/ucvtv2vivo/ucvtv2.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/tvcable/images/2/24/Cnn_cl.png/revision/latest?cb=20110519193512&path-prefix=es" group-title="Television Chilena", CNN Chile HD
 http://unlimited7-cl.dps.live/cnn/cnn.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/24_Horas_TVN_alt.png/1200px-24_Horas_TVN_alt.png", 24 Horas Play HD
@@ -15,9 +21,7 @@ http://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/875491697341460481/LIU32bII_400x400.jpg", Ahora Noticias Digital HD
 http://mdstrm.com/live-stream-playlist/561430ae330428c223687e1e.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/aslyRHq.png" group-title="Television Chilena", T13 Movil
-http://cdn.ztreaming.com/t13vivo3/desktop.m3u8
-#EXTINF:-1 tvg-logo="http://forounivers.com/uploads/monthly_2017_07/large_ucv3.png.d25e1cef69d2d0ad5a3b0efdb082f9a8.png" group-title="Television Chilena", UCV3 HD
-http://wow2.cl.digitalproserver.com/ucvtv2/ucvtv2vivo/ucvtv2.smil/playlist.m3u8
+http://cdn.ztreaming.com/t13vivo3/t13vivo3.m3u8
 
 #EXTINF:-1 tvg-logo="https://alvaromiguieles.files.wordpress.com/2012/05/475140_10150594533767204_637551787_o.jpg" group-title="Canales Chilenos", Canal 9 HD
 http://unlimited2-cl.dps.live/c9/c9.smil/playlist.m3u8
@@ -74,8 +78,23 @@ http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
 http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_4_av-b.m3u8?sd=10&rebase=o
 #EXTINF:-1 tvg-logo="http://www.vertele.com/files/2015/11/atreserieslogo.jpg", ATRESERIES HD
 http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
+#EXTINF:-1, FDF HD
+https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
+#EXTINF:-1, Boing HD
+http://mdslivehls-i.akamaihd.net/hls/live/571647/boing/bitrate_4.m3u8
+#EXTINF:-1, Divinity HD
+http://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
+#EXTINF:-1, Energy HD
+http://mdslivehls-i.akamaihd.net/hls/live/571649/energy/bitrate_4.m3u8
+#EXTINF:-1, Bemad HD 
+http://mdslivehls-i.akamaihd.net/hls/live/571646/bemad/bitrate_4.m3u8
+
 #EXTINF:-1, Antena 3 HD
 http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1, Cuatro HD
+http://cuatro-mediaset-esp-live.secure.footprint.net/mediaset/cuatro/stream1/streamPlaylist.m3u8
+#EXTINF:-1, Telecinco HD
+http://telecinco-mediaset-esp-live.secure.footprint.net/mediaset/telecinco/stream1/streamPlaylist.m3u8
 #EXTINF:-1, La Sexta HD
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8?sd=10&rebase=on
 
