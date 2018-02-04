@@ -9,7 +9,7 @@ http://mi.chv.cl/playlist/stream.m3u8?s=hd
 #EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/tvcable/images/c/c7/Canal_13_Chile.png/revision/latest?cb=20130725204119&path-prefix=es" group-title="Television Chilena", Canal 13
 http://csm-e.yospace.13.cl/csm/extlive/canal13cl01,CH13M.m3u8?
 
-#EXTINF:-1 TV Chile HD
+#EXTINF:-1, TV Chile HD
 https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
 #EXTINF:-1 tvg-logo="http://forounivers.com/uploads/monthly_2017_07/large_ucv3.png.d25e1cef69d2d0ad5a3b0efdb082f9a8.png" group-title="Television Chilena", UCV3 HD
 http://wow2.cl.digitalproserver.com/ucvtv2/ucvtv2vivo/ucvtv2.smil/playlist.m3u8
