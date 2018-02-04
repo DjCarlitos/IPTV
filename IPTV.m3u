@@ -1,3 +1,5 @@
+#EXTINF:-1, La Red HD
+http://d28d7tc1ojykcy.cloudfront.net/lared/smil:lared.smil/playlist.m3u8|User-agent=iPhone
 #EXTINF:-1 tvg-logo="http://www.ucvmedios.cl/imagenes/logo-ucv-200.png" group-title="Television Chilena", UCV HD
 http://unlimited5-cl.digitalproserver.com/ucvtv/ucvtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/doblaje/images/1/18/TVN2016.png/revision/latest?cb=20160811000314&path-prefix=es" group-title="Television Chilena", TVN HD
@@ -22,6 +24,34 @@ http://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8
 http://mdstrm.com/live-stream-playlist/561430ae330428c223687e1e.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/aslyRHq.png" group-title="Television Chilena", T13 Movil
 http://cdn.ztreaming.com/t13vivo3/t13vivo3.m3u8
+
+#EXTINF:-1, Mega HD
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/509064688550694912/WY6A_PqH.jpeg", Neox HD
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
+#EXTINF:-1, NOVA HD
+http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_4_av-b.m3u8?sd=10&rebase=o
+#EXTINF:-1 tvg-logo="http://www.vertele.com/files/2015/11/atreserieslogo.jpg", ATRESERIES HD
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
+#EXTINF:-1, FDF HD
+https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
+#EXTINF:-1, Boing HD
+http://mdslivehls-i.akamaihd.net/hls/live/571647/boing/bitrate_4.m3u8
+#EXTINF:-1, Divinity HD
+http://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
+#EXTINF:-1, Energy HD
+http://mdslivehls-i.akamaihd.net/hls/live/571649/energy/bitrate_4.m3u8
+#EXTINF:-1, Bemad HD 
+http://mdslivehls-i.akamaihd.net/hls/live/571646/bemad/bitrate_4.m3u8
+
+#EXTINF:-1, Antena 3 HD
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1, Cuatro HD
+http://cuatro-mediaset-esp-live.secure.footprint.net/mediaset/cuatro/stream1/streamPlaylist.m3u8
+#EXTINF:-1, Telecinco HD
+http://telecinco-mediaset-esp-live.secure.footprint.net/mediaset/telecinco/stream1/streamPlaylist.m3u8
+#EXTINF:-1, La Sexta HD
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8?sd=10&rebase=on
 
 #EXTINF:-1 tvg-logo="https://alvaromiguieles.files.wordpress.com/2012/05/475140_10150594533767204_637551787_o.jpg" group-title="Canales Chilenos", Canal 9 HD
 http://unlimited2-cl.dps.live/c9/c9.smil/playlist.m3u8
@@ -70,33 +100,7 @@ http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8
 #EXTINF:-1 tvg-logo="http://www.freeetv.com/images/03_logo/Retro_Czech_Republic.jpg", Retro
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 
-#EXTINF:-1, Mega HD
-http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/509064688550694912/WY6A_PqH.jpeg", Neox HD
-http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
-#EXTINF:-1, NOVA HD
-http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_4_av-b.m3u8?sd=10&rebase=o
-#EXTINF:-1 tvg-logo="http://www.vertele.com/files/2015/11/atreserieslogo.jpg", ATRESERIES HD
-http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
-#EXTINF:-1, FDF HD
-https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
-#EXTINF:-1, Boing HD
-http://mdslivehls-i.akamaihd.net/hls/live/571647/boing/bitrate_4.m3u8
-#EXTINF:-1, Divinity HD
-http://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
-#EXTINF:-1, Energy HD
-http://mdslivehls-i.akamaihd.net/hls/live/571649/energy/bitrate_4.m3u8
-#EXTINF:-1, Bemad HD 
-http://mdslivehls-i.akamaihd.net/hls/live/571646/bemad/bitrate_4.m3u8
 
-#EXTINF:-1, Antena 3 HD
-http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1, Cuatro HD
-http://cuatro-mediaset-esp-live.secure.footprint.net/mediaset/cuatro/stream1/streamPlaylist.m3u8
-#EXTINF:-1, Telecinco HD
-http://telecinco-mediaset-esp-live.secure.footprint.net/mediaset/telecinco/stream1/streamPlaylist.m3u8
-#EXTINF:-1, La Sexta HD
-http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8?sd=10&rebase=on
 
 #EXTINF:-1 tvg-logo="http://www.radios-argentinas.com/imagenes/logo_america_tv.jpg", America TV HD
 http://prepublish.f.qaotic.net/epa/ngrp:americatvlive-100056_all/Playlist.m3u8
