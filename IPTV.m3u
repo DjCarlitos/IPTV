@@ -1,113 +1,129 @@
-#EXTINF:-1 tvg-logo="http://www.ucvmedios.cl/imagenes/logo-ucv-200.png" group-title="Television Chilena", UCV HD
+#EXTINF:-1 tvg-logo="http://www.ucvmedios.cl/imagenes/logo-ucv-200.png" group-title="Television Chilena", UCV
 http://unlimited5-cl.digitalproserver.com/ucvtv/ucvtv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/doblaje/images/1/18/TVN2016.png/revision/latest?cb=20160811000314&path-prefix=es" group-title="Television Chilena", TVN HD
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/doblaje/images/1/18/TVN2016.png/revision/latest?cb=20160811000314&path-prefix=es" group-title="Television Chilena", TVN
 http://mdstrm.com/live-stream-playlist/57a498c4d7b86d600e5461cb.m3u8? 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Mega2013oficial.png/200px-Mega2013oficial.png" group-title="Television Chilena", MEGA HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Mega2013oficial.png/200px-Mega2013oficial.png" group-title="Television Chilena", MEGA
 http://mdstrm.com/live-stream-playlist/53d2c1a32640614e62a0e000.m3u8?|User-Agent=Mozilla/5.0&amp;Referer=http://platform.s-mdstrm.com/player/-/assets/screen/screen.swf
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Logo_CHV_2015.png" group-title="Television Chilena", CHV
 http://mi.chv.cl/playlist/stream.m3u8?s=hd
 #EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/tvcable/images/c/c7/Canal_13_Chile.png/revision/latest?cb=20130725204119&path-prefix=es" group-title="Television Chilena", Canal 13
 http://csm-e.yospace.13.cl/csm/extlive/canal13cl01,CH13M.m3u8?
 
-#EXTINF:-1, TV Chile HD
+#EXTINF:-1, TV Chile
 https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
-#EXTINF:-1 tvg-logo="http://forounivers.com/uploads/monthly_2017_07/large_ucv3.png.d25e1cef69d2d0ad5a3b0efdb082f9a8.png" group-title="Television Chilena", UCV3 HD
+#EXTINF:-1 tvg-logo="http://forounivers.com/uploads/monthly_2017_07/large_ucv3.png.d25e1cef69d2d0ad5a3b0efdb082f9a8.png" group-title="Television Chilena", UCV3
 http://wow2.cl.digitalproserver.com/ucvtv2/ucvtv2vivo/ucvtv2.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/tvcable/images/2/24/Cnn_cl.png/revision/latest?cb=20110519193512&path-prefix=es" group-title="Television Chilena", CNN Chile HD
+#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/tvcable/images/2/24/Cnn_cl.png/revision/latest?cb=20110519193512&path-prefix=es" group-title="Television Chilena", CNN Chile
 http://unlimited7-cl.dps.live/cnn/cnn.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/24_Horas_TVN_alt.png/1200px-24_Horas_TVN_alt.png", 24 Horas Play HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/24_Horas_TVN_alt.png/1200px-24_Horas_TVN_alt.png", 24 Horas Play
 http://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/875491697341460481/LIU32bII_400x400.jpg", Ahora Noticias Digital HD
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/875491697341460481/LIU32bII_400x400.jpg", Ahora Noticias Digital
 http://mdstrm.com/live-stream-playlist/561430ae330428c223687e1e.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/aslyRHq.png" group-title="Television Chilena", T13 Movil
 http://cdn.ztreaming.com/t13vivo3/t13vivo3.m3u8
 
-#EXTINF:-1, Antena 3 HD
+#EXTINF:-1, Antena 3
 http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1, Cuatro HD
+#EXTINF:-1, Cuatro
 http://cuatro-mediaset-esp-live.secure.footprint.net/mediaset/cuatro/stream1/streamPlaylist.m3u8
-#EXTINF:-1, Telecinco HD
+#EXTINF:-1, Telecinco
 http://telecinco-mediaset-esp-live.secure.footprint.net/mediaset/telecinco/stream1/streamPlaylist.m3u8
-#EXTINF:-1, La Sexta HD
+#EXTINF:-1, La Sexta
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8?sd=10&rebase=on
 
-#EXTINF:-1, Mega HD
+#EXTINF:-1, Mega
 http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/509064688550694912/WY6A_PqH.jpeg", Neox HD
 http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
-#EXTINF:-1, NOVA HD
+#EXTINF:-1, NOVA
 http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_4_av-b.m3u8?sd=10&rebase=o
 #EXTINF:-1 tvg-logo="http://www.vertele.com/files/2015/11/atreserieslogo.jpg", ATRESERIES HD
 http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
-#EXTINF:-1, Divinity HD
+#EXTINF:-1, Divinity
 http://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
-#EXTINF:-1, Energy HD
+#EXTINF:-1, Energy
 http://mdslivehls-i.akamaihd.net/hls/live/571649/energy/bitrate_4.m3u8
-#EXTINF:-1, Bemad HD 
+#EXTINF:-1, Bemad
 http://mdslivehls-i.akamaihd.net/hls/live/571646/bemad/bitrate_4.m3u8
-#EXTINF:-1, FDF HD
+#EXTINF:-1, FDF
 https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
-#EXTINF:-1, Boing HD
+#EXTINF:-1, Boing
 http://mdslivehls-i.akamaihd.net/hls/live/571647/boing/bitrate_4.m3u8
 
-#EXTINF:-1 tvg-logo="https://alvaromiguieles.files.wordpress.com/2012/05/475140_10150594533767204_637551787_o.jpg" group-title="Canales Chilenos", Canal 9 HD
+#EXTINF:-1 tvg-logo="https://alvaromiguieles.files.wordpress.com/2012/05/475140_10150594533767204_637551787_o.jpg" group-title="Canales Chilenos", Canal 9
 http://unlimited2-cl.dps.live/c9/c9.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/9c/75/9c75606d3a6daafb02d1342c012ba436.jpg" group-title="Canales Chilenos Regionales y Comunales", MaximaTV HD
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/9c/75/9c75606d3a6daafb02d1342c012ba436.jpg" group-title="Canales Chilenos Regionales y Comunales", MaximaTV
 http://190.107.176.55:1935/live/maxima-fm/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.rapifutbol.tv/javax.faces.resource/dynamiccontent.properties.jsf;jsessionid=Tg0mHwQ-dV-WrpuG+64nm-7E.undefined?ln=primefaces&pfdrid=H6AojLbKHXAw5VxJc9SUY69uDesOzTvP&pfdrt=sc&id=1419&pfdrid_c=false&uid=60802891-8b24-4c9a-89b0-57dc20ef21a3" group-title="Canales Chilenos", FM Hot HD
+#EXTINF:-1 tvg-logo="http://www.rapifutbol.tv/javax.faces.resource/dynamiccontent.properties.jsf;jsessionid=Tg0mHwQ-dV-WrpuG+64nm-7E.undefined?ln=primefaces&pfdrid=H6AojLbKHXAw5VxJc9SUY69uDesOzTvP&pfdrt=sc&id=1419&pfdrid_c=false&uid=60802891-8b24-4c9a-89b0-57dc20ef21a3" group-title="Canales Chilenos", FM Hot
 http://evo.eltelon.com:1935/live/fm-hot-tv/playlist.m3u8
 
 #EXTINF:-1, Trailer TV
 http://evo.eltelon.com:1935/trailertv/smil:trailertv.smil/playlist.m3u8
 #EXTINF:-1, Trailer TV Kids
 http://evo.eltelon.com:1935/trailertvkids/smil:trailertvkids.smil/playlist.m3u8
-#EXTINF:-1, FTV HD
+#EXTINF:-1, FTV
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2730813661/c5c9113226a32210f58259626b68aa9d_400x400.png", Contivision Música HD
+#EXTINF:-1 tvg-logo="http://www.radios-argentinas.com/imagenes/logo_america_tv.jpg", America TV
+http://prepublish.f.qaotic.net/epa/ngrp:americatvlive-100056_all/Playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.rpctv.com/header_logo.png" group-title="PANAMA",RPC TV
+http://cdnlive.medcom.com.pa/medcom-livestream/rpc-live/rpc-live/streamout-720p/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://www.canalrcn.com/sites/default/files/logo-rcn_10_1.png", RCN
+https://mdstrm.com/live-stream-playlist_900/58a36704896500b908cf1abe.m3u8
+#EXTINF:-1 tvg-logo="http://www.gruposalinas.com/images/nv/Azteca_04.png" group-title="Canales Mexicanos", Azteca 13
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.diario26.com/images/canal_26_logo.png" group-title="Noticias", CANAL 26
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w1700708876_b2628000_sleng.m3u8
+#EXTINF:-1 group-title="Noticias", RT News Español
+https://secure-streams.akamaized.net/rt-esp/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Foro_TV_Logo_2015.png/220px-Foro_TV_Logo_2015.png" group-title="Noticias" group-title="Noticias", Foro TV
+http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2730813661/c5c9113226a32210f58259626b68aa9d_400x400.png", Contivision Música
 http://wow2.cl.digitalproserver.com/contivisionmusica/contivisionmusicavivo/contivisionmusica.smil/playlist.m3u8
 
-#EXTINF:-1, Gufo Hits HD
+#EXTINF:-1, Gufo Hits
 https://wowzaprod4-i.akamaihd.net/hls/live/253920/fc13c4a3/playlist.m3u8?laope
-#EXTINF:-1, Gufo Chile HD
+#EXTINF:-1, Gufo Chile
 https://wowzaprod4-i.akamaihd.net/hls/live/253920/8be6db2d/playlist.m3u8?laope
-#EXTINF:-1, Gufo Rock Latino HD
+#EXTINF:-1, Gufo Rock Latino
 https://wowzaprod4-i.akamaihd.net/hls/live/253920/ce9bebcc_1_540/chunklist.m3u8?laope
-#EXTINF:-1, Gufo Indie HD
+#EXTINF:-1, Gufo Indie
 https://wowzaprod4-i.akamaihd.net/hls/live/253920/d3daa538_1_540/chunklist.m3u8?laope
-#EXTINF:-1, Gufo Retro HD
+#EXTINF:-1, Gufo Retro
 https://wowzaprod4-i.akamaihd.net/hls/live/253920/148a6ff0_1_270/chunklist.m3u8?laope
 
-#EXTINF:-1, Music Vox TV Old School HD
+#EXTINF:-1, Music Vox TV Old School
 https://stream.smcdn.pl/vox-t/vox_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="http://online-red.com/images/tv/one-hd.png", One HD
+#EXTINF:-1 tvg-logo="http://online-red.com/images/tv/one-hd.png", One
 http://rtmp.one.by:1300/
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/tRonseR.png" group-title="BELGIUM", NRJ Hits TV HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/tRonseR.png" group-title="BELGIUM", NRJ Hits TV
 http://5.196.138.6:1935/live/nrjbelgique/chunklist_w1339281553.m3u8
-#EXTINF:-1 tvg-logo="http://www.diario26.com/images/musictop_logo.png", MUSICTOP HD
+#EXTINF:-1 tvg-logo="http://www.diario26.com/images/musictop_logo.png", MUSICTOP
 http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.tigomusic.co/sites/music.co/files/logo_music.png", Tigo Music HD
+#EXTINF:-1 tvg-logo="http://www.tigomusic.co/sites/music.co/files/logo_music.png", Tigo Music
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8
-#EXTINF:-1 tvg-logo="http://www.canalmimusica.com/wp-content/uploads/2012/11/favicon.png", Mi Musica HD
+#EXTINF:-1 tvg-logo="http://www.canalmimusica.com/wp-content/uploads/2012/11/favicon.png", Mi Musica
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://www.streamytv.net/wp-content/uploads/2015/11/Djing-TV.jpg", Djing HD
+#EXTINF:-1 tvg-logo="http://www.streamytv.net/wp-content/uploads/2015/11/Djing-TV.jpg", Djing
 http://www.djing.com/tv/05.m3u8
-#EXTINF:-1 tvg-logo="http://bouquettv.mediactus.fr/wp-content/uploads/2016/11/Djing-Ibiza-TV.png", Djing Ibiza HD
+#EXTINF:-1 tvg-logo="http://bouquettv.mediactus.fr/wp-content/uploads/2016/11/Djing-Ibiza-TV.png", Djing Ibiza
 http://www.djing.com/tv/d-05.m3u8
-#EXTINF:-1 tvg-logo="http://www.streamytv.net/wp-content/uploads/2015/11/Djing-Animation.png", Djing Animation HD
+#EXTINF:-1 tvg-logo="http://www.streamytv.net/wp-content/uploads/2015/11/Djing-Animation.png", Djing Animation
 http://www.djing.com/tv/a-05.m3u8
-#EXTINF:-1 tvg-logo="http://wikibox.eu/wp-content/uploads/2015/09/DJing-Underground.jpg", Djing Underground HD
+#EXTINF:-1 tvg-logo="http://wikibox.eu/wp-content/uploads/2015/09/DJing-Underground.jpg", Djing Underground
 http://www.djing.com/tv/u-05.m3u8
-#EXTINF:-1 tvg-logo="http://www.streamytv.net/wp-content/uploads/2015/11/Djing-Classic.jpg", Djing Classic HD
+#EXTINF:-1 tvg-logo="http://www.streamytv.net/wp-content/uploads/2015/11/Djing-Classic.jpg", Djing Classic
 http://www.djing.com/tv/i-05.m3u8
 
-#EXTINF:0, Capital TV HD
+#EXTINF:0, Capital TV
 http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
-#EXTINF:-1, Heart TV HD
+#EXTINF:-1, Heart TV
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
 #EXTINF:-1 tvg-logo="http://www.rapifutbol.tv/javax.faces.resource/dynamiccontent.properties.jsf;jsessionid=96hau9+7wAfDVFbMJ2gsnuAr.undefined?ln=primefaces&pfdrid=H6AojLbKHXAw5VxJc9SUY69uDesOzTvP&pfdrt=sc&id=520&pfdrid_c=false&uid=c454713e-ce03-48e9-804a-84b45b258140", Virgin TV
 http://wow01.105.net/live/virgin1/.m3u8
@@ -118,51 +134,33 @@ http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8
 #EXTINF:-1 tvg-logo="http://www.freeetv.com/images/03_logo/Retro_Czech_Republic.jpg", Retro
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 
-
-
-#EXTINF:-1 tvg-logo="http://www.radios-argentinas.com/imagenes/logo_america_tv.jpg", America TV HD
-http://prepublish.f.qaotic.net/epa/ngrp:americatvlive-100056_all/Playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.rpctv.com/header_logo.png" group-title="PANAMA",RPC TV HD
-http://cdnlive.medcom.com.pa/medcom-livestream/rpc-live/rpc-live/streamout-720p/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://www.canalrcn.com/sites/default/files/logo-rcn_10_1.png", RCN
-https://mdstrm.com/live-stream-playlist_900/58a36704896500b908cf1abe.m3u8
-#EXTINF:-1 tvg-logo="http://www.gruposalinas.com/images/nv/Azteca_04.png" group-title="Canales Mexicanos", Azteca 13
-http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.diario26.com/images/canal_26_logo.png" group-title="Noticias", CANAL 26 HD
-http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w1700708876_b2628000_sleng.m3u8
-#EXTINF:-1 group-title="Noticias", RT News Español HD
-http://rt-esp-live.hls.adaptive.level3.net/rt/esp/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Foro_TV_Logo_2015.png/220px-Foro_TV_Logo_2015.png" group-title="Noticias" group-title="Noticias", Foro TV
-http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/master.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.tvtechnology.com/Portals/0/CBSN%20logo%20thumbnail.png" group-title="Noticias", CBS News HD
+#EXTINF:-1 tvg-logo="http://www.tvtechnology.com/Portals/0/CBSN%20logo%20thumbnail.png" group-title="Noticias", CBS News
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_2200_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="http://yousenditcc.s3.amazonaws.com/networks/MSNBC_Rebrand_0w.png" group-title="Noticias", MSNBC HD
+#EXTINF:-1 tvg-logo="http://yousenditcc.s3.amazonaws.com/networks/MSNBC_Rebrand_0w.png" group-title="Noticias", MSNBC
 http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8
-#EXTINF:-1 tvg-logo="http://www.aljazeera.com/mritems/assets/images/aj-logo-lg.png" group-title="Noticias", Al Jazeera HD
+#EXTINF:-1 tvg-logo="http://www.aljazeera.com/mritems/assets/images/aj-logo-lg.png" group-title="Noticias", Al Jazeera
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index2073.m3u8
-#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/4/4c/TRT_World.png/revision/latest?cb=20151105004712" group-title="Noticias", TRT World HD
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/4/4c/TRT_World.png/revision/latest?cb=20151105004712" group-title="Noticias", TRT World
 http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
-#EXTINF:-1 group-title="Noticias", RT News HD
-http://rt-eng-live.hls.adaptive.level3.net/rt/eng/index.m3u8
+#EXTINF:-1 group-title="Noticias", RT News
+https://secure-streams.akamaized.net/rt/index.m3u8
 #EXTINF:-1 tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/419.png" group-title="Noticias", France 24
 http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 
-#EXTINF:-1 tvg-logo="http://channelpear.com/images/media/80.jpg", NHK World HD
+#EXTINF:-1 tvg-logo="http://channelpear.com/images/media/80.jpg", NHK World
 http://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
-#EXTINF:-1 tvg-logo="http://www.isv.net/logos/arirangtv.png", Arirang HD
+#EXTINF:-1 tvg-logo="http://www.isv.net/logos/arirangtv.png", Arirang
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="http://vegasat.ru/imgs/1443652102.png", RT Docu HD
-http://rt-doc-live.hls.adaptive.level3.net/rt/doc/index.m3u8
+https://secure-streams.akamaized.net/rt-doc/index.m3u8
 
-#EXTINF:0, ABC Newscast HD
+#EXTINF:0, ABC Newscast
 http://abclive.abcnews.com/i/abc_live4@136330/index_4000_av-p.m3u8?sd=10&rebase=on
-#EXTINF:0, Bloomberg HD
+#EXTINF:0, Bloomberg
 http://cdn3.videos.bloomberg.com/btv/us/master.m3u8?b?b*t$
-#EXTINF:-1 tvg-logo="https://s.w-x.co/240x180_twc_default.png", Weather Channel HD
+#EXTINF:-1 tvg-logo="https://s.w-x.co/240x180_twc_default.png", Weather Channel
 http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
-#EXTINF:0, Weather Channel HD
+#EXTINF:0, Weather Channel
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/The_Olympic_Channel_Logo_2016.svg/2000px-The_Olympic_Channel_Logo_2016.svg.png", Olympic Channel HD
