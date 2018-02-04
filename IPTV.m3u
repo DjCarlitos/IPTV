@@ -66,8 +66,6 @@ http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8
 #EXTINF:-1 tvg-logo="http://www.freeetv.com/images/03_logo/Retro_Czech_Republic.jpg", Retro
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 
-#EXTINF:0 tvg-logo="http://fight-time.com/wp-content/uploads/2017/03/Fight-Time-Logo-Transparente-g.png", Fight Time HD
-https://cdn.opencable.es/hls/live/fighttime/index.m3u8
 #EXTINF:-1, Mega HD
 http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/509064688550694912/WY6A_PqH.jpeg", Neox HD
@@ -76,13 +74,8 @@ http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
 http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_4_av-b.m3u8?sd=10&rebase=o
 #EXTINF:-1 tvg-logo="http://www.vertele.com/files/2015/11/atreserieslogo.jpg", ATRESERIES HD
 http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
-#EXTINF:-1 tvg-logo="http://vercanalestv.com/logos/goltv.jpg", GolTV
-https://cdn.opencable.es/hls/live/goltv/index.m3u8
-
 #EXTINF:-1, Antena 3 HD
 http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1, Cuatro HD
-https://cdn.opencable.es/hls/live/cuatrohd/index.m3u8
 #EXTINF:-1, La Sexta HD
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8?sd=10&rebase=on
 
