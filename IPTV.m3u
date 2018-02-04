@@ -1,5 +1,3 @@
-#EXTINF:-1, La Red HD
-http://d28d7tc1ojykcy.cloudfront.net/lared/smil:lared.smil/playlist.m3u8|User-agent=iPhone
 #EXTINF:-1 tvg-logo="http://www.ucvmedios.cl/imagenes/logo-ucv-200.png" group-title="Television Chilena", UCV HD
 http://unlimited5-cl.digitalproserver.com/ucvtv/ucvtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/doblaje/images/1/18/TVN2016.png/revision/latest?cb=20160811000314&path-prefix=es" group-title="Television Chilena", TVN HD
@@ -25,25 +23,6 @@ http://mdstrm.com/live-stream-playlist/561430ae330428c223687e1e.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/aslyRHq.png" group-title="Television Chilena", T13 Movil
 http://cdn.ztreaming.com/t13vivo3/t13vivo3.m3u8
 
-#EXTINF:-1, Mega HD
-http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/509064688550694912/WY6A_PqH.jpeg", Neox HD
-http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
-#EXTINF:-1, NOVA HD
-http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_4_av-b.m3u8?sd=10&rebase=o
-#EXTINF:-1 tvg-logo="http://www.vertele.com/files/2015/11/atreserieslogo.jpg", ATRESERIES HD
-http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
-#EXTINF:-1, FDF HD
-https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
-#EXTINF:-1, Boing HD
-http://mdslivehls-i.akamaihd.net/hls/live/571647/boing/bitrate_4.m3u8
-#EXTINF:-1, Divinity HD
-http://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
-#EXTINF:-1, Energy HD
-http://mdslivehls-i.akamaihd.net/hls/live/571649/energy/bitrate_4.m3u8
-#EXTINF:-1, Bemad HD 
-http://mdslivehls-i.akamaihd.net/hls/live/571646/bemad/bitrate_4.m3u8
-
 #EXTINF:-1, Antena 3 HD
 http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1, Cuatro HD
@@ -53,16 +32,55 @@ http://telecinco-mediaset-esp-live.secure.footprint.net/mediaset/telecinco/strea
 #EXTINF:-1, La Sexta HD
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8?sd=10&rebase=on
 
+#EXTINF:-1, Mega HD
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/509064688550694912/WY6A_PqH.jpeg", Neox HD
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
+#EXTINF:-1, NOVA HD
+http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_4_av-b.m3u8?sd=10&rebase=o
+#EXTINF:-1 tvg-logo="http://www.vertele.com/files/2015/11/atreserieslogo.jpg", ATRESERIES HD
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
+#EXTINF:-1, Divinity HD
+http://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
+#EXTINF:-1, Energy HD
+http://mdslivehls-i.akamaihd.net/hls/live/571649/energy/bitrate_4.m3u8
+#EXTINF:-1, Bemad HD 
+http://mdslivehls-i.akamaihd.net/hls/live/571646/bemad/bitrate_4.m3u8
+#EXTINF:-1, FDF HD
+https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
+#EXTINF:-1, Boing HD
+http://mdslivehls-i.akamaihd.net/hls/live/571647/boing/bitrate_4.m3u8
+
 #EXTINF:-1 tvg-logo="https://alvaromiguieles.files.wordpress.com/2012/05/475140_10150594533767204_637551787_o.jpg" group-title="Canales Chilenos", Canal 9 HD
 http://unlimited2-cl.dps.live/c9/c9.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/9c/75/9c75606d3a6daafb02d1342c012ba436.jpg" group-title="Canales Chilenos Regionales y Comunales", MaximaTV HD
 http://190.107.176.55:1935/live/maxima-fm/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.rapifutbol.tv/javax.faces.resource/dynamiccontent.properties.jsf;jsessionid=Tg0mHwQ-dV-WrpuG+64nm-7E.undefined?ln=primefaces&pfdrid=H6AojLbKHXAw5VxJc9SUY69uDesOzTvP&pfdrt=sc&id=1419&pfdrid_c=false&uid=60802891-8b24-4c9a-89b0-57dc20ef21a3" group-title="Canales Chilenos", FM Hot HD
 http://evo.eltelon.com:1935/live/fm-hot-tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://niu.cl/wp-content/uploads/2016/07/logo.png" group-title="Television Chilena", NIU TV HD
-http://cl.origin.grupoz.cl/niutv/smil:live.smil/chunklist.m3u8
+
+#EXTINF:-1, Trailer TV
+http://evo.eltelon.com:1935/trailertv/smil:trailertv.smil/playlist.m3u8
+#EXTINF:-1, Trailer TV Kids
+http://evo.eltelon.com:1935/trailertvkids/smil:trailertvkids.smil/playlist.m3u8
+#EXTINF:-1, FTV HD
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2730813661/c5c9113226a32210f58259626b68aa9d_400x400.png", Contivision Música HD
 http://wow2.cl.digitalproserver.com/contivisionmusica/contivisionmusicavivo/contivisionmusica.smil/playlist.m3u8
+
+#EXTINF:-1, Gufo Hits HD
+https://wowzaprod4-i.akamaihd.net/hls/live/253920/fc13c4a3/playlist.m3u8?laope
+#EXTINF:-1, Gufo Chile HD
+https://wowzaprod4-i.akamaihd.net/hls/live/253920/8be6db2d/playlist.m3u8?laope
+#EXTINF:-1, Gufo Rock Latino HD
+https://wowzaprod4-i.akamaihd.net/hls/live/253920/ce9bebcc_1_540/chunklist.m3u8?laope
+#EXTINF:-1, Gufo Indie HD
+https://wowzaprod4-i.akamaihd.net/hls/live/253920/d3daa538_1_540/chunklist.m3u8?laope
+#EXTINF:-1, Gufo Retro HD
+https://wowzaprod4-i.akamaihd.net/hls/live/253920/148a6ff0_1_270/chunklist.m3u8?laope
+
+#EXTINF:-1, Music Vox TV Old School HD
+https://stream.smcdn.pl/vox-t/vox_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="http://online-red.com/images/tv/one-hd.png", One HD
 http://rtmp.one.by:1300/
