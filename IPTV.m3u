@@ -27,11 +27,11 @@ http://mdstrm.com/live-stream-playlist/58cc0bf22d212a64177fddb1.m3u8
 #EXTINF:-1 tvg-logo="https://ulango.tv/uploads/channels/63346/logo_cdo%20premium.png", CDO
 http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
 
-#EXTINF:-1, VTV
+#EXTINF:-1 tvg-logo="http://www.rapifutbol.tv/javax.faces.resource/dynamiccontent.properties.jsf;jsessionid=R1ErVT7-yV1krNlv0Nmv7GHK.undefined?ln=primefaces&pfdrid=H6AojLbKHXAw5VxJc9SUY69uDesOzTvP&pfdrt=sc&id=498&pfdrid_c=false&uid=6fed33e4-0ae6-47a5-88ae-f36d2a1e2f97", VTV
 http://cdn.streamingmedia.cl:1935/live/vtvvina/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://alvaromiguieles.files.wordpress.com/2012/05/475140_10150594533767204_637551787_o.jpg", Canal 9
 http://unlimited2-cl.dps.live/c9/c9.smil/playlist.m3u8
-#EXTINF:-1, Contivision
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/doblaje/images/2/25/Contivision.png/revision/latest?cb=20151225204238&path-prefix=es", Contivision
 http://wow2.cl.digitalproserver.com/contivisionhd/contivisionhdvivo/contivisionhd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/9c/75/9c75606d3a6daafb02d1342c012ba436.jpg", MaximaTV
 http://190.107.176.55:1935/live/maxima-fm/playlist.m3u8
