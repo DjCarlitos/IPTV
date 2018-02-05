@@ -74,9 +74,10 @@ http://evo.eltelon.com:1935/trailertvkids/smil:trailertvkids.smil/playlist.m3u8
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.radios-argentinas.com/imagenes/logo_america_tv.jpg", America TV
-#EXTINF:-1, tvg-logo="XQLIPxl.png" group-title="Canales Argentinos", Telefe
+http://prepublish.f.qaotic.net/epa/ngrp:americatvlive-100056_all/Playlist.m3u8?sense=true|Referer=http://vmf.edge-apps.net
+#EXTINF:-1 tvg-logo="XQLIPxl.png" group-title="Canales Argentinos", Telefe
 http://ar.watcha.live/ch6/hi.m3u8|User-agent=iPhone
-#EXTINF:-1, tvg-logo="qzpwloD.png" group-title="Canales Argentinos", El Trece
+#EXTINF:-1 tvg-logo="qzpwloD.png" group-title="Canales Argentinos", El Trece
 http://ar.watcha.live/ch7/hi.m3u8|User-agent=iPhone
 
 http://prepublish.f.qaotic.net/epa/ngrp:americatvlive-100056_all/Playlist.m3u8?sense=true|Referer=http://vmf.edge-apps.net
