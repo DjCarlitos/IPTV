@@ -13,7 +13,7 @@ http://csm-e.yospace.13.cl/csm/extlive/canal13cl01,CH13M.m3u8?
 http://unlimited7-cl.dps.live/cnn/cnn.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/24_Horas_TVN_alt.png/1200px-24_Horas_TVN_alt.png", 24 Horas Play
 http://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/875491697341460481/LIU32bII_400x400.jpg", Ahora Noticias Digital
+#EXTINF:-1 tvg-logo="http://static-ahn.mdstrm.com/_common/images/branding/sec-12_ahoranoticias_01.png", Ahora Noticias Digital
 http://mdstrm.com/live-stream-playlist/561430ae330428c223687e1e.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/aslyRHq.png" group-title="Television Chilena", T13 Movil
 http://cdn.ztreaming.com/t13vivo3/t13vivo3.m3u8
@@ -22,13 +22,17 @@ http://cdn.ztreaming.com/t13vivo3/t13vivo3.m3u8
 https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
 #EXTINF:-1 tvg-logo="http://forounivers.com/uploads/monthly_2017_07/large_ucv3.png.d25e1cef69d2d0ad5a3b0efdb082f9a8.png", UCV3
 http://wow2.cl.digitalproserver.com/ucvtv2/ucvtv2vivo/ucvtv2.smil/playlist.m3u8
-#EXTINF:-1, Limo TVN
+#EXTINF:-1 tvg-logo="http://www.tvn.cl/incoming/article1455207.ece/BINARY/limo_logo1.png", Limo TVN
 http://mdstrm.com/live-stream-playlist/58cc0bf22d212a64177fddb1.m3u8
-#EXTINF:-1, CDO
+#EXTINF:-1 tvg-logo="https://ulango.tv/uploads/channels/63346/logo_cdo%20premium.png", CDO
 http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
 
+#EXTINF:-1, VTV
+http://cdn.streamingmedia.cl:1935/live/vtvvina/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://alvaromiguieles.files.wordpress.com/2012/05/475140_10150594533767204_637551787_o.jpg", Canal 9
 http://unlimited2-cl.dps.live/c9/c9.smil/playlist.m3u8
+#EXTINF:-1, Contivision
+http://wow2.cl.digitalproserver.com/contivisionhd/contivisionhdvivo/contivisionhd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/9c/75/9c75606d3a6daafb02d1342c012ba436.jpg", MaximaTV
 http://190.107.176.55:1935/live/maxima-fm/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.rapifutbol.tv/javax.faces.resource/dynamiccontent.properties.jsf;jsessionid=Tg0mHwQ-dV-WrpuG+64nm-7E.undefined?ln=primefaces&pfdrid=H6AojLbKHXAw5VxJc9SUY69uDesOzTvP&pfdrt=sc&id=1419&pfdrid_c=false&uid=60802891-8b24-4c9a-89b0-57dc20ef21a3", FM Hot
