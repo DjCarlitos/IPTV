@@ -34,11 +34,11 @@ http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8?sd=10&rebase=o
 
 #EXTINF:-1, Mega
 http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/509064688550694912/WY6A_PqH.jpeg", Neox HD
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/509064688550694912/WY6A_PqH.jpeg", Neox
 http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
 #EXTINF:-1, NOVA
 http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_4_av-b.m3u8?sd=10&rebase=o
-#EXTINF:-1 tvg-logo="http://www.vertele.com/files/2015/11/atreserieslogo.jpg", ATRESERIES HD
+#EXTINF:-1 tvg-logo="http://www.vertele.com/files/2015/11/atreserieslogo.jpg", ATRESERIES
 http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
 #EXTINF:-1, Divinity
 http://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
@@ -151,7 +151,7 @@ http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 http://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
 #EXTINF:-1 tvg-logo="http://www.isv.net/logos/arirangtv.png", Arirang
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:0 tvg-logo="http://vegasat.ru/imgs/1443652102.png", RT Docu HD
+#EXTINF:0 tvg-logo="http://vegasat.ru/imgs/1443652102.png", RT Docu
 https://secure-streams.akamaized.net/rt-doc/index.m3u8
 
 #EXTINF:0, ABC Newscast
@@ -163,46 +163,46 @@ http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 #EXTINF:0, Weather Channel
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/The_Olympic_Channel_Logo_2016.svg/2000px-The_Olympic_Channel_Logo_2016.svg.png", Olympic Channel HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/The_Olympic_Channel_Logo_2016.svg/2000px-The_Olympic_Channel_Logo_2016.svg.png", Olympic Channel
 http://ocs-live.hls.adaptive.level3.net/ocs/channel01/NBC_OCS1_VIDEO_7_6064000.m3u8
-#EXTINF:-1 tvg-logo="https://store-images.s-microsoft.com/image/apps.30403.9007199266409318.d626046d-d9f7-44ae-a206-ad54381155d8.ffe71bd8-ce25-4cee-a4b6-be6108abfedd?w=180&h=180&q=60", NFL Now HD
+#EXTINF:-1 tvg-logo="https://store-images.s-microsoft.com/image/apps.30403.9007199266409318.d626046d-d9f7-44ae-a206-ad54381155d8.ffe71bd8-ce25-4cee-a4b6-be6108abfedd?w=180&h=180&q=60", NFL Now
 http://svglive3-event.level3.nfl.com/nflent3/live/now/NFLNOW.m3u8
 #EXTINF:-1 tvg-logo="http://channelpear.com/images/media/5249.jpg", MLB Network
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
 
-#EXTINF:0 tvg-logo="http://static.pac-12.com/images/logos/pac-12-network-logo.png", PAC-12 Network HD
+#EXTINF:0 tvg-logo="http://static.pac-12.com/images/logos/pac-12-network-logo.png", PAC-12 Network
 http://xrxs.net/video/live-p12netw-4728.m3u8
-#EXTINF:0 tvg-logo="http://static.pac-12.com/images/logos/pac-12-arizona-logo.png", PAC-12 Arizona HD
+#EXTINF:0 tvg-logo="http://static.pac-12.com/images/logos/pac-12-arizona-logo.png", PAC-12 Arizona
 http://xrxs.net/video/live-p12ariz-4728.m3u8
-#EXTINF:0 tvg-logo="http://static.pac-12.com/images/logos/pac-12-bayarea-logo.png", PAC-12 Bay Area HD
+#EXTINF:0 tvg-logo="http://static.pac-12.com/images/logos/pac-12-bayarea-logo.png", PAC-12 Bay Area
 http://xrxs.net/video/live-p12baya-4728.m3u8
-#EXTINF:0 tvg-logo="http://static.pac-12.com/images/logos/pac-12-losangeles-logo.png", PAC-12 Los Angeles HD
+#EXTINF:0 tvg-logo="http://static.pac-12.com/images/logos/pac-12-losangeles-logo.png", PAC-12 Los Angeles
 http://xrxs.net/video/live-p12losa-4728.m3u8
-#EXTINF:0 tvg-logo="http://static.pac-12.com/images/logos/pac-12-mountain-logo.png", PAC-12 Mountain HD
+#EXTINF:0 tvg-logo="http://static.pac-12.com/images/logos/pac-12-mountain-logo.png", PAC-12 Mountain
 http://xrxs.net/video/live-p12moun-4728.m3u8
-#EXTINF:0 tvg-logo="http://static.pac-12.com/images/logos/pac-12-oregon-logo.png", PAC-12 Oregon HD
+#EXTINF:0 tvg-logo="http://static.pac-12.com/images/logos/pac-12-oregon-logo.png", PAC-12 Oregon
 http://xrxs.net/video/live-p12oreg-4728.m3u8
-#EXTINF:0 tvg-logo="http://static.pac-12.com/images/logos/pac-12-washington-logo.png", PAC-12 Washington HD
+#EXTINF:0 tvg-logo="http://static.pac-12.com/images/logos/pac-12-washington-logo.png", PAC-12 Washington
 http://xrxs.net/video/live-p12wash-4728.m3u8
 
-#EXTINF: -1 tvg-logo="http://www.rapifutbol.tv/javax.faces.resource/dynamiccontent.properties.jsf;jsessionid=cH2pf1HK0zPRmZJ1IE8VnWkO.undefined?ln=primefaces&pfdrid=H6AojLbKHXAw5VxJc9SUY69uDesOzTvP&pfdrt=sc&id=567&pfdrid_c=true", ADSports 1 HD
+#EXTINF: -1 tvg-logo="http://www.rapifutbol.tv/javax.faces.resource/dynamiccontent.properties.jsf;jsessionid=cH2pf1HK0zPRmZJ1IE8VnWkO.undefined?ln=primefaces&pfdrid=H6AojLbKHXAw5VxJc9SUY69uDesOzTvP&pfdrt=sc&id=567&pfdrid_c=true", ADSports 1
 http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8?Compartilhandolink
-#EXTINF: -1 tvg-logo="http://www.rapifutbol.tv/javax.faces.resource/dynamiccontent.properties.jsf;jsessionid=cH2pf1HK0zPRmZJ1IE8VnWkO.undefined?ln=primefaces&pfdrid=H6AojLbKHXAw5VxJc9SUY69uDesOzTvP&pfdrt=sc&id=567&pfdrid_c=true", ADSports 2 HD
+#EXTINF: -1 tvg-logo="http://www.rapifutbol.tv/javax.faces.resource/dynamiccontent.properties.jsf;jsessionid=cH2pf1HK0zPRmZJ1IE8VnWkO.undefined?ln=primefaces&pfdrid=H6AojLbKHXAw5VxJc9SUY69uDesOzTvP&pfdrt=sc&id=567&pfdrid_c=true", ADSports 2
 http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8?Compartilhandolink
 
-#EXTINF:0, NDR HD
+#EXTINF:0, NDR
 http://ndr_fs-lh.akamaihd.net/i/ndrfs_nds@119224/index_3776_av-b.m3u8
-#EXTINF:0 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/9/9a/WDR_Fernsehen_HD.png/revision/latest?cb=20141110201119", WDR HD
+#EXTINF:0 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/9/9a/WDR_Fernsehen_HD.png/revision/latest?cb=20141110201119", WDR
 http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/master.m3u8
-#EXTINF:0 tvg-logo="http://oklivetv.com/wp-content/uploads/2015/05/trt1hd_b.png",TRT 1 HD
+#EXTINF:0 tvg-logo="http://oklivetv.com/wp-content/uploads/2015/05/trt1hd_b.png",TRT 1
 http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/Trt_cocuk.png",TRT COCUK HD
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/Trt_cocuk.png",TRT COCUK
 http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
-#EXTINF:0 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/f/f6/Trt-haberde-yeni-donem-10l.png/revision/latest?cb=20131119031433",TRT HABER HD
+#EXTINF:0 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/f/f6/Trt-haberde-yeni-donem-10l.png/revision/latest?cb=20131119031433",TRT HABER
 http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/master.m3u8
-#EXTINF:-1 tvg-logo="http://a527.phobos.apple.com/us/r30/Purple4/v4/df/a2/ef/dfa2efe2-80ac-d71b-fa38-b8c571bd5d56/mzl.vgzcwxer.png", Dubai One HD
+#EXTINF:-1 tvg-logo="http://a527.phobos.apple.com/us/r30/Purple4/v4/df/a2/ef/dfa2efe2-80ac-d71b-fa38-b8c571bd5d56/mzl.vgzcwxer.png", Dubai One
 http://dmivll.mangomolo.com/dubaione/smil:dubaione.smil/master.m3u8
-#EXTINF:-1 tvg-logo="https://superrepo.org/static/images/icons/original/xplugin.video.dubaitv.png.pagespeed.ic.7Zf1xyDRLq.png", Dubai TV HD
+#EXTINF:-1 tvg-logo="https://superrepo.org/static/images/icons/original/xplugin.video.dubaitv.png.pagespeed.ic.7Zf1xyDRLq.png", Dubai TV
 http://dmi.mangomolo.com:1935/dubaitv/smil:dubaitv.smil/master.m3u8
 
 #EXTINF:-1, Rai Movie
@@ -214,9 +214,9 @@ http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/index_1200_av-b.m3u8
 #EXTINF:-1 tvg-logo="http://www.tv-in-diretta.it/uploads/channels/9057_6666.png", Rai Premium
 http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1200_av-p.m3u8
 
-#EXTINF:0 tvg-logo="https://photos.prnewswire.com/prnvar/20150526/219576LOGO" group-title="Adultos", JASMIN.TV HD
+#EXTINF:0 tvg-logo="https://photos.prnewswire.com/prnvar/20150526/219576LOGO" group-title="Adultos", JASMIN.TV
 rtmp://109.71.162.112:1935/live/sd.jasminchannel.stream
-#EXTINF:-1 group-title="Adultos", Miami TV HD
+#EXTINF:-1 group-title="Adultos", Miami TV
 http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8?
 #EXTINF:-1 tvg-logo="https://0.s3.envato.com/files/109789205/newVISITX.jpg" group-title="Adultos", Visit-X TV
 http://stream.visit-x.tv/vxtv/live/playlist.m3u8?
