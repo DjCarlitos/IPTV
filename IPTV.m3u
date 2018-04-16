@@ -243,3 +243,78 @@ http://de-origin-live.3qsdn.com:1935/2346/Ct6zG7Nrj3v2JxD/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/Logo_14_transp_claim.png", Fundorado
 http://streaming.fundorado.com/fundoradotv/live.stream/playlist.m3u8
 
+#EXTINF:-1, tvg-logo="MCGNAMK.png" group-title="Canales de Musica", Music Choice Alternative | HD
+https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/MC122/chunklist.m3u8
+
+#EXTINF:-1, tvg-logo="MCGNAMK.png" group-title="Canales de Musica", Music Choice Brits + Hits | HD
+https://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC143/chunklist.m3u8
+
+#EXTINF:-1, tvg-logo="MCGNAMK.png" group-title="Canales de Musica", Music Choice Dance | HD
+https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/MC127/chunklist.m3u8
+
+#EXTINF:-1, tvg-logo="MCGNAMK.png" group-title="Canales de Musica", Music Choice Hip-Hop And R&B | HD
+https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/MC106/chunklist.m3u8
+
+#EXTINF:-1, tvg-logo="MCGNAMK.png" group-title="Canales de Musica", Music Choice Hit | HD
+https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/MC100/chunklist.m3u8
+
+#EXTINF:-1, tvg-logo="MCGNAMK.png" group-title="Canales de Musica", Music Choice Indie | HD
+https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/MC129/chunklist.m3u8
+
+#EXTINF:-1, tvg-logo="MCGNAMK.png" group-title="Canales de Musica", Music Choice Metal | HD
+https://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC139/chunklist.m3u8
+
+#EXTINF:-1, tvg-logo="MCGNAMK.png" group-title="Canales de Musica", Music Choice Pop & Country | HD
+https://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC132/chunklist.m3u8
+
+#EXTINF:-1, tvg-logo="MCGNAMK.png" group-title="Canales de Musica", Music Choice Pop Hits | HD
+https://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC133/chunklist.m3u8
+
+#EXTINF:-1, tvg-logo="MCGNAMK.png" group-title="Canales de Musica", Music Choice R&B Soul | HD
+https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/MC124/chunklist.m3u8
+
+#EXTINF:-1, tvg-logo="MCGNAMK.png" group-title="Canales de Musica", Music Choice Rap | HD
+https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/MC125/chunklist.m3u8
+
+#EXTINF:-1, tvg-logo="MCGNAMK.png" group-title="Canales de Musica", Music Choice Rap 2K | HD
+https://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC141/chunklist.m3u8
+
+#EXTINF:-1, tvg-logo="MCGNAMK.png" group-title="Canales de Musica", Music Choice Rock | HD
+https://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC138/chunklist.m3u8
+
+#EXTINF:-1, tvg-logo="MCGNAMK.png" group-title="Canales de Musica", Music Choice Today | HD
+https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/MC121/chunklist.m3u8
+
+#EXTINF:-1, tvg-logo="MCGNAMK.png" group-title="Canales de Musica", Music Choice 90 | HD
+https://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC140/chunklist.m3u8
+
+#EXTINF:-1, tvg-logo="MCGNAMK.png" group-title="Canales de Musica", Music Choice Throwback Jamz | HD
+https://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC142/chunklist.m3u8
+
+#EXTINF:-1, tvg-logo="MCGNAMK.png" group-title="Canales de Musica", Music Choice Y2K | HD
+https://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC145/chunklist.m3u8
+
+#EXTINF:-1, tvg-logo="MCGNAMK.png" group-title="Canales de Musica", Music Choice | HD
+https://edge.music-choice-play-chainb1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+
+#EXTINF:-1, tvg-logo="MCGNAMK.png" group-title="Canales de Musica", Music Choice Mexicana | HD
+https://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC131/chunklist.m3u8
+
+#EXTINF:-1, tvg-logo="MCGNAMK.png" group-title="Canales de Musica", Music Choice Musica Urbana | HD
+https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/MC128/chunklist.m3u8
+
+#EXTINF:-1, tvg-logo="MCGNAMK.png" group-title="Canales de Musica", Music Choice Pop Latino | HD
+https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/MC123/chunklist.m3u8
+
+#EXTINF:-1, tvg-logo="MCGNAMK.png" group-title="Canales de Musica", Music Choice Tropicales | HD
+https://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC137/chunklist.m3u8
+
+#EXTINF:-1, tvg-logo="MCGNAMK.png" group-title="Canales de Musica", Music Choice Teen Beats | HD
+https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/MC118/chunklist.m3u8
+
+#EXTINF:-1, tvg-logo="MCGNAMK.png" group-title="Canales de Musica", Music Choice Kidz Only | HD
+https://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC130/chunklist.m3u8
+
+#EXTINF:-1, tvg-logo="MCGNAMK.png" group-title="Canales de Musica", Music Choice Toddler Tunes | HD
+https://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC144/chunklist.m3u8
+
