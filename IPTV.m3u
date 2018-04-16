@@ -18,12 +18,14 @@ http://mdstrm.com/live-stream-playlist/561430ae330428c223687e1e.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/aslyRHq.png" group-title="Television Chilena", T13 Movil
 http://cdn.ztreaming.com/t13vivo3/t13vivo3.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/TVChile_logo_2016.png", TV Chile
-https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
 #EXTINF:-1 tvg-logo="http://forounivers.com/uploads/monthly_2017_07/large_ucv3.png.d25e1cef69d2d0ad5a3b0efdb082f9a8.png", UCV3
 http://wow2.cl.digitalproserver.com/ucvtv2/ucvtv2vivo/ucvtv2.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.tvn.cl/incoming/article1455207.ece/BINARY/limo_logo1.png", Limo TVN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/TVChile_logo_2016.png", TV Chile
+https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
+#EXTINF:-1, TVN Musica
 http://mdstrm.com/live-stream-playlist/58cc0bf22d212a64177fddb1.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvn.cl/incoming/article1455207.ece/BINARY/limo_logo1.png", TVN de Culto
+http://mdstrm.com/live-stream-playlist/591f67a4232da1260ac8c950.m3u8
 #EXTINF:-1 tvg-logo="https://ulango.tv/uploads/channels/63346/logo_cdo%20premium.png", CDO
 http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
 
@@ -36,7 +38,7 @@ http://wow2.cl.digitalproserver.com/contivisionhd/contivisionhdvivo/contivisionh
 #EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/9c/75/9c75606d3a6daafb02d1342c012ba436.jpg", MaximaTV
 http://190.107.176.55:1935/live/maxima-fm/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.rapifutbol.tv/javax.faces.resource/dynamiccontent.properties.jsf;jsessionid=Tg0mHwQ-dV-WrpuG+64nm-7E.undefined?ln=primefaces&pfdrid=H6AojLbKHXAw5VxJc9SUY69uDesOzTvP&pfdrt=sc&id=1419&pfdrid_c=false&uid=60802891-8b24-4c9a-89b0-57dc20ef21a3", FM Hot
-http://evo.eltelon.com:1935/live/fm-hot-tv/playlist.m3u8
+http://edge1.cl.grupoz.cl/fmhot/smil:live.smil/playlist.m3u8
 
 #EXTINF:-1, Antena 3
 http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8?sd=10&rebase=on
@@ -182,26 +184,64 @@ http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/The_Olympic_Channel_Logo_2016.svg/2000px-The_Olympic_Channel_Logo_2016.svg.png", Olympic Channel
-http://ocs-live.hls.adaptive.level3.net/ocs/channel01/NBC_OCS1_VIDEO_7_6064000.m3u8
+https://live.olympicchannel.com/ocs/channel01b/master.m3u8
 #EXTINF:-1 tvg-logo="https://store-images.s-microsoft.com/image/apps.30403.9007199266409318.d626046d-d9f7-44ae-a206-ad54381155d8.ffe71bd8-ce25-4cee-a4b6-be6108abfedd?w=180&h=180&q=60", NFL Now
-http://svglive3-event.level3.nfl.com/nflent3/live/now/NFLNOW.m3u8
+https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_4500k.m3u8
 #EXTINF:-1 tvg-logo="http://channelpear.com/images/media/5249.jpg", MLB Network
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+#EXTINF:-1, tvg-logo="7tmZnMy.png" group-title="Canales de Deportes", Viasat Sport | SD
+http://persik.by/stream/2944/263250/10249.m3u8
 
 #EXTINF:0 tvg-logo="http://static.pac-12.com/images/logos/pac-12-network-logo.png", PAC-12 Network
 http://xrxs.net/video/live-p12netw-4728.m3u8
 #EXTINF:0 tvg-logo="http://static.pac-12.com/images/logos/pac-12-arizona-logo.png", PAC-12 Arizona
-http://xrxs.net/video/live-p12ariz-4728.m3u8
+http://p12a-lh.akamaihd.net/i/arizona_delivery@199730/master.m3u8
 #EXTINF:0 tvg-logo="http://static.pac-12.com/images/logos/pac-12-bayarea-logo.png", PAC-12 Bay Area
-http://xrxs.net/video/live-p12baya-4728.m3u8
+http://p12b-lh.akamaihd.net/i/bayarea_delivery@429334/master.m3u8
 #EXTINF:0 tvg-logo="http://static.pac-12.com/images/logos/pac-12-losangeles-logo.png", PAC-12 Los Angeles
-http://xrxs.net/video/live-p12losa-4728.m3u8
+http://p12l-lh.akamaihd.net/i/la_delivery@425541/master.m3u8
 #EXTINF:0 tvg-logo="http://static.pac-12.com/images/logos/pac-12-mountain-logo.png", PAC-12 Mountain
-http://xrxs.net/video/live-p12moun-4728.m3u8
+http://p12m-lh.akamaihd.net/i/mountain_delivery@428912/master.m3u8
 #EXTINF:0 tvg-logo="http://static.pac-12.com/images/logos/pac-12-oregon-logo.png", PAC-12 Oregon
-http://xrxs.net/video/live-p12oreg-4728.m3u8
+http://p12o-lh.akamaihd.net/i/oregon_delivery@103261/master.m3u8
 #EXTINF:0 tvg-logo="http://static.pac-12.com/images/logos/pac-12-washington-logo.png", PAC-12 Washington
-http://xrxs.net/video/live-p12wash-4728.m3u8
+http://p12w-lh.akamaihd.net/i/washington_delivery@426584/master.m3u8
+
+#EXTINF:-1, tvg-logo="IU8OrKh.png" group-title="Canales de Deportes", NBC Golf | HD
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
+
+#EXTINF:-1, tvg-logo="ICm1kVG.png" group-title="Canales de Deportes", Fox Sports News (Australia) | HD
+http://iptv.matthuisman.nz/au/Sydney/tv.fox.sports.news.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+
+#EXTINF:-1, tvg-logo="VTeboaN.png" group-title="Canales de Deportes", Bein Sports 1 | FHD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/566/index.m3u8
+
+#EXTINF:-1, tvg-logo="VTeboaN.png" group-title="Canales de Deportes", Bein Sports 2 | FHD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/574/index.m3u8
+
+#EXTINF:-1, tvg-logo="UpqhqzL.jpg" group-title="Canales de Deportes", La Liga TV | FHD
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/581/index.m3u8
+
+#EXTINF:-1, tvg-logo="fUKODzu.png" group-title="Canales de Deportes", Movistar Futbol | FHD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/575/index.m3u8
+
+#EXTINF:-1, tvg-logo="RvUxWgn.png" group-title="Canales de Deportes",  Movistar MotoGP | FHD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/613/index.m3u8
+
+#EXTINF:-1, tvg-logo="DnTCqMT.png" group-title="Canales de Deportes", Movistar Golf | FHD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/569/index.m3u8
+
+#EXTINF:-1, tvg-logo="MuXjC6K.png" group-title="Canales de Deportes", Movistar Formula 1 | FHD
+http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/612/index.m3u8
+
+#EXTINF:-1, tvg-logo="jPW4CkF.png" group-title="Canales de Deportes", Eurosport 1 | HD
+http://65.254.55.10:4000/live/197/197.m3u8
+
+#EXTINF:-1, tvg-logo="jPW4CkF.png" group-title="Canales de Deportes", Eurosport 1 (Alt) | FHD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/159/index.m3u8
+
+#EXTINF:-1, tvg-logo="jPW4CkF.png" group-title="Canales de Deportes", Eurosport 2 | FHD
+http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/77/index.m3u8
 
 #EXTINF: -1 tvg-logo="http://www.rapifutbol.tv/javax.faces.resource/dynamiccontent.properties.jsf;jsessionid=cH2pf1HK0zPRmZJ1IE8VnWkO.undefined?ln=primefaces&pfdrid=H6AojLbKHXAw5VxJc9SUY69uDesOzTvP&pfdrt=sc&id=567&pfdrid_c=true", ADSports 1
 http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8?Compartilhandolink
