@@ -59,14 +59,8 @@ http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_4_av-b.m3u8?sd=10&r
 http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
 #EXTINF:-1, Divinity
 http://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
-#EXTINF:-1, Energy
-http://mdslivehls-i.akamaihd.net/hls/live/571649/energy/bitrate_4.m3u8
-#EXTINF:-1, Bemad
-http://mdslivehls-i.akamaihd.net/hls/live/571646/bemad/bitrate_4.m3u8
 #EXTINF:-1, FDF
 https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
-#EXTINF:-1, Boing
-http://mdslivehls-i.akamaihd.net/hls/live/571647/boing/bitrate_4.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.rapifutbol.tv/javax.faces.resource/dynamiccontent.properties.jsf;jsessionid=ck31PE3mscl4KxBcqgDhVQgu.undefined?ln=primefaces&pfdrid=H6AojLbKHXAw5VxJc9SUY69uDesOzTvP&pfdrt=sc&id=1448&pfdrid_c=true", Trailer TV
 http://evo.eltelon.com:1935/trailertv/smil:trailertv.smil/playlist.m3u8
@@ -75,16 +69,6 @@ http://evo.eltelon.com:1935/trailertvkids/smil:trailertvkids.smil/playlist.m3u8
 #EXTINF:-1, FTV
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.radios-argentinas.com/imagenes/logo_america_tv.jpg", America TV
-http://prepublish.f.qaotic.net/epa/ngrp:americatvlive-100056_all/Playlist.m3u8?sense=true|Referer=http://vmf.edge-apps.net
-#EXTINF:-1 tvg-logo="XQLIPxl.png" group-title="Canales Argentinos", Telefe
-http://ar.watcha.live/ch6/hi.m3u8|User-agent=iPhone
-#EXTINF:-1 tvg-logo="qzpwloD.png" group-title="Canales Argentinos", El Trece
-http://ar.watcha.live/ch7/hi.m3u8|User-agent=iPhone
-
-http://prepublish.f.qaotic.net/epa/ngrp:americatvlive-100056_all/Playlist.m3u8?sense=true|Referer=http://vmf.edge-apps.net
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.rpctv.com/header_logo.png" group-title="PANAMA",RPC TV
-http://cdnlive.medcom.com.pa/medcom-livestream/rpc-live/rpc-live/streamout-720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://www.canalrcn.com/sites/default/files/logo-rcn_10_1.png", RCN
 https://mdstrm.com/live-stream-playlist_900/58a36704896500b908cf1abe.m3u8
 #EXTINF:-1 tvg-logo="http://www.gruposalinas.com/images/nv/Azteca_04.png" group-title="Canales Mexicanos", Azteca 13
@@ -106,18 +90,15 @@ http://evo.eltelon.com:1935/panderocl/smil:panderocl.smil/playlist.m3u8
 http://evo.eltelon.com:1935/panderotop/smil:panderotop.smil/playlist.m3u8
 
 #EXTINF:-1, Gufo Chile
-https://wowzaprod4-i.akamaihd.net/hls/live/253920/8be6db2d/playlist.m3u8?laope
+https://wowzaprod4-i.akamaihd.net/hls/live/253920/8be6db2d_1_540/chunklist.m3u8?laope
 #EXTINF:-1, Gufo Hits
-https://wowzaprod4-i.akamaihd.net/hls/live/253920/fc13c4a3/playlist.m3u8?laope
+https://wowzaprod4-i.akamaihd.net/hls/live/253920/fc13c4a3_1_540/chunklist.m3u8?laope
 #EXTINF:-1, Gufo Rock Latino
 https://wowzaprod4-i.akamaihd.net/hls/live/253920/ce9bebcc_1_540/chunklist.m3u8?laope
 #EXTINF:-1, Gufo Indie
 https://wowzaprod4-i.akamaihd.net/hls/live/253920/d3daa538_1_540/chunklist.m3u8?laope
 #EXTINF:-1, Gufo Retro
-https://wowzaprod4-i.akamaihd.net/hls/live/253920/148a6ff0_1_270/chunklist.m3u8?laope
-
-#EXTINF:-1, Music Vox TV Old School
-https://stream.smcdn.pl/vox-t/vox_720p/chunklist.m3u8
+https://wowzaprod4-i.akamaihd.net/hls/live/253920/148a6ff0_1_540/chunklist.m3u8?laope
 
 #EXTINF:-1 tvg-logo="http://www.streamytv.net/wp-content/uploads/2015/11/Djing-TV.jpg", Djing
 http://www.djing.com/tv/05.m3u8
@@ -154,6 +135,8 @@ http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8
 #EXTINF:-1 tvg-logo="http://www.freeetv.com/images/03_logo/Retro_Czech_Republic.jpg", Retro
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 
+#EXTINF:0, ABC News
+http://abclive.abcnews.com/i/abc_live4@136330/index_4000_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="http://www.tvtechnology.com/Portals/0/CBSN%20logo%20thumbnail.png" group-title="Noticias", CBS News
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_2200_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="http://yousenditcc.s3.amazonaws.com/networks/MSNBC_Rebrand_0w.png" group-title="Noticias", MSNBC
@@ -174,13 +157,11 @@ http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist
 #EXTINF:0 tvg-logo="http://vegasat.ru/imgs/1443652102.png", RT Docu
 https://secure-streams.akamaized.net/rt-doc/index.m3u8
 
-#EXTINF:0, ABC Newscast
-http://abclive.abcnews.com/i/abc_live4@136330/index_4000_av-p.m3u8?sd=10&rebase=on
 #EXTINF:0, Bloomberg
 http://cdn3.videos.bloomberg.com/btv/us/master.m3u8?b?b*t$
 #EXTINF:-1 tvg-logo="https://s.w-x.co/240x180_twc_default.png", Weather Channel
 http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
-#EXTINF:0, Weather Channel
+#EXTINF:0, Weather Nation
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/The_Olympic_Channel_Logo_2016.svg/2000px-The_Olympic_Channel_Logo_2016.svg.png", Olympic Channel
@@ -189,11 +170,7 @@ https://live.olympicchannel.com/ocs/channel01b/master.m3u8
 https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_4500k.m3u8
 #EXTINF:-1 tvg-logo="http://channelpear.com/images/media/5249.jpg", MLB Network
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
-#EXTINF:-1, tvg-logo="7tmZnMy.png" group-title="Canales de Deportes", Viasat Sport | SD
-http://persik.by/stream/2944/263250/10249.m3u8
 
-#EXTINF:0 tvg-logo="http://static.pac-12.com/images/logos/pac-12-network-logo.png", PAC-12 Network
-http://xrxs.net/video/live-p12netw-4728.m3u8
 #EXTINF:0 tvg-logo="http://static.pac-12.com/images/logos/pac-12-arizona-logo.png", PAC-12 Arizona
 http://p12a-lh.akamaihd.net/i/arizona_delivery@199730/master.m3u8
 #EXTINF:0 tvg-logo="http://static.pac-12.com/images/logos/pac-12-bayarea-logo.png", PAC-12 Bay Area
@@ -207,40 +184,23 @@ http://p12o-lh.akamaihd.net/i/oregon_delivery@103261/master.m3u8
 #EXTINF:0 tvg-logo="http://static.pac-12.com/images/logos/pac-12-washington-logo.png", PAC-12 Washington
 http://p12w-lh.akamaihd.net/i/washington_delivery@426584/master.m3u8
 
-#EXTINF:-1, tvg-logo="IU8OrKh.png" group-title="Canales de Deportes", NBC Golf | HD
-http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
-
-#EXTINF:-1, tvg-logo="ICm1kVG.png" group-title="Canales de Deportes", Fox Sports News (Australia) | HD
-http://iptv.matthuisman.nz/au/Sydney/tv.fox.sports.news.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
-
-#EXTINF:-1, tvg-logo="VTeboaN.png" group-title="Canales de Deportes", Bein Sports 1 | FHD
+#EXTINF:-1, Bein Sports 1
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/566/index.m3u8
-
-#EXTINF:-1, tvg-logo="VTeboaN.png" group-title="Canales de Deportes", Bein Sports 2 | FHD
+#EXTINF:-1, Bein Sports 2
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/574/index.m3u8
-
-#EXTINF:-1, tvg-logo="UpqhqzL.jpg" group-title="Canales de Deportes", La Liga TV | FHD
+#EXTINF:-1, La Liga TV
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/581/index.m3u8
-
-#EXTINF:-1, tvg-logo="fUKODzu.png" group-title="Canales de Deportes", Movistar Futbol | FHD
+#EXTINF:-1, Movistar Futbol
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/575/index.m3u8
-
-#EXTINF:-1, tvg-logo="RvUxWgn.png" group-title="Canales de Deportes",  Movistar MotoGP | FHD
+#EXTINF:-1, Movistar MotoGP
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/613/index.m3u8
-
-#EXTINF:-1, tvg-logo="DnTCqMT.png" group-title="Canales de Deportes", Movistar Golf | FHD
+#EXTINF:-1, Movistar Golf
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/569/index.m3u8
-
-#EXTINF:-1, tvg-logo="MuXjC6K.png" group-title="Canales de Deportes", Movistar Formula 1 | FHD
+#EXTINF:-1, Movistar Formula 1
 http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/612/index.m3u8
-
-#EXTINF:-1, tvg-logo="jPW4CkF.png" group-title="Canales de Deportes", Eurosport 1 | HD
-http://65.254.55.10:4000/live/197/197.m3u8
-
-#EXTINF:-1, tvg-logo="jPW4CkF.png" group-title="Canales de Deportes", Eurosport 1 (Alt) | FHD
+#EXTINF:-1, Eurosport 1
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/159/index.m3u8
-
-#EXTINF:-1, tvg-logo="jPW4CkF.png" group-title="Canales de Deportes", Eurosport 2 | FHD
+#EXTINF:-1, Eurosport 2
 http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/77/index.m3u8
 
 #EXTINF: -1 tvg-logo="http://www.rapifutbol.tv/javax.faces.resource/dynamiccontent.properties.jsf;jsessionid=cH2pf1HK0zPRmZJ1IE8VnWkO.undefined?ln=primefaces&pfdrid=H6AojLbKHXAw5VxJc9SUY69uDesOzTvP&pfdrt=sc&id=567&pfdrid_c=true", ADSports 1
