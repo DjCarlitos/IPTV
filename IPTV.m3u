@@ -86,7 +86,7 @@ http://wow2.cl.digitalproserver.com/contivisionmusica/contivisionmusicavivo/cont
 
 #EXTINF:-1, Pandero Music Chile
 http://evo.eltelon.com:1935/panderocl/smil:panderocl.smil/playlist.m3u8
-#EXTINF:-1, Pandero Music Top
+#EXTINF:-1 tvg-logo="http://images.eltelon.com/cache/media/4478/square_150x150-2.jpg", Pandero Music Top
 http://evo.eltelon.com:1935/panderotop/smil:panderotop.smil/playlist.m3u8
 
 #EXTINF:-1, Gufo Chile
@@ -318,7 +318,7 @@ https://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC130/chunkli
 #EXTINF:-1, tvg-logo="MCGNAMK.png" group-title="Canales de Musica", Music Choice Toddler Tunes
 https://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC144/chunklist.m3u8
 
-#EXTINF:-1, tvg-logo="uy91U7w.png" group-title="Canales de Noticias", Sky News | HD
+#EXTINF:-1, tvg-logo="uy91U7w.png" group-title="Canales de Noticias", Sky News
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/07.m3u8
 
 #EXTINF:-1, tvg-logo="8cnXJcu.png" group-title="Canales Miscelaneos", Red Bull TV | HD
