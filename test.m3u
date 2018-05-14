@@ -443,7 +443,7 @@ http://i.imgur.com/VWctVbq.mp4
 #EXTINF:-1 tvg-logo="BOlfl6W.png" group-title="Canales Brasileños", TV Brasil | SD
 http://ebcremuxlive-live.hls.adaptive.level3.net/manifests/ebcremuxlive-ebctvbrasil/live.m3u8
 
-#EXTINF:-1 tvg-logo="3Y9a7ri.png" group-title="Canales Brasileños", SBT | HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/SBT_logo.svg/1200px-SBT_logo.svg.png" group-title="Canales Brasileños", SBT
 http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="qUlN5e7.png" group-title="Canales Bolivianos", -[COLOR red]Canales Bolivianos[/COLOR]-
@@ -815,7 +815,7 @@ http://cdnlive.medcom.com.pa/medcom-livestream/rpc-live/playlist.m3u8
 #EXTINF:-1, tvg-logo="5fL6hEU.png" group-title="Canales Panameños", Telemetro | HD
 http://cdnlive.medcom.com.pa/medcom-livestream/tm-live/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="2Hk2zJQ.png" group-title="Canales Panameños", TVN Panama | HD
+#EXTINF:-1, tvg-logo="https://i1.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/TVN-Panama.png?fit=400%2C260" group-title="Canales Panameños", TVN Panama | HD
 https://cflive.live-delivery.ooyala.com/out/u/ezye7lz7hql35/107829/toaWp2YTE6Hpzo8bu4cDFPiloPhk9oIC/cn/342e43a0bc384c2f8f81652fa15f3949.m3u8?oosm=1
 
 #EXTINF:-1, tvg-logo="rRmG5kE.jpg" group-title="Canales Panameños", ECO | HD
@@ -2422,7 +2422,7 @@ http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/377/inde
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/145/index.m3u8
 #EXTINF:-1,BBC World News Europe
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/433/index.m3u8
-#EXTINF:-1,beIN LaLiga HD
+#EXTINF:-1 tvg-logo="https://s3-static-bein.s3.amazonaws.com/uploads/comun/img/logos/bein-laliga-md.png", beIN LaLiga
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/574/index.m3u8
 #EXTINF:-1,beIN Sports España HD
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/566/index.m3u8
