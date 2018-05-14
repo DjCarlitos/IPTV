@@ -39,6 +39,25 @@ http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
 https://mdstrm.com/live-stream-playlist_900/58a36704896500b908cf1abe.m3u8
 #EXTINF:-1, tvg-logo="https://i1.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/TVN-Panama.png?fit=400%2C260" group-title="Canales Panameños", TVN Panama
 https://cflive.live-delivery.ooyala.com/out/u/ezye7lz7hql35/107829/toaWp2YTE6Hpzo8bu4cDFPiloPhk9oIC/cn/342e43a0bc384c2f8f81652fa15f3949.m3u8?oosm=1
+#EXTINF:-1, Cuatro
+http://cuatro-mediaset-esp-live.secure.footprint.net/mediaset/cuatro/stream1/streamPlaylist.m3u8
+#EXTINF:-1, Telecinco
+http://telecinco-mediaset-esp-live.secure.footprint.net/mediaset/telecinco/stream1/streamPlaylist.m3u8
+
+#EXTINF:-1, Movistar Formula 1
+http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/612/index.m3u8
+#EXTINF:-1, Movistar MotoGP
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/613/index.m3u8
+#EXTINF:-1, Movistar Futbol
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/575/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Movistar_Golf.svg/1200px-Movistar_Golf.svg.png", Movistar Golf
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/569/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Movistar_DCine.svg/1200px-Movistar_DCine.svg.png", Movistar DCine
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/607/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Movistar_Acci%C3%B3n.svg/1200px-Movistar_Acci%C3%B3n.svg.png", Movistar Acción
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/605/index.m3u8
+
 
 
 
