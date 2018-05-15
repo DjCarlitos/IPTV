@@ -82,7 +82,7 @@ http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8?Compartilhandolink
 
 #EXTINF:-1 tvg-logo="http://yousenditcc.s3.amazonaws.com/networks/MSNBC_Rebrand_0w.png" group-title="Noticias", MSNBC
 http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/CBS_News_logo.svg/2794px-CBS_News_logo.svg.png" group-title="Noticias", CBS News
+#EXTINF:-1 tvg-logo="https://ohiocryo.com/wp-content/uploads/2015/08/cbs-news.png" group-title="Noticias", CBS News
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_2200_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="uy91U7w.png" group-title="Canales de Noticias", Sky News
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/07.m3u8
@@ -107,10 +107,10 @@ http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 #EXTINF:0 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51zTIXN1jCL.png", Weather Nation
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
 
-#EXTINF:-1, VH1 Classic
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/237/index.m3u8
 #EXTINF:-1, VH1
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/238/index.m3u8
+#EXTINF:-1, VH1 Classic
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/237/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://radioytvchile.com/wp-content/uploads/2017/11/PANDERO.jpg", Pandero Music Chile
 http://evo.eltelon.com:1935/panderocl/smil:panderocl.smil/playlist.m3u8
@@ -121,11 +121,9 @@ http://evo.eltelon.com:1935/panderotop/smil:panderotop.smil/playlist.m3u8
 https://wowzaprod4-i.akamaihd.net/hls/live/253920/8be6db2d_1_720/chunklist.m3u8?laope
 #EXTINF:-1 tvg-logo="http://www.rapifutbol.tv/javax.faces.resource/dynamiccontent.properties.jsf;jsessionid=cM77+durwuhGtDIzu-uPut7h.undefined?ln=primefaces&pfdrid=H6AojLbKHXAw5VxJc9SUY69uDesOzTvP&pfdrt=sc&id=7746&pfdrid_c=false&uid=e6b15525-1c28-4718-a653-a9942b88196a", Gufo Hits
 https://wowzaprod4-i.akamaihd.net/hls/live/253920/fc13c4a3_1_720/chunklist.m3u8?laope
-#EXTINF:-1, Gufo Rock Latino
-https://wowzaprod4-i.akamaihd.net/hls/live/253920/ce9bebcc_1_720/chunklist.m3u8?laope
-#EXTINF:-1, Gufo Indie
+#EXTINF:-1 tvg-logo="http://ulango.tv/uploads/channels/3784038/logo_gufo%20indies.png", Gufo Indie
 https://wowzaprod4-i.akamaihd.net/hls/live/253920/d3daa538_1_720/chunklist.m3u8?laope
-#EXTINF:-1, Gufo Retro
+#EXTINF:-1 tvg-logo="https://ulango.tv/uploads/channels/3784037/logo_gufo%20retro.png", Gufo Retro
 https://wowzaprod4-i.akamaihd.net/hls/live/253920/148a6ff0_1_720/chunklist.m3u8?laope
 
 #EXTINF:-1 tvg-logo="http://online-red.com/images/tv/one-hd.png", One
