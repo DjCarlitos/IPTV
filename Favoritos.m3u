@@ -106,10 +106,9 @@ https://secure-streams.akamaized.net/rt-doc/index.m3u8
 http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 #EXTINF:0 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51zTIXN1jCL.png", Weather Nation
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
-#EXTINF:-1, FTV
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://fotohost.playhard.by/img/2015-06/12/wocfbzt3kcr609l5qsf9141oc.png", Nuart TV
-http://playlist.onlybest.tv/ru/channel/3dfec4b56a6fbb4052ceb76274060617/264/index.m3u8
+
+#EXTINF:-1, VH1 Classic
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/237/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://radioytvchile.com/wp-content/uploads/2017/11/PANDERO.jpg", Pandero Music Chile
 http://evo.eltelon.com:1935/panderocl/smil:panderocl.smil/playlist.m3u8
@@ -126,6 +125,20 @@ https://wowzaprod4-i.akamaihd.net/hls/live/253920/ce9bebcc_1_720/chunklist.m3u8?
 https://wowzaprod4-i.akamaihd.net/hls/live/253920/d3daa538_1_720/chunklist.m3u8?laope
 #EXTINF:-1, Gufo Retro
 https://wowzaprod4-i.akamaihd.net/hls/live/253920/148a6ff0_1_720/chunklist.m3u8?laope
+
+#EXTINF:-1 tvg-logo="http://online-red.com/images/tv/one-hd.png", One
+http://rtmp.one.by:1300/
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/tRonseR.png" group-title="BELGIUM", NRJ Hits TV
+http://5.196.138.6:1935/live/nrjbelgique/chunklist_w1339281553.m3u8
+#EXTINF:0, Capital TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
+#EXTINF:-1, Heart TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
+
+#EXTINF:-1, FTV
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://fotohost.playhard.by/img/2015-06/12/wocfbzt3kcr609l5qsf9141oc.png", Nuart TV
+http://playlist.onlybest.tv/ru/channel/3dfec4b56a6fbb4052ceb76274060617/264/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/98/PRIVATE_TV.png/revision/latest/scale-to-width-down/200?cb=20150315153455", Private
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/354/index.m3u8
