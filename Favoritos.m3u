@@ -37,7 +37,7 @@ https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
 http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
 #EXTINF:-1 tvg-logo="http://www.canalrcn.com/sites/default/files/logo-rcn_10_1.png", RCN
 https://mdstrm.com/live-stream-playlist_900/58a36704896500b908cf1abe.m3u8
-#EXTINF:-1, tvg-logo="https://i1.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/TVN-Panama.png?fit=400%2C260" group-title="Canales Panameños", TVN Panama
+#EXTINF:-1 tvg-logo="https://i1.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/TVN-Panama.png?fit=400%2C260" group-title="Canales Panameños", TVN Panama
 https://cflive.live-delivery.ooyala.com/out/u/ezye7lz7hql35/107829/toaWp2YTE6Hpzo8bu4cDFPiloPhk9oIC/cn/342e43a0bc384c2f8f81652fa15f3949.m3u8?oosm=1
 #EXTINF:-1, Cuatro
 http://cuatro-mediaset-esp-live.secure.footprint.net/mediaset/cuatro/stream1/streamPlaylist.m3u8
@@ -65,9 +65,9 @@ http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/568/inde
 #EXTINF:-1, Viasat Sport
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/76/index.m3u8
 #EXTINF:-1, Eurosport 1
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/159/index.m3u8
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/160/index.m3u8
 #EXTINF:-1, Eurosport 2
-http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/77/index.m3u8
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/472/index.m3u8
 #EXTINF:-1, Sky Sport 1
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/724/index.m3u8
 #EXTINF:-1, Sky Sport 2
@@ -82,20 +82,20 @@ http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8?Compartilhandolink
 
 #EXTINF:-1 tvg-logo="http://yousenditcc.s3.amazonaws.com/networks/MSNBC_Rebrand_0w.png" group-title="Noticias", MSNBC
 http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8
-#EXTINF:-1 tvg-logo="http://www.tvtechnology.com/Portals/0/CBSN%20logo%20thumbnail.png" group-title="Noticias", CBS News
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/CBS_News_logo.svg/2794px-CBS_News_logo.svg.png" group-title="Noticias", CBS News
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_2200_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="uy91U7w.png" group-title="Canales de Noticias", Sky News
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/07.m3u8
-#EXTINF:-1 group-title="Noticias", RT News
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1200px-Russia-today-logo.svg.png", RT News
 https://secure-streams.akamaized.net/rt/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.aljazeera.com/mritems/assets/images/aj-logo-lg.png" group-title="Noticias", Al Jazeera
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index2073.m3u8
 #EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/4/4c/TRT_World.png/revision/latest?cb=20151105004712" group-title="Noticias", TRT World
 http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
-#EXTINF:-1 tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/419.png" group-title="Noticias", France 24
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="Noticias", France 24
 http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 
-#EXTINF:-1 tvg-logo="http://channelpear.com/images/media/80.jpg", NHK World
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1280px-NHK_World.svg.png", NHK World
 http://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
 #EXTINF:-1 tvg-logo="http://www.isv.net/logos/arirangtv.png", Arirang
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
@@ -104,22 +104,22 @@ https://secure-streams.akamaized.net/rt-doc/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://s.w-x.co/240x180_twc_default.png", Weather Channel
 http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
-#EXTINF:0, Weather Nation
+#EXTINF:0 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51zTIXN1jCL.png", Weather Nation
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
 #EXTINF:-1, FTV
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://fotohost.playhard.by/img/2015-06/12/wocfbzt3kcr609l5qsf9141oc.png", Nuart TV
 http://playlist.onlybest.tv/ru/channel/3dfec4b56a6fbb4052ceb76274060617/264/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.netx.bg/assets/channels/73.png", Private
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/98/PRIVATE_TV.png/revision/latest/scale-to-width-down/200?cb=20150315153455", Private
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/354/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.creativesatellite.co.uk/ebayimages/Cards/Adult%20Cards/Elite%20SCT/REDLIGHT%20HD%20LOGO.png", Redlight
 http://playlist.onlybest.tv/ru/channel/3dfec4b56a6fbb4052ceb76274060617/501/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.telekabel.pl/wp-content/uploads/2016/10/HustlerHD-logo.png", Hustler
 http://playlist.onlybest.tv/ru/channel/3dfec4b56a6fbb4052ceb76274060617/502/index.m3u8
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b6/Dorcel_TV.svg/revision/latest?cb=20101016165828", Dorcel TV
-http://playlist.onlybest.tv/ru/channel/3dfec4b56a6fbb4052ceb76274060617/851/index.m3u8
-#EXTINF:-1, Brazzers TV
+#EXTINF:-1, Playboy
+http://playlist.onlybest.tv/ru/channel/3dfec4b56a6fbb4052ceb76274060617/142/index.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/27/BRAZZERS_TV_2015.png/revision/latest?cb=20150309165828", Brazzers TV
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/346/index.m3u8
 #EXTINF:-1, Blue Hustler
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/268/index.m3u8
