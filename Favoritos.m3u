@@ -109,6 +109,8 @@ http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/f
 
 #EXTINF:-1, VH1 Classic
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/237/index.m3u8
+#EXTINF:-1, VH1
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/238/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://radioytvchile.com/wp-content/uploads/2017/11/PANDERO.jpg", Pandero Music Chile
 http://evo.eltelon.com:1935/panderocl/smil:panderocl.smil/playlist.m3u8
