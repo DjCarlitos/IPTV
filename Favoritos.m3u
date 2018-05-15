@@ -111,13 +111,29 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunk
 #EXTINF:-1 tvg-logo="http://fotohost.playhard.by/img/2015-06/12/wocfbzt3kcr609l5qsf9141oc.png", Nuart TV
 http://playlist.onlybest.tv/ru/channel/3dfec4b56a6fbb4052ceb76274060617/264/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://radioytvchile.com/wp-content/uploads/2017/11/PANDERO.jpg", Pandero Music Chile
+http://evo.eltelon.com:1935/panderocl/smil:panderocl.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://images.eltelon.com/cache/media/4478/square_150x150-2.jpg", Pandero Music Top
+http://evo.eltelon.com:1935/panderotop/smil:panderotop.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.rapifutbol.tv/javax.faces.resource/dynamiccontent.properties.jsf;jsessionid=tPPaOIDqm0gdGwOp53uHV1d0.undefined?ln=primefaces&pfdrid=H6AojLbKHXAw5VxJc9SUY69uDesOzTvP&pfdrt=sc&id=7748&pfdrid_c=true", Gufo Chile
+https://wowzaprod4-i.akamaihd.net/hls/live/253920/8be6db2d_1_720/chunklist.m3u8?laope
+#EXTINF:-1 tvg-logo="http://www.rapifutbol.tv/javax.faces.resource/dynamiccontent.properties.jsf;jsessionid=cM77+durwuhGtDIzu-uPut7h.undefined?ln=primefaces&pfdrid=H6AojLbKHXAw5VxJc9SUY69uDesOzTvP&pfdrt=sc&id=7746&pfdrid_c=false&uid=e6b15525-1c28-4718-a653-a9942b88196a", Gufo Hits
+https://wowzaprod4-i.akamaihd.net/hls/live/253920/fc13c4a3_1_720/chunklist.m3u8?laope
+#EXTINF:-1, Gufo Rock Latino
+https://wowzaprod4-i.akamaihd.net/hls/live/253920/ce9bebcc_1_720/chunklist.m3u8?laope
+#EXTINF:-1, Gufo Indie
+https://wowzaprod4-i.akamaihd.net/hls/live/253920/d3daa538_1_720/chunklist.m3u8?laope
+#EXTINF:-1, Gufo Retro
+https://wowzaprod4-i.akamaihd.net/hls/live/253920/148a6ff0_1_720/chunklist.m3u8?laope
+
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/98/PRIVATE_TV.png/revision/latest/scale-to-width-down/200?cb=20150315153455", Private
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/354/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.creativesatellite.co.uk/ebayimages/Cards/Adult%20Cards/Elite%20SCT/REDLIGHT%20HD%20LOGO.png", Redlight
 http://playlist.onlybest.tv/ru/channel/3dfec4b56a6fbb4052ceb76274060617/501/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.telekabel.pl/wp-content/uploads/2016/10/HustlerHD-logo.png", Hustler
 http://playlist.onlybest.tv/ru/channel/3dfec4b56a6fbb4052ceb76274060617/502/index.m3u8
-#EXTINF:-1, Playboy
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/P/Playboy_TV-logo-82E63BD182-seeklogo.com.png", Playboy TV
 http://playlist.onlybest.tv/ru/channel/3dfec4b56a6fbb4052ceb76274060617/142/index.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/27/BRAZZERS_TV_2015.png/revision/latest?cb=20150309165828", Brazzers TV
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/346/index.m3u8
